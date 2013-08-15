@@ -315,8 +315,8 @@ Indian - Telugu / Malayam Streams:
 </item>
 
 <item>
-<title>Zee TV 2</title>
-<link>rtmp://178.18.30.120/live playpath=tvzew swfUrl=http://www.ukcast.tv/player/player.swf live=true timeout=15 pageUrl=http://www.ukcast.tv/embed.php?u=tvzew&vw=600&vh=470</link>
+<title>Zee TV</title>
+<link>rtmp://173.193.197.46/flash playpath=16326 swfUrl=http://www.udemy.com/static/flash/player5.9.swf live=true timeout=15 pageUrl=http://sawlive.tv/embed/watch/YjEyNWFjZTk2NTE5OmFmNjU2NTo2ZTE3ZjRiYzAyMzBmNTQ0Zjk3MThjMDlmMTBiYT/Q5YjNiNzUwM2Y4OmM2MjQ0NDQ4Y2FhOTZlZWRmZmRiYTk5MmU2Yzc3MTM0</link>
 <thumbnail>http://images.wikia.com/logopedia/images/3/38/Zee_TV_2011.png</thumbnail>
 </item>
 

@@ -502,7 +502,7 @@ Indian - Telugu / Malayam Streams:
 
 <item>
 <title>Life OK</title>
-<link>rtmp://178.18.23.113/tivi/<playpath>lifeok <swfUrl>http://p.jwpcdn.com/6/6/jwplayer.flash.swf <pageUrl>http://livedesi.tv/player.php?id=11</link>
+<link>rtmp://178.18.23.113/tivi/ playpath=lifeok swfUrl=http://p.jwpcdn.com/6/6/jwplayer.flash.swf live=true timeout=15 pageUrl=http://livedesi.tv/player.php?id=11</link>
 <thumbnail>http://upload.wikimedia.org/wikipedia/en/f/fc/Life_OK_channel_logo.png</thumbnail>
 </item>
 

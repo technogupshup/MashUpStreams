@@ -286,7 +286,7 @@ Indian - Telugu / Malayam Streams:
 
 <item>
 <title>Sony Tv</title>
-<link>rtmp://93.174.93.124/live33 playpath=hd_sonytv swfUrl=http://www.zstream.eu/p387sj9hd803ns9n3is93s9df8nd93d9g9dfg94ng949f.swf live=true timeout=15 pageUrl=http://www.zstream.eu/embed.php?v=hd_sonytv&vw=600&vh=450&video=0&domain=www.pogotv.eu</link>
+<link>rtsp://85.17.73.78:1935/live/sonytvhq.stream</link>
 <thumbnail>http://farm2.staticflickr.com/1054/5158595265_d1ccf4f9e3_z.jpg</thumbnail>
 </item>
 
@@ -546,6 +546,12 @@ Indian - Telugu / Malayam Streams:
 <title>Zee Cinema</title>
 <link>rtmp://178.18.30.121/live playpath=cinezee swfUrl=http://www.ukcast.tv/upload/jwplayer/jwplayer.flash.swf live=true timeout=15 pageUrl=http://www.ukcast.tv/embed.php?u=cinezee&vw=600&vh=470</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/zz/zee_cinema_africa.png</thumbnail>
+</item>
+
+<item>
+<title>Set Max</title>
+<link>rtsp://85.17.73.78:1935/live/setmaxhq.stream</link>
+<thumbnail>http://4.bp.blogspot.com/-nEBSssW9lN8/T7uN4BZ-ebI/AAAAAAAADeI/QnwJsCzCopc/s640/SET_Max_2011.png</thumbnail>
 </item>
 
 </channel>

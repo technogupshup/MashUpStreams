@@ -29,12 +29,6 @@
 </item>
 
 <item>
-<title>ARY Digital</title>
-<link>rtmp://178.18.30.121/live playpath=sdidtary swfUrl=http://www.ukcast.tv/player/player.swf live=true timeout=15 pageUrl=http://www.ukcast.tv/embed.php?u=sdidtary&vw=600&vh=470</link>
-<thumbnail>http://upload.wikimedia.org/wikipedia/en/f/f3/ARY_Digital_Logo_2.png</thumbnail> 
-</item>
-
-<item>
 <title>Geo Enterainment</title>
 <link>rtmp://178.18.30.120/live playpath=engeuu swfUrl=http://www.ukcast.tv/player/player.swf live=true timeout=15 pageUrl=http://www.ukcast.tv/embed.php?u=engeuu&vw=600&vh=470</link>
 <thumbnail>http://www.friendsalliance.com.pk/Images/Client-GeoEnt.png</thumbnail>

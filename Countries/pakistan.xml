@@ -25,7 +25,7 @@
 <item>
 <title>PTV News</title>
 <link>rtmp://live.server4sale.com/live playpath=PTVnews swfUrl=http://live.server4sale.com:81/swfs/videoPlayer.swf live=true timeout=15 pageUrl=http://news.ptv.com.pk/livestreaming.asp</link>
-<thumbnail></thumbnail>
+<thumbnail>http://www.dramaonlinetv.com/wp-content/uploads/2012/12/PTV-News-TV1.jpg</thumbnail>
 </item>
 
 <item>

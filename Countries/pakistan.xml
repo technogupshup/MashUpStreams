@@ -30,7 +30,7 @@
 
 <item>
 <title>Geo Enterainment</title>
-<link>rtmp://178.18.30.120/live playpath=engeuu swfUrl=http://www.ukcast.tv/player/player.swf live=true timeout=15 pageUrl=http://www.ukcast.tv/embed.php?u=engeuu&vw=600&vh=470</link>
+<link>rtsp://85.17.73.78:1935/live/geoentt</link>
 <thumbnail>http://www.friendsalliance.com.pk/Images/Client-GeoEnt.png</thumbnail>
 </item>
 
@@ -56,6 +56,36 @@
 <title>Hidayat TV</title>
 <link>http://iphone-streaming.ustream.tv/ustreamVideo/11705489/streams/live/playlist.m3u8</link>
 <thumbnail>http://www.ashura.tv/live-tv/hidayat-tv/logo.jpg</thumbnail>
+</item>
+
+<item>
+<title>ARY Digital</title>
+<link>rtsp://85.17.73.78/live/arydig</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/en/f/f3/ARY_Digital_Logo_2.png</thumbnail>
+</item>
+
+<item>
+<title>Express</title>
+<link>rtsp://85.17.73.78:1935/live/expressent.stream</link>
+<thumbnail>http://www.advertiseinpakistan.com/images/media_logos/6-express-entertainment.png</thumbnail>
+</item>
+
+<item>
+<title>Express News</title>
+<link>rtsp://85.17.73.78:1935/live/expressnews.stream</link>
+<thumbnail>http://www.tvskull.com/wp-content/uploads/2012/11/express_news.png</thumbnail>
+</item>
+
+<item>
+<title>GEO News</title>
+<link>rtsp://85.17.73.78:1935/live/geonews9</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/gg/geo_news_pk.png</thumbnail>
+</item>
+
+<item>
+<title>TEN Sports</title>
+<link>rtsp://85.17.73.78:1935/live/tensports.stream</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/tt/ten_sports_pk.png</thumbnail>
 </item>
 
 </channel>

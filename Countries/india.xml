@@ -519,12 +519,6 @@ Indian - Telugu / Malayam Streams:
 </item>
 
 <item>
-<title>Sony Six</title>
-<link>rtmp://109.123.123.68/live playpath=ffq24a swfUrl=http://www.janjua.tv/player/player-licensed55.swf live=true timeout=15 pageUrl=http://www.janjua.tv/embed.php?v=ffq24a&vw=600&vh=420&typeplayer=0&domain=www.streamer247.com</link>
-<thumbnail>http://upload.wikimedia.org/wikipedia/en/3/33/SonySixIndia.png</thumbnail>
-</item>
-
-<item>
 <title>Peace TV</title>
 <link>rtmp://peace.fms.visionip.tv/live/ playpath=b2b-peace_usa-live-25f-4x3-sdh_1 live=true timeout=15 swfUrl=http://www.peacetv.tv/templates/swf/player.swf pageUrl=http://www.peacetv.tv/</link>
 <thumbnail>http://upload.wikimedia.org/wikipedia/en/2/2f/Peace_TV_logo.png</thumbnail>

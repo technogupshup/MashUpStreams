@@ -30,7 +30,7 @@
 
 <item>
 <title>Tolo News</title>
-<link>plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=JXj51OQUHS4</link>
+<link>plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=csfJfZs6EMk</link>
 <thumbnail>http://www.warrierfilms.com/wp-content/uploads/2011/06/tolo_news_logo.jpg</thumbnail>
 </item>
 
@@ -87,5 +87,12 @@
 <link>rtmp://tamadonlive.nanocdn.com:1935/live playpath=tamadon256 swfUrl=http://www.nanocdn.net/modules/lives/js/jwplayer/player.swf live=true timeout=15 pageUrl=http://www.nanocdn.net/modules/lives/index.php?id=4&channel=tamadon&op=fph</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/tt/tamadon_tv.png</thumbnail>
 </item>
+
+<item>
+<title>Tolo</title>
+<link>rtmp://178.18.30.121/live playpath=TOOl swfUrl=http://www.ukcast.tv/upload/jwplayer/jwplayer.flash.swf live=true timeout=15 pageUrl=http://www.ukcast.tv/embed.php?u=TOOl&vw=590&vh=400</link>
+<thumbnail>http://i1.ytimg.com/i/qhY2i3JiRK0mZIUXP0CoQw/mq1.jpg?v=4f682227</thumbnail>
+</item>
+
 
 </channel>

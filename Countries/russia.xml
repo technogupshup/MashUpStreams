@@ -6,20 +6,20 @@
 
 <item>
 <title>НЭРС ТВ</title>
-<link>rtmp://n3.mos.cdn.online.ru/live-r playpath=udp://0.0.0.0:3004 swfUr=>http://www.corbina.tv/flash/swf/player.swf live=true timeout=15 pageUrl=http://www.corbina.tv/tv/ners</link>
+<link>rtmp://n3.mos.cdn.online.ru/live-r playpath=udp://0.0.0.0:3004 swfUr=http://www.corbina.tv/flash/swf/player.swf live=true timeout=15 pageUrl=http://www.corbina.tv/tv/ners</link>
 <thumbnail>http://www.ners.tv/images/ners_logo.gif</thumbnail>
 </item>
 
 <item>
 <title>Юмор ТВ</title>
-<link>rtmp://n3.mos.cdn.online.ru/live-r playpath=udp://0.0.0.0:3081 swfUrl=http://www.corbina.tv/flash/swf/player.swf pageUrl=http://www.corbina.tv/tv/humor</link>
+<link>rtmp://n3.mos.cdn.online.ru/live-r playpath=udp://0.0.0.0:3081 swfUrl=http://www.corbina.tv/flash/swf/player.swf live=true timeout=15 pageUrl=http://www.corbina.tv/tv/humor</link>
 <thumbnail>http://www.musicboxtv.ru/var/channels/images/1345473557.png</thumbnail>
 </item>
 
 <item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
+<title>O2 TB</title>
+<link>rtmp://n2.mos.cdn.online.ru/live-r playpath=udp://0.0.0.0:3096 swfUrl=http://www.corbina.tv/flash/swf/player.swf live=true timeout=15 pageUrl=http://www.corbina.tv/tv/o2</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/commons/7/74/O2_TV_logo.png</thumbnail>
 </item>
 
 <item>
@@ -48,7 +48,7 @@
 
 <item>
 <title>Poccnr</title>
-<link>http://cdn.vidigital.ru/media/m/IBM/IBM_SP_Agenda_Q4/400x300.flv</link>
+<link>rtmpt://n3.mos.cdn.online.ru/live-r<playpath>rtmp://www.planeta-online.tv:1936/rtplive/vesti_24.sdp <swfUrl>http://www.corbina.tv/flash/swf/player.swf <pageUrl>http://www.corbina.tv/tv/russia24</link>
 <thumbnail>http://www.metafocus.co.uk/blog/wp-content/uploads/2013/04/baidu_russian_tv_news_interview_with_alan_clements-300x206.jpg</thumbnail>
 </item>
 

@@ -6,13 +6,13 @@
 
 <item>
 <title>НЭРС ТВ</title>
-<link>rtmpt://n3.mos.cdn.online.ru/live-r playpath=udp://0.0.0.0:3004 swfUr=>http://www.corbina.tv/flash/swf/player.swf live=true timeout=15 pageUrl=http://www.corbina.tv/tv/ners</link>
+<link>rtmp://n3.mos.cdn.online.ru/live-r playpath=udp://0.0.0.0:3004 swfUr=>http://www.corbina.tv/flash/swf/player.swf live=true timeout=15 pageUrl=http://www.corbina.tv/tv/ners</link>
 <thumbnail>http://www.ners.tv/images/ners_logo.gif</thumbnail>
 </item>
 
 <item>
 <title>Юмор ТВ</title>
-<link>rtmpt://n3.mos.cdn.online.ru/live-r playpath=udp://0.0.0.0:3081 swfUrl=http://www.corbina.tv/flash/swf/player.swf pageUrl=http://www.corbina.tv/tv/humor</link>
+<link>rtmp://n3.mos.cdn.online.ru/live-r playpath=udp://0.0.0.0:3081 swfUrl=http://www.corbina.tv/flash/swf/player.swf pageUrl=http://www.corbina.tv/tv/humor</link>
 <thumbnail>http://www.musicboxtv.ru/var/channels/images/1345473557.png</thumbnail>
 </item>
 

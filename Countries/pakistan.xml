@@ -36,7 +36,7 @@
 
 <item>
 <title>Hum TV</title>
-<link>rtmp://178.18.30.120/live playpath=tbhummmu swfUrl=http://www.ukcast.tv/player/player.swf live=true timeout=15 pageUrl=http://www.ukcast.tv/embed.php?u=tbhummmu&vw=600&vh=470</link>
+<link>rtsp://85.17.73.78:1935/live/humtv22.stream</link>
 <thumbnail>http://upload.wikimedia.org/wikipedia/en/e/e4/Hum_TV_2013.png</thumbnail>
 </item>
 
@@ -44,12 +44,6 @@
 <title>Urdu 1</title>
 <link>rtmp://178.18.30.121/live playpath=urduu4 swfUrl=http://www.ukcast.tv/player/player.swf live=true timeout=15 pageUrl=http://www.ukcast.tv/embed.php?u=urduu4&vw=600&vh=470</link>
 <thumbnail>http://upload.wikimedia.org/wikipedia/en/thumb/5/5a/Urdu_1_logo.png/120px-Urdu_1_logo.png</thumbnail>
-</item>
-
-<item>
-<title>Geo News</title>
-<link>rtmp://178.18.30.121/live playpath=newsofr swfUrl=http://www.ukcast.tv/player/player.swf live=true timeout=15 pageUrl=http://www.ukcast.tv/embed.php?u=newsofr&vw=600&vh=470</link>
-<thumbnail>http://www.lyngsat-logo.com/hires/gg/geo_news_pk.png</thumbnail>
 </item>
 
 <item>
@@ -66,19 +60,19 @@
 
 <item>
 <title>Express</title>
-<link>rtsp://85.17.73.78:1935/live/expressent.stream</link>
+<link>rtsp://85.17.73.78:1935/live/expressenti.stream</link>
 <thumbnail>http://www.advertiseinpakistan.com/images/media_logos/6-express-entertainment.png</thumbnail>
 </item>
 
 <item>
 <title>Express News</title>
-<link>rtsp://85.17.73.78:1935/live/expressnews.stream</link>
+<link>rtsp://85.17.73.78:1935/live/expressnewss.stream</link>
 <thumbnail>http://www.tvskull.com/wp-content/uploads/2012/11/express_news.png</thumbnail>
 </item>
 
 <item>
 <title>GEO News</title>
-<link>rtsp://85.17.73.78:1935/live/geonews9</link>
+<link>rtsp://85.17.73.78:1935/live/geonewss.stream</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/gg/geo_news_pk.png</thumbnail>
 </item>
 

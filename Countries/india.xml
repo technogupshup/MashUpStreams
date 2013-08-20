@@ -549,11 +549,15 @@ Indian - Telugu / Malayam Streams:
 </item>
 
 <item>
-<title>test</title>
+<title>Baby TV</title>
 <link>rtsp://streamer35.eboundservices.com:1935/mobile/mobile-babytv?hashAESkey=oooQVCS16436957HmsRw11270512674232117086034ppppzxs999920&appType=1.0</link>
-<thumbnail>http://4.bp.blogspot.com/-nEBSssW9lN8/T7uN4BZ-ebI/AAAAAAAADeI/QnwJsCzCopc/s640/SET_Max_2011.png</thumbnail>
+<thumbnail>http://upload.wikimedia.org/wikipedia/en/thumb/4/45/BabyTV.png/1024px-BabyTV.png</thumbnail>
 </item>
 
-<
+<item>
+<title>Disney XD</title>
+<link>rtsp://85.17.73.78:1935/live/disneyy</link>
+<thumbnail>http://images.wikia.com/disneyskickinit/images/c/cf/Disney_XD_logo-1-.png</thumbnail>
+</item>
 
 </channel>

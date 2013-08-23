@@ -47,6 +47,12 @@
 </item>
 
 <item>
+<title>Ariana Europe</title>
+<link>rtsp://50.97.117.4/AFG-ATN-EUROPE</link>
+<thumbnail>http://1.bp.blogspot.com/-PaLOOP-MMcI/UdB9pzGaksI/AAAAAAAABGE/VBxfGyRjt3c/s72-c/atnn.png</thumbnail>
+</item>
+
+<item>
 <title>Ariana TV</title>
 <link>rtmp://uni2rtmp.tulix.tv:1935/ariana playpath=ariana swfUrl=http://www.tulix.tv/mediaplayer/player.swf live=true timeout=15 pageUrl=http://tulix.com/player/ariana.php/</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/ariana_tv_network_international.jpg</thumbnail>

@@ -560,4 +560,10 @@ Indian - Telugu / Malayam Streams:
 <thumbnail>http://images.wikia.com/disneyskickinit/images/c/cf/Disney_XD_logo-1-.png</thumbnail>
 </item>
 
+<item>
+<title>Discovery</title>
+<link>rtsp://streamer35.eboundservices.com:1935/mobile/mobile-discovery?hashAESkey=18143993dfssdfd1232985384389394119381997093j4j5j6j89&appType=1.0</link>
+<thumbnail>http://uncompromisedtruth.files.wordpress.com/2011/08/discovery_channel_2000.png</thumbnail>
+</item>
+
 </channel>

@@ -5,6 +5,12 @@
 <thumbnail></thumbnail>
 
 <item>
+<title>Mad</title>
+<link>plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=emjmbg2jukE</link>
+<thumbnail>http://i1.ytimg.com/i/s3cho4vcDuCze0tk3W9iVQ/1.jpg?v=513f1bd1</thumbnail>
+</item>
+
+<item>
 <title>НЭРС ТВ</title>
 <link>rtmp://n3.mos.cdn.online.ru/live-r playpath=udp://0.0.0.0:3004 swfUr=http://www.corbina.tv/flash/swf/player.swf live=true timeout=15 pageUrl=http://www.corbina.tv/tv/ners</link>
 <thumbnail>http://www.ners.tv/images/ners_logo.gif</thumbnail>

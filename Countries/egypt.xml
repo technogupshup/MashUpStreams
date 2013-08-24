@@ -5,90 +5,10 @@
 <thumbnail></thumbnail>
 
 <item>
-<title>Al Hayat Orange</title>
-<link>http://nidal.myftp.org/hls/mux-udp-301/playplist.m3u8</link>
-<thumbnail>http://1.bp.blogspot.com/-2Mkww9LCzbs/T9Tu14eD4xI/AAAAAAAABPA/yhzmIdeNnVg/s1600/images+%284%29.jpg</thumbnail>
-</item>
-
-<item>
-<title>Rotana Masriya (Link 2)</title>
-<link>plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=wmkjIuv7_6U</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/rr/rotana_masriya.jpg</thumbnail>
-</item>
-
-<item>
-<title>Eygpt 25  [COLOR=FFFF0000]New  Channel[/COLOR]</title>
-<link>plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=5x1SPf4AS2g</link>
-<thumbnail>http://www.tv14.net/wp-content/uploads/2013/03/logo-misr-tv-egypt.jpg</thumbnail>
-</item>
-
-<item>
-<title>Oscar Drama  [COLOR=FFFF0000]New  Channel[/COLOR]</title>
-<link>http://nidal.myftp.org/hls/mux-udp-300/playlist.m3u8</link>
-<thumbnail>http://www.lyngsat-logo.com/hires/oo/oscar_drama.png</thumbnail>
-</item>
-
-
-<item>
-<title>Al Hayat Blue</title>
-<link>http://nidal.myftp.org/hls/mux-udp-303/playplist.m3u8</link>
-<thumbnail>http://behance.vo.llnwd.net/profiles/84540/projects/692394/a501ee2e8626a14bf9ad771c382b454b.jpg</thumbnail>
-</item>
-
-<item>
-<title>Rotana Cinema (Link 3)</title>
-<link>http://nidal.myftp.org/hls/mux-udp-317/playplist.m3u8</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/rr/rotana_cinema.jpg</thumbnail>
-</item>
-
-<item>
-<title>Nile TV</title>
-<link>http://nidal.myftp.org/hls/mux-udp-319/playplist.m3u8</link>
-<thumbnail>http://2.bp.blogspot.com/_FBe-4Qs4UAw/SKspRuUuraI/AAAAAAAAAQQ/BSnJjlI2o80/s320/nile_tv.gif</thumbnail>
-</item>
-
-<item>
-<title>Rotana Masriya</title>
-<link>http://nidal.myftp.org/hls/mux-udp-322/playplist.m3u8</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/rr/rotana_masriya.jpg</thumbnail>
-</item>
-
-<item>
-<title>Rotana Music (Link 3)</title>
-<link>http://nidal.myftp.org/hls/mux-udp-323/playplist.m3u8</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/rr/rotana_mousica.jpg</thumbnail>
-</item>
-
-<item>
-<title>Rotana Clip (Link 2)</title>
-<link>http://nidal.myftp.org/hls/mux-udp-324/playplist.m3u8</link>
-<thumbnail>http://watchtv.co/wp-content/uploads/2012/07/Rotana-Clip.jpg</thumbnail>
-</item>
-
-<item>
-<title>Rotana Khaligia (Link 3)</title>
-<link>http://nidal.myftp.org/hls/mux-udp-325/playplist.m3u8</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/rr/rotana_khalijia.jpg</thumbnail>
-</item>
-
-<item>
-<title>Rotana Classic</title>
-<link>http://nidal.myftp.org/hls/mux-udp-326/playplist.m3u8</link>
-<thumbnail>http://www.sayidaty.net/dbpics/menu/pages/rotana-classic.jpg</thumbnail>
-</item>
-
-<item>
 <title>Nile Sports</title>
 <link>http://nidal.myftp.org/hls/mux-udp-332/playplist.m3u8</link>
 <thumbnail>http://d2htvlive.in/wp-content/uploads/2013/03/Watch-NIile-Sports-Egypt-Live.png</thumbnail>
 </item>
-
-<item>
-<title>Nile Cinema</title>
-<link>rtmp://livestreaming4.onlinehorizons.net/NTNNileCinema playpath=livestream swfUrl=http://niletc.tv/player/player.swf pageUrl=http://www.ntnegypt.net/stream.php?ch=cinema live=1/link>
-<thumbnail>http://1.bp.blogspot.com/-X_Js8309inU/USYEG5WiTSI/AAAAAAAAGV0/bXu7WBoDegE/s1600/nile+cinema+tv+channel.jpg</thumbnail>
-</item>
-
 
 <item>
 <title>Al Masriya</title>
@@ -97,26 +17,8 @@
 </item>
 
 <item>
-<title>Rotana Cinema (Link 2)</title> 
-<link>http://149.62.177.6:9004</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/rr/rotana_cinema.jpg</thumbnail>
-</item>
-
-<item>
-<title>Rotana Khaligia (Link 2)</title> 
-<link>http://149.62.177.6:9007</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/rr/rotana_khalijia.jpg</thumbnail>
-</item>
-
-<item>
-<title>Rotana Musica (Link 2)</title> 
-<link>http://149.62.177.50:9009</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/rr/rotana_mousica.jpg</thumbnail>
-</item>
-
-<item>
 <title>On TV</title>
-<link>plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=mvbCLboCZDc</link>
+<link>plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=aHYQCUgAlpQ</link>
 <thumbnail>http://egylab.ucoz.com/imge/on_tv.png</thumbnail>
 </item>
 
@@ -173,46 +75,15 @@ pageUrl=https://iframehost-c.iframehost.com/1635152?signed_request=g6IaGABi-b-eo
 </item>
 
 <item>
-<title>Rotana Aflam</title>
-<link>rtmp://95.211.168.142:1935/teledunet playpath=rotana_aflam swfUrl=http://www.teledunet.com/tv/player.swf?id0=81619255820200&repeat=single&streamer=rtmp%3A//95.211.168.142%3A1935/teledunet&file=rotana_aflam&provider=rtmp&autostart=true&skin2=bekle/bekle.xml live=1 pageUrl=http://www.teledunet.com/rotana_aflam</link>
-<thumbnail>http://3.bp.blogspot.com/-rLMbmKfmhMc/UKB0_Nd6YUI/AAAAAAAABl0/voG3pT5HdhI/s1600/rotana_aflam.png</thumbnail>
-</item> 
-
-<item>
 <title>Rotana Clip</title>
 <link>rtmp://livestreaming4.itworkscdn.net/rotanacliplive/rotanaclip_360p</link>
 <thumbnail>http://watchtv.co/wp-content/uploads/2012/07/Rotana-Clip.jpg</thumbnail>
 </item> 
 
-
-<item>
-<title>Rotana Cinema</title>
-<link>rtmp://livestreaming4.itworkscdn.net/rotanacinemalive playpath=rotanacinema_360p live=true timeout=15 swfUrl=http://cinema.rotana.net/it-works/jwplayer.flash.swf pageUrl=http://cinema.rotana.net/r/live-tv</link>
-<thumbnail>http://ing-sat.what.hu/images/logo-insert/satlogos/saudi-arabia/200-Rotana-Cinema-11.jpg</thumbnail>
-</item>
-
-<item>
-<title>Moga Comedy</title>
-<link>rtmp://46.165.196.36/live playpath=azsq879?id=149842 swfUrl=http://mips.tv/content/scripts/eplayer.swf conn=S:OK pageUrl=http://mips.tv/embedplayer/azsq879/1/600/380</link>
-<thumbnail>http://4.bp.blogspot.com/_PhF2xiVgYV0/TC6igYIeXOI/AAAAAAAAAHE/1kGf2MMfgl8/s1600/moga-comedy.jpg</thumbnail>
-</item>
-
-<item>
-<title>EL NHAR TV</title> 
-<link>plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=npuXEET_dMQ</link>
-<thumbnail>http://www.livetvstreamingfree.com/wp-content/uploads/2013/04/al-nahar-channel.jpg</thumbnail>
-</item>
-
 <item>
 <title>Melody Drama</title> 
 <link>plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=ygHfYFX5xnc</link>
 <thumbnail>http://www.n2hr.com/up/uploads/images/n2hrcom-c00ad54266.jpg</thumbnail>
-</item>
-
-<item>
-<title>EL BALAD DRAMA</title> 
-<link>plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=T1oJUSGjjD4</link>
-<thumbnail>http://www.arab-tvs.com/EgyptianTvs/images/ElBalad-Drama.JPG</thumbnail>
 </item>
 
 <item>

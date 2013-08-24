@@ -5,28 +5,9 @@
 <thumbnail></thumbnail>
 
 <item>
-<title>IQRAA Live</title>
-<link>rtmp://fl1.viastreaming.net/iqraatv2/livestream playpath=livestream swfUrl=http://www.elahmad.com/tv/swf/iqraatv2.swf</link>
-<thumbnail>http://worldtvcenter.atspace.com/arabic/iqraa.jpg</thumbnail>
-</item>
-
-<item>
-<title>IQRAA Africa</title>
-<link>rtmp://fl1.viastreaming.net/iqraatv/livestream playpath=livestream swfUrl=http://www.elahmad.com/tv/swf/iqraatv.swf</link>
-<thumbnail>http://worldtvcenter.atspace.com/arabic/iqraa.jpg</thumbnail>
-</item>
-
-<item>
-<title>Saudi Sports</title>
-<link>rtmp://mi6.gv.filmon.com/live/_definst_/1781.high.stream</link>
-<thumbnail>http://www.tv14.net/wp-content/uploads/2013/03/Saudi-Sport-TV1-logo.jpg</thumbnail>
-</item>
-
-
-<item>
-<title>IQRAA AU ASIA</title>
-<link>rtmp://fl1.viastreaming.net/iqraatv3/livestream playpath=livestream swfUrl=http://www.elahmad.com/tv/swf/iqraatv3.swf</link>
-<thumbnail>http://worldtvcenter.atspace.com/arabic/iqraa.jpg</thumbnail>
+<title>Channel economic</title>
+<link>plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=QFnILutVyPc</link>
+<thumbnail>http://www.sauditv2.tv/eServices/SaudiChannels/_t/STV%20Economy_png.jpg</thumbnail>
 </item>
 
 <item>

@@ -5,6 +5,12 @@
 <thumbnail></thumbnail>
 
 <item>
+<title>Rotana Masriya</title>
+<link>plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=EtrHQS92YOs</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/rr/rotana_masriya.png</thumbnail>
+</item>
+
+<item>
 <title>Nile Sports</title>
 <link>http://nidal.myftp.org/hls/mux-udp-332/playplist.m3u8</link>
 <thumbnail>http://d2htvlive.in/wp-content/uploads/2013/03/Watch-NIile-Sports-Egypt-Live.png</thumbnail>

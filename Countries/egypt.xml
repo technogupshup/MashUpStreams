@@ -11,6 +11,24 @@
 </item>
 
 <item>
+<title>Drama 2</title>
+<link>plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=gWwCWyT1I5E</link>
+<thumbnail>http://bell-vs-rogers.com/channellogos/cid599dream2.png</thumbnail>
+</item>
+
+<item>
+<title>Al Kahera Wal Nas</title>
+<link>plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=JTq7FTfk5BM</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/al_kahera_wal_nes.jpg</thumbnail>
+</item>
+
+<item>
+<title>Sada ELbalad</title>
+<link>plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=JEkbk-xDmZE</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/ss/sada_el_balad_tv.png</thumbnail>
+</item>
+
+<item>
 <title>Nile Sports</title>
 <link>http://nidal.myftp.org/hls/mux-udp-332/playplist.m3u8</link>
 <thumbnail>http://d2htvlive.in/wp-content/uploads/2013/03/Watch-NIile-Sports-Egypt-Live.png</thumbnail>

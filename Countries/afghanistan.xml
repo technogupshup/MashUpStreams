@@ -100,4 +100,10 @@
 <thumbnail>http://www.lyngsat-logo.com/hires/tt/tamadon_tv.png</thumbnail>
 </item>
 
+<item>
+<title>Makkah Live</title>
+<link>plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=jTUMAex_1Yo</link>
+<thumbnail>http://kabultoday.files.wordpress.com/2009/12/1tv-logo.jpg</thumbnail>
+</item>
+
 </channel>

@@ -11,6 +11,12 @@
 </item>
 
 <item>
+<title>Arabia News</title>
+<link>plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=VQpIP-5K8KM</link>
+<thumbnail>http://www.qassimy.com/channel-tv-live/files/image/al_ekhbariya_saudi_news_tv_islamic_live_online_free_arabic_channel.png</thumbnail>
+</item>
+
+<item>
 <title>Channel 1</title>
 <link>plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=L1ofE3wPe5Q</link>
 <thumbnail>http://www.qassimy.com/channel-tv-live/files/image/saudi_channel_1_tv_islamic_live_online_free_arabic_channel.png</thumbnail>

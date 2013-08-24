@@ -5,6 +5,18 @@
 <thumbnail></thumbnail>
 
 <item>
+<title>Al Jazeera Arabic</title>
+<link>plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=tOkxhAIO4RQ</link>
+<thumbnail>http://tv.comxa.com/wp-content/uploads/channel/news/Al-Jazeera%20Arabic.png</thumbnail>
+</item>
+
+<item>
+<title>Al Jazeera English</title>
+<link>plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=zfseWz-R_H4</link>
+<thumbnail>http://3.bp.blogspot.com/-HR8EvfgQW7I/Tcpx01IzfiI/AAAAAAAAABI/KbFFYHKrAIA/s1600/aljazeera.png</thumbnail>
+</item>
+
+<item>
 <title>Sky Sports 1  [COLOR=FFFF0000]TEST 2[/COLOR]</title>
 <link>rtmp://46.246.124.3:443/liverepeater playpath=20724 swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/fkr1.swf live=true timeout=15 pageUrl=http://movietrailers.yt/player2.php?id=20724&width=620&height=490</link>
 <thumbnail>http://3.bp.blogspot.com/-b3q2g-UxZwI/UVWzFcsgA_I/AAAAAAAAFY8/nmBHsWYdLCM/s1600/sky_sports1.png</thumbnail>

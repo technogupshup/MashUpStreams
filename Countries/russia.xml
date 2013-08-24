@@ -11,6 +11,12 @@
 </item>
 
 <item>
+<title>Эфир телеканал Мужской</title>
+<link>plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=p0CC2QqhLg0</link>
+<thumbnail>http://online-red.narod.ru/images/tv/muzhskoy.jpg</thumbnail>
+</item>
+
+<item>
 <title>Загородная жизнь</title>
 <link>plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=CXYuyISFzjM</link>
 <thumbnail>http://www.zagorod-tv.ru/img/200x160_zj.jpg</thumbnail>

@@ -5,87 +5,105 @@
 <thumbnail></thumbnail>
 
 <item>
-<title>ABS-CBN Link 1</title>
+<title>ABS-CBN [COLOR=FFFF0000]Link 1[/COLOR]</title>
 <link>http://iwantvls-i.akamaihd.net/hls/live/202810/abscbn/master.m3u8</link>
-<thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/abs-cbn2_zpscdffd773.png</thumbnail>
+<thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/Mashup/abs-cbn2_zps6305f072.png</thumbnail>
 </item>
 
 <item>
-<title>ABS-CBN Link 2</title>
-<link>rtmp://edge.isearch.to/edge playpath=xxooiinjva78v94 swfUrl=http://player.ilive.to/player_ilive_embed.swf pageUrl=http://www.ilive.to/embedplayer.php?width=600&height=450&channel=42963 &autoplay=true</link>
-<thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/abs-cbn2_zpscdffd773.png</thumbnail>
+<title>ABS-CBN [COLOR=FFFF0000]Link 2[/COLOR]</title>
+<link>rtmp://edge.isearch.to/edge playpath=xxooiinjva78v94 swfUrl=http://player.ilive.to/player_ilive_2.swf live=true timeout=15 pageUrl=http://www.ilive.to/view/42963/watch-live-Sinipaay-streaming-channel-for-free</link>
+<thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/Mashup/abs-cbn2_zps6305f072.png</thumbnail>
+</item>
+
+<item>
+<title>ABS-CBN [COLOR=FFFF0000]Link 3[/COLOR]</title>
+<link>rtmp://cp106256.live.edgefcs.net:443/live?videoId=1879066044001&lineUpId=&pubId=1213020456001&playerId=2201426956001&affiliateId=/ playpath=iwantabs-256@36979?videoId=1879066044001&lineUpId=&pubId=1213020456001&playerId=2201426956001&affiliateId=  swfUrl=http://p.jwpcdn.com/6/5/jwplayer.flash.swf live=true timeout=15 pageUrl=http://www.pinoyshownow.net/2011/04/abs-cbn-live-streaming.html</link>
+<thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/Mashup/abs-cbn2_zps6305f072.png</thumbnail>
+</item>
+
+<item>
+<title>GMA 7</title>
+<link>rtmp://edge.isearch.to/edge playpath=tj6zegfdas16p08 swfUrl=http://player.ilive.to/player_ilive_2.swf live=true timeout=15 pageUrl=http://www.ilive.to/view/44090/watch-live-GMA_7-streaming-channel-for-free</link>
+<thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/Mashup/gma7_zpse6c76072.png</thumbnail>
+</item>
+
+<item>
+<title>TV 5</title>
+<link>rtmp://stream2.news5.ph:1935/derek/_definst_ playpath=mp4:mystream3 swfUrl=http://p.jwpcdn.com/6/5/jwplayer.flash.swf live=true timeout=15 pageUrl=http://news5.com.ph/Live.aspx?g=0A999CBBC5</link>
+<thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/Mashup/tv5_zpsa48341ab.png</thumbnail>
+</item>
+
+<item>
+<title>Aksyon TV</title>
+<link>rtmp://stream1.news5.ph:1935/live/_definst_ playpath=mp4:aksyon3 swfUrl=http://p.jwpcdn.com/6/5/jwplayer.flash.swf live=true timeout=15 pageUrl=http://news5.com.ph/Live.aspx?g=A12F20084A</link>
+<thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/Mashup/aksyontv_zps0aeecd1e.png</thumbnail>
+</item>
+
+<item>
+<title>Sports 5</title>
+<link>http://edge.pldt.swiftserve.com/live/mediascape/aktv-ibc-13/chunklist.m3u8</link>
+<thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/Mashup/sports5_zpsc523e315.png</thumbnail>
+</item>
+
+<item>
+<title>PTV [COLOR=FFFF0000]Link 1[/COLOR]</title>
+<link>rtmp://livestream.ptv.ph/oflaDemo playpath=live swfUrl=http://vidzptvc.ptv.ph/player.swf live=true timeout=15 pageUrl=http://vidzptvc.ptv.ph/livestreaming.php?w=600&h=350</link>
+<thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/Mashup/ptv_zps47909d31.png</thumbnail>
+</item>
+
+<item>
+<title>PTV [COLOR=FFFF0000]Link 2[/COLOR]</title>
+<link>http://iphone-streaming.ustream.tv/ustreamVideo/9544987/streams/live/playlist.m3u8</link>
+<thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/Mashup/ptv_zps47909d31.png</thumbnail>
+</item>
+
+<item>
+<title>RHTV</title>
+<link>mms://bayantel-ss.dagupan.com/dzrhvideo</link>
+<thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/Mashup/rhtv_zpsc5b62e3d.png</thumbnail>
+</item>
+
+<item>
+<title>UNTV 37</title>
+<link>rtmp://livestream01.untvweb.com/public/ playpath=untvwebstream  swfUrl=http://www.untvweb.com/players/player.swf live=true timeout=15 pageUrl=http://www.untvweb.com/live-stream/</link>
+<thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/Mashup/untv37_zpsdd7392be.png</thumbnail>
 </item>
 
 <item>
 <title>CLTV 36</title>
 <link>http://streamer01.mavshack.com/cltv36/smil:cltv361.smil/chunklist_w2015533479_b384000.m3u8</link>
-<thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/cltv36_zps2f09d9a7.png</thumbnail>
-</item>
-
-<item>
-<title>GMA</title>
-<link>rtmp://edge.isearch.to/edge playpath=tj6zegfdas16p08 swfUrl=http://player.ilive.to/player_ilive_embed.swf pageUrl=http://www.ilive.to/embedplayer.php?width=650&height=420&channel=44090 &autoplay=true</link>
-<thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/gma7_zps66858672.png</thumbnail>
-</item>
-
-<item>
-<title>RHTV</title>
-<link>mms://bayantel-ss.dagupan.com/dzrhvideo/</link>
-<thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/rhtv_zps412d1ce3.png</thumbnail>
-</item>
-
-<item>
-<title>The Old Path</title>
-<link>rtmp://ocatv.mcgi.me/public playpath=247_en swfUrl=http://wwitv.com/player/player15.swf live=true timeout=15 pageUrl=http://wwitv.com/tv_channels/6773-The-Old-Path.htm</link>
-<thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/theoldpath_zps02e95298.png</thumbnail>
+<thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/Mashup/cltv36_zps2007ac78.png</thumbnail>
 </item>
 
 <item>
 <title>TV Maria</title>
 <link>http://iphone-streaming.ustream.tv/ustreamVideo/13894897/streams/live/playlist.m3u8</link>
-<thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/tvmaria_zpsc217e623.png</thumbnail>
+<thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/Mashup/tvmaria_zps2c137688.png</thumbnail>
 </item>
 
 <item>
-<title>UNTV</title>
-<link>rtmp://livestream01.untvweb.com/public/ playpath=untvwebstream swfUrl=http://wwitv.com/player/player15.swf pageUrl=http://wwitv.com/tv_channels/7975.htm live=true timeout=15</link>
-<thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/untv37_zps7cb01caf.png</thumbnail>
-</item>
-
-<item>
-<title>Veritas 846</title>
+<title>Radyo Veritas</title>
 <link>http://eradioportal.com/asxfile/radyoveritas.asx</link>
-<thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/radyoveritas_zps5664b4fa.png</thumbnail>
+<thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/Mashup/radyoveritas_zpsecaf2a3c.png</thumbnail>
 </item>
 
 <item>
-<title>ABD-CBN  [COLOR=FFFF0000]Updated  Channel[/COLOR]</title>
-<link>rtmp://edge.isearch.to/edge playpath=pihx0rqoptn6zco swfUrl=http://player.ilive.to/player_ilive_embed.swf live=true timeout=15 pageUrl=http://www.ilive.to/embedplayer.php?width=650&height=420&channel=49709&autoplay=true</link>
-<thumbnail>http://www.lyngsat-logo.com/hires/aa/abs_cbn.png</thumbnail>
-</item>
-
-<item>
-<title>DZRH-tv</title>
-<link>mms://bayantel-ss.dagupan.com/dzrhvideo/</link>
-<thumbnail>http://3.bp.blogspot.com/-tWXWjxfjRLs/T7X2y6Q0R6I/AAAAAAAAIxY/LAB80SCUnT4/s640/rhtv_dzrh_television1.png</thumbnail>
-</item>
-
-<item>
-<title>UNTV</title>
-<link>rtmp://livestream01.untvweb.com/public/ playpath=untvwebstream swfUrl=http://wwitv.com/player/player15.swf pageUrl=http://wwitv.com/tv_channels/7975.htm live=true timeout=15</link>
-<thumbnail>http://1.bp.blogspot.com/_tQ0GPwzVplk/SzmTbRLZ4lI/AAAAAAAAAbw/y9tKfJMUM8g/s1600/UNTV.jpg</thumbnail>
+<title>Ang Dating Daan</title>
+<link>rtmp://ocatv.mcgi.me/vodtv playpath=247_tag swfUrl=http://angdatingdaan.org/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=true timeout=15 pageUrl=http://angdatingdaan.org/100player_tag.html</link>
+<thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/Mashup/add2_zpsbfbf7231.png</thumbnail>
 </item>
 
 <item>
 <title>The Old Path</title>
-<link>rtmp://ocatv.mcgi.me/public playpath=247_en swfUrl=http://wwitv.com/player/player15.swf live=true timeout=15 pageUrl=http://wwitv.com/tv_channels/6773-The-Old-Path.htm</link>
-<thumbnail>https://si0.twimg.com/profile_images/2504127228/zhm5k8snldst8rny7kbo.jpeg</thumbnail>
+<link>rtmp://ocatv.mcgi.me/public playpath=247_en  swfUrl=http://www.theoldpath.tv/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=true pageUrl=http://www.theoldpath.tv/</link>
+<thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/Mashup/theoldpath_zpsecf11346.png</thumbnail>
 </item>
 
 <item>
-<title>GMA Kapuso</title>
-<link>rtmp://edge.isearch.to/edge playpath=tj6zegfdas16p08 swfUrl=http://player.ilive.to/player_ilive_embed.swf live=true timeout=15 pageUrl=http://www.ilive.to/embedplayer.php?width=537&height=440&channel=44090&autoplay=true</link>
-<thumbnail>http://4.bp.blogspot.com/_uw-JSAs38vE/TNfVVT1FcsI/AAAAAAAAA4M/h06Tiz4Bb74/s400/gma-7-kapuso.jpg</thumbnail>
+<title>Radyo 5</title>
+<link>rtmp://stream2.news5.ph:1935/live/_definst_ playpath=mp4:radyo53 swfUrl=http://p.jwpcdn.com/6/5/jwplayer.flash.swf live=true timeout=15 pageUrl=http://news5.com.ph/Live.aspx?g=293AD3D2CD004D1</link>
+<thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/Mashup/radyo5_zps1e4a8acb.png</thumbnail>
 </item>
 
 </channel>

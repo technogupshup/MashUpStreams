@@ -273,7 +273,7 @@ Indian - Telugu / Malayam Streams:
 
 <item>
 <title>Zee TV</title>
-<link>rtmp://95.211.90.151/live playpath=ztvtvtvtvtv?id=177617 swfUrl=http://mips.tv/content/scripts/eplayer.swf live=true timeout=15 pageUrl=http://mips.tv/embedplayer/ztvtvtvtvtv/1/600/450</link>
+<link>rtmp://95.211.90.151/live playpath=ztvtvtvtvtv?id swfUrl=http://mips.tv/content/scripts/eplayer.swf live=true timeout=15 pageUrl=http://mips.tv/embedplayer/ztvtvtvtvtv/1/600/450</link>
 <thumbnail>http://images.wikia.com/logopedia/images/3/38/Zee_TV_2011.png</thumbnail>
 </item>
 

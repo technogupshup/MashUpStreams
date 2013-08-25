@@ -133,12 +133,6 @@ Indian - Telugu / Malayam Streams:
 </item>
 
 <item>
-<title>Jaya Plus</title>
-<link>rtmp://cdn.m.yupptv.tv:1935/liveorigin playpath=jayaplus1 swfUrl=http://cdn.freedocast.com/player-octo/yume/v5/infinite-hd-player-YUPPTV.SWF live=true timeout=15 pageUrl=http://yupptv.com/streams/jayaplus.aspx</link>
-<thumbnail>http://watchtv.co/wp-content/uploads/2012/05/Jaya-Plus-TV.jpg</thumbnail>
-</item>
-
-<item>
 <title>Jeevan</title>
 <link>rtmp://cdn.m.yupptv.tv:1935/liveorigin playpath=jeevan9001 swfUrl=http://cdn.freedocast.com/player-octo/yume/v5/infinite-hd-player-YUPPTV.SWF live=true timeout=15 pageUrl=http://www.yupptv.com/streams/jeevan.aspx</link>
 <thumbnail>http://www.keralatv.in/wp-content/uploads/2011/12/Jeevan-TV-Frequency.jpg</thumbnail>
@@ -181,21 +175,9 @@ Indian - Telugu / Malayam Streams:
 </item>
 
 <item>
-<title>MAA Music</title>
-<link>rtmp://cdn.m.yupptv.tv:1935/liveorigin playpath=maamusic1 swfUrl=http://cdn.freedocast.com/player-octo/yume/v5/infinite-hd-player-YUPPTV.SWF live=true timeout=15 pageUrl=http://www.yupptv.com/streams/maamusic.aspx</link>
-<thumbnail>http://1.bp.blogspot.com/-pnpzHz1cYtY/UD0wxePdMcI/AAAAAAAACPA/g58YtLVnqU0/s1600/Maa-Music-live.jpg</thumbnail>
-</item>
-
-<item>
 <title>RK News</title>
 <link>rtmp://cdn.m.yupptv.tv:1935/liveorigin playpath=rknews1 swfUrl=http://cdn.freedocast.com/player-octo/yume/v5/infinite-hd-player-YUPPTV.SWF live=true timeout=15 pageUrl=http://www.yupptv.com/streams/rknews.aspx</link>
 <thumbnail>http://2.bp.blogspot.com/-dJaqeJlzoKg/TYNSnWZDEjI/AAAAAAAADWs/8-9RvpSFTNU/s1600/rk_news.jpg</thumbnail>
-</item>
-
-<item>
-<title>Calvary TV</title>
-<link>rtmp://cdn.m.yupptv.tv:1935/liveorigin playpath=calavary1 swfUrl=http://cdn.freedocast.com/player-octo/yume/v5/infinite-hd-player-YUPPTV.SWF live=true timeout=15 pageUrl=http://www.yupptv.com/streams/calvarytv.aspx</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/cc/calvary_tv.jpg</thumbnail>
 </item>
 
 <item>
@@ -209,13 +191,6 @@ Indian - Telugu / Malayam Streams:
 <title>Seithigal TV</title>
 <link>rtmp://cdn.m.yupptv.tv:1935/liveorigin playpath=kalaignarlive1 swfUrl=http://cdn.freedocast.com/player-octo/yume/v5/infinite-hd-player-YUPPTV.SWF live=true timeout=15 pageUrl=http://www.yupptv.com/streams/seithigaltv.aspx</link>
 <thumbnail>http://4.bp.blogspot.com/-nOtYb42zHlQ/TyLGBgDdbnI/AAAAAAAADes/0qTMyJK73Vs/s320/kalaignar_seithigal.jpg</thumbnail>
-</item>
-
-
-<item>
-<title>Aradana TV</title>
-<link>rtmp://cdn.m.yupptv.tv:1935/liveorigin playpath=aradana1 swfUrl=http://cdn.freedocast.com/player-octo/yume/v5/infinite-hd-player-YUPPTV.SWF live=true timeout=15 pageUrl=http://www.yupptv.com/streams/aradana.aspx</link>
-<thumbnail>http://2.bp.blogspot.com/-nzcPUzOGJBc/UFYh_01lq5I/AAAAAAAAAKA/SjTT8tkgOBg/s200/aradhana.jpeg</thumbnail>
 </item>
 
 <item>
@@ -255,18 +230,6 @@ Indian - Telugu / Malayam Streams:
 </item>
 
 <item>
-<title>AASTHA BHAJAN</title>
-<link>rtmp://94.242.228.40:1930/live2 playpath=aasthab.stream swfUrl=http://zonytvcom.info/saki2/player/player-licensed.swf live=true timeout=15 pageUrl=http://zonytvcom.info/saki2/embed.php?live=thab.stream&vw=600&vh=450</link>
-<thumbnail>http://www.lyngsat-logo.com/hires/aa/aastha_bhajan.png</thumbnail>
-</item>
-
-<item>
-<title>MTunes (Link 2)</title>
-<link>rtmp://141.8.244.56/base playpath=mtuneshd.stream swfUrl=http://141.8.244.56/player/player-licensed55.swf live=true timeout=15 pageUrl=http://sportsembed.com/embed.php?v=mtunes_hd&vw=600&vh=450&typeplayer=0&domain=www.pogotv.eu</link>
-<thumbnail>http://www.afaqs.com/news/company_news/article_grfx/2012/08/54614/Mtunes-press-release.jpg</thumbnail>
-</item>
-
-<item>
 <title>AASTHA</title>
 <link>rtmp://50.7.130.43:1939/base2 playpath=dd5.stream swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=true timeout=15 pageUrl=http://www.turbotv.in/aastha-bhajan/</link>
 <thumbnail>http://india4indians.com/news/files/2010/12/aaa1.jpg</thumbnail>
@@ -276,12 +239,6 @@ Indian - Telugu / Malayam Streams:
 <title>Colors TV  [COLOR=FFFF0000]Updated  Channel[/COLOR]</title>
 <link>rtsp://85.17.73.78:1935/live/colorsin.stream</link>
 <thumbnail>http://www.ebuzzintown.com/wp-content/uploads/2012/11/colors-tv-logo.jpg</thumbnail>
-</item>
-
-<item>
-<title>MTunes HD</title>
-<link>rtmp://141.8.244.56/base/ playpath=mtunes_hd.stream swfUrl=http://www.sportsembed.com/player/player-licensed55.swf live=true timeout=15 pageUrl=http://sportsembed.com/embed.php?v=colors&vw=600&vh=450&typeplayer=0&domain=pogotv.eu</link>
-<thumbnail>http://b.vimeocdn.com/ts/282/282/282282149_640.jpg</thumbnail>
 </item>
 
 <item>
@@ -324,12 +281,6 @@ Indian - Telugu / Malayam Streams:
 <title>Jeevan TV</title>
 <link>http://cdn.m.yupptv.tv/liveorigin/smil:jeevan_iphone.smil/playlist.m3u8</link>
 <thumbnail>http://upload.wikimedia.org/wikipedia/en/0/02/Jeevan_TV.jpg</thumbnail>
-</item>
-
-<item>
-<title>Maa Music</title>
-<link>http://cdn.m.yupptv.tv/liveorigin/smil:maamusic.smil/playlist.m3u8</link>
-<thumbnail>http://4.bp.blogspot.com/_AcBUSVxs82w/TVU-K9xhstI/AAAAAAAAlgo/eyCWGQGM364/s1600/Maa_Music_Logo.jpg</thumbnail>
 </item>
 
 <item>
@@ -432,12 +383,6 @@ Indian - Telugu / Malayam Streams:
 <title>Reporter</title>
 <link>rtmp://50.7.128.147/base2 playpath=asia5.stream swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=true timeout=15 pageUrl=http://www.turbotv.in/reporter-tv-live/</link>
 <thumbnail>http://www.turbotv.in/wp-content/uploads/2012/10/Reporter-TV-Channel.jpg</thumbnail>
-</item>
-
-<item>
-<title>Kiran TV  [COLOR=FFFF0000]Updated  Channel[/COLOR]</title>
-<link>rtmp://141.8.244.56/live playpath=kiran_tv_hd swfUrl=http://141.8.244.56/player/player-licensed55.swf live=true timeout=15 pageUrl=http://sportsembed.com/embed.php?v=kiran_tv_hd&vw=600&vh=450&typeplayer=0&domain=pogotv.eu</link>
-<thumbnail>http://www.sunnetwork.in/ChannelLogo/32kiran1.jpg</thumbnail>
 </item>
 
 <item>

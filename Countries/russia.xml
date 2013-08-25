@@ -35,6 +35,12 @@
 </item>
 
 <item>
+<title>Discovery</title>
+<link>http://94.242.221.141/hls/a-lo/stream141.m3u8</link>
+<thumbnail>http://uncompromisedtruth.files.wordpress.com/2011/08/discovery_channel_2000.png</thumbnail>
+</item>
+
+<item>
 <title>O2 TB</title>
 <link>rtmp://n2.mos.cdn.online.ru/live-r playpath=udp://0.0.0.0:3096 swfUrl=http://www.corbina.tv/flash/swf/player.swf live=true timeout=15 pageUrl=http://www.corbina.tv/tv/o2</link>
 <thumbnail>http://upload.wikimedia.org/wikipedia/commons/7/74/O2_TV_logo.png</thumbnail>

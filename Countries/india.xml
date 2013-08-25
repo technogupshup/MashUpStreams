@@ -237,7 +237,7 @@ Indian - Telugu / Malayam Streams:
 
 <item>
 <title>Colors TV  [COLOR=FFFF0000]Updated  Channel[/COLOR]</title>
-<link>rtsp://85.17.73.78:1935/live/colorshq.stream</link>
+<link>rtmp://50.7.28.146/flash playpath=14642 swfUrl=http://www.udemy.com/static/flash/player5.9.swf pageUrl=http://sawlive.tv/embed/watch/N2E2NDFlYWNiZTk0OmM1NmY2YzZmNzI3MzMxMzIzMzM0OjJmNTRmNThlMTBiNzUzMD/NmM2E2NTdjMDVmMThlMDQxYjZlNDJiNjM6NjIzYTVlNzZjYzgzYzY5ZTcwNDI4MzQ1MzdkNTA2NGE_</link>
 <thumbnail>http://www.ebuzzintown.com/wp-content/uploads/2012/11/colors-tv-logo.jpg</thumbnail>
 </item>
 
@@ -249,7 +249,7 @@ Indian - Telugu / Malayam Streams:
 
 <item>
 <title>Sony Sab TV  [COLOR=FFFF0000]Updated  Channel[/COLOR]</title>
-<link>rtmp://141.8.244.56/base playpath=sabkasab.stream swfUrl=http://141.8.244.56/player/player.swf live=true timeout=15 pageUrl=http://sportsembed.com/embed.php?v=sab_tv&vw=600&vh=450&typeplayer=0&domain=pogotv.eu</link>
+<link>rtsp://46.249.213.93:554/playlists/sonysabtv_hvga.hpl.3gp</link>
 <thumbnail>http://nowwatchtvlive.com/wp-content/uploads/2012/01/sony_sab_tv_asia.png</thumbnail>
 </item>
 
@@ -282,6 +282,7 @@ Indian - Telugu / Malayam Streams:
 <link>http://cdn.m.yupptv.tv/liveorigin/smil:jeevan_iphone.smil/playlist.m3u8</link>
 <thumbnail>http://upload.wikimedia.org/wikipedia/en/0/02/Jeevan_TV.jpg</thumbnail>
 </item>
+
 <item>
 <title>Maha TV</title>
 <link>http://cdn.m.yupptv.tv/liveorigin/smil:mahatv_iphone.smil/playlist.m3u8</link>

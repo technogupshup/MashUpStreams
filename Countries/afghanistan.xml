@@ -106,4 +106,16 @@
 <thumbnail>http://www.jagobd.com/wp-content/uploads/2012/09/ZiPJL-300x220.jpg</thumbnail>
 </item>
 
+<item>
+<title>Khyber News</title>
+<link>plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=jTUMAex_1Yo</link>
+<thumbnail>rtsp://streamer35.eboundservices.com:1935/mobile/mobile-khybernews?hashAESkey=hasew3021218713005hh307880353jj320147318ffds&appType=1.0</thumbnail>
+</item>
+
+<item>
+<title>Makkah Live</title>
+<link>plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=jTUMAex_1Yo</link>
+<thumbnail>http://www.jagobd.com/wp-content/uploads/2012/09/ZiPJL-300x220.jpg</thumbnail>
+</item>
+
 </channel>

@@ -249,7 +249,7 @@ Indian - Telugu / Malayam Streams:
 
 <item>
 <title>Sony Sab TV  [COLOR=FFFF0000]Updated  Channel[/COLOR]</title>
-<link>rtmp://85.17.73.78:1935/live playpath=setmaxin.stream swfUrl=http://www.zstream.eu/p387sj9hd803ns9n3is93s9df8nd93d9g9dfg94ng949f.swf?&streamer=rtmp://85.17.73.78:1935/live&file=setmaxin.stream&autostart=true&stretching=exactfit pageUrl=http://www.zstream.eu/p387sj9hd803ns9n3is93s9df8nd93d9g9dfg94ng949f.swf?&streamer=rtmp://85.17.73.78:1935/live&file=setmaxin.stream&autostart=true&stretching=exactfit</link>
+<link>rtsp://46.249.213.93/broadcast/sonysabtv-tablet.3gp</link>
 <thumbnail>http://nowwatchtvlive.com/wp-content/uploads/2012/01/sony_sab_tv_asia.png</thumbnail>
 </item>
 
@@ -490,7 +490,7 @@ Indian - Telugu / Malayam Streams:
 
 <item>
 <title>Set Max</title>
-<link>rtsp://streamer35.eboundservices.com:1935/mobile/mobile-satmax?hashAESkey=hasew3021218713005hh307880353jj320147318ffds&appType=1.0</link>
+<link>rtmp://85.17.73.78:1935/live playpath=setmaxin.stream swfUrl=http://www.zstream.eu/p387sj9hd803ns9n3is93s9df8nd93d9g9dfg94ng949f.swf?&streamer=rtmp://85.17.73.78:1935/live&file=setmaxin.stream&autostart=true&stretching=exactfit live=true timeout=15 pageUrl=http://www.zstream.eu/p387sj9hd803ns9n3is93s9df8nd93d9g9dfg94ng949f.swf?&streamer=rtmp://85.17.73.78:1935/live&file=setmaxin.stream&autostart=true&stretching=exactfit</link>
 <thumbnail>http://4.bp.blogspot.com/-nEBSssW9lN8/T7uN4BZ-ebI/AAAAAAAADeI/QnwJsCzCopc/s640/SET_Max_2011.png</thumbnail>
 </item>
 
@@ -499,13 +499,5 @@ Indian - Telugu / Malayam Streams:
 <link>rtsp://streamer35.eboundservices.com:1935/mobile/mobile-babytv?hashAESkey=oooQVCS16436957HmsRw11270512674232117086034ppppzxs999920&appType=1.0</link>
 <thumbnail>http://upload.wikimedia.org/wikipedia/en/thumb/4/45/BabyTV.png/1024px-BabyTV.png</thumbnail>
 </item>
-
-<item>
-<title>Zing</title>
-<link>rtsp://46.249.213.87/broadcast/zing-tablet.3gp</link>
-<thumbnail>http://upload.wikimedia.org/wikipedia/en/8/8e/Zing_2011_logo.png</thumbnail>
-</item>
-
-
 
 </channel>

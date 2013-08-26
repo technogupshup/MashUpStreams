@@ -249,7 +249,7 @@ Indian - Telugu / Malayam Streams:
 
 <item>
 <title>Sony Sab TV  [COLOR=FFFF0000]Updated  Channel[/COLOR]</title>
-<link>rtsp://46.249.213.93:554/playlists/sonysabtv_hvga.hpl.3gp</link>
+<link>rtsp://46.249.213.93/broadcast/sonysabtv-tablet.3gp</link>
 <thumbnail>http://nowwatchtvlive.com/wp-content/uploads/2012/01/sony_sab_tv_asia.png</thumbnail>
 </item>
 
@@ -484,8 +484,6 @@ Indian - Telugu / Malayam Streams:
 <item>
 <title>Zee Cinema</title>
 <link>rtsp://streamer35.eboundservices.com:1935/mobile/mobile-zeecinema?hashAESkey=hasew3021218713005hh307880353jj320147318ffds&appType=1.0</link>
-<link>rtsp://streamer35.eboundservices.com:1935/mobile/mobile-zeecinema?hashAESkey=09dsa8as19282017873112838331722227js89k3k520912639zzzvc&appType=1.0
-</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/zz/zee_cinema_africa.png</thumbnail>
 </item>
 

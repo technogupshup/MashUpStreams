@@ -90,13 +90,13 @@
 
 <item>
 <title>Tamadon</title>
-<link>rtmp://tamadonlive.nanocdn.com:1935/live playpath=tamadon256 swfUrl=http://www.nanocdn.net/modules/lives/js/jwplayer/player.swf live=true timeout=15 pageUrl=http://www.nanocdn.net/modules/lives/index.php?id=4&channel=tamadon&op=fph</link>
+<link>rtmp://tamadonlive.nanocdn.com:1935/live playpath=tamadon256 swfUrl=http://www.nanocdn.net/modules/lives/js/jwplayer/player.swf live=hd timeout=15 pageUrl=http://www.nanocdn.net/modules/lives/index.php?id=4&channel=tamadon&op=fph</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/tt/tamadon_tv.png</thumbnail>
 </item>
 
 <item>
 <title>Makkah Live</title>
-<link>plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=jTUMAex_1Yo</link>
+<link>plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=pwVGMyhTHcY</link>
 <thumbnail>http://www.jagobd.com/wp-content/uploads/2012/09/ZiPJL-300x220.jpg</thumbnail>
 </item>
 

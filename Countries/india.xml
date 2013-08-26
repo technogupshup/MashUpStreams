@@ -273,12 +273,6 @@ Indian - Telugu / Malayam Streams:
 </item>
 
 <item>
-<title>Zee TV</title>
-<link>rtsp://85.17.73.78:1935/live/zeetvhq.stream</link>
-<thumbnail>http://images.wikia.com/logopedia/images/3/38/Zee_TV_2011.png</thumbnail>
-</item>
-
-<item>
 <title>Jeevan TV</title>
 <link>http://cdn.m.yupptv.tv/liveorigin/smil:jeevan_iphone.smil/playlist.m3u8</link>
 <thumbnail>http://upload.wikimedia.org/wikipedia/en/0/02/Jeevan_TV.jpg</thumbnail>
@@ -360,12 +354,6 @@ Indian - Telugu / Malayam Streams:
 <title>Sahara Madhya Pradesh</title>
 <link>http://cdn.m.yuppcdn.net/liveorigin/smil:saharamadhyap.smil/playlist.m3u8</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/sahara_samay_madhya_pradesh.jpg</thumbnail>
-</item>
-
-<item>
-<title>Star Gold</title>
-<link>rtsp://85.17.73.78:1935/live/stargoldhq.stream</link>
-<thumbnail>http://www.indiantvinfo.com/wp-content/uploads/2011/09/Star-Gold-New-Logo.jpg</thumbnail>
 </item>
 
 <item>
@@ -459,12 +447,6 @@ Indian - Telugu / Malayam Streams:
 </item>
 
 <item>
-<title>Cartoon Network</title>
-<link>rtsp://streamer35.eboundservices.com:1935/mobile/mobile-cartoonnetwork?hashAESkey=18143993dfssdfd1232985384389394119381997093j4j5j6j89&appType=1.0</link>
-<thumbnail>http://images.wikia.com/cartoonnetwork/images/e/ec/CN_Logo_(Detailed_Gray_Shadow).png</thumbnail>
-</item>
-
-<item>
 <title>Peace TV</title>
 <link>rtmp://peace.fms.visionip.tv/live/ playpath=b2b-peace_usa-live-25f-4x3-sdh_1 live=true timeout=15 swfUrl=http://www.peacetv.tv/templates/swf/player.swf pageUrl=http://www.peacetv.tv/</link>
 <thumbnail>http://upload.wikimedia.org/wikipedia/en/2/2f/Peace_TV_logo.png</thumbnail>
@@ -486,12 +468,6 @@ Indian - Telugu / Malayam Streams:
 <title>Set Max</title>
 <link>rtmp://85.17.73.78:1935/live playpath=setmaxin.stream swfUrl=http://www.zstream.eu/p387sj9hd803ns9n3is93s9df8nd93d9g9dfg94ng949f.swf?&streamer=rtmp://85.17.73.78:1935/live&file=setmaxin.stream&autostart=true&stretching=exactfit live=true timeout=60 pageUrl=http://www.zstream.eu/p387sj9hd803ns9n3is93s9df8nd93d9g9dfg94ng949f.swf?&streamer=rtmp://85.17.73.78:1935/live&file=setmaxin.stream&autostart=true&stretching=exactfit</link>
 <thumbnail>http://4.bp.blogspot.com/-nEBSssW9lN8/T7uN4BZ-ebI/AAAAAAAADeI/QnwJsCzCopc/s640/SET_Max_2011.png</thumbnail>
-</item>
-
-<item>
-<title>Baby TV</title>
-<link>rtsp://streamer35.eboundservices.com:1935/mobile/mobile-babytv?hashAESkey=oooQVCS16436957HmsRw11270512674232117086034ppppzxs999920&appType=1.0</link>
-<thumbnail>http://upload.wikimedia.org/wikipedia/en/thumb/4/45/BabyTV.png/1024px-BabyTV.png</thumbnail>
 </item>
 
 </channel>

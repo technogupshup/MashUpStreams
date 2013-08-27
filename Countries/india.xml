@@ -466,7 +466,7 @@ Indian - Telugu / Malayam Streams:
 
 <item>
 <title>Star Gold</title>
-<link>rtmp://141.8.244.56/base playpath=stargold1.stream swfUrl=http://141.8.244.56/player/player.swf live=timeout pageUrl=http://sportsembed.com/embed.php?v=star_gold2&vw=600&vh=400&typeplayer=0&domain=pogotv.eu</link>
+<link>rtmp://141.8.244.56/base playpath=stargold1.stream swfUrl=http://141.8.244.56/player/player.swf pageUrl=http://sportsembed.com/embed.php?v=star_gold2&vw=600&vh=400&typeplayer=0&domain=pogotv.eu</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ss/star_gold_hd.png</thumbnail>
 </item>
 

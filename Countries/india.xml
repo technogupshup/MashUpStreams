@@ -236,12 +236,6 @@ Indian - Telugu / Malayam Streams:
 </item>
 
 <item>
-<title>Colors TV  [COLOR=FFFF0000]Updated  Channel[/COLOR]</title>
-<link>rtsp://85.17.73.78:1935/live/colorsin.stream</link>
-<thumbnail>http://www.ebuzzintown.com/wp-content/uploads/2012/11/colors-tv-logo.jpg</thumbnail>
-</item>
-
-<item>
 <title>Sony Tv</title>
 <link>rtmp://93.174.93.124/live33 playpath=r_sonytv swfUrl=http://www.zstream.eu/p387sj9hd803ns9n3is93s9df8nd93d9g9dfg94ng949f.swf live=true timeout=15 pageUrl=http://www.zstream.eu/embed.php?v=r_sonytv&vw=600&vh=450&video=0&domain=pogotv.eu</link>
 <thumbnail>http://farm2.staticflickr.com/1054/5158595265_d1ccf4f9e3_z.jpg</thumbnail>
@@ -468,6 +462,12 @@ Indian - Telugu / Malayam Streams:
 <title>Set Max</title>
 <link>rtmp://85.17.73.78:1935/live playpath=setmaxin.stream swfUrl=http://www.zstream.eu/p387sj9hd803ns9n3is93s9df8nd93d9g9dfg94ng949f.swf?&streamer=rtmp://85.17.73.78:1935/live&file=setmaxin.stream&autostart=true&stretching=exactfit live=true timeout=60 pageUrl=http://www.zstream.eu/p387sj9hd803ns9n3is93s9df8nd93d9g9dfg94ng949f.swf?&streamer=rtmp://85.17.73.78:1935/live&file=setmaxin.stream&autostart=true&stretching=exactfit</link>
 <thumbnail>http://4.bp.blogspot.com/-nEBSssW9lN8/T7uN4BZ-ebI/AAAAAAAADeI/QnwJsCzCopc/s640/SET_Max_2011.png</thumbnail>
+</item>
+
+<item>
+<title>Star Gold</title>
+<link>rtmp://141.8.244.56/base<playpath>stargold1.stream swfUrl=http://141.8.244.56/player/player.swf live=true timeout=15 pageUrl=http://sportsembed.com/embed.php?v=star_gold2&vw=600&vh=400&typeplayer=0&domain=pogotv.eu</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/ss/star_gold_hd.png</thumbnail>
 </item>
 
 </channel>

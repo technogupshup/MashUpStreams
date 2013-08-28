@@ -36,7 +36,7 @@
 
 <item>
 <title>Arezu TV</title>
-<link>rtmp://arezutv-live.cdn.ngenix.net/live playpath=arezutv swfUrl=http://arezuonlinetv.com/flowplayer-3.2.11.swf live=true timeout=15 pageUrl=http://arezuonlinetv.com/</link>
+<link>rtmp://arezutv-live.cdn.ngenix.net/live playpath=arezutv_default.stream swfUrl=http://arezuonlinetv.com/flowplayer-3.2.11.swf live=true timeout=15 pageUrl=http://arezuonlinetv.com/</link>
 <thumbnail>http://i3.ytimg.com/i/2yBwG92O_IuMX0aF3ZMFPg/mq1.jpg?v=4fb23b21</thumbnail>
 </item>
 
@@ -47,7 +47,7 @@
 </item>
 
 <item>
-<title>Ariana TV</title>
+<title>Ariana TV[COLOR=FFFF0000]WORKING[/COLOR]</title>
 <link>rtmp://uni2rtmp.tulix.tv:1935/ariana playpath=ariana swfUrl=http://www.tulix.tv/mediaplayer/player.swf pageUrl=http://tulix.com/player/ariana.php</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/ariana_tv_network_international.jpg</thumbnail>
 </item>

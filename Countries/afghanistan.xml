@@ -36,7 +36,7 @@
 
 <item>
 <title>Arezu TV</title>
-<link>rtmp://arezutv-live.cdn.ngenix.net/live playpath=arezutv_default.stream swfUrl=http://arezuonlinetv.com/flowplayer-3.2.11.swf live=true timeout=60 pageUrl=http://arezuonlinetv.com/</link>
+<link>rtmp://arezutv-live.cdn.ngenix.net/live playpath=arezutv_default.stream swfUrl=http://arezuonlinetv.com/flowplayer-3.2.11.swf live=true timeout=15 pageUrl=http://arezuonlinetv.com/</link>
 <thumbnail>http://i3.ytimg.com/i/2yBwG92O_IuMX0aF3ZMFPg/mq1.jpg?v=4fb23b21</thumbnail>
 </item>
 

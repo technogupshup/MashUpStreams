@@ -470,4 +470,10 @@ Indian - Telugu / Malayam Streams:
 <thumbnail>http://upload.wikimedia.org/wikipedia/en/8/8e/Zing_2011_logo.png</thumbnail>
 </item>
 
+<item>
+<title>B4U</title>
+<link>rtsp://85.17.73.78:1935/live/b4umovieshq.stream</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/bb/b4u_movies.png</thumbnail>
+</item>
+
 </channel>

@@ -71,12 +71,6 @@
 </item>
 
 <item>
-<title>RTA Milli</title>
-<link>rtsp://50.97.117.4/AFG-RTA-MAIN</link>
-<thumbnail>http://livetv.liveafghantv.com/images/tv/tv_rta.jpg</thumbnail>
-</item>
-
-<item>
 <title>Noor tv</title>
 <link>rtmp://uni2rtmp.tulix.tv:1935/nooortv playpath=nooortv swfUrl=http://www.tulix.tv/mediaplayer/player.swf live=true timeout=15 pageUrl=http://tulix.com/player/nooor.php/</link>
 <thumbnail>http://www.afghansongs.com/wp-content/uploads/2012/05/noortv_logo.jpg</thumbnail>

@@ -476,9 +476,4 @@ Indian - Telugu / Malayam Streams:
 <thumbnail>http://www.lyngsat-logo.com/hires/bb/b4u_movies.png</thumbnail>
 </item>
 
-<item>
-<title>Colors</title>
-<link>rtmp://141.8.244.56/live playpath=color_hq swfUrl=http://141.8.244.56/player/player.swf live=true timeout=60 pageUrl=http://sportsembed.com/embed.php?v=color_hq&vw=600&vh=450&typeplayer=0&domain=pogotv.eu</link>
-<thumbnail>http://images2.wikia.nocookie.net/__cb20111013225804/logopedia/images/3/33/Colors_TV.png</thumbnail>
-</item>
 </channel>

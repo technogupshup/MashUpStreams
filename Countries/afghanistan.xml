@@ -35,13 +35,13 @@
 </item>
 
 <item>
-<title>Tolo News</title>
+<title>Tolo News [COLOR=FFFF0000]Temp Offline[/COLOR]</title>
 <link>plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=6meR_51KNZM</link>
 <thumbnail>http://www.warrierfilms.com/wp-content/uploads/2011/06/tolo_news_logo.jpg</thumbnail>
 </item>
 
 <item>
-<title>Arezu TV [COLOR=FFFF0000]WORKING[/COLOR]</title>
+<title>Arezu TV</title>
 <link>rtmp://zeenatlive.viddillions.com:1935/zeenatlive playpath=51ztvlive46.stream</link>
 <thumbnail>http://i3.ytimg.com/i/2yBwG92O_IuMX0aF3ZMFPg/mq1.jpg?v=4fb23b21</thumbnail>
 </item>
@@ -53,7 +53,7 @@
 </item>
 
 <item>
-<title>Ariana TV [COLOR=FFFF0000]WORKING[/COLOR]</title>
+<title>Ariana TV</title>
 <link>rtmp://uni2rtmp.tulix.tv:1935/ariana playpath=ariana swfUrl=http://www.tulix.tv/mediaplayer/player.swf pageUrl=http://tulix.com/player/ariana.php</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/ariana_tv_network_international.jpg</thumbnail>
 </item>
@@ -89,7 +89,7 @@
 </item>
 
 <item>
-<title>Makkah Live</title>
+<title>Makkah Live [COLOR=FFFF0000]WORKING[/COLOR]</title>
 <link>plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=pwVGMyhTHcY</link>
 <thumbnail>http://www.jagobd.com/wp-content/uploads/2012/09/ZiPJL-300x220.jpg</thumbnail>
 </item>

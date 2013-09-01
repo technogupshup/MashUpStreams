@@ -460,7 +460,7 @@ Indian - Telugu / Malayam Streams:
 
 <item>
 <title>Set Max</title>
-<link>rtmp://159.253.131.103/live/ playpath=sonysixxxs swfUrl=http://www.janjua.tv/player/player-licensed55.swf?&streamer=rtmp://159.253.131.103/live/&file=sonysixxxs.flv&autostart=true&stretching=exactfit live=true timeout=60 pageUrl=http://www.janjua.tv/player/player-licensed55.swf?&streamer=rtmp://159.253.131.103/live/&file=sonysixxxs.flv&autostart=true&stretching=exactfit</link>
+<link>rtsp://213.163.67.99:1935/live/setmaxhq.stream</link>
 <thumbnail>http://4.bp.blogspot.com/-nEBSssW9lN8/T7uN4BZ-ebI/AAAAAAAADeI/QnwJsCzCopc/s640/SET_Max_2011.png</thumbnail>
 </item>
 

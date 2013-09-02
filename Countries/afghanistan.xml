@@ -23,7 +23,7 @@
 </item>
 
 <item>
-<title>Hewad TV</title>
+<title>Hewad TV [COLOR=FFFF0000]Tempoaray Offline[/COLOR]</title>
 <link>rtmp://64.37.60.10:1935/live playpath=hewadlive swfUrl=http://www.hewad.tv/tvshow/player/player.swf live=true timeout=15 pageUrl=http://www.hewad.tv/</link>
 <thumbnail>http://static.tvlive32.com/logo/Hewad-TV_8171.jpg</thumbnail>
 </item>
@@ -35,7 +35,7 @@
 </item>
 
 <item>
-<title>Tolo News [COLOR=FFFF0000]WORKING[/COLOR]</title>
+<title>Tolo News</title>
 <link>plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=k9kiYne89c0</link>
 <thumbnail>http://www.warrierfilms.com/wp-content/uploads/2011/06/tolo_news_logo.jpg</thumbnail>
 </item>

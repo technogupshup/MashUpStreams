@@ -436,7 +436,7 @@ Indian - Telugu / Malayam Streams:
 
 <item>
 <title>Zee Salaam</title>
-<link>rtmp://live.wmncdn.net/livestream/ playpath=cb582cc2f3b08e0bbd1c9f3d23541e26.sdp swfUrl=http://player.longtailvideo.com/player5.9.swf live=true timeout=15 pageUrl=http://freetvall.com/video/8YH6R51K1Y74/Zee-Salaam</link>
+<link>rtmp://live.wmncdn.net/livestream/ playpath=cb582cc2f3b08e0bbd1c9f3d23541e26.sdp swfUrl=http://player-emea-uk.webmobilive.com/jw/player.swf live=true timeout=60 pageUrl=http://zeesalaam.com/live/</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/zz/zee_salaam.png</thumbnail>
 </item>
 
@@ -444,12 +444,6 @@ Indian - Telugu / Malayam Streams:
 <title>Peace TV</title>
 <link>rtmp://peace.fms.visionip.tv/live/ playpath=b2b-peace_usa-live-25f-4x3-sdh_1 live=true timeout=15 swfUrl=http://www.peacetv.tv/templates/swf/player.swf pageUrl=http://www.peacetv.tv/</link>
 <thumbnail>http://upload.wikimedia.org/wikipedia/en/2/2f/Peace_TV_logo.png</thumbnail>
-</item>
-
-<item>
-<title>Tom and Jerry</title>
-<link>rtmp://76.73.45.98/ctv playpath=tom swfUrl=http://www.canaistv.net/swf/player.swf live=true timeout=15 pageUrl=http://www.canaistv.net/tvamigos/tomejerry.html</link>
-<thumbnail>http://www.kralalemi.com/images/Cizgifilm/tom-ve-jerry1.png</thumbnail>
 </item>
 
 <item>

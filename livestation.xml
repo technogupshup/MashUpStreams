@@ -5,6 +5,12 @@
 </item>
 
 <item>
+<title>CSPAN News</title>
+<link>rtmp://cp82346.live.edgefcs.net:1935/live playpath=CSPAN1@14845 swfUrl="http://www.c-span.org/cspanVideoHD.swf" pageURL="http://www.c-span.org/Live-Video/C-SPAN/" swfVfy=true live=true</link>
+<thumbnail>http://static.ls-cdn.com/uploads/channel/ident/30/medium_cspan_en.jpg</thumbnail>
+</item>
+
+<item>
 <title>CNN News</title>
 <link>http://livestation_hls-lh.akamaihd.net/i/cnn_en@105455/master.m3u8</link>
 <thumbnail>http://static.ls-cdn.com/uploads/channel/ident/84/medium_cnn.jpeg</thumbnail>

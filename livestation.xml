@@ -5,8 +5,20 @@
 </item>
 
 <item>
-<title>CSPAN News</title>
+<title>CSPAN 1</title>
 <link>rtmp://cp82346.live.edgefcs.net:1935/live playpath=CSPAN1@14845 swfUrl="http://www.c-span.org/cspanVideoHD.swf" pageURL="http://www.c-span.org/Live-Video/C-SPAN/" swfVfy=true live=true</link>
+<thumbnail>http://static.ls-cdn.com/uploads/channel/ident/30/medium_cspan_en.jpg</thumbnail>
+</item>
+
+<item>
+<title>CSPAN 2</title>
+<link>rtmp://cp82347.live.edgefcs.net:1935/live playpath=CSPAN2@14846 swfUrl="http://www.c-span.org/cspanVideoHD.swf" pageURL="http://www.c-span.org/Live-Video/C-SPAN2/" swfVfy=true live=true</link>
+<thumbnail>http://static.ls-cdn.com/uploads/channel/ident/30/medium_cspan_en.jpg</thumbnail>
+</item>
+
+<item>
+<title>CSPAN 3</title>
+<link>rtmp://cp82348.live.edgefcs.net:1935/live playpath=CSPAN3@14847 swfUrl="http://www.c-span.org/cspanVideoHD.swf" pageURL="http://www.c-span.org/Live-Video/C-SPAN3/" swfVfy=true live=true</link>
 <thumbnail>http://static.ls-cdn.com/uploads/channel/ident/30/medium_cspan_en.jpg</thumbnail>
 </item>
 

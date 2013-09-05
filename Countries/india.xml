@@ -247,13 +247,6 @@ Indian - Telugu / Malayam Streams:
 <thumbnail>http://nowwatchtvlive.com/wp-content/uploads/2012/01/sony_sab_tv_asia.png</thumbnail>
 </item>
 
-
-<item>
-<title>B4U Music</title>
-<link>http://46.249.213.87/iPhone/broadcast/b4u-tablet.3gp/b4u-tablet.3gp-mr398k.m3u8</link>
-<thumbnail>http://www.mediatalking.com/wp-content/uploads/2012/01/b4u_music-channel.png</thumbnail>
-</item>
-
 <item>
 <title>Web TV</title>
 <link>rtmp://5.63.148.45:1935/8060 playpath=8060 swfUrl=http://player.longtailvideo.com/player.swf live=true timeout=15 pageUrl=http://holygodtv.net/index.php/web-tv/video/featured/web-tv</link>
@@ -426,12 +419,6 @@ Indian - Telugu / Malayam Streams:
 <title>STAR UTSAV</title>
 <link>rtmp://50.7.130.43:1939/base2 playpath=dd15.stream swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://www.turbotv.in/star-utsav/</link>
 <thumbnail>http://www.turbotv.in/wp-content/uploads/2012/11/STAR_Utsav_.jpg</thumbnail>
-</item>
-
-<item>
-<title>Life OK</title>
-<link>rtsp://85.17.73.78:1935/live/lifeokhq.stream</link>
-<thumbnail>http://upload.wikimedia.org/wikipedia/en/f/fc/Life_OK_channel_logo.png</thumbnail>
 </item>
 
 <item>

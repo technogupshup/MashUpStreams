@@ -66,7 +66,7 @@
 
 <item>
 <title>Shamshad [COLOR=FFFF0000]Working[/COLOR]</title>
-<link>rtmp://zeenatlive.viddillions.com:1935/zeenatlive playpath=51ztvlive20.stream</link>
+<link>rtmp://zeenatlive.viddillions.com:1935/zeenatlive playpath=51ztvlive20.stream <swfUrl> live=true timeout=60 <pageUrl></link>
 <thumbnail>http://cricket.tolafghan.com/assets/posts/18057/medium/SHAMSHAD_TV.jpg?1273990160</thumbnail>
 </item>
 
@@ -89,7 +89,7 @@
 </item>
 
 <item>
-<title>Makkah Live [COLOR=FFFF0000]WORKING[/COLOR]</title>
+<title>Makkah Live</title>
 <link>http://iphone-streaming.ustream.tv/ustreamVideo/15134415/streams/live/playlist.m3u8</link>
 <thumbnail>http://www.jagobd.com/wp-content/uploads/2012/09/ZiPJL-300x220.jpg</thumbnail>
 </item>

@@ -90,8 +90,14 @@
 
 <item>
 <title>PTV Home</title>
-<link>rtmp://live.server4sale.com/live playpath=PTVhome swfUrl=http://live.server4sale.com:81/swfs/videoPlayer.swf live=true timeout=15 pageUrl=http://home.ptv.com.pk/PTVHomeStreaming.asp</link>
+<link>rtmp://live.server4sale.com/live playpath=PTVhome swfUrl=http://live.server4sale.com:81/swfs/videoPlayer.swf live=true timeout=60 pageUrl=http://home.ptv.com.pk/PTVHomeStreaming.asp</link>
 <thumbnail>http://www.tvskull.com/wp-content/uploads/2012/11/ptv-home-logo.png</thumbnail>
+</item>
+
+<item>
+<title>PTV Sport</title>
+<link>rtmp://159.253.131.103/live playpath=yoyothri swfUrl=http://www.janjua.tv/player/player-licensed55.swf?&streamer=rtmp://159.253.131.103/live&file=yoyothri.flv&autostart=true&stretching=exactfit pageUrl=http://www.janjua.tv/player/player-licensed55.swf?&streamer=rtmp://159.253.131.103/live&file=yoyothri.flv&autostart=true&stretching=exactfit</link>
+<thumbnail>http://www.ptvsports.pk/wp-content/uploads/2012/09/PTV-Sports-Channel-logo.jpg</thumbnail>
 </item>
 
 </channel>

@@ -42,7 +42,7 @@
  
 <item>
 <title>Al Jazeera English</title>
-<link>http://hd2.lsops.net/live/smil:aljazeer_en_hls.smil/playlist.m3u8</link>
+<link>rtmp://hd2.lsops.net/live playpath=aljazeer_en_372 swfUrl="http://static.ls-cdn.com/player/5.10/livestation-player.swf" pageURL="http://www.livestation.com/channels/3-al-jazeera-english-english</link>
 <thumbnail>http://static.ls-cdn.com/uploads/channel/ident/3/medium_aljazeer_en.jpg</thumbnail>
 </item> 
 

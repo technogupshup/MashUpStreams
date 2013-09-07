@@ -41,6 +41,12 @@
 </item>
 
 <item>
+<title>DM Digital</title>
+<link>rtmp://live5.haditv.com:1935/liveTrans playpath=channel5_450k swfUrl= live=true timeout=15 pageUrl=</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/dd/dm_digital.png</thumbnail>
+</item>
+
+<item>
 <title>Geo Enterainment</title>
 <link>rtsp://85.17.73.78:1935/live/geoentt</link>
 <thumbnail>http://www.friendsalliance.com.pk/Images/Client-GeoEnt.png</thumbnail>

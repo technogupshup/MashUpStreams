@@ -42,7 +42,7 @@
 
 <item>
 <title>DM Digital</title>
-<link>rtmp://live5.haditv.com:1935/liveTrans playpath=channel5_450k swfUrl= live=true timeout=15 pageUrl=</link>
+<link>rtmp://zeenatlive.viddillions.com:1935/zeenatlive playpath=51ztvlive03.stream swfUrl= live=true timeout=15 pageUrl=</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/dd/dm_digital.png</thumbnail>
 </item>
 

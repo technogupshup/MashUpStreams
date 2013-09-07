@@ -89,9 +89,9 @@
 </item>
 
 <item>
-<title>TEN Sports</title>
-<link>rtsp://85.17.73.78:1935/live/tensports.stream</link>
-<thumbnail>http://www.lyngsat-logo.com/hires/tt/ten_sports_pk.png</thumbnail>
+<title>PTV Home</title>
+<link>rtmp://live.server4sale.com/live playpath=PTVhome swfUrl=http://live.server4sale.com:81/swfs/videoPlayer.swf live=true timeout=15 pageUrl=http://home.ptv.com.pk/PTVHomeStreaming.asp</link>
+<thumbnail>http://www.tvskull.com/wp-content/uploads/2012/11/ptv-home-logo.png</thumbnail>
 </item>
 
 </channel>

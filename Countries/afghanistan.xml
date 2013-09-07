@@ -11,6 +11,12 @@
 </item>
 
 <item>
+<title>Farsi 1</title>
+<link>rtmp://iriptv.com/iriptvserver2 playpath=14 swfUrl=http://iriptv.com/player/player.swf live=true timeout=60 pageUrl=http://iriptv.com/web/index.php</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/ff/farsi1.png</thumbnail>
+</item>
+
+<item>
 <title>1TV</title>
 <link>http://iphone-streaming.ustream.tv/ustreamVideo/11266193/streams/live/playlist.m3u8</link>
 <thumbnail>http://kabultoday.files.wordpress.com/2009/12/1tv-logo.jpg</thumbnail>

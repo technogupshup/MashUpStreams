@@ -11,6 +11,12 @@
 </item>
 
 <item>
+<title>Capital TV/title>
+<link>rtmp://184.107.236.10:1935/live playpath=myStream.sdp swfUrl= pageUrl= </link>
+<thumbnail>http://www.saach.tv/wp-content/uploads/2013/04/Capital-TV-Pakistan.png</thumbnail>
+</item>
+
+<item>
 <title>Samaa TV  [COLOR=FFFF0000]Updated  Channel[/COLOR]</title>
 <link>rtmp://38.96.148.99:1935/samaalive playpath=samaalive swfUrl=http://live.samaa.tv/player.swf live=true timeout=15 pageUrl=http://hamariweb.com/pakistan-tv-channels/sama_tv.aspx</link>
 <thumbnail>http://www.dramaonlinetv.com/wp-content/uploads/2012/08/SAMAA-News-TV.jpg</thumbnail>

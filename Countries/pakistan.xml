@@ -47,9 +47,9 @@
 </item>
 
 <item>
-<title>Geo Enterainment</title>
-<link>rtsp://85.17.73.78:1935/live/geoentt</link>
-<thumbnail>http://www.friendsalliance.com.pk/Images/Client-GeoEnt.png</thumbnail>
+<title>KTN</title>
+<link>rtmp://202.5.137.226/kashish playpath=ktn swfUrl=http://ktntv.tv/ktnnews/player/player.swf?&streamer=rtmp://202.5.137.226/kashish&file=ktn&autostart=true&stretching=exactfit pageUrl=http://ktntv.tv/ktnnews/player/player.swf?&streamer=rtmp://202.5.137.226/kashish&file=ktn&autostart=true&stretching=exactfit</link>
+<thumbnail>http://ktntv.tv/ktn-entertainment/images/logo.png</thumbnail>
 </item>
 
 <item>
@@ -83,14 +83,14 @@
 </item>
 
 <item>
-<title>Kashish TV</title>
+<title>KTN News</title>
 <link>rtmp://watch.dmasti.pk:1935/kashish playpath=kashish swfUrl=http://ktntv.tv/ktnnews/player/player.swf?&streamer=rtmp://watch.dmasti.pk:1935/kashish&file=kashish&autostart=true&stretching=exactfit pageUrl=http://ktntv.tv/ktnnews/player/player.swf?&streamer=rtmp://watch.dmasti.pk:1935/kashish&file=kashish&autostart=true&stretching=exactfit</link>
-<thumbnail>http://www.lyngsat-logo.com/hires/kk/kashish_tv.png</thumbnail>
+<thumbnail>http://www.lyngsat-logo.com/hires/kk/ktn_news.png</thumbnail>
 </item>
 
 <item>
 <title>GEO News</title>
-<link>rtsp://85.17.73.78:1935/live/geonewss.stream</link>
+<link>rtmp://202.5.137.226/kashish playpath=ktnnews swfUrl=http://ktntv.tv/ktnnews/player/player.swf?&streamer=rtmp://202.5.137.226/kashish&file=ktnnews&autostart=true&stretching=exactfit <pageUrl>http://ktntv.tv/ktnnews/player/player.swf?&streamer=rtmp://202.5.137.226/kashish&file=ktnnews&autostart=true&stretching=exactfit</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/gg/geo_news_pk.png</thumbnail>
 </item>
 

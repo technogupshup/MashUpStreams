@@ -83,9 +83,9 @@
 </item>
 
 <item>
-<title>Express News</title>
-<link>rtsp://85.17.73.78:1935/live/expressnewss.stream</link>
-<thumbnail>http://www.tvskull.com/wp-content/uploads/2012/11/express_news.png</thumbnail>
+<title>Kashish TV</title>
+<link>rtmp://watch.dmasti.pk:1935/kashish playpath=kashish swfUrl=http://ktntv.tv/ktnnews/player/player.swf?&streamer=rtmp://watch.dmasti.pk:1935/kashish&file=kashish&autostart=true&stretching=exactfit pageUrl=http://ktntv.tv/ktnnews/player/player.swf?&streamer=rtmp://watch.dmasti.pk:1935/kashish&file=kashish&autostart=true&stretching=exactfit</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/kk/kashish_tv.png</thumbnail>
 </item>
 
 <item>

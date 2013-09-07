@@ -66,7 +66,7 @@
 
 <item>
 <title>ARY Digital</title>
-<link>rtsp://85.17.73.78/live/arydig</link>
+<link>rtmp://141.8.244.56/tv playpath=tvary swfUrl=http://141.8.244.56/player/player.swf live=true timeout=15 pageUrl=http://sportsembed.com/embed.php?v=tvary&vw=600&vh=450&typeplayer=0&domain=pogotv.eu</link>
 <thumbnail>http://upload.wikimedia.org/wikipedia/en/f/f3/ARY_Digital_Logo_2.png</thumbnail>
 </item>
 

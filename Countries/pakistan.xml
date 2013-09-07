@@ -12,7 +12,7 @@
 
 <item>
 <title>Capital TV/title>
-<link>rtmp://184.107.236.10:1935/live playpath=myStream.sdp swfUrl= pageUrl= </link>
+<link>rtmp://184.107.236.10:1935/live playpath=myStream.sdp swfUrl= live=true timeout=60 pageUrl=</link>
 <thumbnail>http://www.saach.tv/wp-content/uploads/2013/04/Capital-TV-Pakistan.png</thumbnail>
 </item>
 

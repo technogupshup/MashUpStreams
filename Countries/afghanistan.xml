@@ -36,7 +36,7 @@
 
 <item>
 <title>Hewad TV [COLOR=FFFF0000]Working[/COLOR]</title>
-<link>rtmp://64.37.60.10:1935/live playpath=hewadlive swfUrl=http://www.hewad.tv/tvshow/player/player.swf live=true timeout=15 pageUrl=http://www.hewad.tv/</link>
+<link>rtmp://64.37.60.10:1935/live playpath=hewadlive swfUrl=http://www.hewad.tv/tvshow/player/player.swf live=true timeout=60 pageUrl=http://www.hewad.tv/</link>
 <thumbnail>http://static.tvlive32.com/logo/Hewad-TV_8171.jpg</thumbnail>
 </item>
 

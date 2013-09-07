@@ -78,7 +78,7 @@
 
 <item>
 <title>RTA</title>
-<link>rtmp://64.37.60.10:1935/live/ playpath=rtastream swfUrl=http://www.rta.org.af/english/jwplayer.flash.swf live=true timeout=60 pageUrl=http://www.rta.org.af/english/en/contact-us</link>
+<link>rtmp://64.37.60.10:1935/live/ playpath=rtastream swfUrl=http://www.rta.org.af/english/jwplayer.flash.swf live=true timeout=30 pageUrl=http://www.rta.org.af/english/en/contact-us</link>
 <thumbnail>http://upload.wikimedia.org/wikipedia/commons/thumb/4/40/RTA_Afghanistan_Logo.svg/200px-RTA_Afghanistan_Logo.svg.png</thumbnail>
 </item>
 

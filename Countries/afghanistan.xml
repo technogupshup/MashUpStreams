@@ -77,6 +77,12 @@
 </item>
 
 <item>
+<title>RTA</title>
+<link>rtmp://64.37.60.10:1935/live/ playpath=rtastream swfUrl=http://www.rta.org.af/english/jwplayer.flash.swf live=true timeout=60 pageUrl=http://www.rta.org.af/english/en/contact-us</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/commons/thumb/4/40/RTA_Afghanistan_Logo.svg/200px-RTA_Afghanistan_Logo.svg.png</thumbnail>
+</item>
+
+<item>
 <title>Sharq TV [COLOR=FFFF0000]Channel Will Start On Second Attempt[/COLOR]</title>
 <link>http://iphone-streaming.ustream.tv/ustreamVideo/12548905/streams/live/playlist.m3u8</link>
 <thumbnail>http://4.bp.blogspot.com/-4rxDOxGL-CM/UYEFEsXwGkI/AAAAAAAAAlI/MNOT0f7Oj4g/s320/sharq.png</thumbnail>

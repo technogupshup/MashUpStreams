@@ -35,6 +35,12 @@
 </item>
 
 <item>
+<title>Galargo tv</title>
+<link>rtmp://rtmp.galargo.tv:1935/wowzaapp1 playpath>1_360p swfUrl= pageUrl=</link>
+<thumbnail>http://www.radarpro.ru/upload/medialibrary/fc4/galargo.png</thumbnail>
+</item>
+
+<item>
 <title>O2 TB</title>
 <link>rtmp://n2.mos.cdn.online.ru/live-r playpath=udp://0.0.0.0:3096 swfUrl=http://www.corbina.tv/flash/swf/player.swf live=true timeout=15 pageUrl=http://www.corbina.tv/tv/o2</link>
 <thumbnail>http://upload.wikimedia.org/wikipedia/commons/7/74/O2_TV_logo.png</thumbnail>

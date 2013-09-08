@@ -441,7 +441,7 @@ Indian - Telugu / Malayam Streams:
 
 <item>
 <title>Set Max</title>
-<link>rtmp://37.220.34.28/live playpath=str730mfll swfUrl=http://www.maxstream.in/player/player.swf live=true timeout=60 pageUrl=http://www.maxstream.in/embed.php?a=368&id=&width=600&height=450&autostart=true&strech=</link>
+<link>rtmp://37.220.34.28/live playpath=str730mfll swfUrl=http://www.maxstream.in/player/player.swf live=true timeout=60 pageUrl=http://www.maxstream.in/embed.php?a=368&id=&width=600&height=430&autostart=true&strech=</link>
 <thumbnail>http://4.bp.blogspot.com/-nEBSssW9lN8/T7uN4BZ-ebI/AAAAAAAADeI/QnwJsCzCopc/s640/SET_Max_2011.png</thumbnail>
 </item>
 

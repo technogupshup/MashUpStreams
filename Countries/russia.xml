@@ -5,12 +5,6 @@
 <thumbnail></thumbnail>
 
 <item>
-<title>Mad</title>
-<link>plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=emjmbg2jukE</link>
-<thumbnail>http://i1.ytimg.com/i/s3cho4vcDuCze0tk3W9iVQ/1.jpg?v=513f1bd1</thumbnail>
-</item>
-
-<item>
 <title>Эфир телеканал Мужской</title>
 <link>plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=p0CC2QqhLg0</link>
 <thumbnail>http://online-red.narod.ru/images/tv/muzhskoy.jpg</thumbnail>
@@ -36,7 +30,7 @@
 
 <item>
 <title>Galargo tv</title>
-<link>rtmp://rtmp.galargo.tv:1935/wowzaapp1 playpath>1_360p swfUrl= pageUrl=</link>
+<link>rtmp://rtmp.galargo.tv:1935/wowzaapp1 playpath=1_360p swfUrl= live=true timeout=15 pageUrl=</link>
 <thumbnail>http://www.radarpro.ru/upload/medialibrary/fc4/galargo.png</thumbnail>
 </item>
 
@@ -175,8 +169,9 @@
 
 <item>
 <title>SONY Scifi v2</title>
+<link>http://92.124.75.247:1234/udp/233.7.70.184:5000</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ss/sony_scifi_ru.png</thumbnail>
-<link>http://92.124.75.247:1234/udp/233.7.70.184:5000</link></item>
+</item>
 
 <item>
 <title>JimJam v3</title>

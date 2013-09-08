@@ -175,14 +175,14 @@
 
 <item>
 <title>JimJam v3</title>
+<link>http://212.20.43.145:1234/udp/233.7.70.148:5000</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/jj/jim_jam_asia.png</thumbnail>
-<link>http://212.20.43.145:1234/udp/233.7.70.148:5000</link></item>
+</item>
 
 <item>
 <title>Fight Box</title>
+<link>http://spiinternational-i.akamaihd.net/hls/live/204308/FIGHTBOXHD_MT_HLS/once1200.m3u8</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ff/fight_box_hd.png</thumbnail>
-<link>http://spiinternational-i.akamaihd.net/hls/live/204308/FIGHTBOXHD_MT_HLS/once1200.m3u8</link></item>
-
-
+</item>
 
 </channel>

@@ -106,5 +106,16 @@
 <thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/Mashup/theoldpath_zpsecf11346.png</thumbnail>
 </item>
 
+<item>
+<title>INCTV</title>
+<link>rtmp://live.incmediaservices.netdna-cdn.com/live/36350/streamname playpath=live swfUrl=http://incmedia.org/js/flowplayer.commercial-3.2.7-1.swf pageUrl=http://incmedia.org/liveweb.html live=1</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ii/inc_tv_ph.jpg</thumbnail>
+</item>
+
+<item>
+<title>INCTV Media</title>
+<link>rtmp://live.incmediaservices.netdna-cdn.com/live/36350/streamname playpath=live swfUrl=http://incmedia.org/js/flowplayer.commercial-3.2.7-1.swf pageUrl=http://incmedia.org/liveweb.html live=1</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ii/inc_media_ph.jpg</thumbnail>
+</item>
 
 </channel>

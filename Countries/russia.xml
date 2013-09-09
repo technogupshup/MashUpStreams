@@ -198,6 +198,13 @@
 </item>
 
 <item>
+<title>Hardlife tv</title>
+<link>rtmp://86.62.75.60:1935/live playpath=hardlife swfUrl= live=true timeout=15 pageUrl=</link>
+<thumbnail>http://www.cktv.ru/img/tv/hard_life.jpg</thumbnail>
+</item>
+
+
+<item>
 <title>Mir TV</title>
 <link>rtmp://mirtv.cdnvideo.ru:1935/mirtv-live playpath=mir3tv600.sdp swfUrl= live=true timeout=15 pageUrl=</link>
 <thumbnail>http://thewatchtv.com/wp-content/uploads/2013/01/mir-24-tv.jpg</thumbnail>

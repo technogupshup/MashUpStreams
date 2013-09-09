@@ -23,12 +23,6 @@
 </item>
 
 <item>
-<title>Tolo News</title>
-<link>plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=player_embedded&v=szd80PxGfzU</link>
-<thumbnail>http://www.lyngsat-logo.com/hires/tt/tolo_news.png</thumbnail>
-</item>
-
-<item>
 <title>Afghan TV [COLOR=FFFF0000]Channel Will Start On Second Attempt[/COLOR]</title>
 <link>http://iphone-streaming.ustream.tv/ustreamVideo/9467491/streams/live/playlist.m3u8</link>
 <thumbnail>http://static-cdn2.ustream.tv/i/channel/picture/1/5/4/9/15494035/15494035_afghannewstv_1375701608,640x360,r:1.jpg</thumbnail>
@@ -110,6 +104,12 @@
 <title>Madina Live</title>
 <link>plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=KonSX32x5YU</link>
 <thumbnail>http://oi39.tinypic.com/1tjxfp.jpg</thumbnail>
+</item>
+
+<item>
+<title>Tolo News</title>
+<link>plugin://plugin.video.youtube/?path=/root/video&action=player_embedded&v=szd80PxGfzU</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/tt/tolo_news.png</thumbnail>
 </item>
 
 <item>

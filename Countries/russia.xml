@@ -191,11 +191,6 @@
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/ii/inva_media_tv_ru.jpg</thumbnail>
 </item>
 
-<item>
-<title>Hardlife TV</title>
-<link>rtmp://86.62.75.60:1935/live playpath=hardlife swfUrl= live=true timeout=15 pageUrl=</link>
-<thumbnail>http://www.serverokcs.ru/tmks/22505029.png</thumbnail>
-</item>
 
 <item>
 <title>Hardlife tv</title>

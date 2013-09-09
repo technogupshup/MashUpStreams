@@ -47,12 +47,6 @@
 </item>
 
 <item>
-<title>Tolo News [COLOR=FFFF0000]Working[/COLOR]</title>
-<link>plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=szd80PxGfzU</link>
-<thumbnail>http://www.lyngsat-logo.com/hires/tt/tolo_news.png</thumbnail>
-</item>
-
-<item>
 <title>Arezu TV</title>
 <link>rtmp://zeenatlive.viddillions.com:1935/zeenatlive playpath=51ztvlive46.stream</link>
 <thumbnail>http://4.bp.blogspot.com/-eL7Bm0B_Fck/Uc7E-utmNCI/AAAAAAAABFA/jc6auT6d5PU/s269/205451_471051409641907_837049089_n.png</thumbnail>

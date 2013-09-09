@@ -108,7 +108,7 @@
 
 <item>
 <title>Tolo News</title>
-<link>plugin://plugin.video.youtube/?path=/root/video&action=player_embedded&v=szd80PxGfzU</link>
+<link>plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=szd80PxGfzU</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/tt/tolo_news.png</thumbnail>
 </item>
 

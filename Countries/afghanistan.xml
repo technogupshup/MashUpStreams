@@ -118,4 +118,10 @@
 <thumbnail>http://static.guim.co.uk/sys-images/Guardian/About/General/2012/3/14/1331728105752/bbc-persian-tv-007.jpg</thumbnail>
 </item>
 
+<item>
+<title>Salaam TV</title>
+<link>rtsp://live.salaamtv.org/S300</link>
+<thumbnail>http://www.murtazawalji.com/sites/ashura/live-tv/salaam-tv/logo.jpg</thumbnail>
+</item>
+
 </channel>

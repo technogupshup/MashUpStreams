@@ -22,29 +22,7 @@
 <thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/Mashup/radyo5_zps1e4a8acb.png</thumbnail>
 </item>
 
-<item>
-<title>ABS-CBN [COLOR=FFFF0000]Link 1[/COLOR]</title>
-<link>http://iwantvls-i.akamaihd.net/hls/live/202810/abscbn/master.m3u8</link>
-<thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/Mashup/abs-cbn2_zps6305f072.png</thumbnail>
-</item>
 
-<item>
-<title>ABS-CBN [COLOR=FFFF0000]Link 2[/COLOR]</title>
-<link>rtmp://edge.isearch.to/edge playpath=xxooiinjva78v94 swfUrl=http://player.ilive.to/player_ilive_2.swf live=true timeout=15 pageUrl=http://www.ilive.to/view/42963/watch-live-Sinipaay-streaming-channel-for-free</link>
-<thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/Mashup/abs-cbn2_zps6305f072.png</thumbnail>
-</item>
-
-<item>
-<title>ABS-CBN [COLOR=FFFF0000]Link 3[/COLOR]</title>
-<link>rtmp://cp106256.live.edgefcs.net:443/live?videoId=1879066044001&lineUpId=&pubId=1213020456001&playerId=2201426956001&affiliateId=/ playpath=iwantabs-256@36979?videoId=1879066044001&lineUpId=&pubId=1213020456001&playerId=2201426956001&affiliateId=  swfUrl=http://p.jwpcdn.com/6/5/jwplayer.flash.swf live=true timeout=15 pageUrl=http://www.pinoyshownow.net/2011/04/abs-cbn-live-streaming.html</link>
-<thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/Mashup/abs-cbn2_zps6305f072.png</thumbnail>
-</item>
-
-<item>
-<title>GMA 7</title>
-<link>rtmp://edge.isearch.to/edge playpath=tj6zegfdas16p08 swfUrl=http://player.ilive.to/player_ilive_2.swf live=true timeout=15 pageUrl=http://www.ilive.to/view/44090/watch-live-GMA_7-streaming-channel-for-free</link>
-<thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/Mashup/gma7_zpse6c76072.png</thumbnail>
-</item>
 
 <item>
 <title>Sports 5</title>
@@ -116,6 +94,18 @@
 <title>INCTV Media</title>
 <link>rtmp://live.incmediaservices.netdna-cdn.com/live/36350/streamname playpath=live swfUrl=http://incmedia.org/js/flowplayer.commercial-3.2.7-1.swf pageUrl=http://incmedia.org/liveweb.html live=1</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/ii/inc_media_ph.jpg</thumbnail>
+</item>
+
+<item>
+<title>ABS-CBN Link 2</title>
+<link>rtmp://live.iguide.to/edge playpath=xxooiinjva78v94 swfUrl=http://player.ilive.to/player_ilive_2.swf pageUrl=http://www.ilive.to/view/42963/watch-live-Sinipaay-streaming-channel-for-free token=#e87JDUJD264YED687 swfVfy=1 live=1 timeout=15</link>
+<thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/Mashup/abs-cbn2_zps6305f072.png</thumbnail>
+</item>
+
+<item>
+<title>GMA 7</title>
+<link>rtmp://live.iguide.to/edge playpath=tj6zegfdas16p08 swfUrl=http://player.ilive.to/player_ilive_embed.swf pageUrl=http://www.ilive.to/embedplayer.php?width=600&height=450&channel=44090 &autoplay=true token=#e87JDUJD264YED687 swfVfy=1 live=1 timeout=15</link>
+<thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/Mashup/gma7_zpse6c76072.png</thumbnail>
 </item>
 
 </channel>

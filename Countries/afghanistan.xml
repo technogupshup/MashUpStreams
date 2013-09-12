@@ -126,7 +126,7 @@
 
 <item>
 <title>MBN TV</title>
-<link>rtmp://119.59.82.214:1935/live playpath=mp4:livestream.f4v swfUrl=http://mbn.af/swfs/StrobeMediaPlayback.swf live=ture timeout=60 pageUrl=http://mbn.af/livetv.php</link>
+<link>rtmp://119.59.82.214:1935/live playpath=mp4:livestream swfUrl=http://mbn.af/swfs/StrobeMediaPlayback.swf live=ture timeout=60 pageUrl=http://mbn.af/livetv.php</link>
 <thumbnail>http://mbn.af/images/logo/gif.gif</thumbnail>
 </item>
 

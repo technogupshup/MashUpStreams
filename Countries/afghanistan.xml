@@ -130,4 +130,10 @@
 <thumbnail>http://mbn.af/images/logo/gif.gif</thumbnail>
 </item>
 
+<item>
+<title>Tolo TV</title>
+<link>rtsp://50.97.117.4/AFG-TAMADON-MAIN</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/en/0/01/Tolo.jpg</thumbnail>
+</item>
+
 </channel>

@@ -108,4 +108,22 @@
 <thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/Mashup/gma7_zpse6c76072.png</thumbnail>
 </item>
 
+<item>
+<title>ABS-CBN Link 1</title>
+<link>http://iwantvls-i.akamaihd.net/hls/live/202810/abscbn/master.m3u8</link>
+<thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/Mashup/abs-cbn2_zps6305f072.png</thumbnail>
+</item>
+
+<item>
+<title>ABS-CBN Link 3</title>
+<link>rtmp://cp106256.live.edgefcs.net:443/live playpath=iwantabs-256@36979?videoId=1879066044001 swfUrl=http://p.jwpcdn.com/6/5/jwplayer.flash.swf live=true timeout=15 pageUrl=http://www.pinoyshownow.net/2011/04/abs-cbn-live-streaming.html</link>
+<thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/Mashup/abs-cbn2_zps6305f072.png</thumbnail>
+</item>
+
+<item>
+<title>GMA 7</title>
+<link>rtmp://live.iguide.to/edge playpath=tj6zegfdas16p08 swfUrl=http://player.ilive.to/player_ilive_2.swf pageUrl=http://www.ilive.to/view/44090/watch-live-GMA_7-streaming-channel-for-free token=#e87JDUJD264YED687 swfVfy=1 live=1 timeout=15</link>
+<thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/Mashup/gma7_zpse6c76072.png</thumbnail>
+</item>
+
 </channel>

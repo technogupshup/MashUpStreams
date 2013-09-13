@@ -60,7 +60,7 @@
 
 <item>
 <title>Ariana TV</title>
-<link>plugin://plugin.video.youtube/?action=play_video;videoid=szd80PxGfzU</link>
+<link>rtsp://50.97.117.4/AFG-ATN-PACIFIC</link>
 <thumbnail>http://www.sekisat.com/data/sat_channel/images/996/logo</thumbnail>
 </item>
 

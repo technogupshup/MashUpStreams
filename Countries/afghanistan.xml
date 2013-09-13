@@ -60,7 +60,7 @@
 
 <item>
 <title>Ariana TV</title>
-<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=szd80PxGfzU</link>
+<link>plugin://plugin.video.youtube/?action=play_video;videoid=szd80PxGfzU</link>
 <thumbnail>http://www.sekisat.com/data/sat_channel/images/996/logo</thumbnail>
 </item>
 
@@ -122,12 +122,6 @@
 <title>Salaam TV</title>
 <link>rtsp://live.salaamtv.org/S300</link>
 <thumbnail>http://www.murtazawalji.com/sites/ashura/live-tv/salaam-tv/logo.jpg</thumbnail>
-</item>
-
-<item>
-<title>MBN TV</title>
-<link>rtmp://119.59.82.214:1935/live playpath=mp4:livestream.f4v swfUrl=http://mbn.af/swfs/StrobeMediaPlayback.swf pageUrl=http://mbn.af/livetv.php</link>
-<thumbnail>http://mbn.af/images/logo/gif.gif</thumbnail>
 </item>
 
 <item>

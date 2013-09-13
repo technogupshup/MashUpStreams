@@ -345,7 +345,7 @@ Indian - Telugu / Malayam Streams:
 
 <item>
 <title>Star Plus [COLOR=FFFF0000]Working[/COLOR]</title>
-<link>http://fw01.livefile.me.totiptv.com/s02/7c75ad89-c1cc-417a-a0f0-66133c0a2333/800/20130914/800_1379096591_29903600.ts</link>
+<link>rtmp://212.7.206.71/live playpath=starpl56?id=3781 swfUrl=http://yycast.com/static/scripts/eplayer.swf live=true timeout=15 pageUrl=http://yycast.com/embedded/starpl56/1/600/430</link>
 <thumbnail>http://images2.wikia.nocookie.net/__cb20100619101411/logopedia/images/f/fc/StarPlus_2010.png</thumbnail>
 </item>
 

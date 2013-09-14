@@ -132,7 +132,7 @@
 
 <item>
 <title>MBN</title>
-<link>rtmp://119.59.82.214/live/mp4:livestream.f4v swfurl=http://mbn.af/swfs/StrobeMediaPlayback.swf pageUrl=http://mbn.af/livetv.php swfVfy=true live=true timeout=10</link>
+<link>rtmp://119.59.82.214/live/mp4:livestream.f4v swfurl=http://mbn.af/swfs/StrobeMediaPlayback.swf pageUrl=http://mbn.af/livetv.php swfVfy=true live=true timeout=60</link>
 <thumbnail>http://mbn.af/images/logo/gif.gif</thumbnail>
 </item>
 

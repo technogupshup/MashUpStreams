@@ -89,13 +89,13 @@
 </item>
 
 <item>
-<title>Makkah Live [COLOR=FFFF0000]Working[/COLOR]</title>
+<title>Makkah Live</title>
 <link>http://iphone-streaming.ustream.tv/ustreamVideo/15134415/streams/live/playlist.m3u8</link>
 <thumbnail>http://www.jagobd.com/wp-content/uploads/2012/09/ZiPJL-300x220.jpg</thumbnail>
 </item>
 
 <item>
-<title>Madina Live [COLOR=FFFF0000]Working[/COLOR]</title>
+<title>Madina Live</title>
 <link>rtmp://69.39.238.102/besmallah playpath=cam3 swfUrl=http://live.gph.gov.sa/player.swf live=true timeout=60 pageUrl=http://live.gph.gov.sa/mdch.html</link>
 <thumbnail>http://oi39.tinypic.com/1tjxfp.jpg</thumbnail>
 </item>
@@ -135,5 +135,12 @@
 <link>rtmp://119.59.82.214/live/mp4:livestream.f4v swfurl=http://mbn.af/swfs/StrobeMediaPlayback.swf pageUrl=http://mbn.af/livetv.php swfVfy=true live=true timeout=60</link>
 <thumbnail>http://mbn.af/images/logo/gif.gif</thumbnail>
 </item>
+
+<item>
+<title>Tolo TV 2 [COLOR=FFFF0000]Working[/COLOR]</title>
+<link>rtsp://50.97.117.4/AFG-TAMADON-MAIN</link>
+<thumbnail>http://1.bp.blogspot.com/-xDJzVJZq2i0/UfQ2NNhci5I/AAAAAAAAB04/CaHqpPve9eE/s200/tolo_tv.png</thumbnail>
+</item>
+
 
 </channel>

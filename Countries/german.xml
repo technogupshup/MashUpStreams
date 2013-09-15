@@ -5,6 +5,30 @@
 <thumbnail></thumbnail>
 
 <item>
+<title>ORF EINS</title>
+<link>rtsp://apasfwl.apa.at:80/orf1_q6a/orf.sdp</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/oo/orf_eins.jpg</thumbnail>
+</item>
+
+<item>
+<title>ORF 2</title>
+<link>rtsp://apasfwl.apa.at:80/orf2_q6a/orf.sdp</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/oo/orf2.jpg</thumbnail>
+</item>
+
+<item>
+<title>ORF 3</title>
+<link>rtsp://apasfwl.apa.at:80/orf3_q6a/orf.sdp</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/oo/orf3.jpg</thumbnail>
+</item>
+
+<item>
+<title>ORF Sport</title>
+<link>rtsp://apasfwl.apa.at/orfs_q6a/orf.sdp</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/oo/orf_sport_plus.jpg</thumbnail>
+</item>
+
+<item>
 <title>NDR</title>
 <link>http://webtv-aarh-7.stofa.dk:80/186_01.m3u8?kivgiverkager=1</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/nn/ndr_fernsehen.jpg</thumbnail>

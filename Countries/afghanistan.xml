@@ -142,11 +142,12 @@
 <thumbnail>http://1.bp.blogspot.com/-xDJzVJZq2i0/UfQ2NNhci5I/AAAAAAAAB04/CaHqpPve9eE/s200/tolo_tv.png</thumbnail>
 </item>
 
-<item>
-<title>Tolo News</title>
-<link>plugin://plugin.video.youtube/path=/root/video&action=play_video&videoid=szd80PxGfzU</link>
-<thumbnail>http://www.lyngsat-logo.com/hires/tt/tolo_news.png</thumbnail>
-</item>
+<item> 
+<title>Tolo news</title> 
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=szd80PxGfzU?vtrue=0</link> 
+<thumbnail>http://mbn.af/images/logo/gif.gif</thumbnail> 
+</item> 
+
 
 
 </channel>

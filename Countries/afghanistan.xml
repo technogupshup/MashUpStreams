@@ -144,7 +144,7 @@
 
 <item> 
 <title>Tolo news</title> 
-<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=szd80PxGfzU?vtrue=0</link> 
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=szd80PxGfzU?true=0</link> 
 <thumbnail>http://mbn.af/images/logo/gif.gif</thumbnail> 
 </item> 
 

@@ -5,6 +5,12 @@
 <thumbnail></thumbnail>
 
 <item>
+<title>Tolo News</title>
+<link>plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=szd80PxGfzU</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/tt/tolo_news.png</thumbnail>
+</item>
+
+<item>
 <title>Gem TV</title>
 <link>http://www.giniko.com/channels/Gem-TV.m3u8</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/gg/gem_tv_ae.png</thumbnail>

@@ -28,11 +28,76 @@
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/rr/rtl2_de.jpg</thumbnail>
 </item>
 
+<item>
+<title>3Sat</title>
+<link>http://webtv-aarh-8.stofa.dk:80/182_01.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/num/3sat.jpg</thumbnail>
+</item>
 
 <item>
-<title>ZDF</title>
-<link>http://webtv-aarh-9.stofa.dk:80/256_01.m3u8?kivgiverkager=1</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/zz/zdf_de.jpg</thumbnail>
+<title>Alex Berlin</title>
+<link>http://alex-stream.rosebud-media.de:1935/live/alexlivetv.smil/hasbahca.m3u8</link>
+<thumbnail>http://i1.ytimg.com/i/CPttRaDpZZ2Rg14A4R9BGg/mq1.jpg?v=51b0b649</thumbnail>
+</item>
+
+<item>
+<title>Baby TV</title>
+<link>http://212.20.40.249:1234/udp/233.7.70.188:5000</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/fr/4/45/BabyTV.png</thumbnail>
+</item>
+
+<item>
+<title>Center TV Düsseldorf</title>
+<link>rtsp://80.246.121.90/ctv</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/cc/center_tv.jpg</thumbnail>
+</item>
+
+<item>
+<title>DW Europa</title>
+<link>http://94.242.221.141/hls/a-lo/stream100.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/dd/deutsche_welle_tv.jpg</thumbnail>
+</item>
+
+<item>
+<title>NRW TV</title>
+<link>http://streaming001.broadcast.tneg.de/nrwtv/nrwtv/nrwlive.stream/hasbahca.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/nn/nrw_tv.jpg</thumbnail>
+</item>
+
+<item>
+<title>OK Mainz</title>
+<link>mms://134.93.5.213:8080</link>
+<thumbnail>http://d1i6vahw24eb07.cloudfront.net/s106296q.png</thumbnail>
+</item>
+
+<item>
+<title>RBB Berlin</title>
+<link>http://88.212.11.206:5000/live/13/13.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/rr/rbb_brandenburg.jpg</thumbnail>
+</item>
+
+<item>
+<title>SAT1</title>
+<link>http://88.212.11.206:5000/live/26/26.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/sat1.jpg</thumbnail>
+</item>
+
+<item>
+<title>TV Aktuell</title>
+<link>http://tvaktuellr.iptv-playoutcenter.de:1935/tvaktuellr/tvaktuellr.stream_3/hasbahca.m3u8</link>
+<thumbnail>http://www.testberichte.de/imgs/p_imgs/RTL+RTL+Aktuell+(18.45+++19.10+Uhr)-55-55168.jpg</thumbnail>
+</item>
+
+<item>
+<title>TV Oberfranken 1</title>
+<link>http://tvoberfranken.iptv-playoutcenter.de:1935/tvoberfranken/tvoberfranken_1/hasbahca.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/tt/tv_oberfranken.jpg</thumbnail>
+</item>
+
+<item>
+<title>TV Oberfranken 2</title>
+<link>http://tvoberfranken.iptv-playoutcenter.de:1935/tvoberfranken/tvoberfranken_2/hasbahca.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/tt/tv_oberfranken.jpg</thumbnail>
 </item>
 
 </channel>

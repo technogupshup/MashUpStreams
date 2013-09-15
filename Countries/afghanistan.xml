@@ -6,7 +6,7 @@
 
 <item>
 <title>Tolo News</title>
-<link>http://www.youtube.com/ptracking?ptk=MobyGroup&pltype=contentlive&ei=6_o0UtbUDeSWiwaYmYAI&cpn=-yQD6sP-xZopVo4a&ptchn=knKEREcKsqhB9DFvT61LZQ&plid=AATmYOm36RNdxeUh&oid=d0x-vWYLrGFfHVMa4mjXbA&video_id=szd80PxGfzU</link>
+<link>plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=szd80PxGfzU</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/tt/tolo_news.png</thumbnail>
 </item>
 

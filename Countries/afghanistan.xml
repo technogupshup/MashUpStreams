@@ -6,7 +6,7 @@
 
 <item> 
 <title>Tolonews</title> 
-<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=szd80PxGfzU?vtrue=0</link> 
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=szd80PxGfzU&feature=player_embedded?true=0</link> 
 <thumbnail>http://www.lyngsat-logo.com/hires/gg/gem_tv_ae.png</thumbnail> 
 </item> 
 

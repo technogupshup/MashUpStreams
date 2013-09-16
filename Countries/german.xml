@@ -5,6 +5,42 @@
 <thumbnail></thumbnail>
 
 <item>
+<title>BR</title>
+<link>http://88.212.11.205:5000/live/8/8.m3u8</link>
+<thumbnail>http://www.etvizle.net/brtv.png</thumbnail>
+</item>
+
+<item>
+<title>KIKA</title>
+<link>http://88.212.11.206:5000/live/30/30.m3u8</link>
+<thumbnail>http://file1.npage.de/009857/81/bilder/logo_kika.gif</thumbnail>
+</item>
+
+<item>
+<title>NOA4 Hamburg</title>
+<link>mmsh://wt-wm1.wtnet.de/noa4hh-stream-hi?MSWMExt=.asf</link>
+<thumbnail>http://mobile-tv.ws/wp-content/uploads/2011/12/214-noa4-hamburg.jpg</thumbnail>
+</item>
+
+<item>
+<title>NOA4 Norderstedt</title>
+<link>mmsh://wt-wm1.wtnet.de/noa4-stream-hi?MSWMExt=.asf</link>
+<thumbnail>http://www.sccn.de/images/n4_logo_blau_150x57.jpg</thumbnail>
+</item>
+
+<item>
+<title>Offener Kanal Magdeburg</title>
+<link>http://62.113.210.250/medienasa-live/_definst_/mp4k-magdeburg_high/playlist.m3u8</link>
+<thumbnail>http://www.ok-magdeburg.de/wp-content/themes/okm/images/logo-offener-kanal-magdeburg.png</thumbnail>
+</item>
+
+<item>
+<title>WDR</title>
+<link>http://88.212.11.205:5000/live/9/9.m3u8</link>
+<thumbnail>http://www1.wdr.de/themen/resources/img/logos/wdr.gif</thumbnail>
+</item>
+
+<item>
 <title>ORF EINS</title>
 <link>rtsp://apasfwl.apa.at:80/orf1_q6a/orf.sdp</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/oo/orf_eins.jpg</thumbnail>

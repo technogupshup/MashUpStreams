@@ -191,8 +191,6 @@
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/ii/inva_media_tv_ru.jpg</thumbnail>
 </item>
 
-
-
 <item>
 <title>Mir TV</title>
 <link>rtmp://mirtv.cdnvideo.ru:1935/mirtv-live playpath=mir3tv600.sdp swfUrl= live=true timeout=15 pageUrl=</link>
@@ -207,7 +205,7 @@
 
 <item>
 <title>Rubin TV</title>
-<link>rtmp://grey.ether.tv:1935/live/rubin playpath=broadcast4 swfUrl= live=true timeout=15 pageUrl=</link>
+<link>rtmp://vgtrk.cdnvideo.ru/rr2/?auth=vh&cast_id=21 playpath=rtp_r24_sq swfUrl=http://player.rutv.ru/flash/skin/livedefault.swf?v=91 pageUrl=http://player.rutv.ru/index/iframe/cast_id/21/showZoomBtn/false/</link>
 <thumbnail>http://en.glaz.tv/images/logos/tv/rubin-tv.jpg</thumbnail>
 </item>
 

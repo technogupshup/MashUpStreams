@@ -445,4 +445,10 @@ Indian - Telugu / Malayam Streams:
 <thumbnail>http://www.lyngsat-logo.com/hires/zz/zee_cinema_africa.png</thumbnail>
 </item>
 
+<item>
+<title>ZEE TV</title>
+<link>rtmp://zeenatlive.viddillions.com:1935/zeenatlive playpath=51ztvlive65.stream swfUrl= live=true timeout=60 pageUrl=</link>
+<thumbnail>http://cricket.tolafghan.com/assets/posts/18057/medium/SHAMSHAD_TV.jpg?1273990160</thumbnail>
+</item>
+
 </channel>

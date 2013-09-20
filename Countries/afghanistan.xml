@@ -5,6 +5,12 @@
 <thumbnail></thumbnail>
 
 <item>
+<title>Lemar</title>
+<link>rtmp://zeenatlive.viddillions.com:1935/zeenatlive playpath=51ztvlive20.stream swfUrl= live=true timeout=60 pageUrl=</link>
+<thumbnail>http://cricket.tolafghan.com/assets/posts/18057/medium/SHAMSHAD_TV.jpg?1273990160</thumbnail>
+</item>
+
+<item>
 <title>Gem TV</title>
 <link>rtmp://iriptv.com/iriptvserver3 playpath=25 swfUrl=http://iriptv.com/player/player.swf pageUrl=http://iriptv.com/web/index.php</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/gg/gem_tv_ae.png</thumbnail>
@@ -152,12 +158,6 @@
 <title>Tolo TV 2</title>
 <link>rtsp://50.97.117.4/AFG-TAMADON-MAIN</link>
 <thumbnail>http://1.bp.blogspot.com/-xDJzVJZq2i0/UfQ2NNhci5I/AAAAAAAAB04/CaHqpPve9eE/s200/tolo_tv.png</thumbnail>
-</item>
-
-<item>
-<title>Lemar</title>
-<link>rtmp://zeenatlive.viddillions.com:1935/zeenatlive playpath=51ztvlive69.stream swfUrl= live=true timeout=60 pageUrl=</link>
-<thumbnail>http://cricket.tolafghan.com/assets/posts/18057/medium/SHAMSHAD_TV.jpg?1273990160</thumbnail>
 </item>
 
 </channel>

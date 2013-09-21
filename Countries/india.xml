@@ -345,7 +345,7 @@ Indian - Telugu / Malayam Streams:
 
 <item>
 <title>Star Plus [COLOR=FFFF0000]Working Now[/COLOR]</title>
-<link>rtmp://141.8.244.56/base playpath=star22.stream swfUrl=http://141.8.244.56/player/player.swf ive=true timeout=15 pageUrl=http://sportsembed.com/embed.php?v=star_plus2&vw=600&vh=450&typeplayer=0&domain=pogotv.eu</link>
+<link>rtmp://141.8.244.56/base playpath=star22.stream swfUrl=http://141.8.244.56/player/player.swf live=true timeout=15 pageUrl=http://sportsembed.com/embed.php?v=star_plus2&vw=600&vh=450&typeplayer=0&domain=pogotv.eu</link>
 <thumbnail>http://cdn7.staztic.com/app/a/2610/2610171/star-plus-tv-latest-episodes-1370937313-0-s-307x512.jpg</thumbnail>
 </item>
 

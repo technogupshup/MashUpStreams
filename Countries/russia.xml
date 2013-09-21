@@ -6,7 +6,7 @@
 
 <item>
 <title>Россия 24</title>
-<link>rtmp://vgtrk.cdnvideo.ru/rr2/?auth=vh&cast_id=21 playpath=rtp_r24_sq swfUrl=http://player.rutv.ru/flash/skin/livedefault.swf?v=91 live=true timeout=15 pageUrl=http://player.rutv.ru/index/iframe/cast_id/21/showZoomBtn/false/</link>
+<link>rtmp://vgtrk.cdnvideo.ru/rr2/?auth=vh&cast_id=21 playpath=rtp_r24_sq swfUrl=http://player.rutv.ru/flash/skin/livedefault.swf?v=91 pageUrl=http://player.rutv.ru/index/iframe/cast_id/21/showZoomBtn/false/</link>
 <thumbnail>http://toplogos.ru/images/logo-rossiya-24.png</thumbnail>
 </item>
 

@@ -11,6 +11,12 @@
 </item>
 
 <item>
+<title>AMC</title>
+<link>http://38.117.88.154/AMC?TICKET/path/to/media.file</link>
+<thumbnail>http://cdn3-www.craveonline.com/assets/uploads/2013/04/AMC-logo.jpg</thumbnail>
+</item>
+
+<item>
 <title>Toon</title>
 <link>rtmp://iriptv.com/iriptvserver3 playpath=17 swfUrl=http://iriptv.com/player/player.swf live=true timeout=60 pageUrl=http://iriptv.com/web/index.php</link>
 <thumbnail>https://fbcdn-profile-a.akamaihd.net/hprofile-ak-prn1/c25.25.309.309/s160x160/1148910_589053007821342_2053424282_n.png</thumbnail>

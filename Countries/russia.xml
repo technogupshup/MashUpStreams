@@ -203,4 +203,52 @@
 <thumbnail>http://www.lyngsat-logo.com/hires/ss/set_europe.png</thumbnail>
 </item>
 
+<item>
+<title>SONY Scifi v1</title>
+<link>http://176.51.1.202:1234/udp/233.7.70.184:5000</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/ss/sony_scifi_ru.png</thumbnail>
+</item>
+
+<item>
+<title>SONY Scifi v2</title>
+<link>http://212.164.86.67:1234/udp/233.7.70.184:5000</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/ss/sony_scifi_ru.png</thumbnail>
+</item>
+
+<item>
+<title>SONY Scifi v3</title>
+<link>http://92.124.107.99:1234/udp/233.7.70.184:5000</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/ss/sony_scifi_ru.png</thumbnail>
+</item>
+
+<item>
+<title>SONY Turbo v1</title>
+<link>http://176.51.1.202:1234/udp/233.7.70.166:5000</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/ss/sony_turbo_ru.png</thumbnail>
+</item>
+
+<item>
+<title>SONY Turbo v2</title>
+<link>http://212.164.86.67:1234/udp/233.7.70.166:5000</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/ss/sony_turbo_ru.png</thumbnail>
+</item>
+
+<item>
+<title>SONY Turbo v3</title>
+<link>http://92.124.107.99:1234/udp/233.7.70.166:5000</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/ss/sony_turbo_ru.png</thumbnail>
+</item>
+
+<item>
+<title>SET v1</title>
+<link>http://176.51.1.202:1234/udp/233.7.70.70:5000</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/ss/set_europe.png</thumbnail>
+</item>
+
+<item>
+<title>SET v2</title>
+<link>http://212.164.86.67:1234/udp/233.7.70.70:5000</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/ss/set_europe.png</thumbnail>
+</item>
+
 </channel>

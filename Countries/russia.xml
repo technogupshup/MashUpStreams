@@ -198,63 +198,57 @@
 </item>
 
 <item>
-<title>BBC Entertainment v1</title>
-<thumbnail>http://www.lyngsat-logo.com/hires/bb/bbc_entertainment_asia.png</thumbnail>
-<link>http://176.51.1.202:1234/udp/233.7.70.185:5000</link></item>
-
-<item>
-<title>BBC Entertainment v2</title>
-<thumbnail>http://www.lyngsat-logo.com/hires/bb/bbc_entertainment_asia.png</thumbnail>
-<link>http://212.164.86.67:1234/udp/233.7.70.185:5000</link></item>
-
-<item>
-<title>BBC Entertainment v3</title>
-<thumbnail>http://www.lyngsat-logo.com/hires/bb/bbc_entertainment_asia.png</thumbnail>
-<link>http://92.124.107.99:1234/udp/233.7.70.185:5000</link></item>
-
-<item>
 <title>SONY Scifi v1</title>
 <thumbnail>http://www.lyngsat-logo.com/hires/ss/sony_scifi_ru.png</thumbnail>
-<link>http://176.51.1.202:1234/udp/233.7.70.184:5000</link></item>
+<link>http://176.51.1.202:1234/udp/233.7.70.184:5000</link>
+</item>
 
 <item>
 <title>SONY Scifi v2</title>
 <thumbnail>http://www.lyngsat-logo.com/hires/ss/sony_scifi_ru.png</thumbnail>
-<link>http://212.164.86.67:1234/udp/233.7.70.184:5000</link></item>
+<link>http://212.164.86.67:1234/udp/233.7.70.184:5000</link>
+</item>
 
 <item>
 <title>SONY Scifi v3</title>
 <thumbnail>http://www.lyngsat-logo.com/hires/ss/sony_scifi_ru.png</thumbnail>
-<link>http://92.124.107.99:1234/udp/233.7.70.184:5000</link></item>
+<link>http://92.124.107.99:1234/udp/233.7.70.184:5000</link>
+</item>
 
 <item>
 <title>SONY Turbo v1</title>
 <thumbnail>http://www.lyngsat-logo.com/hires/ss/sony_turbo_ru.png</thumbnail>
-<link>http://176.51.1.202:1234/udp/233.7.70.166:5000</link></item>
+<link>http://176.51.1.202:1234/udp/233.7.70.166:5000</link>
+</item>
 
 <item>
 <title>SONY Turbo v2</title>
 <thumbnail>http://www.lyngsat-logo.com/hires/ss/sony_turbo_ru.png</thumbnail>
-<link>http://212.164.86.67:1234/udp/233.7.70.166:5000</link></item>
+<link>http://212.164.86.67:1234/udp/233.7.70.166:5000</link>
+</item>
 
 <item>
 <title>SONY Turbo v3</title>
 <thumbnail>http://www.lyngsat-logo.com/hires/ss/sony_turbo_ru.png</thumbnail>
-<link>http://92.124.107.99:1234/udp/233.7.70.166:5000</link></item>
+<link>http://92.124.107.99:1234/udp/233.7.70.166:5000</link>
+</item>
 
 <item>
 <title>SET v1</title>
 <thumbnail>http://www.lyngsat-logo.com/hires/ss/set_europe.png</thumbnail>
-<link>http://176.51.1.202:1234/udp/233.7.70.70:5000</link></item>
+<link>http://176.51.1.202:1234/udp/233.7.70.70:5000</link>
+</item>
 
 <item>
 <title>SET v2</title>
 <thumbnail>http://www.lyngsat-logo.com/hires/ss/set_europe.png</thumbnail>
-<link>http://212.164.86.67:1234/udp/233.7.70.70:5000</link></item>
+<link>http://212.164.86.67:1234/udp/233.7.70.70:5000</link>
+</item>
 
 <item>
 <title>SET v3</title>
 <thumbnail>http://www.lyngsat-logo.com/hires/ss/set_europe.png</thumbnail>
-<link>http://92.124.107.99:1234/udp/233.7.70.70:5000</link></item>
+<link>http://92.124.107.99:1234/udp/233.7.70.70:5000</link>
+</item>
 
 </channel>

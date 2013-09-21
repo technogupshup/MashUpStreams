@@ -29,12 +29,6 @@
 </item>
 
 <item>
-<title>НЭРС ТВ</title>
-<link>rtmp://n3.mos.cdn.online.ru/live-r playpath=udp://0.0.0.0:3004 swfUr=http://www.corbina.tv/flash/swf/player.swf live=true timeout=15 pageUrl=http://www.corbina.tv/tv/ners</link>
-<thumbnail>http://www.ners.tv/images/ners_logo.gif</thumbnail>
-</item>
-
-<item>
 <title>Юмор ТВ</title>
 <link>rtmp://n3.mos.cdn.online.ru/live-r playpath=udp://0.0.0.0:3081 swfUrl=http://www.corbina.tv/flash/swf/player.swf live=true timeout=15 pageUrl=http://www.corbina.tv/tv/humor</link>
 <thumbnail>http://www.musicboxtv.ru/var/channels/images/1345473557.png</thumbnail>
@@ -56,12 +50,6 @@
 <title>Russia Today English HD</title>
 <link>rtmp://rt.fms-04.visionip.tv/live playpath=rt-global-live-HD swfUrl=http://rt.com/s/swf/player5.4.viral.swf live=true timeout=15 pageUrl=http://rt.com/on-air/</link>
 <thumbnail>http://www.frosat.net/images/logotv/original/Russia_today.jpg</thumbnail>
-</item>
-
-<item>
-<title>Poccnr</title>
-<link>rtmp://n3.mos.cdn.online.ru/live-r playpath=rtmp://www.planeta-online.tv:1936/rtplive/vesti_24.sdp swfUrl=http://www.corbina.tv/flash/swf/player.swf live=true timeout=15 pageUrl=http://www.corbina.tv/tv/russia24</link>
-<thumbnail>http://www.metafocus.co.uk/blog/wp-content/uploads/2013/04/baidu_russian_tv_news_interview_with_alan_clements-300x206.jpg</thumbnail>
 </item>
 
 <item>
@@ -104,12 +92,6 @@
 <title>RBC</title>
 <link>rtmp://n3.mos.cdn.online.ru/live-r playpath=udp://0.0.0.0:3091 swfUrl=http://www.corbina.tv/flash/swf/player.swf live=true timeout=15 pageUrl=http://www.corbina.tv/tv/rbc</link>
 <thumbnail>http://freestreamtv.ucoz.net/TVLOGOS/rbc.jpg</thumbnail>
-</item>
-
-<item>
-<title>Rain HD</title>
-<link>rtmp://n2.mos.cdn.online.ru/live-r playpath=cz5WmJxh3EBKZh0Q swfUrl=http://www.corbina.tv/flash/swf/player.swf live=true timeout=15 pageUrl=http://www.corbina.tv/tv/dojd</link>
-<thumbnail>https://lh6.ggpht.com/wEmuC5RkxvTQ4D71QCRFcND_7uNCiUSF_m7PEakil4IRY1fdh9AyIl1WyCEGtxNrSPg=w170</thumbnail>
 </item>
 
 <item>

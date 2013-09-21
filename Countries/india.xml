@@ -344,7 +344,7 @@ Indian - Telugu / Malayam Streams:
 </item>
 
 <item>
-<title>Star Plus [COLOR=FFFF0000]Working Now[/COLOR]</title>
+<title>Star Plus</title>
 <link>rtmp://141.8.244.56/base playpath=star22.stream swfUrl=http://141.8.244.56/player/player.swf live=true timeout=15 pageUrl=</link>
 <thumbnail>http://cdn7.staztic.com/app/a/2610/2610171/star-plus-tv-latest-episodes-1370937313-0-s-307x512.jpg</thumbnail>
 </item>
@@ -449,12 +449,6 @@ Indian - Telugu / Malayam Streams:
 <title>ZEE TV</title>
 <link>rtmp://zeenatlive.viddillions.com:1935/zeenatlive playpath=51ztvlive65.stream swfUrl= live=true timeout=60 pageUrl=</link>
 <thumbnail>http://images.wikia.com/logopedia/images/3/38/Zee_TV_2011.png</thumbnail>
-</item>
-
-<item>
-<title>Star World</title>
-<link>http://m24.megafun.vn/live.vs?c=vstv039&amp;q=high</link>
-<thumbnail>http://www.lyngsat-logo.com/hires/ss/star_world_asia.png</thumbnail>
 </item>
 
 </channel>

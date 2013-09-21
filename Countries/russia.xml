@@ -251,4 +251,58 @@
 <thumbnail>http://www.lyngsat-logo.com/hires/ss/set_europe.png</thumbnail>
 </item>
 
+<item>
+<title>Animal Planet v1</title>
+<link>http://176.51.1.202:1234/udp/233.7.70.30:5000</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/aa/animal_planet_east.png</thumbnail>
+</item>
+
+<item>
+<title>Animal Planet v2</title>
+<link>http://212.164.86.67:1234/udp/233.7.70.30:5000</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/aa/animal_planet_east.png</thumbnail>
+</item>
+
+<item>
+<title>Animal Planet v3</title>
+<link>http://92.124.107.99:1234/udp/233.7.70.30:5000</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/aa/animal_planet_east.png</thumbnail>
+</item>
+
+<item>
+<title>National Geographic Channel v1</title>
+<link>http://176.51.1.202:1234/udp/233.7.70.32:5000</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/nn/nat_geo_asia.png</thumbnail>
+</item>
+
+<item>
+<title>National Geographic Channel v2</title>
+<link>http://212.164.86.67:1234/udp/233.7.70.32:5000</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/nn/nat_geo_asia.png</thumbnail>
+</item>
+
+<item>
+<title>National Geographic Channel v3</title>
+<link>http://92.124.107.99:1234/udp/233.7.70.32:5000</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/nn/nat_geo_asia.png</thumbnail>
+</item>
+
+<item>
+<title>Nat Geo Wild v1</title>
+<link>http://176.51.1.202:1234/udp/233.7.70.223:5000</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/nn/nat_geo_wild_asia.png</thumbnail>
+</item>
+
+<item>
+<title>Nat Geo Wild v2</title>
+<link>http://212.164.86.67:1234/udp/233.7.70.223:5000</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/nn/nat_geo_wild_asia.png</thumbnail>
+</item>
+
+<item>
+<title>Nat Geo Wild v3</title>
+<link>http://92.124.107.99:1234/udp/233.7.70.223:5000</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/nn/nat_geo_wild_asia.png</thumbnail>
+</item>
+
 </channel>

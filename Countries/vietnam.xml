@@ -10,7 +10,6 @@
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/dd/dak_lak_tv.jpg</thumbnail>
 </item>
 
-
 <item>
 <title>Saigon TV  [COLOR=FFFF0000]Updated  Channel[/COLOR]</title>
 <link>rtmp://74.63.219.99:1935/sgvp playpath=myStream.sdp swfUrl=http://saigontv.us/includes/flash/saigontv.swf live=true timeout=15 pageUrl=http://www.saigontv.us/</link>
@@ -25,13 +24,13 @@
 
 <item>
 <title>vbstv</title>
-<link>rtmp://74.63.219.99:1935/vbsvp playpath=myStream.sdp swfUrl=http://vbstelevision.com/ext/js/vbstv.swf live=5 timeout=15 pageUrl=http://www.vbstelevision.com/</link>
+<link>rtmp://74.63.219.99:1935/vbsvp playpath=myStream.sdp swfUrl=http://vbstelevision.com/ext/js/vbstv.swf live=true timeout=15 pageUrl=http://www.vbstelevision.com/</link>
 <thumnail>http://www.tv14.net/wp-content/uploads/2010/10/vbs.gif</thumnail>
 </item>
 
 <item>
 <title>littlesaigontv</title>
-<link>rtmp://74.63.219.99:1935/vbsvp playpath=myStream.sdp swfUrl=http://vbstelevision.com/ext/js/vbstv.swf live=15 timeout=15 pageUrl=http://vbstelevision.com/</link>
+<link>rtmp://74.63.219.99:1935/vbsvp playpath=myStream.sdp swfUrl=http://vbstelevision.com/ext/js/vbstv.swf live=true timeout=15 pageUrl=http://vbstelevision.com/</link>
 <thumnail>http://www.futureace.org/LittleSaigonTV.jpg</thumnail>
 <item>
 

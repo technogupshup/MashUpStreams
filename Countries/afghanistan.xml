@@ -6,7 +6,7 @@
 
 <item>
 <title>Tolo News</title>
-<link>plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=szd80PxGfzU</link>
+<link>plugin://plugin.video.youtube/?vpath=/root/video&action=play_video&videoid=szd80PxGfzU</link>
 <thumbnail>http://www.zagorod-tv.ru/img/200x160_zj.jpg</thumbnail>
 </item>
 

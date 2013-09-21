@@ -6,7 +6,19 @@
 
 <item>
 <title>Россия 24</title>
-<link>rtmp://vgtrk.cdnvideo.ru/rr2/?auth=vh&cast_id=21 playpath=rtp_r24_sq swfUrl=http://player.rutv.ru/flash/skin/livedefault.swf pageUrl=http://player.rutv.ru/index/iframe/cast_id/21/showZoomBtn/false/</link>
+<link>http://live.rfn.ru/r24_hq</link>
+<thumbnail>http://toplogos.ru/images/logo-rossiya-24.png</thumbnail>
+</item>
+
+<item>
+<title>TPO</title>
+<link>rtmp://83.229.210.89/TROTV playpath=BTVtro0 swfUrl=http://releases.flowplayer.org/swf/flowplayer-3.2.7.swf live=true timeout=15 pageUrl=http://www.tro-soyuz.com/channel-tro/online/</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/TV_TRO.jpg/120px-TV_TRO.jpg</thumbnail>
+</item>
+
+<item>
+<title>HTB</title>
+<link>rtmp://ntv-live.cdn.ngenix.net/live playpath=livestream01?t=1379790962&h=/zzI5+KVgWhPU71TZHnjbw== swfUrl=http://www.ntv.ru/swf/rtmplayer01.swf pageUrl=http://www.ntv.ru/tv/</link>
 <thumbnail>http://toplogos.ru/images/logo-rossiya-24.png</thumbnail>
 </item>
 

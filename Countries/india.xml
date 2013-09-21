@@ -5,6 +5,18 @@
 <thumbnail></thumbnail>
 
 <item>
+<title>Star World HD</title>
+<link>http://fw01.livem3u8.me.totiptv.com/live//65f7358b813048a0898f5677e1793cf9.m3u8?bitrate=800</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/ss/star_world_asia_hd.png</thumbnail>
+</item>
+
+<item>
+<title>SET Asia</title>
+<link>http://fw01.livem3u8.me.totiptv.com/live/bd30e27f1c48430ba2104548a1b124ca.m3u8?bitrate=800</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/ss/set_europe.png</thumbnail>
+</item>
+
+<item>
 <title>Samay Live</title>
 <link>rtmp://cdn.m.yupptv.tv:1935/liveorigin playpath=saharasamaynew1 swfUrl=http://cdn.freedocast.com/player-octo/yume/v5/infinite-hd-player-YUPPTV.SWF live=true timeout=15 pageUrl=http://www.yupptv.com/streams/saharasamaynew.aspx</link>
 <thumbnail>http://www.dramaonlinetv.com/wp-content/uploads/2013/01/Sahara-Samay-Hindi-News.jpg</thumbnail>

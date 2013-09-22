@@ -5,6 +5,12 @@
 <thumbnail></thumbnail>
 
 <item>
+<title>TLOO</title>
+<link>rtmp://live.dacast.com/201346/19363 playpath=30871?98c225bc9c5038533a7c5b93d231bcef4a0150101f7f2bdfc71c02e80e84c9427​2e8 swfUrl=https://player.viewer.dacast.com/DacastPlayer.swf?c=19363_30871&nocache=58110 pageUrl=https://static.viewer.dacast.com/b/19363/c/30871</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/gg/gem_tv_ae.png</thumbnail>
+</item>
+
+<item>
 <title>Gem TV</title>
 <link>rtmp://iriptv.com/iriptvserver3 playpath=25 swfUrl=http://iriptv.com/player/player.swf pageUrl=http://iriptv.com/web/index.php</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/gg/gem_tv_ae.png</thumbnail>

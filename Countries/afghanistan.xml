@@ -160,4 +160,28 @@
 <thumbnail>http://1.bp.blogspot.com/-xDJzVJZq2i0/UfQ2NNhci5I/AAAAAAAAB04/CaHqpPve9eE/s200/tolo_tv.png</thumbnail>
 </item>
 
+<item>
+<title>IRIB 1</title>
+<link>rtmp://iriptv.com/iriptvserver3 playpath=27 swfUrl=http://iriptv.com/player/player.swf live=true timeout=60 pageUrl=http://iriptv.com/web/index.php</link>
+<thumbnail>http://247-365.ir/wp-content/pic/tv_logo/IRIB1.png</thumbnail>
+</item>
+
+<item>
+<title>Sahar TV 2</title>
+<link>rtmp://sahar2.live.hypercdn.com/live-558787594 playpath=sahartv2-512.sdp swfUrl=http://www.sahartv.ir/live/player.swf live=true timeout=60 pageUrl=http://www.sahartv.ir/live/sahar2.flv.html</link>
+<thumbnail>http://www.ashura.tv/live-tv/sahar-tv/logo.jpg</thumbnail>
+</item>
+
+<item>
+<title>Khatereh TV</title>
+<link>rtmp://iriptv.com/iriptvm playpath=33 swfUrl=http://iriptv.com/player/player.swf live=true timeout=60 pageUrl=http://iriptv.com/web/index.php</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/kk/khatereh_tv.png</thumbnail>
+</item>
+
+<item>
+<title>I Film Farsi</title>
+<link>rtmp://live.cdn.kashef.bz/live-e playpath=ifilm-2.sdp swfUrl=http://iriptv.com/player/player.swf live=true timeout=60 pageUrl=http://iriptv.com/web/index.php</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/ii/i_film_ir_english.png</thumbnail>
+</item>
+
 </channel>

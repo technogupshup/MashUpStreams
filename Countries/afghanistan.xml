@@ -29,8 +29,8 @@
 </item>
 
 <item>
-<title>1TV</title>
-<link>http://iphone-streaming.ustream.tv/ustreamVideo/11266193/streams/live/playlist.m3u8</link>
+<title>1TV HD</title>
+<link>rtmp://zeenatlive.viddillions.com:1935/zeenatlive playpath=51ztvlive72.stream swfUrl= live=true timeout=60 pageUrl=</link>
 <thumbnail>https://si0.twimg.com/profile_images/3428097595/ba1111aaf029c6f14726f74e3b2ae6a1.png</thumbnail>
 </item>
 
@@ -65,7 +65,7 @@
 </item>
 
 <item>
-<title>Arezu TV</title>
+<title>Arezu TV HD</title>
 <link>rtmp://zeenatlive.viddillions.com:1935/zeenatlive playpath=51ztvlive46.stream</link>
 <thumbnail>http://4.bp.blogspot.com/-eL7Bm0B_Fck/Uc7E-utmNCI/AAAAAAAABFA/jc6auT6d5PU/s269/205451_471051409641907_837049089_n.png</thumbnail>
 </item>
@@ -83,7 +83,7 @@
 </item>
 
 <item>
-<title>Shamshad</title>
+<title>Shamshad HD</title>
 <link>rtmp://zeenatlive.viddillions.com:1935/zeenatlive playpath=51ztvlive20.stream swfUrl= live=true timeout=60 pageUrl=</link>
 <thumbnail>http://cricket.tolafghan.com/assets/posts/18057/medium/SHAMSHAD_TV.jpg?1273990160</thumbnail>
 </item>

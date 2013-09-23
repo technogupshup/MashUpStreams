@@ -32,12 +32,12 @@
 <title>littlesaigontv</title>
 <link>rtmp://stream.s15.cpanelservices.com/lstvlive/ playpath=livestream swfUrl=http://lstv.mediaserve.tv/player.swf live=true timeout=15 pageUrl>http://lstv.mediaserve.tv/sample_players/live.html/</link>
 <thumbnail>http://www.futureace.org/LittleSaigonTV.jpg</thumbnail>
-<item>
+</item>
 
 <item>
 <title>SETtv</title>
 <link>rtmp://206.217.221.127/set/ playpath=set_1 swfUrl=http://thvl.vn/vplayer.swf live=true timeout=15 pageUrl>http://set574.com/</link>
 <thumnail>http://set574.com/setbanner971x150.jpg</thumbnail>
-<item>
+</item>
 
 </channel>

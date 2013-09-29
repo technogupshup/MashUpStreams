@@ -11,6 +11,12 @@
 </item>
 
 <item>
+<title>Sony TV</title>
+<link>rtmp://strm.ukcast.tv:1935/redirect playPath=sonnyy09 swfUrl=http://www.ukcast.tv/player/player.swf swfVfy=1 live=true pageUrl=http://www.ukcast.tv/embed.php?u=sonnyy09</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/en/thumb/0/05/Sony_Entertainment_Television.svg/277px-Sony_Entertainment_Television.svg.png</thumbnail>
+</item>
+
+<item>
 <title>Sony SET Asia</title>
 <link>http://fw01.livem3u8.me.totiptv.com/live/bd30e27f1c48430ba2104548a1b124ca.m3u8?bitrate=800</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ss/set_europe.png</thumbnail>

@@ -11,15 +11,9 @@
 </item>
 
 <item>
-<title>SET MAX</title>
+<title>Sony SET MAX</title>
 <link>rtmpe://178.18.30.120/live playpath=maxi swfUrl=http://www.ukcast.tv/player.swf pageUrl=http://www.ukcast.tv/channel.php live=1 timeout=15</link>
 <thumbnail>http://pogotv.eu/images/set_max.jpg</thumbnail>
-</item>
-
-<item>
-<title>Sony TV</title>
-<link>rtmp://strm.ukcast.tv:1935/redirect playPath=sonnyy09 swfUrl=http://www.ukcast.tv/player/player.swf live=true timeout=15 pageUrl=http://www.ukcast.tv/embed.php?u=sonnyy09</link>
-<thumbnail>http://upload.wikimedia.org/wikipedia/en/thumb/0/05/Sony_Entertainment_Television.svg/277px-Sony_Entertainment_Television.svg.png</thumbnail>
 </item>
 
 <item>

@@ -463,4 +463,11 @@ Indian - Telugu / Malayam Streams:
 <thumbnail>http://images.wikia.com/logopedia/images/3/38/Zee_TV_2011.png</thumbnail>
 </item>
 
+<item>
+<title>Zee TV (Link 2)</title>
+<link>rtmpe://178.18.30.120/ app=live playpath=sonnyy09 swfUrl=http://www.ukcast.tv/play
+er.swf live=true timeout=15 pageUrl=http://www.ukcast.tv/channel.php</link>
+</thumbnail>http://images.wikia.com/logopedia/images/3/38/Zee_TV_2011.png</thumbnail>
+</item>
+
 </channel>

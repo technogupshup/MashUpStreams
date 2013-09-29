@@ -12,7 +12,7 @@
 
 <item>
 <title>Sony TV</title>
-<link>rtmp://strm.ukcast.tv:1935/redirect playPath=sonnyy09 swfUrl=http://www.ukcast.tv/player/player.swf swfVfy=1 live=true pageUrl=http://www.ukcast.tv/embed.php?u=sonnyy09</link>
+<link>rtmp://strm.ukcast.tv:1935/redirect playPath=sonnyy09 swfUrl=http://www.ukcast.tv/player/player.swf live=true pageUrl=http://www.ukcast.tv/embed.php?u=sonnyy09</link>
 <thumbnail>http://upload.wikimedia.org/wikipedia/en/thumb/0/05/Sony_Entertainment_Television.svg/277px-Sony_Entertainment_Television.svg.png</thumbnail>
 </item>
 

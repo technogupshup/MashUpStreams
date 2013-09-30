@@ -4,33 +4,10 @@
 <name>Lebanon TV Channels</name>
 <thumbnail></thumbnail>
 
-<item>
-<title>LBC  (Link 2)</title>
-<link>http://nidal.myftp.org/hls/mux-udp-311/playplist.m3u8</link>
-<thumbnail>http://upload.wikimedia.org/wikipedia/fr/thumb/6/61/LBC_Europe_Logo.svg/220px-LBC_Europe_Logo.svg.png</thumbnail>
-</item>
 
 
 <item>
-<title>MTV Lebanon</title>
-<link>http://nidal.myftp.org/hls/mux-udp-004/playplist.m3u8</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/mm/murr_tv_lebanon.jpg</thumbnail>
-</item>
-
-<item>
-<title>Future (Link 2)</title>
-<link>http://nidal.myftp.org/hls/mux-udp-002/playplist.m3u8</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/ff/future_tv_international.jpg</thumbnail>
-</item>
-
-<item>
-<title>Future</title>
-<link>http://nidal.myftp.org/hls/mux-udp-006/playplist.m3u8</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/ff/future_tv_international.jpg</thumbnail>
-</item>
-
-<item>
-<title>Al Manar HD [COLOR=FFFF0000]Updated  Channel[/COLOR]</title>
+<title>Al Manar HD</title>
 <link>rtmp://72.55.164.21/live playpath=livestream swfUrl=http://www.almanar.com.lb/style/player/4.2.90/mediaplayer.swf live=true timeout=15 pageUrl=http://www.almanar.com.lb/manarlive.php</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/al_manar_tv.jpg</thumbnail>
 </item>
@@ -42,7 +19,7 @@
 </item>
 
 <item>
-<title>Al Mayadeen (Link 3)  [COLOR=FFFF0000]Updated  Channel[/COLOR]</title>
+<title>Al Mayadeen (Link 3)</title>
 <link>rtmp://livestreaming3.itworkscdn.net/mayadeenlive playpath=mayadeen_360p swfUrl=http://www.almayadeen.net/content/jwplayer/jwplayer.flash.swf live=true timeout=15 pageUrl>http://www.almayadeen.net/live
 </link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/al_mayadeen_tv.jpg</thumbnail>
@@ -94,7 +71,7 @@
 
 
 <item>
-<title>Al Hiwar  [COLOR=FFFF0000]Updated  Channel[/COLOR]</title>
+<title>Al Hiwar</title>
 <link>rtmp://185.2.136.148/livepkgr playpath=livestream swfUrl=http://alhiwar.tv/tv/510/player.swf live=true timeout=15 pageUrl=http://translate.googleusercontent.com/translate_c?depth=1&hl=en&prev=/search%3Fq%3Dal%2Bhiwar%26biw%3D1366%26bih%3D615&rurl=translate.google.com&sl=ar&u=http://www.alhiwar.tv/&usg=ALkJrhhSMbPdHP5Qj4XnT0dmn-Nj_rubJg</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/aa/al_hiwar.png</thumbnail>
 </item>

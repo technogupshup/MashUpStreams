@@ -11,7 +11,7 @@
 </item>
 
 <item>
-<title>Saigon TV  [COLOR=FFFF0000]Updated  Channel[/COLOR]</title>
+<title>Saigon TV</title>
 <link>rtmp://74.63.219.99:1935/sgvp playpath=myStream.sdp swfUrl=http://saigontv.us/includes/flash/saigontv.swf live=true timeout=15 pageUrl=http://www.saigontv.us/</link>
 <thumbnail>http://adslvnpt.com.vn/images/article/Saigon-TV-2.png</thumbnail>
 </item>
@@ -37,7 +37,7 @@
 <item>
 <title>SETtv</title>
 <link>rtmp://206.217.221.127/set/ playpath=set_1 swfUrl=http://thvl.vn/vplayer.swf live=true timeout=15 pageUrl=http://set574.com/</link>
-<thumnail>http://set574.com/setbanner971x150.jpg</thumbnail>
+<thumbnail>http://set574.com/setbanner971x150.jpg</thumbnail>
 </item>
 
 </channel>

@@ -13,7 +13,7 @@
 <item>
 <title>Sony SET MAX</title>
 <link>rtmpe://178.18.30.120/live playpath=maxi swfUrl=http://www.ukcast.tv/player.swf pageUrl=http://www.ukcast.tv/channel.php live=1 timeout=15</link>
-<thumbnail>http://pogotv.eu/images/set_max.jpg</thumbnail>
+<thumbnail>http://images3.wikia.nocookie.net/__cb20110926112743/logopedia/images/e/ea/SET_Max_2011.png</thumbnail>
 </item>
 
 <item>
@@ -441,7 +441,7 @@ Indian - Telugu / Malayam Streams:
 
 <item>
 <title>Zee Salaam</title>
-<link>rtmp://live.wmncdn.net/livestream/ playpath=cb582cc2f3b08e0bbd1c9f3d23541e26.sdp swfUrl=http://player-emea-uk.webmobilive.com/jw/player.swf live=true timeout=60 pageUrl=http://zeesalaam.com/live/</link>
+<link>rtmp://zeenatlive.viddillions.com:1935/zeenatlive playpath=51ztvlive01.stream swfUrl= live=true timeout=60 pageUrl=</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/zz/zee_salaam.png</thumbnail>
 </item>
 
@@ -452,7 +452,7 @@ Indian - Telugu / Malayam Streams:
 </item>
 
 <item>
-<title>Zee Cinema [COLOR=FFFF0000]Working[/COLOR]</title>
+<title>Zee Cinema</title>
 <link>http://fw01.livem3u8.me.totiptv.com/live//18560c96b9f446bb87acb8981a2fe9c5.m3u8?bitrate=800</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/zz/zee_cinema_africa.png</thumbnail>
 </item>
@@ -464,10 +464,10 @@ Indian - Telugu / Malayam Streams:
 </item>
 
 <item>
-<title>Zee TV (Link 2)</title>
+<title>Sony TV</title>
 <link>rtmpe://178.18.30.120/ app=live playpath=sonnyy09 swfUrl=http://www.ukcast.tv/play
 er.swf live=true timeout=15 pageUrl=http://www.ukcast.tv/channel.php</link>
-</thumbnail>http://images.wikia.com/logopedia/images/3/38/Zee_TV_2011.png</thumbnail>
+</thumbnail>http://www.munishsingh.com/wp-content/uploads/2012/06/Sony-TV-logo3.png</thumbnail>
 </item>
 
 </channel>

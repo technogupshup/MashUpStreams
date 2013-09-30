@@ -4,19 +4,7 @@
 <name>UAE TV Channels</name>
 <thumbnail></thumbnail>
 
-<item>
-<title>MBC Max (Link 2)</title>
-<link>http://nidal.myftp.org/hls/mux-udp-304/playplist.m3u8</link>
-<thumbnail>http://www.waleg.com/images/mbc-max-nlogo.jpg</thumbnail>
-</item>
 
-
-
-<item>
-<title>MBC Drama</title>         
-<link>http://nidal.myftp.org/hls/mux-udp-023/playplist.m3u8</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/mm/mbc_plus_drama_hd.jpg</thumbnail>
-</item>
 
 <item>
 <title>MBC Action (Link 2)</title>         
@@ -38,29 +26,12 @@
 </item> 
 
 
-<item>
-<title>CANARY KIDS</title> 
-<link>plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=f4qofs2W8kA</link>
-<thumbnail>http://www.spacesseo.com/wp-content/uploads/2013/04/hqdefault.jpg</thumbnail>
-</item>
 
-
-<item>
-<title>MBC Action</title>
-<link>http://nidal.myftp.org/hls/mux-udp-012/playplist.m3u8</link>
-<thumbnail>http://en.kingofsat.net/jpg/mbc-action.jpg</thumbnail>
-</item>
-
-<item>
-<title>MBC Max</title> 
-<link>http://nidal.myftp.org/hls/mux-udp-014/playplist.m3u8</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/mm/mbc_max.jpg</thumbnail>
-</item>
 
 
 <item>
 <title>MBC 3</title>
-<link>rtmp://5.63.144.244/live playpath=azsq1299?id=149841 swfUrl=http://mips.tv/content/scripts/eplayer.swf conn=S:OK pageUrl=http://mips.tv/embedplayer/azsq1299/1/600/380</link>
+<link>rtmp://5.63.144.244/live playpath=azsq1299?id=149841 conn=S:OK swfUrl=http://mips.tv/content/scripts/eplayer.swf conn=S:OK pageUrl=http://mips.tv/embedplayer/azsq1299/1/600/380</link>
 <thumbnail>http://www.watchtv.co/wp-content/themes/broadcast/thumb.php?src=http://www.watchtv.co/wp-content/uploads/2012/07/mbc3-channel-streaming1.jpg&w=581&h=252&zc=1&q=100</thumbnail>
 </item>
 

@@ -4,41 +4,7 @@
 <name>Saudi Arabian TV Channels</name>
 <thumbnail></thumbnail>
 
-<item>
-<title>Channel economic</title>
-<link>plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=QFnILutVyPc</link>
-<thumbnail>http://www.sauditv2.tv/eServices/SaudiChannels/_t/STV%20Economy_png.jpg</thumbnail>
-</item>
 
-<item>
-<title>Arabia News</title>
-<link>plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=VQpIP-5K8KM</link>
-<thumbnail>http://www.qassimy.com/channel-tv-live/files/image/al_ekhbariya_saudi_news_tv_islamic_live_online_free_arabic_channel.png</thumbnail>
-</item>
-
-<item>
-<title>Channel 1</title>
-<link>plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=L1ofE3wPe5Q</link>
-<thumbnail>http://www.qassimy.com/channel-tv-live/files/image/saudi_channel_1_tv_islamic_live_online_free_arabic_channel.png</thumbnail>
-</item>
-
-<item>
-<title>TIYOOR AL JANA</title>
-<link>plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=xnW8cqW-awE</link>
-<thumbnail>http://crealis-humour.com/wp-content/uploads/2013/01/toyoral-jannah1.png</thumbnail>
-</item>
-
-<item>
-<title>Channel 2</title>
-<link>plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=eTlNaGfSkWY</link>
-<thumbnail>http://www.qassimy.com/channel-tv-live/files/image/saudi_channel_2_tv_islamic_live_online_free_arabic_channel.png</thumbnail>
-</item>
-
-<item>
-<title>Baby</title>
-<link>plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=w6O4PkMAr00</link>
-<thumbnail>https://lh6.googleusercontent.com/-QAB6Yjm9KrI/AAAAAAAAAAI/AAAAAAAAAAA/zaGYJpwhpZQ/s48-c-k/photo.jpg</thumbnail>
-</item>
 
 
 

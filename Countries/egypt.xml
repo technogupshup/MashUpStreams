@@ -4,47 +4,7 @@
 <name>Eygptian TV Channels</name>
 <thumbnail></thumbnail>
 
-<item>
-<title>Rotana Masriya</title>
-<link>plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=EtrHQS92YOs</link>
-<thumbnail>http://www.lyngsat-logo.com/hires/rr/rotana_masriya.png</thumbnail>
-</item>
 
-<item>
-<title>Drama 2</title>
-<link>plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=gWwCWyT1I5E</link>
-<thumbnail>http://bell-vs-rogers.com/channellogos/cid599dream2.png</thumbnail>
-</item>
-
-<item>
-<title>Al Kahera Wal Nas</title>
-<link>plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=JTq7FTfk5BM</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/al_kahera_wal_nes.jpg</thumbnail>
-</item>
-
-<item>
-<title>Sada ELbalad</title>
-<link>plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=JEkbk-xDmZE</link>
-<thumbnail>http://www.lyngsat-logo.com/hires/ss/sada_el_balad_tv.png</thumbnail>
-</item>
-
-<item>
-<title>Nile Sports</title>
-<link>http://nidal.myftp.org/hls/mux-udp-332/playplist.m3u8</link>
-<thumbnail>http://d2htvlive.in/wp-content/uploads/2013/03/Watch-NIile-Sports-Egypt-Live.png</thumbnail>
-</item>
-
-<item>
-<title>Al Masriya</title>
-<link>http://nidal.myftp.org/hls/mux-udp-024/playplist.m3u8</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/al_masriya_eg.jpg</thumbnail>
-</item>
-
-<item>
-<title>On TV</title>
-<link>plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=aHYQCUgAlpQ</link>
-<thumbnail>http://egylab.ucoz.com/imge/on_tv.png</thumbnail>
-</item>
 
 <item>
 <title>Nile Life</title>
@@ -84,11 +44,6 @@ pageUrl=https://iframehost-c.iframehost.com/1635152?signed_request=g6IaGABi-b-eo
 <thumbnail>http://4.bp.blogspot.com/-GMfZbePIg7s/UVrJbMggvBI/AAAAAAAACgQ/tzvexdIcfnw/s320/Al+Hayat+TV+Live+(Egypt).jpg</thumbnail>
 </item>
 
-<item>
-<title>Melody Drama</title> 
-<link>plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=ygHfYFX5xnc</link>
-<thumbnail>http://www.n2hr.com/up/uploads/images/n2hrcom-c00ad54266.jpg</thumbnail>
-</item>
 
 <item>
 <title>Nile Comedy</title>

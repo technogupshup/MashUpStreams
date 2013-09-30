@@ -4,8 +4,11 @@
 <name>Ethiopian TV Channels</name>
 <thumbnail></thumbnail>
 
-rtmp://213.55.98.102:1935/live playpath=livestream swfUrl=http://www.etvlive.gov.et/StrobeMediaPlayback.swf  live=true timeout=15</link>
+<item>
+<title>ETV</title>
+<link>rtmp://213.55.98.102:1935/live playpath=livestream swfUrl=http://www.etvlive.gov.et/StrobeMediaPlayback.swf  live=true timeout=15</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ee/etv_et.png</thumbnail>
+</item>
 
 <item>
 <title>Erta</title>

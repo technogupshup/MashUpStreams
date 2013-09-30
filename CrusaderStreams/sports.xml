@@ -10,17 +10,6 @@
 
 
 
-<item>
-<title>JSC Sport Global</title>
-<link>http://37.46.199.40:80/hls/mux-udp-010/playplist.m3u8</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/al_jazeera_sport_channel_global.jpg</thumbnail>
-</item>
-
-<item>
-<title>Nile Sports</title>
-<link>http://37.46.199.40:80/hls/mux-udp-332/playplist.m3u8</link>
-<thumbnail>http://d2htvlive.in/wp-content/uploads/2013/03/Watch-NIile-Sports-Egypt-Live.png</thumbnail>
-</item>
 
 
 <item>
@@ -66,30 +55,6 @@
 <thumbnail>http://www.tv14.net/wp-content/uploads/2013/03/Saudi-Sport-TV1-logo.jpg</thumbnail>
 </item>
 
-
-<item>
-<title>JSC +1</title>
-<link>http://nidal.myftp.org/hls/mux-udp-611/playplist.m3u8</link>
-<thumbnail>http://www.ar.aljazeerasport.tv/namedImage/13213/plus1.png</thumbnail>
-</item> 
-
-<item>
-<title>JSC +2</title>
-<link>http://nidal.myftp.org/hls/mux-udp-612/playplist.m3u8</link>
-<thumbnail>http://www.ar.aljazeerasport.tv/namedImage/13213/plus2.png</thumbnail>
-</item> 
-
-<item>
-<title>JSC +3</title>
-<link>http://nidal.myftp.org/hls/mux-udp-613/playplist.m3u8</link>
-<thumbnail>http://www.ar.aljazeerasport.tv/namedImage/13213/plus3.png</thumbnail>
-</item> 
-
-<item>
-<title>JSC +4</title>
-<link>http://nidal.myftp.org/hls/mux-udp-614/playplist.m3u8/link>
-<thumbnail>http://www.ar.aljazeerasport.tv/namedImage/13213/plus4.png</thumbnail>
-</item>
 
 <item>
 <title>Iraqi Sports Channel</title>

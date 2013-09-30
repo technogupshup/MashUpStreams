@@ -23,12 +23,6 @@
 </item>
 
 <item>
-<title>Загородная жизнь</title>
-<link>plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=CXYuyISFzjM</link>
-<thumbnail>http://www.zagorod-tv.ru/img/200x160_zj.jpg</thumbnail>
-</item>
-
-<item>
 <title>Юмор ТВ</title>
 <link>rtmp://n3.mos.cdn.online.ru/live-r playpath=udp://0.0.0.0:3081 swfUrl=http://www.corbina.tv/flash/swf/player.swf live=true timeout=15 pageUrl=http://www.corbina.tv/tv/humor</link>
 <thumbnail>http://www.musicboxtv.ru/var/channels/images/1345473557.png</thumbnail>

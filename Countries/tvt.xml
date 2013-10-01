@@ -10,23 +10,7 @@
 <thumbnail>http://www.behindwoods.com/tamil-movie-news-1/july-09-03/images/silambarasan-14-07-09.jpg</thumbnail>
 </item>
 
-<item>
-<title>Sun TV</title>
-<link>rtmp://85.12.5.35/vl/_definst_ playpath=tvsun454 swfUrl=http://www.veemi.com/player/player-licensed.swf live=true timeout=15 pageUrl=http://www.veemi.com/embed.php?v=tvsun454&vw=600&vh=470&domain=desistreams.tv</link>
-<thumbnail>http://www.newtvworld.com/Images/SUN-TV.JPG</thumbnail>
-</item>
 
-<item>
-<title>Sun TV (Link 2)</title>
-<link>rtmp://94.102.51.78/live33 playpath=w_suntv swfUrl=http://www.zstream.eu/p387sj9hd803ns9n3is93s9df8nd93d9g9dfg94ng949f.swf live=true timeout=15 pageUrl=http://www.zstream.eu/embed.php?v=w_suntv&vw=600&vh=450&video=0&domain=pogotv.eu</link>
-<thumbnail>http://www.newtvworld.com/Images/SUN-TV.JPG</thumbnail>
-</item>
-
-<item>
-<title>Sun TV (Link 3)</title>
-<link>rtmp://94.242.228.40:1930/live2 playpath=suntv.stream swfUrl=http://zonytvcom.info/saki2/player/player-licensed.swf live=true timeout=15 pageUrl=http://zonytvcom.info/saki2/embed.php?live=suntv.stream&vw=600&vh=430</link>
-<thumbnail>http://www.newtvworld.com/Images/SUN-TV.JPG</thumbnail>
-</item>
 
 <item>
 <title>Imayam TV</title>

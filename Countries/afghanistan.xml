@@ -143,8 +143,8 @@
 </item>
 
 <item>
-<title>Tolo TV</title>
-<link>rtsp://50.97.117.4/AFG-TAMADON-PACIFIC</link>
+<title>Tolo</title>
+<link>rtmpe://strm.ukcast.tv/redirect playpath=Jigarakem swfUrl=http://www.ukcast.tv/player/player.swf pageUrl=http://www.ukcast.tv/embedold.php live=1 timeout=15</link>
 <thumbnail>http://1.bp.blogspot.com/-xDJzVJZq2i0/UfQ2NNhci5I/AAAAAAAAB04/CaHqpPve9eE/s200/tolo_tv.png</thumbnail>
 </item>
 

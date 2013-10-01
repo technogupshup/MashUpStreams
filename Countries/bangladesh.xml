@@ -138,13 +138,13 @@ pageUrl=http://desichannels.webnode.com/bangladesh-channels/desh-tv/</link>
 
 <item>
 <title>Rupashi Bangla</title>
-<link>rtmp://cdn.rtmp1.yupptv.tv:1935/nwk1 playpath=rupashibangala900 swfUrl=http://cdn.freedocast.com/player-octo/yume/v5/infinite-hd-player-YUPPTV.SWF live=true timeout=15 pageUrl=http://www.yupptv.com/streams/rupashibangla.aspx</link>
+<link>rtmp://220.225.85.222:1935/live playpath=livestream swfUrl=http://fpdownload.adobe.com/strobe/FlashMediaPlayback.swf/[[DYNAMIC]]/1 live=true timeout=15 pageUrl=http://www.newtvworld.com/livetv/india/rupashibangla.html</link>
 <thumbnail>http://www.dramaonlinetv.com/wp-content/uploads/2012/08/rupashi-bangla-tv1.jpg</thumbnail>
 </item>
 
 <item>
 <title>R TV</title>
-<link>rtmp://95.211.210.67/cdnflashlive playpath=ch9bds swfUrl=http://95.211.201.123/player/playe.swf live=true timeout=15 pageUrl=http://www.zzcast.com/embed.php?u=rtvss5&vw=600&vh=400</link>
+<link>rtmp://Liveedge.iptvworld.tv/liveedge/ playpath=rtv_high.stream swfUrl=https://iptvworld.tv/media/js/flowplayer/flowplayer-3.2.16.swf live=true timeout=15 pageUrl=https://iptvworld.tv/site/watch_live_tv/8</link>
 <thumbnail>http://watchtv.co/wp-content/uploads/2012/07/rtv-live.jpg</thumbnail>
 </item>
 

@@ -24,6 +24,12 @@ pageUrl=http://wwitv.com/tv_channels/b3485.htm</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ee/etv_et.png</thumbnail>
 </item>
 
+<item>
+<title>ETV (Link 3)</title>
+<link>rtmp://rtmp.infomaniak.ch/livecast playpath=etv swfUrl=http://static.infomaniak.ch/livetv/playerMain-v4.2.36.swf?sVersion=4%2E2%2E36&sDescription=&bLd=0&sTitle= live=true timeout=15 pageUrl=http://livevideo.infomaniak.com/iframe.php?stream=etv&name=etv_full&player=1452</link>
+<thumbnail>http://dawalgaa.com/_nw/0/69520779.jpg</thumbnail>
+</item>
+
 
 <item>
 <title>TV  Oromiyaa</title>

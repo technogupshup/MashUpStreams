@@ -5,6 +5,24 @@
 <thumbnail></thumbnail>
 
 <item>
+<title>Cinema TV </title>
+<link>rtmp://50.7.130.43:1939/base2 playpath=dd7.stream swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=true timeout=15 pageUrl=http://www.turbotv.in/cinema-tv-live/</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>Suvarna</title>
+<link>rtmp://50.7.130.43:1939/base2<playpath>asia3.stream swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=true timeout=15 pageUrl=http://www.turbotv.in/suvarna-plus-live/</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>NTV Malayalam</title>
+<link>rtmp://50.7.130.42:1940/base2 playpath=ntvuae.stream swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=true timeout=15 pageUrl=http://www.turbotv.in/ntv-malayalam/</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
 <title>Star World HD</title>
 <link>http://fw01.livem3u8.me.totiptv.com/live//65f7358b813048a0898f5677e1793cf9.m3u8?bitrate=800</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ss/star_world_asia_hd.png</thumbnail>

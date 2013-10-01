@@ -5,6 +5,12 @@
 <thumbnail></thumbnail>
 
 <item>
+<title>Isaiaruvi</title>
+<link>rtmp://50.7.130.43:1939/base2 playpath=kalai2.stream swfUrl=http://tamiltv.tv/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=true timeout=15 pageUrl=http://tamiltv.tv/isai-aruvi-live/</link>
+<thumbnail>http://www.behindwoods.com/tamil-movie-news-1/july-09-03/images/silambarasan-14-07-09.jpg</thumbnail>
+</item>
+
+<item>
 <title>Sun TV</title>
 <link>rtmp://85.12.5.35/vl/_definst_ playpath=tvsun454 swfUrl=http://www.veemi.com/player/player-licensed.swf live=true timeout=15 pageUrl=http://www.veemi.com/embed.php?v=tvsun454&vw=600&vh=470&domain=desistreams.tv</link>
 <thumbnail>http://www.newtvworld.com/Images/SUN-TV.JPG</thumbnail>
@@ -26,12 +32,6 @@
 <title>Imayam TV</title>
 <link>rtmp://38.96.148.172:1935/live/ playpath=robinson swfUrl=http://www.iwaystream.com/remote2/player/player-default.swf live=true timeout=15 pageUrl=http://www.iwaystream.com/remote2/robinson/</link>
 <thumbnail>http://1.bp.blogspot.com/-kmkafEtDj84/TmYI_Z2thGI/AAAAAAAAEWQ/4FsCENqe-vs/s1600/imayam_tv.jpg</thumbnail>
-</item>
-
-<item>
-<title>ISAIARUVI TV</title>
-<link>http://maaya.live-s.cdn.bitgravity.com/cdn-live2-b3/_definst_/maaya/secure/live/feed031/chunklist.m3u8?wowzasessionid=1370027538&e=0&h=ba8250f77c8a7e2a82f5e926ea04f4ae</link>
-<thumbnail>http://www.dramaonlinetv.com/wp-content/uploads/2013/02/Isaiaruvi-TV-Tamil-Logo1.jpg</thumbnail>
 </item>
 
 <item>

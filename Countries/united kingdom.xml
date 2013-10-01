@@ -4,99 +4,62 @@
 <name>United Kingdom TV Channels</name>
 <thumbnail></thumbnail>
 
+
 <item>
-<title>Sky Sports 1  [COLOR=FFFF0000]TEST 2[/COLOR]</title>
+<title>Sky Sports 1</title>
 <link>rtmp://46.246.124.3:443/liverepeater playpath=20724 swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/fkr1.swf live=true timeout=15 pageUrl=http://movietrailers.yt/player2.php?id=20724&width=620&height=490</link>
 <thumbnail>http://3.bp.blogspot.com/-b3q2g-UxZwI/UVWzFcsgA_I/AAAAAAAAFY8/nmBHsWYdLCM/s1600/sky_sports1.png</thumbnail>
 </item>
 
-<item>
-<title>Sky Sports 1  [COLOR=FFFF0000]Updated  Channel[/COLOR]</title>
-<link>rtmp://46.246.124.3:443/liverepeater playpath=20724 swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/fkr1.swf live=true timeout=15 pageUrl=http://movietrailers.yt/player2.php?id=20724&width=620&height=490</link>
-<thumbnail>http://3.bp.blogspot.com/-b3q2g-UxZwI/UVWzFcsgA_I/AAAAAAAAFY8/nmBHsWYdLCM/s1600/sky_sports1.png</thumbnail>
-</item>
 
 <item>
-<title>Sky Sports 1  [COLOR=FFFF0000]TEST 1[/COLOR]</title>
-<link>rtmp://94.242.255.64:443/liverepeater playpath=23697 swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/cacarola.swf live=true timeout=15 pageUrl=http://featve.com/player2.php?id=23697&width=640&height=460 token=$Iwillkill%$wyou@#q5</link>
-<thumbnail>http://3.bp.blogspot.com/-b3q2g-UxZwI/UVWzFcsgA_I/AAAAAAAAFY8/nmBHsWYdLCM/s1600/sky_sports1.png</thumbnail>
-</item>
-
-<item>
-<title>Sky Sports 2  [COLOR=FFFF0000]Updated  Channel[/COLOR]</title>
-<link>rtmp://37.220.34.61:443/liverepeater playpath=23698 swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/fkr1.swf live=true timeout=15 pageUrl=http://featve.com/player2.php?id=23698&width=640&height=460 token=$Iwillkill%$wyou@#q5</link>
-<thumbnail>http://www.lyngsat-logo.com/hires/ss/sky_uk_sports2.png</thumbnail>
-</item>
-
-<item>
-<title>Sky Sports 2  [COLOR=FFFF0000]TEST 1[/COLOR]</title>
+<title>Sky Sports 2</title>
 <link>rtmp://46.246.124.13:443/liverepeater playpath=13903 swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/fkr1.swf live=true timeout=15 pageUrl=http://movietrailers.yt/player2.php?id=13903&width=620&height=490</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ss/sky_uk_sports2.png</thumbnail>
 </item>
 
-<item>
-<title>Sky Sports 3  [COLOR=FFFF0000]Updated  Channel[/COLOR]</title>
-<link>rtmp://88.190.52.107:80/liverepeater playpath=54489 swfUrl=http://cdn.goodcast.org/player.swf live=true timeout=15 pageUrl=http://goodcast.org/streamn.php?id=54489&width=600&height=430</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/sky_uk_sports3.jpg</thumbnail>
-</item>
 
 <item>
-<title>Sky Sports 3  [COLOR=FFFF0000]TEST 1[/COLOR]</title>
-<link>rtmp://46.246.124.11:443/liverepeater playpath=20825 swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/fkr1.swf live=true timeout=15 pageUrl=http://movietrailers.yt/player2.php?id=20825&width=620&height=490</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/sky_uk_sports3.jpg</thumbnail>
-</item>
-
-<item>
-<title>Sky Sports 3  [COLOR=FFFF0000]TEST 2[/COLOR]</title>
+<title>Sky Sports 3</title>
 <link>rtmp://85.12.5.35/vl/_definst_ playpath=tKJlxE5G7p7Up3e swfUrl=http://www.veemi.com/player/player-licensed.swf live=true timeout=15 pageUrl=http://www.veemi.com/embed.php?v=tKJlxE5G7p7Up3e&vw=640&vh=360&domain=mypremium.tv</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/sky_uk_sports3.jpg</thumbnail>
 </item>
 
 <item>
 <title>Eurosport 2</title>
-<link>http://esioslive2-i.akamaihd.net/hls/live/201150/AL_ESP2_INT_ENG/playlist_1800.m3u8</link>
+<link>rtmp://178.18.31.53:80/liverepeater playpath=102578 swfUrl=http://cdn.goodcast.org/player.swf live=true timeout=15 pageUrl=http://goodcast.org/stream.php?id=102578&width=620&height=490</link>
 <thumbnail>http://2.bp.blogspot.com/-I3h_uI0cILc/ULt8sd4tWxI/AAAAAAAAAg0/6F40MH-1Qmk/s1600/eurosport+2+chaine+live.jpg</thumbnail>
 </item>
 
-<item>
-<title>Eurosport 2 (Link 2)</title>
-<link>rtmp://46.246.124.17:443/liverepeater playpath=20828 swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/fkr1.swf live=true timeout=15 pageUrl=http://movietrailers.yt/player2.php?id=20828&width=620&height=490</link>
-<thumbnail>http://2.bp.blogspot.com/-I3h_uI0cILc/ULt8sd4tWxI/AAAAAAAAAg0/6F40MH-1Qmk/s1600/eurosport+2+chaine+live.jpg</thumbnail>
-</item>
 
 <item>
 <title>Eurosport 1</title>
-<link>http://esioslive2-i.akamaihd.net/hls/live/201149/AL_ESP1_INT_ENG/playlist_1800.m3u8</link>
+<link>rtmp://31.220.0.82/live playpath=ee1e1e1 swfUrl=http://reyhq.com/player.swf live=true timeout=15 pageUrl=http://www.reyhq.com/embed1.php?live=ee1e1e1&vw=620&vh=490</link>
 <thumbnail>http://3.bp.blogspot.com/-q691zK90t9Y/TlUbSSLiicI/AAAAAAAAAHY/zGGW_LfRuIU/s1600/EuroSport-izle.png</thumbnail>
 </item>
 
-<item>
-<title>Eurosport 1 (Link 2)</title>
-<link>rtmp://46.246.124.15:443/liverepeater playpath=20827 swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/fkr1.swf live=true timeout=15 pageUrl=http://movietrailers.yt/player2.php?id=20827&width=620&height=490</link>
-<thumbnail>http://3.bp.blogspot.com/-q691zK90t9Y/TlUbSSLiicI/AAAAAAAAAHY/zGGW_LfRuIU/s1600/EuroSport-izle.png</thumbnail>
-</item>
 
 <item>
-<title>SKY Sports 4  [COLOR=FFFF0000]Updated  Channel[/COLOR]</title>
+<title>SKY Sports 4</title>
 <link>rtmp://46.246.124.4:443/liverepeater playpath=20719 swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/fkr1.swf live=true timeout=15 pageUrl=http://movietrailers.yt/player2.php?id=20719&width=620&height=490</link>
 <thumbnail>http://www.watchlivetvstreaming.com/wp-content/uploads/2012/02/Sky-Sport-4-TV-Watch-Online.png</thumbnail>
 </item>
 
 <item>
-<title>SKY Sports News  [COLOR=FFFF0000]Updated  Channel[/COLOR]</title>
+<title>SKY Sports News</title>
 <link>rtmp://46.246.124.16:443/liverepeater playpath=20723 swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/fkr1.swf live=true timeout=15 pageUrl=http://movietrailers.yt/player2.php?id=20723&width=620&height=490</link>
 <thumbnail>http://coalitionofclubs.com/wp-content/uploads/2013/04/sky-sports-logo-fbz4fgst.png</thumbnail>
 </item>
 
 <item>
-<title>SKY Sports F1  [COLOR=FFFF0000]Updated  Channel[/COLOR]</title>
+<title>SKY Sports F1</title>
 <link>rtmp://46.246.124.10:443/liverepeater playpath=13877 swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/fkr1.swf live=true timeout=15 pageUrl=http://movietrailers.yt/player2.php?id=13877&width=620&height=490</link>
 <thumbnail>http://www.digitaltvselector.com/wp-content/uploads/2012/03/skysportsf1.jpg</thumbnail>
 </item>
 
 
 <item>
-<title>British Eurosport  [COLOR=FFFF0000]Updated  Channel[/COLOR]</title>
+<title>British Eurosport</title>
 <link>rtmp://46.246.124.7:443/liverepeater playpath=20827 swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/fkr1.swf live=true timeout=15 pageUrl=http://movietrailers.yt/player2.php?id=20827&width=620&height=490</link>
 <thumbnail>http://www.logotypes101.com/logos/641/381687ECB867150B2399EAE3067181BB/Eurosport_British.png</thumbnail>
 </item>

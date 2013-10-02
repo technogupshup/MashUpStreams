@@ -4,7 +4,11 @@
 <name>UAE TV Channels</name>
 <thumbnail></thumbnail>
 
-
+<item>
+<title>Abu Dhabi</title>
+<link>rtmp://10gb1.tulix.tv/abudhabitv/ playpath=abudhabitv swfUrl=http://player.longtailvideo.com/player.swf live=true timeout=15 pageUrl=http://www.freetv247.com/content/abu-dhabi-tv</link>
+<thumbnail>http://www.dubaichronicle.com/wp-content/uploads/2009/10/ADTV_One_RGB.JPG</thumbnail>
+</item>
 
 <item>
 <title>MBC Action (Link 2)</title>         

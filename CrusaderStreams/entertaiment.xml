@@ -24,11 +24,6 @@
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/rr/rotana_khalijia.jpg</thumbnail>
 </item>
 
-<item>
-<title>MBC</title>
-<link>http://nidal.myftp.org/hls/mux-udp-013/playplist.m3u8</link>
-<thumbnail>http://3.bp.blogspot.com/-EIQKrChLYIg/Td8AWBN0P7I/AAAAAAAAAwU/-yEG5ER1jhg/s1600/mbc-group.jpg</thumbnail>
-</item>
 
 <item>
 <title>MBC 2</title>
@@ -58,6 +53,19 @@
 <title>Nile Life</title>
 <link>rtmp://livestreaming4.onlinehorizons.net/NTNNileLife playpath=livestream swfUrl=http://niletc.tv/player/player.swf live=true timeout=15 pageUrl=http://www.ntnegypt.net/stream.php?ch=life</link>
 <thumbnail>http://www.watchlivetvstreaming.com/wp-content/uploads/2012/07/Nile-Life-TV-Egypt.png</thumbnail>
+</item>
+
+<item>
+<title>Al Baghdadia 2</title>
+<link>rtmp://cp44832.live.edgefcs.net/live playpath=albag2_500@90978 swfUrl=http://player.longtailvideo.com/player.swf live=true timeout=15 pageUrl=http://freetv247.com/tags/al-baghdadia-2-live-tv</link>
+<thumbnail>http://a1.mzstatic.com/us/r1000/107/Purple/cf/aa/5c/mzl.bjffmkul.jpg</thumbnail>
+</item>
+
+
+<item>
+<title>Abu Dhabi</title>
+<link>rtmp://10gb1.tulix.tv/abudhabitv/ playpath=abudhabitv swfUrl=http://player.longtailvideo.com/player.swf live=true timeout=15 pageUrl=http://www.freetv247.com/content/abu-dhabi-tv</link>
+<thumbnail>http://www.dubaichronicle.com/wp-content/uploads/2009/10/ADTV_One_RGB.JPG</thumbnail>
 </item>
 
 

@@ -17,6 +17,12 @@
 </item>
 
 <item>
+<title>PMC</title>
+<link>rtmp://iriptv.com/iriptvserver2 playpath=10 swfUrl=http://iriptv.com/player/player.swf live=true timeout=60 pageUrl=http://iriptv.com/web/index.php</link>
+<thumbnail>http://img6.mynet.com/ha7/p/pmc.jpg</thumbnail>
+</item>
+
+<item>
 <title>Toon</title>
 <link>rtmp://iriptv.com/iriptvserver3 playpath=17 swfUrl=http://iriptv.com/player/player.swf live=true timeout=60 pageUrl=http://iriptv.com/web/index.php</link>
 <thumbnail>https://fbcdn-profile-a.akamaihd.net/hprofile-ak-prn1/c25.25.309.309/s160x160/1148910_589053007821342_2053424282_n.png</thumbnail>
@@ -174,7 +180,7 @@
 
 <item>
 <title>Khatereh TV</title>
-<link>rtmp://iriptv.com/iriptvm playpath=33 swfUrl=http://iriptv.com/player/player.swf live=true timeout=60 pageUrl=http://iriptv.com/web/index.php</link>
+<link>rtmp://iriptv.com/iriptv playpath=33 swfUrl=http://iriptv.com/player/player.swf live=true timeout=60 pageUrl=http://iriptv.com/web/index.php</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/kk/khatereh_tv.png</thumbnail>
 </item>
 

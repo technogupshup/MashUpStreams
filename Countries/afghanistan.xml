@@ -184,10 +184,4 @@
 <thumbnail>http://www.lyngsat-logo.com/hires/kk/khatereh_tv.png</thumbnail>
 </item>
 
-<item>
-<title>I Film Farsi</title>
-<link>rtmp://live.cdn.kashef.bz/live-e playpath=ifilm-2.sdp swfUrl=http://iriptv.com/player/player.swf live=true timeout=60 pageUrl=http://iriptv.com/web/index.php</link>
-<thumbnail>http://www.lyngsat-logo.com/hires/ii/i_film_ir_english.png</thumbnail>
-</item>
-
 </channel>

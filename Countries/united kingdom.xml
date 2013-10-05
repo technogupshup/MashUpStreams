@@ -27,7 +27,7 @@
 
 <item>
 <title>Eurosport 2</title>
-<link>rtmp://178.18.31.53:80/liverepeater playpath=102578 swfUrl=http://cdn.goodcast.org/player.swf live=true timeout=15 pageUrl=http://goodcast.org/stream.php?id=102578&width=620&height=490</link>
+<link>rtmp://31.220.0.82/live playpath=euro222 swfUrl=http://www.udemy.com/static/flash/player5.9.swf live=true timeout=15 pageUrl=http://www.reyhq.com/embed1.php?live=euro222&vw=620&vh=490</link>
 <thumbnail>http://2.bp.blogspot.com/-I3h_uI0cILc/ULt8sd4tWxI/AAAAAAAAAg0/6F40MH-1Qmk/s1600/eurosport+2+chaine+live.jpg</thumbnail>
 </item>
 

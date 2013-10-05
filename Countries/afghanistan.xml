@@ -4,6 +4,12 @@
 <name>Afghanistan TV Channels</name>
 <thumbnail></thumbnail>
 
+<item> 
+<title>News Live</title> 
+<link>plugin://plugin.video.youtube/?action=play_video&amp;list=PL29BB6FDFE41392D2&amp;videoid=J4amMJudS3c?true=0</link> 
+<thumbnail>http://www.lyngsat-logo.com/hires/gg/gem_tv_ae.png</thumbnail> 
+</item>
+
 <item>
 <title>Gem TV</title>
 <link>rtmp://iriptv.com/iriptvserver3 playpath=25 swfUrl=http://iriptv.com/player/player.swf live=true timeout=60 pageUrl=http://iriptv.com/web/index.php</link>

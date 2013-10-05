@@ -17,12 +17,6 @@
 </item>
 
 <item>
-<title>HTB</title>
-<link>rtmp://ntv-live.cdn.ngenix.net/live playpath=livestream01?t=1379790962&h=/zzI5+KVgWhPU71TZHnjbw== swfUrl=http://www.ntv.ru/swf/rtmplayer01.swf pageUrl=http://www.ntv.ru/tv/</link>
-<thumbnail>http://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/NTV_logo_2003.svg/200px-NTV_logo_2003.svg.png</thumbnail>
-</item>
-
-<item>
 <title>Юмор ТВ</title>
 <link>rtmp://n3.mos.cdn.online.ru/live-r playpath=udp://0.0.0.0:3081 swfUrl=http://www.corbina.tv/flash/swf/player.swf live=true timeout=15 pageUrl=http://www.corbina.tv/tv/humor</link>
 <thumbnail>http://www.musicboxtv.ru/var/channels/images/1345473557.png</thumbnail>

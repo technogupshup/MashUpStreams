@@ -6,33 +6,29 @@
 
 <item>
 <title>DR1</title>
-<link>rtmp://flash0.11003-live0.dna.qbrick.com:1935/11003-live4 playpath=livedr01astream1 swfUrl=http://www.dr.dk/assets/swf/program-player.swf pageUrl=http://www.dr.dk/TV/live/dr1</link>
+<link>rtmp://flash0.11003-live0.dna.qbrick.com:1935/11003-live4 playpath=livedr01astream1 swfUrl=http://www.dr.dk/assets/swf/program-player.swf?cachekill=20131003 live=true timeout=15 pageUrl=http://www.dr.dk/TV/live/dr1</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/dd/dr_1.jpg</thumbnail>
 </item>
 
+
 <item>
-<title>DR2  [COLOR=FFFF0000]Updated  Channel[/COLOR]</title>
-<link>http://www.dr.dk/netradio/Metafiler/ASX/DR_P2_128.asx</link>
+<title>DR2</title>
+<link>rtmp://livetv.gss.dr.dk:80/live playpath=livedr02astream1 swfUrl=http://www.dr.dk/assets/swf/program-player.swf?cachekill=20131003 live=true timeout=15 pageUrl=http://www.dr.dk/TV/live/dr2</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/dd/dr_2.jpg</thumbnail>
 </item>
 
 <item>
 <title>DR3</title>
-<link>http://webtv-aarh-7.stofa.dk/165_01.m3u8?kivgiverkager=1</link>
+<link>rtmp://livetv.gss.dr.dk:1935/live playpath=livedr06astream1 swfUrl=http://www.dr.dk/assets/swf/program-player.swf?cachekill=20131003 live=true timeout=15 pageUrl=http://www.dr.dk/TV/live/dr3</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/dd/dr_3.jpg</thumbnail>
 </item>
 
 <item>
 <title>DR Ultra</title>
-<link>http://webtv-aarh-9.stofa.dk/251_01.m3u8?kivgiverkager=1</link>
+<link>rtmp://livetv.gss.dr.dk:1935/live playpath=livedr03astream1 swfUrl=http://www.dr.dk/assets/swf/program-player.swf?cachekill=20131003 live=true timeout=15 pageUrl=http://www.dr.dk/tv/live/dr-ultra/</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/dd/dr_ultra_dk.jpg</thumbnail>
 </item>
 
-<item>
-<title>TV2</title>
-<link>http://webtv-aarh-11.stofa.dk/286_01.m3u8?kivgiverkager=1</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/tt/tv2_dk.jpg</thumbnail>
-</item>
 
 
 </channel>

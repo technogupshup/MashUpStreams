@@ -6,14 +6,8 @@
 
 
 <item>
-<title>CRTV</title>
-<link>rtsp://178.238.86.23/CRTV?sid=97A10D0FE95275C5CD26FE6FA90FA1E627190C0DC4891737E284B6336159384D</link>
-<thumbnail>http://ing-sat.what.hu/images/logo-insert/satlogos/cameroon/104-CRTV-Camaroon.jpg</thumbnail>
-</item>
-
-<item>
-<title>Cam News 24  [COLOR=FFFF0000]New  Channel[/COLOR]</title>
-<link>rtmp://strfla5.streamakaci.com:1935/camnews24?ovpfv=2.1.6 playpath=camnews24 swfUrl=http://lb.streamakaci.com/streamakaci/library/AkamaiMultiPlayer.swf pageUrl=http://lb.streamakaci.com/camnews24/</link>
+<title>Cam News 24</title>
+<link>rtmp://camnews24.streamakaci.com:1935/camnews24?ovpfv=2.1.6 playpath=camnews24 swfUrl=http://lb.streamakaci.com/streamakaci/library/AkamaiMultiPlayer.swf live=true timeout=15 pageUrl=http://lb.streamakaci.com/camnews24/</link>
 <thumbnail>http://www.camnews24.com/fr/images/stories/Kmer/camnews24tv.jpg</thumbnail>
 </item>
 

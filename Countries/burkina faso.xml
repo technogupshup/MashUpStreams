@@ -6,7 +6,7 @@
 
 <item>
 <title>RTB</title>
-<link>rtsp://178.238.86.23/RTB?sid=0F913D8FC932DDB51DB6BEEF51BFF1A62739A4ED04F987E77AB406534199103D</link>
+<link>rtmp://rtmp.infomaniak.ch/livecast playpath=rtbtele swfUrl=http://static.infomaniak.ch/livetv/playerMain-v4.2.36.swf?sVersion=4%2E2%2E36&sDescription=&bLd=0&sTitle= live=true timeout=15 pageUrl=http://livevideo.infomaniak.com/iframe.php?stream=rtbtele&name=rtbtv&player=676</link>
 <thumbnail>http://snc2012.afronaute.info/files/2012/03/Logo-RTB.jpg</thumbnail>
 </item>
 

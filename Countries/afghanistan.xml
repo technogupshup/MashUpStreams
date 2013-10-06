@@ -179,21 +179,9 @@
 </item>
 
 <item>
-<title>Tolo</title>
-<link>rtmpe://strm.ukcast.tv/redirect playpath=Jigarakem swfUrl=http://www.ukcast.tv/player/player.swf pageUrl=http://www.ukcast.tv/embedold.php live=1 timeout=15</link>
-<thumbnail>http://1.bp.blogspot.com/-xDJzVJZq2i0/UfQ2NNhci5I/AAAAAAAAB04/CaHqpPve9eE/s200/tolo_tv.png</thumbnail>
-</item>
-
-<item>
 <title>MBN</title>
 <link>rtmp://119.59.82.214/live/mp4:livestream.f4v swfurl=http://mbn.af/swfs/StrobeMediaPlayback.swf pageUrl=http://mbn.af/livetv.php swfVfy=true live=true timeout=60</link>
 <thumbnail>http://mbn.af/images/logo/gif.gif</thumbnail>
-</item>
-
-<item>
-<title>Tolo TV 2</title>
-<link>rtsp://50.97.117.4/AFG-TAMADON-MAIN</link>
-<thumbnail>http://1.bp.blogspot.com/-xDJzVJZq2i0/UfQ2NNhci5I/AAAAAAAAB04/CaHqpPve9eE/s200/tolo_tv.png</thumbnail>
 </item>
 
 <item>

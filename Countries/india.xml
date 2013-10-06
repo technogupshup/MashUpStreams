@@ -487,4 +487,10 @@ er.swf live=true timeout=15 pageUrl=http://www.ukcast.tv/channel.php</link>
 </thumbnail>http://www.munishsingh.com/wp-content/uploads/2012/06/Sony-TV-logo3.png</thumbnail>
 </item>
 
+<item>
+<title>B4U MOVIES</title>
+<link>rtmp://cdn.nwk3.yupptv.tv/nwk3/ playpath=b4umovies swfUrl= live=true timeout=60 pageUrl=</link>
+<thumbnail>http://www.yupptv.com/img/b4u_movies_iphone.png</thumbnail>
+</item>
+
 </channel>

@@ -368,14 +368,14 @@ Indian - Telugu / Malayam Streams:
 </item>
 
 <item>
-<title>Star Plus</title>
-<link>http://fw01.livem3u8.me.totiptv.com/live/7c75ad89c1cc417aa0f066133c0a2333.m3u8?bitrate=800</link>
+<title>Star Plus (Fixed)</title>
+<link>rtmpe://strm.ukcast.tv/redirect playpath=starplusinn swfUrl=http://www.ukcast.tv/player/player.swf pageUrl=http://www.ukcast.tv/embedold.php live=1 timeout=15</link>
 <thumbnail>http://cdn7.staztic.com/app/a/2610/2610171/star-plus-tv-latest-episodes-1370937313-0-s-307x512.jpg</thumbnail>
 </item>
 
 <item>
 <title>Star Gold</title>
-<link>rtmp://141.8.244.56/base playpath=stargold1.stream swfUrl=http://141.8.244.56/player/player.swf token=%X786(nPK@#. pageUrl=http://sportsembed.com/embed.php?v=star_gold2&vw=600&vh=450&typeplayer=0&domain=www.pogotv.eu live=live swfVfy=live timeout=15</link>
+<link>rtmp://141.8.244.56/base playpath=stargold1.stream swfUrl=http://141.8.244.56/player/player.swf token=%X886(nPK@#. pageUrl=http://sportsembed.com/embed.php?v=star_gold2&vw=600&vh=450&typeplayer=0&domain=www.pogotv.eu live=live swfVfy=live timeout=15</link>
 <thumbnail>http://images.wikia.com/logopedia/images/f/f0/Star_Gold_2011.png</thumbnail>
 </item>
 

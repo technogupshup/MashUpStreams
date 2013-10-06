@@ -213,9 +213,8 @@ Indian - Telugu / Malayam Streams:
 <item>
 <title>Mangalmaya TV</title>
 <link>rtmp://cdn.m.yupptv.tv:1935/liveorigin playpath=aasaram1 swfUrl=http://cdn.freedocast.com/player-octo/yume/v5/infinite-hd-player-YUPPTV.SWF live=true timeout=15 pageUrl=http://www.yupptv.com/streams/mangalmayatv.aspx</link>
-<thumbnail> </thumbnail>
+<thumbnail>http://d3jnkp3lrs2hd5.cloudfront.net/images/220x115/37a839bdDivya-logo-220x115.jpg</thumbnail>
 </item>
-
 
 <item>
 <title>Seithigal TV</title>
@@ -226,13 +225,13 @@ Indian - Telugu / Malayam Streams:
 <item>
 <title>Malayalam</title>
 <link>rtmp://65.51.67.40:1935/rtplive playpath=event.stream swfUrl=http://malayalamiptv.net/usa/player_s4_0.swf live=true timeout=15 pageUrl=http://malayalamtv.tv/iframe/mtv-live.php</link>
-<thumbnail></thumbnail>
+<thumbnail>http://upload.wikimedia.org/wikipedia/en/1/17/Malayalam_Television_USA_logo.jpeg</thumbnail>
 </item>
 
 <item>
 <title>Manorama</title>
 <link>http://65.51.67.40:1935/rtplive/manorama.stream/chunklist.m3u8?wowzasessionid=8297432</link>
-<thumbnail> </thumbnail>
+<thumbnail>http://www.keralatv.in/wp-content/uploads/2011/08/Mazhavil-Manorama.jpg</thumbnail>
 </item>
 
 <item>

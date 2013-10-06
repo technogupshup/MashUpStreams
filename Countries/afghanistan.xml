@@ -5,6 +5,18 @@
 <thumbnail></thumbnail>
 
 <item>
+<title>AAA Family</title>
+<link>rtmp://iriptv.com/iriptvserver2 playpath=9 swfUrl=http://iriptv.com/player/player.swf live=true timeout=60 pageUrl=http://iriptv.com/web/index.php</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/aa/aaa_family.png</thumbnail>
+</item>
+
+<item>
+<title>AAA Music</title>
+<link>rtmp://iriptv.com/iriptvserver3 playpath=30 swfUrl=http://iriptv.com/player/player.swf live=true timeout=60 pageUrl=http://iriptv.com/web/index.php</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/aa/aaa_music.png</thumbnail>
+</item>
+
+<item>
 <title>Bazar</title>
 <link>rtmp://live.cdn.kashef.bz/live-e playpath=bazar-3.sdp swfUrl=http://live.irib.ir/player.swf live=true timeout=60 pageUrl=http://live.irib.ir/index.php?cat_id=20&type=512&dif=0&id=2</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ii/irib_bazaar_tv.png</thumbnail>

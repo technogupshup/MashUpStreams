@@ -14,7 +14,7 @@
 
 <item>
 <title>AD Sports</title>
-<link>rtmp://mi6.gv.filmon.com/live/_definst_/1760.high.stream</link>
+<link>rtmp://204.107.27.247/ app=live/?id=0ad5aac39bb13fbefff663cecddcb366a438c9f45c3712f2a117cc64766255c154847fd1258cec87e6449de67d5970cd4b6042b206ea492d27de324b4590855371d5142839bfa394abb8c22211236318f423cf6bc4e19e92b3b10cf1297b9583e8bfd8ad8d8168c4b81475e672741cb4132433b8a3f8109a638f7c899eb78904cd9170c985b1bb495e464dd72c643284d81456e8ab86fd72 playpath=1760.low.stream swfUrl=http://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf?v=26 live=true timeout=15 pageUrl=http://www.filmon.com/tv/channel/export?channel_id=1760</link>
 <thumbnail>http://upload.wikimedia.org/wikipedia/en/d/d2/Abu_dhabi_sports.png</thumbnail>
 </item> 
 
@@ -26,16 +26,9 @@
 
 <item>
 <title>Dubai Sports</title>
-<link>rtmp://dmiLiveDubaiSports.flash.internapcdn.net/dmiLiveDubaiSports/live_1 playpath=dmilivedubaisports_3 swfUrl=http://vod.dmi.ae/bundles/endavoenhance/js/lib/jwplayer/jwplayer.flash.swf live=true timeout=15 pageUrl=ttp://vod.dmi.ae/jwplayer/player16.php?width=630&height=461&channel=dubaisports
-</link>
+<link>rtmp://live300.edge.filmon.com/ app=live/?id=0ad5aac39bb13fbe4e67619a5f3092dcac922bad6ba6c43af56771fa1839eb38e1d338f1b908185712292186bde224ea6ee7a7b1f738b5e4adb92da5d6fa4630287093b7b4d6a8d9671993c530e7d346de6d4fc338f4623082dbb62d2e3243e79e397dacca9487fefd8189d07d9f9da7f6a9f9826f9463bf233a2eccfc89dfda26b5befac07f90381c80e78457c58783944aa4ceadea8528 playpath=79.high.stream swfUrl=http://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf?v=26 live=true timeout=15 pageUrl=http://www.filmon.com/tv/channel/export?channel_id=79</link>
 <thumbnail>http://www.dmi.ae/common/images/theme/nationalday2012/dubaisports_logo.png</thumbnail>
 </item> 
-
-<item>
-<title>Kuwait Plus</title>
-<link>http://62.215.183.1/Segments/HLS_TS/rtpencoder/ch6.sdp.m3u8</link>
-<thumbnail>http://www.lyngsat-logo.com/hires/kk/ktv_1_plus.png</thumbnail>
-</item>
 
 <item>
 <title>Kuwait Sports</title>
@@ -57,20 +50,7 @@
 
 
 <item>
-<title>Iraqi Sports Channel</title>
-<link>http://212.7.196.74/sport</link>
-<thumbnail>http://www.goalzz.com/images/canal/64cd614655vg2.jpg</thumbnail>
-</item>
-
-
-<item>
 <title>Al Kass</title>
 <link>http://78.100.44.238/live-kass/kass/playlist.m3u8</link>
 <thumbnail>http://d2htvlive.in/wp-content/uploads/2013/03/Watch-AL-Kass-Plus-Channel-Live.jpg</thumbnail>
-</item>
-
-<item>
-<title>Aliraqya</title>
-<link>http://212.7.196.74/iraqia</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/al_iraqya.jpg</thumbnail>
 </item>

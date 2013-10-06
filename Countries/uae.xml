@@ -11,59 +11,17 @@
 </item>
 
 <item>
-<title>MBC Action (Link 2)</title>         
-<link>rtmp://95.211.168.142:1935/teledunet playpath=mbc_action swfUrl=http://www.teledunet.com/tv/player.swf?id0=81619255820200&streamer=rtmp%3A//95.211.168.142&streamer=rtmp%3A//91.121.193.131%3A1935/teledunet&file=mbc_action&provider=rtmp&skin=bekle/bekle.xml%3A1935/teledunet&file=mbc_action_t2&provider=rtmp&skin=bekle/bekle.xml live=1 pageUrl=http://www.teledunet.com/mbc_action</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/mm/mbc_action.jpg</thumbnail>
-</item>
-
-<item>
 <title>AD Sports</title>
-<link>rtmp://mi6.gv.filmon.com/live/_definst_/1760.high.stream</link>
+<link>rtmp://204.107.27.247/ app=live/?id=0ad5aac39bb13fbefff663cecddcb366a438c9f45c3712f2a117cc64766255c154847fd1258cec87e6449de67d5970cd4b6042b206ea492d27de324b4590855371d5142839bfa394abb8c22211236318f423cf6bc4e19e92b3b10cf1297b9583e8bfd8ad8d8168c4b81475e672741cb4132433b8a3f8109a638f7c899eb78904cd9170c985b1bb495e464dd72c643284d81456e8ab86fd72 playpath=1760.low.stream swfUrl=http://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf?v=26 live=true timeout=15 pageUrl=http://www.filmon.com/tv/channel/export?channel_id=1760</link>
 <thumbnail>http://upload.wikimedia.org/wikipedia/en/d/d2/Abu_dhabi_sports.png</thumbnail>
 </item> 
 
 <item>
 <title>Dubai Sports</title>
-<link>rtmp://dmiLiveDubaiSports.flash.internapcdn.net/dmiLiveDubaiSports/live_1 playpath=dmilivedubaisports_3 swfUrl=http://vod.dmi.ae/bundles/endavoenhance/js/lib/jwplayer/jwplayer.flash.swf live=true timeout=15 pageUrl=ttp://vod.dmi.ae/jwplayer/player16.php?width=630&height=461&channel=dubaisports
-</link>
+<link>rtmp://live300.edge.filmon.com/ app=live/?id=0ad5aac39bb13fbe4e67619a5f3092dcac922bad6ba6c43af56771fa1839eb38e1d338f1b908185712292186bde224ea6ee7a7b1f738b5e4adb92da5d6fa4630287093b7b4d6a8d9671993c530e7d346de6d4fc338f4623082dbb62d2e3243e79e397dacca9487fefd8189d07d9f9da7f6a9f9826f9463bf233a2eccfc89dfda26b5befac07f90381c80e78457c58783944aa4ceadea8528 playpath=79.high.stream swfUrl=http://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf?v=26 live=true timeout=15 pageUrl=http://www.filmon.com/tv/channel/export?channel_id=79</link>
 <thumbnail>http://www.dmi.ae/common/images/theme/nationalday2012/dubaisports_logo.png</thumbnail>
 </item> 
 
-
-
-
-
-<item>
-<title>MBC 3</title>
-<link>rtmp://5.63.144.244/live playpath=azsq1299?id=149841 conn=S:OK swfUrl=http://mips.tv/content/scripts/eplayer.swf conn=S:OK pageUrl=http://mips.tv/embedplayer/azsq1299/1/600/380</link>
-<thumbnail>http://www.watchtv.co/wp-content/themes/broadcast/thumb.php?src=http://www.watchtv.co/wp-content/uploads/2012/07/mbc3-channel-streaming1.jpg&w=581&h=252&zc=1&q=100</thumbnail>
-</item>
-
-
-<item>
-<title>MBC</title>
-<link>http://nidal.myftp.org/hls/mux-udp-013/playplist.m3u8</link>
-<thumbnail>http://3.bp.blogspot.com/-EIQKrChLYIg/Td8AWBN0P7I/AAAAAAAAAwU/-yEG5ER1jhg/s1600/mbc-group.jpg</thumbnail>
-</item>
-
-<item>
-<title>MBC 2</title>
-<link>rtmp://176.31.230.164:1935/teledunet/mbc_2 app=teledunet swfUrl=http://www.teledunet.com/tv/player.swf?bufferlength=5&repeat=single&autostart=true&id0=81657114601800&streamer=rtmp://176.31.230.164:1935/teledunet/mbc_2&file=mbc_2&provider=rtmp playpath=mbc_2 live=1 timeout=15 pageUrl=http://www.teledunet.com/tv/?channel=mbc_2&no_pub</link>
-<thumbnail>http://www.lyngsat-logo.com/hires/mm/mbc2_ae.png</thumbnail>
-</item>
-
-
-<item>
-<title>MBC 2 link 2</title>
-<link>rtmp://5.63.144.244/live playpath=aflam4youfff?id=152673 conn=S:OK swfUrl=http://mips.tv/content/scripts/eplayer.swf live=1 timeout=15 pageUrl=http://mips.tv/embedplayer/aflam4youfff/1/600/380</link>
-<thumbnail>http://www.lyngsat-logo.com/hires/mm/mbc2_ae.png</thumbnail>
-</item>
-
-<item>
-<title>MBC 4</title>
-<link>rtmp://108.59.14.229/live playpath=trhtgfjhgjhg?id=147478 conn=S:OK swfUrl=http://mips.tv/content/scripts/eplayer.swf live=1 timeout=15 pageUrl=http://mips.tv/embedplayer/dutduyuu45/1/600/380</link>
-<thumbnail>https://si0.twimg.com/profile_images/1133002857/mbc4.jpg</thumbnail>
-</item>
 
 <item>
 <title>National Geographic Abu Dhabi</title>

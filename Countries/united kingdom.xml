@@ -64,6 +64,10 @@
 <thumbnail>http://www.logotypes101.com/logos/641/381687ECB867150B2399EAE3067181BB/Eurosport_British.png</thumbnail>
 </item>
 
-
+<item>
+<title>Motor</title>
+<link>rtmp://50.23.239.11/stream playpath=motott?id=105205 conn=S:OK swfUrl=http://www.liveflash.tv/resources/scripts/eplayer.swf live=true timeout=15 pageUrl=http://www.liveflash.tv/embedplayer/motott/1/650/450</link>
+<thumbnail>http://theformulaoneandmotorsportsarchive.files.wordpress.com/2012/03/logo_officiel_motorstv.jpg</thumbnail>
+</item>
 
 </channel>

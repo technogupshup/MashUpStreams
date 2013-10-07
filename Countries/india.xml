@@ -368,7 +368,7 @@ Indian - Telugu / Malayam Streams:
 
 <item>
 <title>Star Plus [COLOR=FFFF0000]Link Offline Please wait[/COLOR]</title>
-<link>rtmpe://strm.ukcast.tv/redirect playpath=starplusinn swfUrl=http://www.ukcast.tv/player/player.swf pageUrl=http://www.ukcast.tv/embedold.php live=1 timeout=15</link>
+<link>rtmp://89.248.162.148/rtp-live/ playpath=starplus.stream swfUrl=http://www.mast.tv/components/com_contushdvideoshare/hdflvplayer/hdplayer.swf live=true timeout=15 pageUrl=http://www.mast.tv/player/live-tv-channels/starplus-live</link>
 <thumbnail>http://cdn7.staztic.com/app/a/2610/2610171/star-plus-tv-latest-episodes-1370937313-0-s-307x512.jpg</thumbnail>
 </item>
 

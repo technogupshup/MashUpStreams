@@ -23,12 +23,6 @@
 </item>
 
 <item>
-<title>Sony SET MAX</title>
-<link>rtmpe://178.18.30.120/live playpath=maxi swfUrl=http://www.ukcast.tv/player.swf pageUrl=http://www.ukcast.tv/channel.php live=1 timeout=15</link>
-<thumbnail>http://images3.wikia.nocookie.net/__cb20110926112743/logopedia/images/e/ea/SET_Max_2011.png</thumbnail>
-</item>
-
-<item>
 <title>Sony SET Asia</title>
 <link>http://fw01.livem3u8.me.totiptv.com/live/bd30e27f1c48430ba2104548a1b124ca.m3u8?bitrate=800</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ss/set_europe.png</thumbnail>
@@ -367,7 +361,7 @@ Indian - Telugu / Malayam Streams:
 </item>
 
 <item>
-<title>Star Plus [COLOR=FFFF0000]Link Offline Please wait[/COLOR]</title>
+<title>Star Plus [COLOR=FFFF0000]Working 07/10/2013[/COLOR]</title>
 <link>rtmp://89.248.162.148/rtp-live/ playpath=starplus.stream swfUrl=http://www.mast.tv/components/com_contushdvideoshare/hdflvplayer/hdplayer.swf live=true timeout=15 pageUrl=http://www.mast.tv/player/live-tv-channels/starplus-live</link>
 <thumbnail>http://cdn7.staztic.com/app/a/2610/2610171/star-plus-tv-latest-episodes-1370937313-0-s-307x512.jpg</thumbnail>
 </item>

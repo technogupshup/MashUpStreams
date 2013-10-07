@@ -53,6 +53,24 @@
 </item>
 
 <item>
+<title>3 SAT HD</title>
+<link>http://94.26.50.3:9090/udp/239.255.5.144:10001</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/num/3sat_hd.jpg</thumbnail>
+</item>
+
+<item>
+<title>ZDF HD</title>
+<link>http://94.26.50.3:9090/udp/239.255.6.2:10001</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/zz/zdf_de_hd.jpg</thumbnail>
+</item>
+
+<item>
+<title>EINSFESTIVAL</title>
+<link>http://94.26.50.3:9090/udp/239.255.5.98:10001</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/ard_eins_festival.jpg</thumbnail>
+</item>
+
+<item>
 <title>ORF 3</title>
 <link>rtsp://apasfwl.apa.at:80/orf3_q6a/orf.sdp</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/oo/orf3.jpg</thumbnail>
@@ -72,8 +90,20 @@
 
 <item>
 <title>RTL</title>
-<link>rtmp://wowza02.newmedia.lu/channel1 playpath=live swfUrl=http://images.newmedia.lu/common/js/mediaplayer56/player.swf live=true timeout=15 pageUrl=http://tele.rtl.lu/livestream/</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/rr/rtl_de.jpg</thumbnail>
+<link>http://94.26.50.3:9090/udp/239.255.7.3:10001</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/rr/rtl_at.jpg</thumbnail>
+</item>
+
+<item>
+<title>SUPER RTL</title>
+<link>http://94.26.50.3:9090/udp/239.255.7.6:10001</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/ss/super_rtl.png</thumbnail>
+</item>
+
+<item>
+<title>RTL II</title>
+<link>http://94.26.50.3:9090/udp/239.255.7.5:10001</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/rr/rtl2_at.jpg</thumbnail>
 </item>
 
 <item>
@@ -83,9 +113,51 @@
 </item>
 
 <item>
-<title>RTL 2</title>
-<link>http://webtv-aarh-8.stofa.dk:80/188_01.m3u8?kivgiverkager=1</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/rr/rtl2_de.jpg</thumbnail>
+<title>ARD Das Erste</title>
+<link>rtsp://daserste.edges.wowza.gl-systemhaus.de/live/mp4:daserste_int_1600</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/ard_das_erste.jpg</thumbnail>
+</item>
+
+<item>
+<title>ARD Das Erste HD</title>
+<link>http://94.26.50.3:9090/udp/239.255.5.94:10001</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/ard_das_erste_hd.jpg</thumbnail>
+</item>
+
+<item>
+<title>ARTE HD</title>
+<link>http://94.26.50.3:9090/udp/239.255.5.99:10001</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/arte_de_hd.jpg</thumbnail>
+</item>
+
+<item>
+<title>ARD Das Erste</title>
+<link>http://88.212.11.206:5000/live/29/29.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/ard_das_erste.jpg</thumbnail>
+</item>
+
+<item>
+<title>SAT1</title>
+<link>http://94.26.50.3:9090/udp/239.255.5.95:10001</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/sat1.jpg</thumbnail>
+</item>
+
+<item>
+<title>PRO 7</title>
+<link>http://149.255.37.194/hls/8615/index.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/pp/pro_sieben_ch.jpg</thumbnail>
+</item>
+
+<item>
+<title>VOX</title>
+<link>http://94.26.50.3:9090/udp/239.255.7.4:10001</link>
+<thumbnail>http://4.bp.blogspot.com/-2_2zXUYZJHs/UW02asERLiI/AAAAAAAAAJM/GkUg6mll8X8/s1600/Vox.jpg</thumbnail>
+</item>
+
+<item>
+<title>Mühlviertel TV</title>
+<link>mms://wmsstream22.v4.mytv.ris.at/live/stream_149</link>
+<thumbnail>http://www.sterngartl-kutscher.at/content/media/muehlviertel-tv_logo.jpg</thumbnail>
 </item>
 
 <item>

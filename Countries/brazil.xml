@@ -24,4 +24,10 @@ pageUrl=http://www.demaistv.com.br/video/video.html</link>
 <thumbnail>CHANNEL LOGO</thumbnail>
 </item>
 
+<item>
+<title>Cancao Nova</title>
+<link>http://cancaonovahls-lh.akamaihd.net/i/cancaonovahls_1@102227/index_200_av-p.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/tt/tv_cancao_nova_rede.png</thumbnail>
+</item>
+
 </channel>

@@ -5,6 +5,12 @@
 <thumbnail></thumbnail>
 
 <item>
+<title>MTC</title>
+<link>rtmp://mellitv.tulix.tv/mellitv playpath=myStream.sdp swfUrl=http://iriptv.com/player/player.swf live=true timeout=60 pageUrl=http://iriptv.com/web/index.php</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/mm/mtc.png</thumbnail>
+</item>
+
+<item>
 <title>Kawthar TV</title>
 <link>rtmp://38.96.148.165:1935/live playpath=mp4:livestream swfUrl=http://www.primcast.com/jwplayer5/player.swf live=true timeout=60 pageUrl=http://www.alkawthartv.ir/livetv</link>
 <thumbnail>http://referenceur-tv.com/wp-content/uploads/2009/08/al-kawthar-tv-television-iranienne-gratuite-en-direct-streaming.png</thumbnail>

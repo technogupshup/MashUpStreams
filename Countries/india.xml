@@ -241,20 +241,14 @@ Indian - Telugu / Malayam Streams:
 </item>
 
 <item>
-<title>SIKH CHANNEL</title>
-<link>rtmp://fml.9EA3.systemcdn.net/209EA3 playpath=SikhChannel swfUrl=https://www.sikhchannel.tv/Media/LiveStreaming.swf live=true timeout=15 pageUrl=https://www.sikhchannel.tv/WatchUs/</link>
-<thumbnail>http://www.lyngsat-logo.com/hires/ss/sikh_channel.png</thumbnail>
-</item>
-
-<item>
 <title>DIVYA TV</title>
 <link>rtmp://202.164.56.130/live/ playpath=livestream.swf swfUrl=http://player.longtailvideo.com/player5.9.swf live=true timeout=15 pageUrl=http://1tvlive.in/divya-channel/</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/dd/divya_tv.png</thumbnail>
 </item>
 
 <item>
-<title>AASTHA</title>
-<link>rtmp://50.7.130.43:1939/base2 playpath=dd5.stream swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=true timeout=15 pageUrl=http://www.turbotv.in/aastha-bhajan/</link>
+<title>AASTHA [COLOR=FFFF0000]Working 09/10/2013[/COLOR]</title>
+<link>rtmp://50.7.175.253:1939/base2 playpath=dd6.stream swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=true timeout=15 pageUrl=http://www.turbotv.in/aastha-devotional-channel/</link>
 <thumbnail>http://india4indians.com/news/files/2010/12/aaa1.jpg</thumbnail>
 </item>
 
@@ -262,12 +256,6 @@ Indian - Telugu / Malayam Streams:
 <title>Sony Sab TV</title>
 <link>rtmp://zeenatlive.viddillions.com:1935/zeenatlive playpath=51ztvlive169.stream swfUrl= live=true timeout=60 pageUrl=</link>
 <thumbnail>http://nowwatchtvlive.com/wp-content/uploads/2012/01/sony_sab_tv_asia.png</thumbnail>
-</item>
-
-<item>
-<title>Web TV</title>
-<link>rtmp://5.63.148.45:1935/8060 playpath=8060 swfUrl=http://player.longtailvideo.com/player.swf live=true timeout=15 pageUrl=http://holygodtv.net/index.php/web-tv/video/featured/web-tv</link>
-<thumbnail> </thumbnail>
 </item>
 
 <item>
@@ -361,7 +349,7 @@ Indian - Telugu / Malayam Streams:
 </item>
 
 <item>
-<title>Star Plus [COLOR=FFFF0000]Working 07/10/2013[/COLOR]</title>
+<title>Star Plus</title>
 <link>rtmp://89.248.162.148/rtp-live/ playpath=starplus.stream swfUrl=http://www.mast.tv/components/com_contushdvideoshare/hdflvplayer/hdplayer.swf live=true timeout=15 pageUrl=http://www.mast.tv/player/live-tv-channels/starplus-live</link>
 <thumbnail>http://cdn7.staztic.com/app/a/2610/2610171/star-plus-tv-latest-episodes-1370937313-0-s-307x512.jpg</thumbnail>
 </item>
@@ -391,8 +379,8 @@ Indian - Telugu / Malayam Streams:
 </item>
 
 <item>
-<title>Asianet Middle East</title>
-<link>rtmp://50.7.128.148/base2 playpath=asia1.stream swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=true timeout=15 pageUrl=http://www.turbotv.in/asianet-middle-east-live/</link>
+<title>Asianet Middle East [COLOR=FFFF0000]Working 09/10/2013[/COLOR]</title>
+<link>rtmp://50.7.175.251/base2 playpath=asia1.stream swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=true timeout=15 pageUrl=http://www.turbotv.in/asianet-middle-east-live/</link>
 <thumbnail>http://www.turbotv.in/wp-content/uploads/2012/10/Asianet-Middle-East.jpg</thumbnail>
 </item>
 
@@ -427,14 +415,14 @@ Indian - Telugu / Malayam Streams:
 </item>
 
 <item>
-<title>ZEE SMILE [COLOR=FFFF0000]Working 05/10/2013[/COLOR]</title>
+<title>ZEE SMILE</title>
 <link>rtmp://zeenatlive.viddillions.com:1935/zeenatlive playpath=51ztvlive106.stream swfUrl= live=true timeout=60 pageUrl=</link>
 <thumbnail>http://www.turbotv.in/wp-content/uploads/2012/11/Zee_Smile-logo.png</thumbnail>
 </item>
 
 <item>
-<title>DANGAL TV</title>
-<link>rtmp://50.7.130.42:1940/base2 playpath=dd14.stream swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://www.turbotv.in/dangal-tv-live/</link>
+<title>DANGAL TV [COLOR=FFFF0000]Working 09/10/2013[/COLOR]</title>
+<link>rtmp://50.7.175.252:1940/base2 playpath=dd14.stream swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://www.turbotv.in/dangal-tv-live/</link>
 <thumbnail>http://i2.ytimg.com/vi/Q62K2atXTvY/hqdefault.jpg</thumbnail>
 </item>
 

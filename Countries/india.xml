@@ -5,6 +5,12 @@
 <thumbnail></thumbnail>
 
 <item>
+ <title>Star Movie</title>
+<link>http://m24.megafun.vn/live.vs?c=vstv038&q=high</link>
+<thumbnail>http://ftpmirror.your.org/pub/wikimedia/images/wikipedia/vi/4/45/Star_movies_me_hd.png</thumbnail>
+</item>
+
+<item>
 <title>Suvarna</title>
 <link>rtmp://50.7.175.253:1939/base2 playpath=asia3.stream swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=true timeout=15 pageUrl=http://www.turbotv.in/suvarna-plus-live/</link>
 <thumbnail>http://4.bp.blogspot.com/-5DTzhxSdyi4/TSGts3UDGxI/AAAAAAAADGE/w2nUGut2OuI/s1600/suvarna_logo.jpg</thumbnail>

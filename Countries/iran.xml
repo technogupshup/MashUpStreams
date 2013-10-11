@@ -17,12 +17,6 @@
 </item>
 
 <item>
-<title>Khorasan TV</title>
-<link>http://asx.jahantv.com/Khorasan-TV.asx</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/kk/khorasan_tv.jpg</thumbnail>
-</item>
-
-<item>
 <title>Ictimai TV</title>
 <link>http://ASX.JahanTV.Com/Ictimai-TV.asx</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/ii/ictimai_tv.jpg</thumbnail>
@@ -31,18 +25,12 @@
 <item>
 <title>Zagors</title>
 <link>http://asx.jahantv.com/Zagros-TV.asx</link>
-<thumbnail>http://upload.wikimedia.org/wikipedia/en/e/ef/Zag-logo.jpg</thumbnail>
-</item>
-
-<item>
-<title>Hod Hod</title>
-<link>rtmp://live.hodhodfarsi.tv/live-722719985 playpath=hodhodfarsi-300.sdp swfUrl=http://www.hodhodfarsi.tv/flash/player.swf live=true timeout=15 pageUrl=http://www.hodhodfarsi.tv/live.php?quality=hodhodfarsi-300.html</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/hh/hod_hod_tv.jpg</thumbnail>
+<thumbnail>http://img-ipad.lisisoft.com/imgmic/9/4/941-1-zagros-tv.jpg</thumbnail>
 </item>
 
 <item>
 <title>SAT 7</title>
-<link>http://ASX.JahanTV.Com/sat7.asx</link>
+<link>rtmp://unirtmp.tulix.tv:1935/sat7arabic/ playpath=sat7arabic1 swfUrl=http://p.jwpcdn.com/6/6/jwplayer.flash.swf live=true timeout=15 pageUrl=http://www.sat7.org/tv2/TV2_arabic.html</link>
 <thumbnail>http://www.pcimissionoverseas.org/fs/img/news/rs-200xnc/sat-7-logo-23.jpg</thumbnail>
 </item>
 
@@ -56,12 +44,6 @@
 <title>VOA Persian TV</title>
 <link>rtsp://a1278.l211049675.c2110.g.lm.akamaistream.net/D/1278/2110/v0001/reflector:49675</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/vv/voa_tv_persian_news_network.png</thumbnail>
-</item>
-
-<item>
-<title>NI TV</title>
-<link>rtsp://38.69.128.21/nitv?id=ba0e072d7960a9a18daf49d21a0663fak117888</link>
-<thumbnail>https://fbcdn-profile-a.akamaihd.net/hprofile-ak-ash4/373031_328614593873570_1747925782_n.jpg</thumbnail>
 </item>
 
 <item>

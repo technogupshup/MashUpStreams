@@ -54,3 +54,9 @@
 <link>http://78.100.44.238/live-kass/kass/playlist.m3u8</link>
 <thumbnail>http://d2htvlive.in/wp-content/uploads/2013/03/Watch-AL-Kass-Plus-Channel-Live.jpg</thumbnail>
 </item>
+
+<item>
+<title>Iraqi Sports Channel</title>
+<link>rtsp://212.7.196.74/sport?MSWMExt=.asf</link>
+<thumbnail>http://www.goalzz.com/images/canal/64cd614655vg2.jpg</thumbnail>
+</item>

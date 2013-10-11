@@ -17,13 +17,6 @@ pageUrl=http://wwitv.com/tv_channels/b3485.htm</link>
 <thumbnail>http://blogs.rnw.nl/medianetwork/files/2011/05/erta-logo.gif</thumbnail>
 </item>
 
-
-<item>
-<title>ETV</title>
-<link>rtmp://4.59.48.249/live/stream1</link>
-<thumbnail>http://www.lyngsat-logo.com/hires/ee/etv_et.png</thumbnail>
-</item>
-
 <item>
 <title>ETV (Link 3)</title>
 <link>rtmp://rtmp.infomaniak.ch/livecast playpath=etv swfUrl=http://static.infomaniak.ch/livetv/playerMain-v4.2.36.swf?sVersion=4%2E2%2E36&sDescription=&bLd=0&sTitle= live=true timeout=15 pageUrl=http://livevideo.infomaniak.com/iframe.php?stream=etv&name=etv_full&player=1452</link>
@@ -33,20 +26,8 @@ pageUrl=http://wwitv.com/tv_channels/b3485.htm</link>
 
 <item>
 <title>TV  Oromiyaa</title>
-<link>rtsp://media3.vixtream.net/etvlive/oromiyaa.stream</link>
+<link>rtmp://media6.vixtream.net:80/etvlive?hp=7f559baaf6e12 playpath=oromiyaa.stream swfUrl=http://www.allcomtv.com/vxplayer/player57.swf live=true timeout=15 pageUrl=http://www.allcomtv.com/tv-oromiyaa</link>
 <thumbnail>http://www.andebet.com/livetv/img/tvologotran.png</thumbnail>
-</item>
-
-<title>ETV Network</title>
-<link>rtsp://178.238.86.23/etvnetwork?sid=8B315D331D0A41DD9542121F55CFA13AD3E1A82DC4BDD33FDEAC1ECFCD293C25</link>
-<thumbnail>http://upload.wikimedia.org/wikipedia/en/9/95/ETV_Netwok.png</thumbnail>
-</item>
-
-
-<item>
-<title>ETV (Link 2)</title>
-<link>rtsp://178.238.86.23/ETV?sid=D795D94B05FEDD09513A0AAB195B4512ABA564E118AD9B83BA08AA67F56D7039</link>
-<thumbnail>http://2.bp.blogspot.com/-uMX-mcKtZQc/UBPUIX5Ys4I/AAAAAAAAvVA/AyBb_vhtap4/s1600/etv+logo.jpg</thumbnail>
 </item>
 
 

@@ -27,7 +27,7 @@
 
 <item>
 <title>ATV</title>
-<link>rtmp://flash0.atv.hu:443/live playpath=atvliveapple swfUrl=http://static.atv.hu/scripts/flowplayer/flowplayer-3.2.16.swf live=true timeout=15 pageUrl=http://atv.hu/online live=1</link>
+<link>rtmp://195.228.156.68/atvliveedge/_definst_ playpath=atvstream_2_aac swfUrl=http://www.atv.hu/js/flowplayer/flowplayer-3.2.15.swf live=true timeout=15 pageUrl=http://www.atv.hu/elo-adas</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/andina_tv_plus.jpg</thumbnail>
 </item>
 
@@ -42,7 +42,7 @@
 <item>
 <title>Melitta TV</title>
 <link>mms://stream01.gtk.hu/gil</link>
-<thumbnail> </thumbnail>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/mm/melitta_tv_hu.jpg</thumbnail>
 </item>
 
 
@@ -50,14 +50,14 @@
 <item>
 <title>BP TV</title>
 <link>mms://stream02.gtk.hu/bptv</link>
-<thumbnail> </thumbnail>
+<thumbnail>http://static.ipaustralia.com.au/store3/14/52/1452450.1.high.jpg</thumbnail>
 </item>
 
 
 <item>
 <title>Fehervar TV</title>
-<link>mms://stream01.gtk.hu/fehervar_tv</link>
-<thumbnail> </thumbnail>
+<link>rtmpt://91.82.85.71:1935/liverelay playpath=fehervartv.sdp swfUrl=http://video72.onstreaming.de/itplayer/player.swf live=true timeout=15 pageUrl=http://video72.onstreaming.de/itplayer/fehervartv_inc.php</link>
+<thumbnail>https://fbcdn-profile-a.akamaihd.net/hprofile-ak-prn1/c0.7.180.180/s160x160/931382_602872416399327_532905611_a.jpg</thumbnail>
 </item>
 
 

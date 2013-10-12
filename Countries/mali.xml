@@ -7,7 +7,7 @@
 
 <item>
 <title>ORTM</title>
-<link>rtsp://178.238.86.24/ORTM?sid=E359F5870942E9F59DB646172D77E93E57C900056C39F7379634B6DB7921448D</link>
+<link>rtmp://rtmp.infomaniak.ch/livecast playpath=ortm swfUrl=http://static.infomaniak.ch/livetv/playerMain-v4.2.37.swf?sDescription=&bLd=0&sTitle=&sVersion=4%2E2%2E37 live=true timeout=15 pageUrl=http://livevideo.infomaniak.com/iframe.php?stream=ortm&name=tv_live&player=1232</link>
 <thumbnail>http://upload.wikimedia.org/wikipedia/en/thumb/5/5a/Ortm_logo_2008.png/200px-Ortm_logo_2008.png</thumbnail>
 </item>
 

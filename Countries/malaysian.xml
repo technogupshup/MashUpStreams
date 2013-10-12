@@ -1,11 +1,7 @@
 <name>Malaysia TV Channels</name>
 <thumbnail></thumbnail>
 
-<item>
-<title>1 News</title>
-<link>rtmp://stream.rtm.swiftserve.com/live/rtm/rtm-ch020</link>
-<thumbnail>http://mystream.rtm.gov.my/images/one-news.png</thumbnail>
-</item>
+
 
 
 <item>
@@ -72,25 +68,10 @@
 
 
 <item>
-<title>Astro Arena</title>
-<link>http://measatott28-i.akamaihd.net/hls/live/205776/OTT_28/master_01.m3u8</link>
-<thumbnail>http://www.lyngsat-logo.com/hires/aa/astro_arena.png</thumbnail>
-</item>
-
-
-<item>
 <title>Astro Awani</title>
-<link>http://measatott06-i.akamaihd.net/hls/live/202857/OTT_06/master_01.m3u8</link>
+<link>rtmp://cp160334.live.edgefcs.net:443/live?ovpfv=1.1 playpath=AstroAwani24x7_3@74937 swfUrl=http://vdata.astroawani.com/flash/VideoPlayer.swf?v=20131002 live=true timeout=15 pageUrl=http://www.astroawani.com/videos/live</link>
 <thumbnail>http://upload.wikimedia.org/wikipedia/ms/e/ee/Astro-awani.jpg</thumbnail>
 </item>
-
-
-<item>
-<title>Mob TV</title>
-<link>rtmp://54.251.34.216/edge/mobtv</link>
-<thumbnail>http://hoongling.com/main/images/images/media/mobtv.jpg</thumbnail>
-</item>
-
 
 <item>
 <title>TV Selangor</title>

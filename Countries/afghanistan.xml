@@ -197,6 +197,12 @@
 </item>
 
 <item>
+<title>Sahar TV 1</title>
+<link>rtsp://sahar1.live.hypercdn.com/live-35895787/sahartv1-512.sdp</link>
+<thumbnail>http://www.ashura.tv/live-tv/sahar-tv/logo.jpg</thumbnail>
+</item>
+
+<item>
 <title>Sahar TV 2</title>
 <link>rtmp://sahar2.live.hypercdn.com/live-558787594 playpath=sahartv2-512.sdp swfUrl=http://www.sahartv.ir/live/player.swf live=true timeout=60 pageUrl=http://www.sahartv.ir/live/sahar2.flv.html</link>
 <thumbnail>http://www.ashura.tv/live-tv/sahar-tv/logo.jpg</thumbnail>

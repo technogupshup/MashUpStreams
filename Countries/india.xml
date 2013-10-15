@@ -409,12 +409,6 @@ Indian - Telugu / Malayam Streams:
 </item>
 
 <item>
-<title>Zee Cinema</title>
-<link>http://fw01.livem3u8.me.totiptv.com/live//18560c96b9f446bb87acb8981a2fe9c5.m3u8?bitrate=800</link>
-<thumbnail>http://www.lyngsat-logo.com/hires/zz/zee_cinema_africa.png</thumbnail>
-</item>
-
-<item>
 <title>ZEE TV</title>
 <link>rtmp://zeenatlive.viddillions.com:1935/zeenatlive playpath=51ztvlive65.stream swfUrl= live=true timeout=60 pageUrl=</link>
 <thumbnail>http://images.wikia.com/logopedia/images/3/38/Zee_TV_2011.png</thumbnail>

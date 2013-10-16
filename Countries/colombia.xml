@@ -24,7 +24,7 @@
 
 <item>
 <title>Caracol TV</title>
-<link>rtmp://50.7.28.178/flash playpath=16663 swfUrl=http://www.udemy.com/static/flash/player5.9.swf live=true timeout=15 pageUrl=http://sawlive.tv/embed/watch/M2E4ZjUxZDk1ZWZhOjk4NmI2MTZlNjE2YzphNTEyZTFlY2Y2ZTU1YWI4YWQ3Y2VlYz/I4NWYwZmRkNjI4M2ZkYTA0OmVjZGZiZjhmNDljNzY4ODQxODE1ZjQ2MGZjMjQ5YjA1</link>
+<link>rtmp://173.192.223.68/live playpath=colombiafutbol?id=55514 conn=S:OK swfUrl=http://www.ucaster.eu/static/scripts/eplayer.swf live=true timeout=15 pageUrl=http://www.ucaster.eu/embedded/colombiafutbol/1/600/400</link>
 <thumbnail>http://www.portalcolombia.co/wp-content/uploads/2010/01/caracol-tv.jpg</thumbnail>
 </item>
 

@@ -48,6 +48,11 @@
 <thumbnail>http://www.tv14.net/wp-content/uploads/2013/03/Saudi-Sport-TV1-logo.jpg</thumbnail>
 </item>
 
+<item>
+<title>Nile Sport</title>
+<link>rtmp://livestreaming4.onlinehorizons.net/NTNNileSport playpath=livestream swfUrl=http://niletc.tv/player/player.swf pageUrl=http://niletc.tv/stream.php?ch=sport live=1</link>
+<thumbnail>http://www.livetvstreamingfree.com/wp-content/uploads/2013/04/NIle-Sport-TV-Channel.png</thumbnail>
+</item>
 
 <item>
 <title>Al Kass</title>

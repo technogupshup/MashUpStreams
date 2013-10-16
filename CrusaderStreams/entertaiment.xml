@@ -8,45 +8,71 @@
 </info>
 ##############################################################################################################################
 
+
+<item>
+<title>Al Baghdadia 2</title>
+<link>rtmp://cp44832.live.edgefcs.net/live playpath=albag2_500@90978 swfUrl=http://player.longtailvideo.com/player.swf live=true timeout=15 pageUrl=http://freetv247.com/tags/al-baghdadia-2-live-tv</link>
+<thumbnail>http://a1.mzstatic.com/us/r1000/107/Purple/cf/aa/5c/mzl.bjffmkul.jpg</thumbnail>
+</item>
+
+<item>
+<title>Abu Dhabi +1</title>
+<link>rtmp://50.7.175.254:1947/base2 playpath=arab1.stream swfUrl=http://www.justlivetv.net/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=true timeout=15 pageUrl=http://www.justlivetv.net/abu-dhabi-al-oula-1-live/</link>
+<thumbnail>http://www.dubaichronicle.com/wp-content/uploads/2009/10/ADTV_One_RGB.JPG</thumbnail>
+</item>
 ﻿
-
-
-
 <item>
-<title>Rotana Cinema (Link 2)</title> 
-<link>http://149.62.177.6:9004</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/rr/rotana_cinema.jpg</thumbnail>
+<title>LBC International (LBC Europe)</title>
+<link>rtmp://livestreaming.itworkscdn.net/lbclive playpath=lbc_1 swfUrl=http://www.lbcgroup.tv/livemedia4/jwplayer.flash.swf pageUrl=http://www.lbcgroup.tv/watch-lbci-live</link>
+<thumbnail>http://3.bp.blogspot.com/-WuocdC0K9zg/T5hiDrsJySI/AAAAAAAABYg/Vy_-ZiKNIOQ/s1600/582643_356984461016626_119723014742773_951695_695582465_n.jpg</thumbnail>
 </item>
 
 <item>
-<title>Rotana Khaligia (Link 2)</title> 
-<link>http://149.62.177.6:9007</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/rr/rotana_khalijia.jpg</thumbnail>
+<title>MTV Lebanon  [COLOR=FFFF0000]Geo Blocked In Some Areas[/COLOR]</title>
+<link>rtmp://livestreaming1.itworkscdn.net/mtvlive playpath=murrtelevision_360p swfUrl=http://mtv.com.lb/Player/451/jwplayer.flash.swf pageUrl=http://mtv.com.lb/Player/654/451 live=1 swfVfy=1 timeout=15</link>
+<thumbnail>http://4.bp.blogspot.com/-v7Q1icQUJD0/Tm5vrpPY1gI/AAAAAAAAAGs/640s_zySbsQ/s200/MTV+1.png</thumbnail>
 </item>
 
+<item>
+<title>Al Hayat Red</title>
+<link>plugin://plugin.video.jtv.archives/?mode=2&amp;name=eltayartv</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/aa/alhayat.png</thumbnail>
+</item>
+
+<item>
+<title>Zee Aflam</title>
+<link>rtmp://85.17.73.7/live playpath=EFEDFzddz?id=149860 conn=S:OK swfUrl=http://mips.tv/content/scripts/eplayer.swf live=true timeout=15 pageUrl=http://mips.tv/embedplayer/EFEDFzddz/1/600/380</link>
+<thumbnail>http://1.bp.blogspot.com/-tDB1ch6Kjbw/UZDRfMVHfSI/AAAAAAAAAHQ/PU2Wxrordv4/s1600/zee_aflam.png</thumbnail>
+</item>
+
+<item>
+<title>Aljadeed  [COLOR=FFFF0000]Geo Blocked In Some Areas[/COLOR]</title>
+<link>rtmp://aljadeedlive.itw-hosting.net/jadeedlive playpath=live_1 swfUrl=http://www.itworks-me.net/jadeed/player.swf live=1 pageUrl=http://www.itworks-me.net/jadeed/</link>
+<thumbnail>http://1.bp.blogspot.com/-W1Ry_s_c5-k/UAw9jeMFGoI/AAAAAAAANlY/SJ_JbZV8W5E/s400/aljadeed%2Btv.jpeg</thumbnail>
+</item>
+
+<item>
+<title>OTV Lebanon</title>
+<link>rtmp://livestreaming4.itworkscdn.com/otv playpath=otvlive swfUrl=http://www.otv.com.lb/otvent/jwplayer.flash.swf live=true timeout=15 pageUrl=http://www.otv.com.lb/otvent/live.php</link>
+<thumbnail>http://www.fanoos.com/ia/otv_orange_television.jpg</thumbnail>
+</item>
+
+<item>
+<title>MBC Action</title>
+<link>rtmp://83.149.124.200/live playpath=EFEDFzddac?id=149861 conn=S:OK swfUrl=http://mips.tv/content/scripts/eplayer.swf live=true timeout=15 pageUrl=http://mips.tv/embedplayer/EFEDFzddac/1/600/380</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/ar/3/37/MBC-Action.jpg</thumbnail>
+</item>
 
 <item>
 <title>MBC 2</title>
-<link>rtmp://176.31.230.164:1935/teledunet/mbc_2 app=teledunet swfUrl=http://www.teledunet.com/tv/player.swf?bufferlength=5&repeat=single&autostart=true&id0=81657114601800&streamer=rtmp://176.31.230.164:1935/teledunet/mbc_2&file=mbc_2&provider=rtmp playpath=mbc_2 live=1 timeout=15 pageUrl=http://www.teledunet.com/tv/?channel=mbc_2&no_pub</link>
-<thumbnail>http://www.lyngsat-logo.com/hires/mm/mbc2_ae.png</thumbnail>
-</item>
-
-<item>
-<title>MBC 2 link 2</title>
-<link>rtmp://5.63.144.244/live playpath=aflam4youfff?id=152673 conn=S:OK swfUrl=http://mips.tv/content/scripts/eplayer.swf live=1 timeout=15 pageUrl=http://mips.tv/embedplayer/aflam4youfff/1/600/380</link>
+<link>rtmp://95.211.90.153/live playpath=aflam4youfff?id=152673 conn=S:OK swfUrl=http://mips.tv/content/scripts/eplayer.swf live=true timeout=15 pageUrl=http://mips.tv/embedplayer/aflam4youfff/1/600/380</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/mm/mbc2_ae.png</thumbnail>
 </item>
 
 <item>
 <title>MBC 3</title>
-<link>rtmp://5.63.144.244/live playpath=azsq1299?id=149841 conn=S:OK swfUrl=http://mips.tv/content/scripts/eplayer.swf conn=S:OK pageUrl=http://mips.tv/embedplayer/azsq1299/1/600/380</link>
+<link>rtmp://199.115.114.221/live playpath=azsq1299?id=149841 conn=S:OK swfUrl=http://mips.tv/content/scripts/eplayer.swf live=true timeout=15 pageUrl=http://mips.tv/embedplayer/azsq1299/1/600/380</link>
 <thumbnail>http://www.watchtv.co/wp-content/themes/broadcast/thumb.php?src=http://www.watchtv.co/wp-content/uploads/2012/07/mbc3-channel-streaming1.jpg&w=581&h=252&zc=1&q=100</thumbnail>
-</item>
-
-<item>
-<title>MBC 4</title>
-<link>rtmp://108.59.14.229/live playpath=trhtgfjhgjhg?id=147478 conn=S:OK swfUrl=http://mips.tv/content/scripts/eplayer.swf live=1 timeout=15 pageUrl=http://mips.tv/embedplayer/dutduyuu45/1/600/380</link>
-<thumbnail>https://si0.twimg.com/profile_images/1133002857/mbc4.jpg</thumbnail>
 </item>
 
 <item>
@@ -56,29 +82,28 @@
 </item>
 
 <item>
+<title>Nile Comedy</title>
+<link>rtmp://livestreaming4.onlinehorizons.net/NTNNileComedy playpath=livestream swfUrl=http://niletc.tv/player/player.swf pageUrl=http://niletc.tv/stream.php?ch=comedy live=1</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/nn/nile_comedy.png</thumbnail>
+</item>
+
+<item>
+<title>Nile Culture</title>
+<link>rtmp://livestreaming4.onlinehorizons.net/NTNNileCulture playpath=livestream swfUrl=http://niletc.tv/player/player.swf pageUrl=http://niletc.tv/stream.php?ch=culture live=1</link>
+<thumbnail>http://4.bp.blogspot.com/-Hn_FdpWA4IY/Udbg2vTx94I/AAAAAAAAAiY/zsgBsK6oKU8/s1600/Nile+culture.jpg</thumbnail>
+</item>
+
+<item>
+<title>Nile Family</title>
+<link>rtmp://livestreaming4.onlinehorizons.net/NTNNileFamily playpath=livestream swfUrl=http://niletc.tv/player/player.swf pageUrl=http://niletc.tv/stream.php?ch=family live=1</link>
+<thumbnail>http://3.bp.blogspot.com/-TsGliDeGgqQ/UKfPynF7gjI/AAAAAAAABkY/smG1Sh3j8Yo/s1600/family10.jpg</thumbnail>
+</item>
+
+<item>
 <title>Al Baghdadia 2</title>
 <link>rtmp://cp44832.live.edgefcs.net/live playpath=albag2_500@90978 swfUrl=http://player.longtailvideo.com/player.swf live=true timeout=15 pageUrl=http://freetv247.com/tags/al-baghdadia-2-live-tv</link>
 <thumbnail>http://a1.mzstatic.com/us/r1000/107/Purple/cf/aa/5c/mzl.bjffmkul.jpg</thumbnail>
 </item>
 
-
-<item>
-<title>Abu Dhabi</title>
-<link>rtmp://10gb1.tulix.tv/abudhabitv/ playpath=abudhabitv swfUrl=http://player.longtailvideo.com/player.swf live=true timeout=15 pageUrl=http://www.freetv247.com/content/abu-dhabi-tv</link>
-<thumbnail>http://www.dubaichronicle.com/wp-content/uploads/2009/10/ADTV_One_RGB.JPG</thumbnail>
-</item>
-
-
-<item>
-<title>Rotana Khalijia</title>
-<link>rtmp://livestreaming4.itworkscdn.net/rotanakhalijialive playpath=rotanakhalijia_360p live=true timeout=15 swfUrl=http://khalijia.rotana.net/it-works/jwplayer.flash.swf pageUrl=http://khalijia.rotana.net/r/live-tv</link>
-<thumbnail>http://www.lyngsat-logo.com/hires/rr/rotana_khalijia.png</thumbnail>
-</item>
-
-<item>
-<title>Rotana Cinema</title>
-<link>rtmp://livestreaming4.itworkscdn.net/rotanacinemalive playpath=rotanacinema_360p live=true timeout=15 swfUrl=http://cinema.rotana.net/it-works/jwplayer.flash.swf pageUrl=http://cinema.rotana.net/r/live-tv</link>
-<thumbnail>http://ing-sat.what.hu/images/logo-insert/satlogos/saudi-arabia/200-Rotana-Cinema-11.jpg</thumbnail>
-</item>
 
 

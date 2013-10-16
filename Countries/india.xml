@@ -344,7 +344,7 @@ Indian - Telugu / Malayam Streams:
 
 <item>
 <title>Star Plus</title>
-<link>rtmp://85.25.199.31/rtp-live/ playpath=starplus.stream swfUrl=http://www.mast.tv/components/com_contushdvideoshare/hdflvplayer/hdplayer.swf pageUrl=http://www.mast.tv/player/live-tv-channels/starplus-live live=ture timeout=15</link>
+<link>rtmp://85.25.199.31/rtp-live/ playpath=starplus.stream swfUrl=http://www.mast.tv/components/com_contushdvideoshare/hdflvplayer/hdplayer.swf live=ture swfVfy=live timeout=15 pageUrl=http://www.mast.tv/player/live-tv-channels/starplus-live</link>
 <thumbnail>http://cdn7.staztic.com/app/a/2610/2610171/star-plus-tv-latest-episodes-1370937313-0-s-307x512.jpg</thumbnail>
 </item>
 

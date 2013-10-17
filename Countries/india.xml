@@ -5,21 +5,15 @@
 <thumbnail></thumbnail>
 
 <item>
- <title>Star Movie</title>
+<title>Star Movie</title>
 <link>http://m24.megafun.vn/live.vs?c=vstv038&amp;q=high</link>
 <thumbnail>http://ftpmirror.your.org/pub/wikimedia/images/wikipedia/vi/4/45/Star_movies_me_hd.png</thumbnail>
 </item>
 
 <item>
 <title>Star Sports</title>
-<link>rtmp://50.7.175.253:1939/base2 playpath=asia3.stream swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=true timeout=15 pageUrl=http://www.turbotv.in/suvarna-plus-live/</link>
-<thumbnail>http://upload.wikimedia.org/wikipedia/zh/c/c5/Star_Sports_2009.png</thumbnail>
-</item>
-
-<item>
-<title>Star test</title>
 <link>http://m24.megafun.vn/live.vs?c=vstv033&amp;q=high</link>
-<thumbnail>http://4.bp.blogspot.com/-5DTzhxSdyi4/TSGts3UDGxI/AAAAAAAADGE/w2nUGut2OuI/s1600/suvarna_logo.jpg</thumbnail>
+<thumbnail>http://www.techapna.com/wp-content/uploads/2013/03/Star-Sports-Logo.png</thumbnail>
 </item>
 
 <item>
@@ -350,7 +344,7 @@ Indian - Telugu / Malayam Streams:
 
 <item>
 <title>Star Plus</title>
-<link>rtmp://85.25.199.31/rtp-live/ playpath=starplus.stream swfUrl=http://www.mast.tv/components/com_contushdvideoshare/hdflvplayer/hdplayer.swf live=true timeout=15 pageUrl=http://www.mast.tv/player/live-tv-channels/starplus-live</link>
+<link>rtmp://85.25.199.31/rtp-live/ playpath=starplus.stream swfUrl=http://www.mast.tv/components/com_contushdvideoshare/hdflvplayer/hdplayer.swf live=ture timeout=15 pageUrl=http://www.mast.tv/player/live-tv-channels/starplus-live</link>
 <thumbnail>http://cdn7.staztic.com/app/a/2610/2610171/star-plus-tv-latest-episodes-1370937313-0-s-307x512.jpg</thumbnail>
 </item>
 

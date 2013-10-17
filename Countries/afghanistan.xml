@@ -5,6 +5,12 @@
 <thumbnail></thumbnail>
 
 <item>
+<title>1</title>
+<link><link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=opsDahAkUmc</link></link>
+<thumbnail>http://www.lyngsat-logo.com/hires/mm/mtc.png</thumbnail>
+</item>
+
+<item>
 <title>MTC</title>
 <link>rtmp://mellitv.tulix.tv/mellitv playpath=myStream.sdp swfUrl=http://iriptv.com/player/player.swf live=true timeout=60 pageUrl=http://iriptv.com/web/index.php</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/mm/mtc.png</thumbnail>

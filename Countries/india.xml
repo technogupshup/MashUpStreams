@@ -5,6 +5,12 @@
 <thumbnail></thumbnail>
 
 <item>
+<title>Asianet Middle East [COLOR=FFFF0000]Working 18/10/2013[/COLOR]</title>
+<link>rtmp://50.7.128.147/base2 playpath=asia1.stream swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=true timeout=15 pageUrl=http://www.turbotv.in/asianet-middle-east-live/</link>
+<thumbnail>http://www.turbotv.in/wp-content/uploads/2012/10/Asianet-Middle-East.jpg</thumbnail>
+</item>
+
+<item>
 <title>Star Cricket</title>
 <link>rtmp://206.190.140.36/live playpath=youzvvv?id=196 conn=S:OK swfUrl=http://www.janjua.tv/resources/scripts/eplayer.swf pageUrl=http://www.janjua.tv/embedplayer/youzvvv/1/600/420</link>
 <thumbnail>http://upload.wikimedia.org/wikipedia/en/e/ec/Star_Cricket_Logo.png</thumbnail>
@@ -247,12 +253,6 @@ Indian - Telugu / Malayam Streams:
 </item>
 
 <item>
-<title>AASTHA [COLOR=FFFF0000]Working 09/10/2013[/COLOR]</title>
-<link>rtmp://50.7.175.253:1939/base2 playpath=dd6.stream swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=true timeout=15 pageUrl=http://www.turbotv.in/aastha-devotional-channel/</link>
-<thumbnail>http://india4indians.com/news/files/2010/12/aaa1.jpg</thumbnail>
-</item>
-
-<item>
 <title>Sony Sab TV</title>
 <link>rtmp://zeenatlive.viddillions.com:1935/zeenatlive playpath=51ztvlive169.stream swfUrl= live=true timeout=60 pageUrl=</link>
 <thumbnail>http://nowwatchtvlive.com/wp-content/uploads/2012/01/sony_sab_tv_asia.png</thumbnail>
@@ -364,12 +364,6 @@ Indian - Telugu / Malayam Streams:
 <title>AsianetMovie</title>
 <link>rtmp://50.7.128.147/base2 playpath=asia15.stream swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=true timeout=15 pageUrl=http://www.turbotv.in/asianet-movies-live/</link>
 <thumbnail>http://keralamax.com/movies/wp-content/uploads/2012/07/Asianet-Movie-Channel.jpg</thumbnail>
-</item>
-
-<item>
-<title>Asianet Middle East [COLOR=FFFF0000]Working 09/10/2013[/COLOR]</title>
-<link>rtmp://50.7.175.251/base2 playpath=asia1.stream swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=true timeout=15 pageUrl=http://www.turbotv.in/asianet-middle-east-live/</link>
-<thumbnail>http://www.turbotv.in/wp-content/uploads/2012/10/Asianet-Middle-East.jpg</thumbnail>
 </item>
 
 <item>

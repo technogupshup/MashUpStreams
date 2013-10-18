@@ -5,7 +5,7 @@
 <thumbnail></thumbnail>
 
 <item>
-<title>Россия 24</title>
+<title>Россия 24 [COLOR=FFFF0000]Channel Will Start On Second Attempt[/COLOR]</title>
 <link>http://live.rfn.ru/r24_hq</link>
 <thumbnail>http://toplogos.ru/images/logo-rossiya-24.png</thumbnail>
 </item>
@@ -23,9 +23,9 @@
 </item>
 
 <item>
-<title>Galargo tv</title>
-<link>rtmp://rtmp.galargo.tv:1935/wowzaapp1 playpath=1_360p swfUrl= live=true timeout=15 pageUrl=</link>
-<thumbnail>http://www.radarpro.ru/upload/medialibrary/fc4/galargo.png</thumbnail>
+<title>1TV</title>
+<link>rtmp://85.132.53.51:1935/turktv playpath=perviy.sdp swfUrl=http://www.livetv.az/static/player/player.swf live=true timeout=15 pageUrl=http://www.livetv.az/perviy/</link>
+<thumbnail>http://www.cinegy.com/jml/images/stories/1tv_small.jpg</thumbnail>
 </item>
 
 <item>
@@ -71,9 +71,9 @@
 </item>
 
 <item>
-<title>RIA TV</title>
-<link>rtmp://n3.mos.cdn.online.ru/live-r playpath=rtmp://orig.content-video.ru/live/stream20 swfUrl=http://www.corbina.tv/flash/swf/player.swf live=true timeout=15 pageUrl=http://www.corbina.tv/tv/rian</link>
-<thumbnail>http://b.vimeocdn.com/ts/365/265/365265422_640.jpg</thumbnail>
+<title>Rubin TV</title>
+<link>rtmp://grey.ether.tv/live/rubin/ playpath=broadcast4 swfUrl=http://player.olweb.tv/player13/jplayer.swf live=true timeout=15 pageUrl=http://www.olweb.tv/watch/fc-rubin-kazan-tv-s1.html</link>
+<thumbnail>http://tunshow.bugs3.com/games/images/news_3997.jpg</thumbnail>
 </item>
 
 <item>

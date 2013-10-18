@@ -5,6 +5,12 @@
 <thumbnail></thumbnail>
 
 <item>
+<title>Россия 1 </title>
+<link>rtmp://85.132.53.51:1935/turktv playpath=rossiya1.sdp swfUrl=http://www.livetv.az/static/player/player.swf pageUrl=http://www.livetv.az/rossiya-1/</link>
+<thumbnail>http://toplogos.ru/images/logo-rossiya-1.png</thumbnail>
+</item>
+
+<item>
 <title>Россия 24 [COLOR=FFFF0000]Channel Will Start On Second Attempt[/COLOR]</title>
 <link>http://live.rfn.ru/r24_hq</link>
 <thumbnail>http://toplogos.ru/images/logo-rossiya-24.png</thumbnail>

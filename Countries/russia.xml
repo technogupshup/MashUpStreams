@@ -5,8 +5,14 @@
 <thumbnail></thumbnail>
 
 <item>
+<title>HTB</title>
+<link>rtmp://85.132.44.105:1935/turktv playpath=ntvrussia.sdp swfUrl=http://www.livetv.az/static/player/player.swf live=true timeout=15 pageUrl=http://www.livetv.az/ntvrussia/</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/NTV_logo_2003.svg/200px-NTV_logo_2003.svg.png</thumbnail>
+</item>
+
+<item>
 <title>Россия 1 </title>
-<link>rtmp://85.132.53.51:1935/turktv playpath=rossiya1.sdp swfUrl=http://www.livetv.az/static/player/player.swf pageUrl=http://www.livetv.az/rossiya-1/</link>
+<link>rtmp://85.132.53.51:1935/turktv playpath=rossiya1.sdp swfUrl=http://www.livetv.az/static/player/player.swf live=true timeout=15 pageUrl=http://www.livetv.az/rossiya-1/</link>
 <thumbnail>http://toplogos.ru/images/logo-rossiya-1.png</thumbnail>
 </item>
 

@@ -5,6 +5,12 @@
 <thumbnail></thumbnail>
 
 <item>
+<title>Tolo News</title>
+<link><link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=opsDahAkUmc</link></link>
+<thumbnail>http://aria-tv.com/images/tolo_news.png</thumbnail>
+</item>
+
+<item>
 <title>MTC</title>
 <link>rtmp://mellitv.tulix.tv/mellitv playpath=myStream.sdp swfUrl=http://iriptv.com/player/player.swf live=true timeout=60 pageUrl=http://iriptv.com/web/index.php</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/mm/mtc.png</thumbnail>
@@ -97,7 +103,7 @@
 <item>
 <title>Hewad TV</title>
 <link>rtmp://64.37.60.10:1935/live playpath=hewadlive swfUrl=http://www.hewad.tv/tvshow/player/player.swf live=true timeout=60 pageUrl=http://www.hewad.tv/</link>
-<thumbnail>http://2.bp.blogspot.com/-GJch6zp-87s/UdCMJNreULI/AAAAAAAABGU/0cKeBJZPkrs/s200/Hwadpn.png</thumbnail>
+<thumbnail>http://www.hgsitebuilder.com/files/writeable/uploads/hostgator237883/image/hewad_tv-www.hewad.tv.jpg</thumbnail>
 </item>
 
 <item>

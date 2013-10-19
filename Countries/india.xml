@@ -5,6 +5,18 @@
 <thumbnail></thumbnail>
 
 <item>
+<title>Asianet Middle East [COLOR=FFFF0000]Working 18/10/2013[/COLOR]</title>
+<link>rtmp://50.7.128.147/base2 playpath=asia1.stream swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=true timeout=15 pageUrl=http://www.turbotv.in/asianet-middle-east-live/</link>
+<thumbnail>http://www.turbotv.in/wp-content/uploads/2012/10/Asianet-Middle-East.jpg</thumbnail>
+</item>
+
+<item>
+<title>Star Cricket</title>
+<link>rtmp://206.190.140.36/live playpath=youzvvv?id=196 conn=S:OK swfUrl=http://www.janjua.tv/resources/scripts/eplayer.swf pageUrl=http://www.janjua.tv/embedplayer/youzvvv/1/600/420</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/en/e/ec/Star_Cricket_Logo.png</thumbnail>
+</item>
+
+<item>
 <title>Star Movie</title>
 <link>http://m24.megafun.vn/live.vs?c=vstv038&amp;q=high</link>
 <thumbnail>http://ftpmirror.your.org/pub/wikimedia/images/wikipedia/vi/4/45/Star_movies_me_hd.png</thumbnail>
@@ -241,12 +253,6 @@ Indian - Telugu / Malayam Streams:
 </item>
 
 <item>
-<title>AASTHA [COLOR=FFFF0000]Working 09/10/2013[/COLOR]</title>
-<link>rtmp://50.7.175.253:1939/base2 playpath=dd6.stream swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=true timeout=15 pageUrl=http://www.turbotv.in/aastha-devotional-channel/</link>
-<thumbnail>http://india4indians.com/news/files/2010/12/aaa1.jpg</thumbnail>
-</item>
-
-<item>
 <title>Sony Sab TV</title>
 <link>rtmp://zeenatlive.viddillions.com:1935/zeenatlive playpath=51ztvlive169.stream swfUrl= live=true timeout=60 pageUrl=</link>
 <thumbnail>http://nowwatchtvlive.com/wp-content/uploads/2012/01/sony_sab_tv_asia.png</thumbnail>
@@ -361,20 +367,14 @@ Indian - Telugu / Malayam Streams:
 </item>
 
 <item>
-<title>Asianet Middle East [COLOR=FFFF0000]Working 09/10/2013[/COLOR]</title>
-<link>rtmp://50.7.175.251/base2 playpath=asia1.stream swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=true timeout=15 pageUrl=http://www.turbotv.in/asianet-middle-east-live/</link>
-<thumbnail>http://www.turbotv.in/wp-content/uploads/2012/10/Asianet-Middle-East.jpg</thumbnail>
-</item>
-
-<item>
-<title>Yes Indiavision [COLOR=FFFF0000]Working 09/10/2013[/COLOR]</title>
-<link>rtmp://50.7.175.253:1939/base2 playpath=hmtv2.stream swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=true timeout=15 pageUrl=http://www.turbotv.in/yes-indiavision-live/</link>
+<title>Yes Indiavision [COLOR=FFFF0000]Working 18/10/2013[/COLOR]</title>
+<link>rtmp://50.7.128.149:1939/base2 playpath=hmtv2.stream swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=true timeout=15 pageUrl=http://www.turbotv.in/yes-indiavision-live/</link>
 <thumbnail>http://www.kerala.me/f_files/yes%20indiavision.jpg</thumbnail>
 </item>
 
 <item>
 <title>DD Sport [COLOR=FFFF0000]Working 09/10/2013[/COLOR]</title>
-<link>rtmp://50.7.175.253:1939/base2 playpath=dd3.stream swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=true timeout=15 pageUrl=http://www.turbotv.in/dd-sports-live/</link>
+<link>rtmp://50.7.128.149:1939/base2 playpath=dd3.stream swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=true timeout=60 pageUrl=http://www.turbotv.in/dd-sports-live/</link>
 <thumbnail>http://www.gdayindia.com.au/wp-content/uploads/2011/09/dd.jpg</thumbnail>
 </item>
 
@@ -385,15 +385,9 @@ Indian - Telugu / Malayam Streams:
 </item>
 
 <item>
-<title>DANGAL TV [COLOR=FFFF0000]Working 09/10/2013[/COLOR]</title>
-<link>rtmp://50.7.175.252:1940/base2 playpath=dd14.stream swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=true timeout=15 pageUrl=http://www.turbotv.in/dangal-tv-live/</link>
-<thumbnail>http://i2.ytimg.com/vi/Q62K2atXTvY/hqdefault.jpg</thumbnail>
-</item>
-
-<item>
-<title>STAR UTSAV [COLOR=FFFF0000]Working 09/10/2013[/COLOR]</title>
-<link>rtmp://50.7.175.253:1939/base2 playpath=dd15.stream swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=true timeout=15 pageUrl=http://www.turbotv.in/star-utsav/</link>
-<thumbnail>http://www.turbotv.in/wp-content/uploads/2012/11/STAR_Utsav_.jpg</thumbnail>
+<title>Star Utsav</title>
+<link>rtmp://50.7.128.149:1939/base2 playpath=dd15.stream swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=true timeout=60 pageUrl=http://www.turbotv.in/star-utsav/</link>
+<thumbnail>http://imageshack.us/a/img440/5421/starutsav300.png</thumbnail>
 </item>
 
 <item>

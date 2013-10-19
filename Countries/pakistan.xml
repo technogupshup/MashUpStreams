@@ -72,7 +72,7 @@
 
 <item>
 <title>ARY Digital</title>
-<link>rtmp://141.8.244.56/tv playpath=tvary swfUrl=http://141.8.244.56/player/player.swf live=true timeout=15 pageUrl=http://sportsembed.com/embed.php?v=tvary&vw=600&vh=450&typeplayer=0&domain=pogotv.eu</link>
+<link>rtmp://live.dmasti.pk/ary/109955 swfUrl=http://webtv.dnt.net.pk/player.swf pageUrl=http://webtv.dnt.net.pk/ent.html swfVfy=true live=true</link>
 <thumbnail>http://upload.wikimedia.org/wikipedia/en/f/f3/ARY_Digital_Logo_2.png</thumbnail>
 </item>
 

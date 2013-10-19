@@ -1,0 +1,104 @@
+ <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+
+<channel>
+<name>Honduras TV Channels</name>
+<thumbnail></thumbnail>
+
+<item>
+<title>CANAL6</title>
+<link>rtmp://216.231.129.4/canal6 playpath=canal6 swfUrl=http://216.231.129.4/system/misc/flvplayer/FLVplayer_Custom.swf pageUrl=http://www.telecatracha.com/2010/02/canal-6-san-pedro-sula-honduras.html</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/cc/canal6_hn.jpg</thumbnail>
+</item>
+
+<item>
+<title>45TV</title>
+<link>rtmp://shared.flashwebtown.com/lirias/ playpath=45TV swfUrl=http://source.netandino.com/html5/player.swf pageUrl=http://www.telecatracha.com/2010/02/45-tv-la-ceiba-honduras-el-canal-de-los.html</link>
+<thumbnail>http://3.bp.blogspot.com/-7-5DFjEPJyQ/UQ8JPQJ4bpI/AAAAAAAALbc/v53gOPYLpvY/s1600/45-TV-Honduras.jpg</thumbnail>
+</item>
+
+<item>
+<title>ALFA&OMEGA VISION</title>
+<link>rtmp://serverstreamgroup.biz/aovis playpath=aovis swfUrl=http://serverstreamgroup.biz/mediacp/system/misc/flvplayer/FLVplayer_Custom.swf pageUrl=http://www.telecatracha.com/2013/07/blog-post.html</link>
+<thumbnail>http://4.bp.blogspot.com/-Y1Xcawqwtso/UeopCB7MCOI/AAAAAAAARXY/2xWX7cmVVa8/s1600/Alfa-omegavision-honduras.jpg</thumbnail>
+</item>
+
+<item>
+<title>GLOBO TV</title>
+<link>rtmp://m.streamfull.com.ar:8979/live playpath=globotv swfUrl=http://streamfull.com.ar/js.swf pageUrl=http://www.telecatracha.com/2010/01/globo-tv-honduras.html</link>
+<thumbnail>http://1.bp.blogspot.com/-ElEaeSovA9c/T8CRBqmTasI/AAAAAAAADVc/WTTU--RlcwU/s1600/globo_tv_honduras_telecatracha_television_honduras _noticias.jpg</thumbnail>
+</item>
+
+<item>
+<title>TV HONDURAS</title>
+<link>rtmp://38.96.148.78:1935/live playpath=hchtvdigital swfUrl=http://www.hablecomohabla.tv/sitio/modules/mod_playerjr/player-licensed5.swf pageUrl=http://www.telecatracha.com/2010/09/hable-como-habla-tv-honduras.html</link>
+<thumbnail>http://3.bp.blogspot.com/-bkVIOahUJ-I/T8FB7sFDFXI/AAAAAAAADXo/ZVI1dDvJMA0/s1600/honduras+tv+television+noticias+telecatracha.png</thumbnail>
+</item>
+
+<item>
+<title>LENCA TV</title>
+<link>rtmp://38.96.148.79:1935/live playpath=lencatv swfUrl=http://www.serverroom.net/jwplayer5/player.swf pageUrl=http://www.telecatracha.com/2013/07/lenca-tv-la-esperanza-intibuca.html</link>
+<thumbnail>http://4.bp.blogspot.com/-JiMIDbHYXqg/Ueq_c8aFKZI/AAAAAAAARYI/XQs1tdOriYw/s320/lenca+tv+honduras+television+telecatracha+intibuca .jpg</thumbnail>
+</item>
+
+<item>
+<title>MAYA TV</title>
+<link>rtmp://4.30.20.151/mayaTv playpath=mayaTv swfUrl=http://cpanel.netpatio.com/swfs/jwplayer/player.swf pageUrl=http://www.telecatracha.com/2010/02/maya-tv-honduras-canal-66.html?zx=b84cf6ddf05fc7c</link>
+<thumbnail>http://1.bp.blogspot.com/-WA6ciVLcbBM/T8EwQ428mlI/AAAAAAAADWU/HJOR4B-xkKU/s1600/maya+tv+honduras+television+honduras+telecatracha. png</thumbnail>
+</item>
+
+<item>
+<title>MUNDO TV</title>
+<link>rtmp://38.96.148.78:1935/live playpath=mundotv swfUrl=http://www.primcast.com/jwplayer5/player.swf pageUrl=http://www.telecatracha.com/2011/09/mundo-tv-honduras.html</link>
+<thumbnail>http://2.bp.blogspot.com/-8xLklbgpg_k/UerhZxDLvnI/AAAAAAAARZA/8DoR-ffMeqU/s1600/Mundotv-HonDURAS.jpg</thumbnail>
+</item>
+
+<item>
+<title>NAOS TV</title>
+<link>rtmp://extondemand.livestream.com/ondemand playpath=trans/dv11/mogulus-user-files/chnaostv/2011/04/15/3d3485e6-5434-4153-b57e-1eca7f3f6a3b swfUrl=http://cdn.livestream.com/chromelessPlayer/v21/playerapi.swf?width=560&autoplay=true&height=340&j sEnabled=false&time pageUrl=http://cdn.livestream.com/embed/naostv?layout=4&height=340&width=560&autoplay=true </link>
+<thumbnail>http://2.bp.blogspot.com/-U-m4ZmmS-HI/UCkbnW9DMSI/AAAAAAAAFRc/wretVWTPq6k/s1600/Sin-t%C3%ADtulo-1.jpg</thumbnail>
+</item>
+
+<item>
+<title>NAOS TV</title>
+<link>rtmp://extondemand.livestream.com:80/ondemand playpath=trans/dv10/mogulus-user-files/chnaostv/2010/12/12/7b1095ec-7950-4057-93ef-f81d9905b6fc swfUrl=http://cdn.livestream.com/chromelessPlayer/v21/playerapi.swf?width=560&autoplay=true&height=340&j sEnabled=false&time= pageUrl=http://cdn.livestream.com/embed/naostv?layout=4&height=340&width=560&autoplay=true </link>
+<thumbnail>http://2.bp.blogspot.com/-U-m4ZmmS-HI/UCkbnW9DMSI/AAAAAAAAFRc/wretVWTPq6k/s1600/Sin-t%C3%ADtulo-1.jpg</thumbnail>
+</item>
+
+<item>
+<title>CHOLUSAT SUR</title>
+<link>rtmp://live.audiotvserver.com:1935/livemedia playpath=cholusat swfUrl=http://fpdownload.adobe.com/strobe/FlashMediaPlayback.swf/[[DYNAMIC]]/1 pageUrl=http://www.telecatracha.com/2009/10/cholusat-sur-canal-36-honduras.html</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/cc/cholusat_sur.jpg</thumbnail>
+</item>
+
+<item>
+<title>TELEPORT TV</title>
+<link>rtmp://190.4.44.71:1935/live playpath=live swfUrl=http://fpdownload.adobe.com/strobe/FlashMediaPlayback.swf/[[DYNAMIC]]/1 pageUrl=http://www.telecatracha.com/2013/07/teleport-puerto-cortes.html</link>
+<thumbnail>http://4.bp.blogspot.com/-NDKEfXYZD_A/UeonAW64ERI/AAAAAAAARXI/JYmEBz9Ita4/s1600/teleport.jpg</thumbnail>
+</item>
+
+<item>
+<title>TELERED21</title>
+<link>rtmp://cdn9.iviplanet.com/Telered21 playpath=myStream.sdp swfUrl=http://encoder.iviplanet.com/StreamerPlayers/player.swf pageUrl=http://www.telecatracha.com/2010/02/telered-21-honduras.html</link>
+<thumbnail>http://2.bp.blogspot.com/-m-0DE983jhc/T8Eyk8kpiII/AAAAAAAADWc/kpXbZXWFwe4/s1600/telered+21+honduras+television+noticias+honduras+t elecatracha.jpg</thumbnail>
+</item>
+
+<item>
+<title>CANAL10</title>
+<link>rtmp://hd.worldkast.com/canal10tv/ playpath=canal10tv1 swfUrl=http://cpanel.netpatio.com/swfs/jwplayer/player.swf pageUrl=http://www.telecatracha.com/2009/09/ten-canal-10-television-educativa.html</link>
+<thumbnail>http://4.bp.blogspot.com/-ZJltBtExrm4/T8CWrNj-AkI/AAAAAAAADV0/_pU6McNLOok/s1600/telecatracha+ten+canal+10+honduras+television+noti cias.jpg</thumbnail>
+</item>
+
+<item>
+<title>HABLE COMO HABLA</title>
+<link>rtmp://38.96.148.78:1935/live playpath=hchtvdigital swfUrl=http://www.hablecomohabla.tv/sitio/modules/mod_playerjr/player-licensed5.swf pageUrl=http://www.telecatracha.com/2010/09/hable-como-habla-tv-honduras.html</link>
+<thumbnail>http://3.bp.blogspot.com/-KTsALuVr0dY/T8FANJDPi1I/AAAAAAAADXg/ubDPtB1z5bA/s1600/hable+como+habla+tv+honduras+television+telecatrac ha+noticias.jpg</thumbnail>
+</item>
+
+<item>
+<title>Canal 5 El Lider</title>
+<link>http://xtvcstreamingx.api.channel.livestream.com/3.0/playlist.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/cc/canal5_el_lider.jpg</thumbnail>
+</item>
+
+</channel>

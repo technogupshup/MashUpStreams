@@ -17,12 +17,6 @@
 </item>
 
 <item>
-<title>Star test</title>
-<link>http://46.249.213.87/iPhone/broadcast/bollywoodmovies-tablet.3gp/bollywoodmovies-tablet.3gp-mr648k.m3u8</link>
-<thumbnail>http://ftpmirror.your.org/pub/wikimedia/images/wikipedia/vi/4/45/Star_movies_me_hd.png</thumbnail>
-</item>
-
-<item>
 <title>Star Movie</title>
 <link>http://m24.megafun.vn/live.vs?c=vstv038&amp;q=high</link>
 <thumbnail>http://ftpmirror.your.org/pub/wikimedia/images/wikipedia/vi/4/45/Star_movies_me_hd.png</thumbnail>
@@ -361,25 +355,25 @@ Indian - Telugu / Malayam Streams:
 </item>
 
 <item>
-<title>Star Gold</title>
-<link>rtmp://141.8.244.56/base playpath=stargold1.stream swfUrl=http://141.8.244.56/player/player.swf token=%X886(nPK@#. pageUrl=http://sportsembed.com/embed.php?v=star_gold2&vw=600&vh=450&typeplayer=0&domain=www.pogotv.eu live=live swfVfy=live timeout=15</link>
+<title>Star Gold [COLOR=FFFF0000]No Buffering[/COLOR]</title>
+<link>http://46.249.213.87/iPhone/broadcast/bollywoodmovies-tablet.3gp/bollywoodmovies-tablet.3gp-mr648k.m3u8</link>
 <thumbnail>http://images.wikia.com/logopedia/images/f/f0/Star_Gold_2011.png</thumbnail>
 </item>
 
 <item>
-<title>AsianetMovie</title>
+<title>Asianet Movie</title>
 <link>rtmp://50.7.128.147/base2 playpath=asia15.stream swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=true timeout=15 pageUrl=http://www.turbotv.in/asianet-movies-live/</link>
 <thumbnail>http://keralamax.com/movies/wp-content/uploads/2012/07/Asianet-Movie-Channel.jpg</thumbnail>
 </item>
 
 <item>
-<title>Yes Indiavision [COLOR=FFFF0000]Working 18/10/2013[/COLOR]</title>
+<title>Yes Indiavision</title>
 <link>rtmp://50.7.128.149:1939/base2 playpath=hmtv2.stream swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=true timeout=15 pageUrl=http://www.turbotv.in/yes-indiavision-live/</link>
 <thumbnail>http://www.kerala.me/f_files/yes%20indiavision.jpg</thumbnail>
 </item>
 
 <item>
-<title>DD Sport [COLOR=FFFF0000]Working 09/10/2013[/COLOR]</title>
+<title>DD Sport</title>
 <link>rtmp://50.7.128.149:1939/base2 playpath=dd3.stream swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=true timeout=60 pageUrl=http://www.turbotv.in/dd-sports-live/</link>
 <thumbnail>http://www.gdayindia.com.au/wp-content/uploads/2011/09/dd.jpg</thumbnail>
 </item>

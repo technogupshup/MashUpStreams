@@ -23,29 +23,10 @@
 </item>
 
 
-
 <item>
-<title>Sports 5</title>
-<link>http://edge.pldt.swiftserve.com/live/mediascape/aktv-ibc-13/chunklist.m3u8</link>
-<thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/Mashup/sports5_zpsc523e315.png</thumbnail>
-</item>
-
-<item>
-<title>PTV [COLOR=FFFF0000]Link 1[/COLOR]</title>
-<link>rtmp://livestream.ptv.ph/oflaDemo playpath=live swfUrl=http://vidzptvc.ptv.ph/player.swf live=true timeout=15 pageUrl=http://vidzptvc.ptv.ph/livestreaming.php?w=600&h=350</link>
+<title>PTV</title>
+<link>rtmp://livestream.ptv.ph/oflaDemo playpath=live swfUrl=http://vidzptvc.ptv.ph/player.swf live=true timeout=15 pageUrl=http://vidzptvc.ptv.ph/livestreaming.php?h=420&w=720</link>
 <thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/Mashup/ptv_zps47909d31.png</thumbnail>
-</item>
-
-<item>
-<title>PTV [COLOR=FFFF0000]Link 2[/COLOR]</title>
-<link>http://iphone-streaming.ustream.tv/ustreamVideo/9544987/streams/live/playlist.m3u8</link>
-<thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/Mashup/ptv_zps47909d31.png</thumbnail>
-</item>
-
-<item>
-<title>RHTV</title>
-<link>mms://bayantel-ss.dagupan.com/dzrhvideo</link>
-<thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/Mashup/rhtv_zpsc5b62e3d.png</thumbnail>
 </item>
 
 <item>
@@ -97,33 +78,21 @@
 </item>
 
 <item>
-<title>ABS-CBN Link 2</title>
-<link>rtmp://live.iguide.to/edge playpath=xxooiinjva78v94 swfUrl=http://player.ilive.to/player_ilive_2.swf pageUrl=http://www.ilive.to/view/42963/watch-live-Sinipaay-streaming-channel-for-free token=#e87JDUJD264YED687 swfVfy=1 live=1 timeout=15</link>
-<thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/Mashup/abs-cbn2_zps6305f072.png</thumbnail>
-</item>
-
-<item>
 <title>GMA 7</title>
-<link>rtmp://live.iguide.to/edge playpath=tj6zegfdas16p08 swfUrl=http://player.ilive.to/player_ilive_embed.swf pageUrl=http://www.ilive.to/embedplayer.php?width=600&height=450&channel=44090 &autoplay=true token=#e87JDUJD264YED687 swfVfy=1 live=1 timeout=15</link>
+<link>rtmp://ny.iguide.to/edge playpath=tj6zegfdas16p08 token=#ed%h0#w18623jsda6523lDGDve swfUrl=http://player.ilive.to/secure_player_ilive_z.swf live=true timeout=15 pageUrl=http://www.ilive.to/view/44090/watch-live-GMA_7-streaming-channel-for-free</link>
 <thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/Mashup/gma7_zpse6c76072.png</thumbnail>
 </item>
 
 <item>
-<title>ABS-CBN Link 1</title>
+<title>ABS-CBN</title>
 <link>http://iwantvls-i.akamaihd.net/hls/live/202810/abscbn/master.m3u8</link>
 <thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/Mashup/abs-cbn2_zps6305f072.png</thumbnail>
 </item>
 
 <item>
-<title>ABS-CBN Link 3</title>
-<link>rtmp://cp106256.live.edgefcs.net:443/live playpath=iwantabs-256@36979?videoId=1879066044001 swfUrl=http://p.jwpcdn.com/6/5/jwplayer.flash.swf live=true timeout=15 pageUrl=http://www.pinoyshownow.net/2011/04/abs-cbn-live-streaming.html</link>
+<title>ABS-CBN (Link 2)</title>
+<link>rtmp://cp106256.live.edgefcs.net:443/live playpath=iwantabs-256@36979?videoId=1879066044001 conn=S:OK swfUrl=http://p.jwpcdn.com/6/5/jwplayer.flash.swf live=true timeout=15 pageUrl=http://www.pinoyshownow.net/2011/04/abs-cbn-live-streaming.html</link>
 <thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/Mashup/abs-cbn2_zps6305f072.png</thumbnail>
-</item>
-
-<item>
-<title>GMA 7</title>
-<link>rtmp://live.iguide.to/edge playpath=tj6zegfdas16p08 swfUrl=http://player.ilive.to/player_ilive_2.swf pageUrl=http://www.ilive.to/view/44090/watch-live-GMA_7-streaming-channel-for-free token=#e87JDUJD264YED687 swfVfy=1 live=1 timeout=15</link>
-<thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/Mashup/gma7_zpse6c76072.png</thumbnail>
 </item>
 
 </channel>

@@ -6,17 +6,9 @@
 
 <item>
 <title>CDM</title> 
-<link>rtmp://cdnc.unored.com/cdm150 playpath=str.sdp swfUrl=http://wwitv.com/player/player15.swf live=true timeout=15 pageUrl=http://wwitv.com/tv_channels/7330.htm</link>
+<link>rtmp://cdne2.unored.com/unored_video/587 playpath=stream swfUrl=http://tvportal.unored.com/embed.swf live=true timeout=15 pageUrl=http://tvportal.unored.com/embed/587/425/351/FALSE/false</link>
 <thumbnail>http://ing-sat.what.hu/images/logo-insert/satlogos/puerto-rico/106-CDM%5B6%5D.jpg</thumbnail>
 </item>
-
-
-<item>
-<title>Telemundo PR</title>
-<link>http://www.telemundopr.com/en-vivo</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/ww/wkaq_telemundo.jpg</thumbnail>
-</item>
-
 
 <item>
 <title>Wapa TV</title>

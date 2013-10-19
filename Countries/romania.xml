@@ -4,19 +4,6 @@
 <thumbnail></thumbnail>
 
 <item>
-  <title>Antena 1</title>
-<link>http://86.105.253.79:9033/antena1.asf</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/antena1_ro.jpg</thumbnail>
-</item>
-
-<item>
-<title>6 TV</title>
-<link>http://89.149.7.178:8800/flv-audio-video/</link>
-<thumbnail>NO PICTURE</thumbnail>
-</item>
-
-
-<item>
 <title>JURNAL TV</title>
 <link>http://ch0.jurnaltv.md/channel0.flv</link>
 <thumbnail>http://www.jurnaltv.md/img/site/logo.jpg?id=2</thumbnail>
@@ -68,14 +55,6 @@
 <link>rtmp://212.0.211.109/live/livestream</link>
 <thumbnail>http://www.trm.md/img/site/trm.png</thumbnail>
 </item>
-
-
-<item>
-<title>1 TV</title>
-<link>http://1tv.ambra.ro</link>
-<thumbnail>NO PIC?! NOT FOUND ONE</thumbnail>
-</item>
-
 
 <item>
 <title>U TV</title>

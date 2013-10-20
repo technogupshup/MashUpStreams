@@ -6,7 +6,7 @@
 
 <item>
 <title>Star Cricket</title>
-<link>rtmp://198.204.255.66:1935/load/starcricket?Key=241c5c0e288af5b056c128d6c0f6f1c3 conn=S:OK swfUrl=http://www.kbps.tv/testing/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://www.kbps.tv/embed.php?s=starcricket&width=600&height=420&domain=cricketembed.com live=1 swfVfy=1 timeout=15</link>
+<link>rtmp://109.123.123.68/live playpath=starcrizvvvaa?id=436 swfUrl=http://www.janjua.tv/resources/scripts/eplayer.swf live=true timeout=15 pageUrl=http://www.janjua.tv/embedplayer/starcrizvvvaa/1/600/420</link>
 <thumbnail>http://upload.wikimedia.org/wikipedia/en/e/ec/Star_Cricket_Logo.png</thumbnail>
 </item>
 
@@ -374,7 +374,7 @@ Indian - Telugu / Malayam Streams:
 
 <item>
 <title>Star Utsav</title>
-<link>rtmp://50.7.128.149:1939/base2 playpath=dd15.stream swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=true timeout=60 pageUrl=http://www.turbotv.in/star-utsav/</link>
+<link>rtmp://50.7.175.253:1939/base2 playpath=dd15.stream swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=true timeout=60 pageUrl=http://www.turbotv.in/star-utsav/</link>
 <thumbnail>http://imageshack.us/a/img440/5421/starutsav300.png</thumbnail>
 </item>
 

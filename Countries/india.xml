@@ -412,7 +412,7 @@ er.swf live=true timeout=15 pageUrl=http://www.ukcast.tv/channel.php</link>
 <item>
 <title>Zee News</title>
 <link><link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=1H_eN2WTexM</link></link>
-<thumbnail>http://aria-tv.com/images/tolo_news.png</thumbnail>
+<thumbnail>http://www.lyngsat-logo.com/hires/zz/zee_news.png</thumbnail>
 </item>
 
 </channel>

@@ -53,12 +53,6 @@
 </item>
 
 <item>
-<title>Hum TV</title>
-<link>rtmp://93.174.93.124/live33 playpath=humtum swfUrl=http://www.zstream.eu/p387sj9hd803ns9n3is93s9df8nd93d9g9dfg94ng949f.swf?&streamer=rtmp://93.174.93.124/live33&file=humtum&autostart=true&stretching=exactfilt pageUrl=http://www.zstream.eu/p387sj9hd803ns9n3is93s9df8nd93d9g9dfg94ng949f.swf?&streamer=rtmp://93.174.93.124/live33&file=humtum&autostart=true&stretching=exactfilt</link>
-<thumbnail>http://upload.wikimedia.org/wikipedia/en/e/e4/Hum_TV_2013.png</thumbnail>
-</item>
-
-<item>
 <title>Urdu 1</title>
 <link>rtmp://178.18.30.121/live playpath=urduu4 swfUrl=http://www.ukcast.tv/player/player.swf live=true timeout=15 pageUrl=http://www.ukcast.tv/embed.php?u=urduu4&vw=600&vh=470</link>
 <thumbnail>http://upload.wikimedia.org/wikipedia/en/thumb/5/5a/Urdu_1_logo.png/120px-Urdu_1_logo.png</thumbnail>
@@ -98,6 +92,30 @@
 <title>PTV Sport</title>
 <link>rtmp://159.253.131.103/live playpath=yoyothri swfUrl=http://www.janjua.tv/player/player-licensed55.swf?&streamer=rtmp://159.253.131.103/live&file=yoyothri.flv&autostart=true&stretching=exactfit pageUrl=http://www.janjua.tv/player/player-licensed55.swf?&streamer=rtmp://159.253.131.103/live&file=yoyothri.flv&autostart=true&stretching=exactfit</link>
 <thumbnail>http://www.ptvsports.pk/wp-content/uploads/2012/09/PTV-Sports-Channel-logo.jpg</thumbnail>
+</item>
+
+<item>
+<title>HUM TV</title>
+<link>rtmpe://178.18.30.120/live playpath=humtvv09 swfUrl=http://www.ukcast.tv/upload/jwplayer/jwplayer.flash.swf pageUrl=http://www.ukcast.tv/embed.php?u=digary&amp;vw=600&amp;vh=430 live=true timeout=15</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/en/e/e4/Hum_TV_2013.png</thumbnail>
+</item>
+
+<item>
+<title>GEO TV</title>
+<link>rtmpe://178.18.30.120/live playpath=geo_entt0934 swfUrl=http://www.ukcast.tv/upload/jwplayer/jwplayer.flash.swf pageUrl=http://www.ukcast.tv/embed.php?u=digary&amp;vw=600&amp;vh=430 live=true timeout=15</link>
+<thumbnail>http://pakistanmediawatch.com/wp-content/uploads/2011/12/z440.gif</thumbnail>
+</item>
+
+<item>
+<title>Urdu</title>
+<link>rtmpe://178.18.30.120/live playpath=urduu4 swfUrl=http://www.ukcast.tv/upload/jwplayer/jwplayer.flash.swf pageUrl=http://www.ukcast.tv/embed.php?u=digary&amp;vw=600&amp;vh=430 live=true timeout=15</link>
+<thumbnail>http://pakistan.jobz.pk/wp-content/uploads/2013/04/Urdu-1-Channel-Logo.jpg</thumbnail>
+</item>
+
+<item>
+<title>Cartoon Network</title>
+<link>rtmpe://178.18.30.120/live playpath=cartoonnett_66 swfUrl=http://www.ukcast.tv/player/player.swf live=true timeout=15 pageUrl=http://www.ukcast.tv/embed.php?u=espnusa_not&amp;vw=600&amp;vh=430</link>
+<thumbnail>http://upload-downloads.livestream.com:8976/mogulus-channel-branding/cartoonnetworktrkiye/2011/08/05/84FD4C80-0790-5810-0365-99D44CF51290.png</thumbnail>
 </item>
 
 </channel>

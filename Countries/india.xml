@@ -5,12 +5,6 @@
 <thumbnail></thumbnail>
 
 <item>
-<title>Star Cricket</title>
-<link>rtmp://206.190.140.36/live playpath=youzvvv?id=196 conn=S:OK swfUrl=http://www.janjua.tv/resources/scripts/eplayer.swf pageUrl=http://www.janjua.tv/embedplayer/youzvvv/1/600/420</link>
-<thumbnail>http://upload.wikimedia.org/wikipedia/en/e/ec/Star_Cricket_Logo.png</thumbnail>
-</item>
-
-<item>
 <title>Star Movie</title>
 <link>http://m24.megafun.vn/live.vs?c=vstv038&amp;q=high</link>
 <thumbnail>http://ftpmirror.your.org/pub/wikimedia/images/wikipedia/vi/4/45/Star_movies_me_hd.png</thumbnail>
@@ -350,7 +344,7 @@ Indian - Telugu / Malayam Streams:
 
 <item>
 <title>Star Gold [COLOR=FFFF0000]No Buffering[/COLOR]</title>
-<link>rtmp://141.8.244.56/base playpath=stargold1.stream swfUrl=http://141.8.244.56/player/player.swf live=true timeout=15 pageUrl=http://sportsembed.com/embed.php?v=star_gold2&vw=600&vh=430&typeplayer=0&domain=desistreams.tv</link>
+<link>http://89.149.156.212/flv/4e2c5fd04592d/testat123?0.2377322083339095</link>
 <thumbnail>http://images.wikia.com/logopedia/images/f/f0/Star_Gold_2011.png</thumbnail>
 </item>
 

@@ -162,7 +162,7 @@
 
 <item>
 <title>Madina Live</title>
-<link>rtmp://69.39.238.102/besmallah playpath=cam3 swfUrl=http://live.gph.gov.sa/player.swf live=true timeout=60 pageUrl=http://live.gph.gov.sa/mdch.html</link>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=1VG4djofFuk#t=410574</link>
 <thumbnail>http://oi39.tinypic.com/1tjxfp.jpg</thumbnail>
 </item>
 

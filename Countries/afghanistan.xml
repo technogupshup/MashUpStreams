@@ -5,12 +5,6 @@
 <thumbnail></thumbnail>
 
 <item>
-<title>1</title>
-<link>http://38.117.88.154/ImanTV_Link</link>
-<thumbnail>http://aria-tv.com/images/tolo_news.png</thumbnail>
-</item>
-
-<item>
 <title>Tolo News</title>
 <link><link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=opsDahAkUmc</link></link>
 <thumbnail>http://aria-tv.com/images/tolo_news.png</thumbnail>
@@ -138,7 +132,7 @@
 
 <item>
 <title>Ariana International</title>
-<link>rtsp://50.97.117.4/AFG-AINT-PACIFIC</link>
+<link>rtsp://50.97.117.4/AFG-AINT-MAIN</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/ariana_af_tv.jpg</thumbnail>
 </item>
 

@@ -78,7 +78,7 @@
 
 <item>
 <title>1TV HD</title>
-<link>rtmp://zeenatlive.viddillions.com:1935/zeenatlive playpath=51ztvlive72.stream swfUrl= live=true timeout=60 pageUrl=</link>
+<link>http://iphone-streaming.ustream.tv/ustreamVideo/11266193/streams/live/playlist.m3u8</link>
 <thumbnail>https://si0.twimg.com/profile_images/3428097595/ba1111aaf029c6f14726f74e3b2ae6a1.png</thumbnail>
 </item>
 
@@ -132,7 +132,7 @@
 
 <item>
 <title>Shamshad HD</title>
-<link>rtmp://media.streamingpulse.biz/8068 playpath=8068 swfUrl=http://media.streamingpulse.biz:2000/system/misc/flvplayer/FLVplayer_Custom.swf live=true timeout=60 pageUrl=http://shamshadtv.tv/live/</link>
+<link>rtmp://zeenatlive.viddillions.com:1935/zeenatlive playpath=51ztvlive55.stream swfUrl= live=true timeout=60 pageUrl=</link>
 <thumbnail>http://cricket.tolafghan.com/assets/posts/18057/medium/SHAMSHAD_TV.jpg?1273990160</thumbnail>
 </item>
 
@@ -188,12 +188,6 @@
 <title>Salaam TV</title>
 <link>rtsp://live.salaamtv.org/S300</link>
 <thumbnail>http://www.murtazawalji.com/sites/ashura/live-tv/salaam-tv/logo.jpg</thumbnail>
-</item>
-
-<item>
-<title>MBN</title>
-<link>rtmp://119.59.82.214/live/mp4:livestream.f4v swfurl=http://mbn.af/swfs/StrobeMediaPlayback.swf pageUrl=http://mbn.af/livetv.php swfVfy=true live=true timeout=60</link>
-<thumbnail>http://mbn.af/images/logo/gif.gif</thumbnail>
 </item>
 
 <item>

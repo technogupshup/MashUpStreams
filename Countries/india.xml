@@ -338,7 +338,7 @@ Indian - Telugu / Malayam Streams:
 
 <item>
 <title>Star Plus</title>
-<link>rtmp://85.25.199.31/rtp-live/ playpath=starplus.stream swfUrl=http://www.mast.tv/components/com_contushdvideoshare/hdflvplayer/hdplayer.swf live=true timeout=15 pageUrl=http://www.mast.tv/player/live-tv-channels/starplus-live</link>
+<link>rtmp://85.25.199.31/rtp-live/ playpath=mh1.stream swfUrl=http://www.mast.tv/components/com_contushdvideoshare/hdflvplayer/hdplayer.swf pageUrl=http://www.mast.tv/embed.php?stream=starplus&location=france</link>
 <thumbnail>http://cdn7.staztic.com/app/a/2610/2610171/star-plus-tv-latest-episodes-1370937313-0-s-307x512.jpg</thumbnail>
 </item>
 
@@ -392,8 +392,7 @@ Indian - Telugu / Malayam Streams:
 
 <item>
 <title>Sony TV</title>
-<link>rtmpe://178.18.30.120/ app=live playpath=sonnyy09 swfUrl=http://www.ukcast.tv/play
-er.swf live=true timeout=15 pageUrl=http://www.ukcast.tv/channel.php</link>
+<link>rtmpe://strm.ukcast.tv/redirect playpath=sonnyy09 swfUrl=http://www.ukcast.tv/player/player.swf pageUrl=http://www.ukcast.tv/embed.php?u=sonnyy09&vw=600&vh=430</link>
 </thumbnail>http://www.munishsingh.com/wp-content/uploads/2012/06/Sony-TV-logo3.png</thumbnail>
 </item>
 

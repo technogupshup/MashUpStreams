@@ -12,6 +12,12 @@
 </item>
 
 <item>
+<title>Telemedios Canal 25</title>
+<link>rtmp://198.100.146.31:1935/rtplive/ playpath=canal25.sdp swfUrl=http://192.254.234.245/~orosario/tv/flvplayer.swf live=true timeout=15 pageUrl=http://192.254.234.245/~orosario/tv/index.html</link>
+<thumbnail>http://www.canalesdominicano.com/wp-content/uploads/2013/10/Telemedios-Canal-25.jpg</thumbnail>
+</item>
+
+<item>
 <title>Bajo Techo TV</title>
 <link>rtmp://173.244.205.76/ app=live playpath=ALOJADO_TECHO token=5b1bz33zPNkzrMdiNLXWGNnuO4l9eLxy swfUrl=http://p.jwpcdn.com/6/6/jwplayer.flash.swf live=true timeout=15 pageUrl=http://streema.com/tv/Bajo_Techo_TV</link>
 <thumbnail>http://upload.wikimedia.org/wikipedia/commons/d/d0/Logo_Bajo_Techo_Tv.jpg</thumbnail>

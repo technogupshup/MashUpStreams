@@ -53,25 +53,13 @@
 </item>
 
 <item>
-<title>Sahara Samay MP</title>
-<link>rtmp://cdn.m.yupptv.tv:1935/liveorigin playpath=saharamadhyap1 swfUrl=http://cdn.freedocast.com/player-octo/yume/v5/infinite-hd-player-YUPPTV.SWF live=true timeout=15 pageUrl=http://www.yupptv.com/streams/saharamadhyap.aspx</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/sahara_samay_madhya_pradesh.jpg</thumbnail>
-</item>
-
-<item>
 <title>Sahara Samay Bihar</title>
 <link>rtmp://cdn.m.yupptv.tv:1935/liveorigin playpath=saharabihar1 swfUrl=http://cdn.freedocast.com/player-octo/yume/v5/infinite-hd-player-YUPPTV.SWF live=true timeout=15 pageUrl=http://www.yupptv.com/streams/saharabihar.aspx</link>
 <thumbnail>http://www.newtvworld.com/Images/sahara_samay_bihar.jpg</thumbnail>
 </item>
 
 <item>
-<title>Aalami Sahara</title>
-<link>rtmp://cdn.m.yupptv.tv:80/liveorigin playpath=saharaaalami1 swfUrl=http://cdn.freedocast.com/player-octo/yume/v5/infinite-hd-player-YUPPTV.SWF live=true timeout=15 pageUrl=http://www.yupptv.com/streams/saharaaalami.aspx</link>
-<thumbnail>http://www.dddirectplus.in/wp-content/uploads/2011/08/Aalami-Sahara.jpg</thumbnail>
-</item>
-
-<item>
-<title>ETV 2</title>
+<title>ETV 2 (Link 2)</title>
 <link>rtmp://cdn.m.yupptv.tv:1935/liveorigin playpath=etv21 swfUrl=http://cdn.freedocast.com/player-octo/yume/v5/infinite-hd-player-YUPPTV.SWF live=true timeout=15 pageUrl=http://www.yupptv.com/streams/etv2.aspx</link>
 <thumbnail>http://upload.wikimedia.org/wikipedia/commons/thumb/3/33/ETV2_logo.svg/200px-ETV2_logo.svg.png</thumbnail>
 </item>
@@ -112,10 +100,8 @@
 <thumbnail>http://1.bp.blogspot.com/_ofapVvUwb5A/TFAhKvW4zBI/AAAAAAAADtk/FRoF2UZIGF8/s400/times_now.jpg</thumbnail>
 </item>
 
-Indian - Telugu / Malayam Streams:
-
 <item>
-<title>HMTV</title>
+<title>HMTV (Link 2)</title>
 <link>rtmp://cdn.m.yupptv.tv:1935/liveorigin playpath=hmtv1 swfUrl=http://cdn.freedocast.com/player-octo/yume/v5/infinite-hd-player-YUPPTV.SWF live=true timeout=15 pageUrl=http://www.yupptv.com/streams/hmtv.aspx</link>
 <thumbnail>http://livetvchannelsfree.incredibleorissa.com/wp-content/uploads/2011/10/hmtv-live.jpg</thumbnail>
 </item>
@@ -157,7 +143,7 @@ Indian - Telugu / Malayam Streams:
 </item>
 
 <item>
-<title>Jeevan</title>
+<title>Jeevan TV (Link 2)</title>
 <link>rtmp://cdn.m.yupptv.tv:1935/liveorigin playpath=jeevan9001 swfUrl=http://cdn.freedocast.com/player-octo/yume/v5/infinite-hd-player-YUPPTV.SWF live=true timeout=15 pageUrl=http://www.yupptv.com/streams/jeevan.aspx</link>
 <thumbnail>http://www.keralatv.in/wp-content/uploads/2011/12/Jeevan-TV-Frequency.jpg</thumbnail>
 </item>
@@ -199,12 +185,6 @@ Indian - Telugu / Malayam Streams:
 </item>
 
 <item>
-<title>RK News</title>
-<link>rtmp://cdn.m.yupptv.tv:1935/liveorigin playpath=rknews1 swfUrl=http://cdn.freedocast.com/player-octo/yume/v5/infinite-hd-player-YUPPTV.SWF live=true timeout=15 pageUrl=http://www.yupptv.com/streams/rknews.aspx</link>
-<thumbnail>http://2.bp.blogspot.com/-dJaqeJlzoKg/TYNSnWZDEjI/AAAAAAAADWs/8-9RvpSFTNU/s1600/rk_news.jpg</thumbnail>
-</item>
-
-<item>
 <title>Mangalmaya TV</title>
 <link>rtmp://cdn.m.yupptv.tv:1935/liveorigin playpath=aasaram1 swfUrl=http://cdn.freedocast.com/player-octo/yume/v5/infinite-hd-player-YUPPTV.SWF live=true timeout=15 pageUrl=http://www.yupptv.com/streams/mangalmayatv.aspx</link>
 <thumbnail>http://d3jnkp3lrs2hd5.cloudfront.net/images/220x115/37a839bdDivya-logo-220x115.jpg</thumbnail>
@@ -223,7 +203,7 @@ Indian - Telugu / Malayam Streams:
 </item>
 
 <item>
-<title>NDTV 24x7</title>
+<title>NDTV 24x7 (Link 2)</title>
 <link>http://bglive-a.bitgravity.com/ndtv/247hi/live/native</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/nn/ndtv_24x7.png</thumbnail>
 </item>
@@ -284,7 +264,7 @@ Indian - Telugu / Malayam Streams:
 
 <item>
 <title>Sahara Samay</title>
-<link>http://cdn.m.yuppcdn.net/liveorigin/smil:saharasamaynew.smil/playlist.m3u8</link>
+<link>rtmp://cdn.m.yupptv.tv:1935/liveorigin playpath=saharabihar1 swfUrl=http://cdn.freedocast.com/player-octo/yume/v5/infinite-hd-player-YUPPTV.SWF live=true timeout=15 pageUrl=http://www.yupptv.com/streams/saharabihar.aspx</link>
 <thumbnail>http://images2.wikia.nocookie.net/__cb20111007145120/logopedia/images/f/f5/Sahara_Samay_National.png</thumbnail>
 </item>
 
@@ -320,20 +300,8 @@ Indian - Telugu / Malayam Streams:
 
 <item>
 <title>India TV News</title>
-<link>http://indiatvhdflash-lh.akamaihd.net/indiatvhdflashlive2_1_2@5451?v=2.4.5&fp=WIN%2011,7,700,224&r=JZOXF&g=FCMONERFIHBY</link>
+<link>http://bitgravity.live.cdn.bitgravity.com/indiatv/live/feed001</link>
 <thumbnail>http://images.indiatvnews.com/businessindia/th/India_TV_awards2634.jpg</thumbnail>
-</item>
-
-<item>
-<title>Sahara Aalami</title>
-<link>http://cdn.m.yuppcdn.net/liveorigin/smil:saharaaalami.smil/playlist.m3u8</link>
-<thumbnail>http://www.indiantelevision.com/images20/aalami-sahara.jpg</thumbnail>
-</item>
-
-<item>
-<title>Sahara Madhya Pradesh</title>
-<link>http://cdn.m.yuppcdn.net/liveorigin/smil:saharamadhyap.smil/playlist.m3u8</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/sahara_samay_madhya_pradesh.jpg</thumbnail>
 </item>
 
 <item>
@@ -350,7 +318,7 @@ Indian - Telugu / Malayam Streams:
 
 <item>
 <title>Asianet Movie</title>
-<link>rtmp://50.7.128.147/base2 playpath=asia15.stream swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=true timeout=15 pageUrl=http://www.turbotv.in/asianet-movies-live/</link>
+<link>rtmp://50.7.175.251/base2 playpath=asia15.stream swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=true timeout=15 pageUrl=http://www.turbotv.in/asianet-movies-live/</link>
 <thumbnail>http://keralamax.com/movies/wp-content/uploads/2012/07/Asianet-Movie-Channel.jpg</thumbnail>
 </item>
 

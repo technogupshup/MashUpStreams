@@ -359,8 +359,8 @@
 </item>
 
 <item>
-<title>ZEE TV 2</title>
-<link>rtmp://$OPT:rtmp-raw=rtmp://cdn.nwk3.yupptv.tv/nwk3 playpath=zeetv swfUrl=http://www.yupptv.com/yupptvhdflvplayer/hdplayer.swf  pageUrl=http://www.yupptv.com/account/FlashPlayerFrame.aspx?ChanId=9 live=true timeout=15</link>
+<title>B4U Movie</title>
+<link>rtmp://$OPT:rtmp-raw=rtmp://cdn.nwk3.yupptv.tv/nwk3 playpath=b4umovies swfUrl=http://www.yupptv.com/yupptvhdflvplayer/hdplayer.swf  pageUrl=http://www.yupptv.com/account/FlashPlayerFrame.aspx live=true timeout=15</link>
 <thumbnail>http://images.wikia.com/logopedia/images/3/38/Zee_TV_2011.png</thumbnail>
 </item>
 

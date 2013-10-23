@@ -306,7 +306,7 @@
 
 <item>
 <title>Star Plus [COLOR=FFFF0000]Working[/COLOR]</title>
-<link>rtmpe://cp195822.live.edgefcs.net/live app=live playpath=1_arugyvor_1@93816 swfUrl=http://dogus.kaltura.com.edgesuite.net/p/990652/sp/99065200/flash/kdp3/v3.6.17/kdp3.swf pageUrl=http://www.startv.com.tr/canli-yayin live=true swfVfy=true timeout=10</link>
+<link>rtmp://85.25.199.31/rtp-live/ playpath=starplus.stream swfUrl=http://www.mast.tv/components/com_contushdvideoshare/hdflvplayer/hdplayer.swf live=true timeout=15 pageUrl=http://www.mast.tv/player/live-tv-channels/starplus-live</link>
 <thumbnail>http://cdn7.staztic.com/app/a/2610/2610171/star-plus-tv-latest-episodes-1370937313-0-s-307x512.jpg</thumbnail>
 </item>
 

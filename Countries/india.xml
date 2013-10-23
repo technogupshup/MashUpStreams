@@ -5,6 +5,12 @@
 <thumbnail></thumbnail>
 
 <item>
+<title>Star Life OK</title>
+<link>rtsp://59.162.166.216:554/STARONE_QVGA.sdp</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/en/f/fc/Life_OK_channel_logo.png</thumbnail>
+</item>
+
+<item>
 <title>Star Movie</title>
 <link>http://m24.megafun.vn/live.vs?c=vstv038&amp;q=high</link>
 <thumbnail>http://ftpmirror.your.org/pub/wikimedia/images/wikipedia/vi/4/45/Star_movies_me_hd.png</thumbnail>
@@ -355,12 +361,6 @@
 <item>
 <title>ZEE TV [COLOR=FFFF0000]Working[/COLOR]</title>
 <link>http://fw01.livem3u8.me.totiptv.com/live/8be5e8787848472089925a7bb7f43ef1.m3u8?bitrate=800</link>
-<thumbnail>http://images.wikia.com/logopedia/images/3/38/Zee_TV_2011.png</thumbnail>
-</item>
-
-<item>
-<title>B4U Movie</title>
-<link>rtmp://$OPT:rtmp-raw=rtmp://cdn.nwk3.yupptv.tv/nwk3 playpath=b4umusic swfUrl=http://www.yupptv.com/yupptvhdflvplayer/hdplayer.swf  pageUrl=http://www.yupptv.com/account/FlashPlayerFrame.aspx live=true timeout=15</link>
 <thumbnail>http://images.wikia.com/logopedia/images/3/38/Zee_TV_2011.png</thumbnail>
 </item>
 

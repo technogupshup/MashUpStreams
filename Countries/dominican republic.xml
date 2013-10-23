@@ -6,6 +6,18 @@
 
 
 <item>
+<title>Telemicro</title>
+<link>rtmp://67.212.234.140:1935/live playpath=123 swfUrl=http://emisoradominicana.net/html5/iframes/player.swf live=true timeout=15 pageUrl=http://emisoradominicana.net/html5/iframes/telemicro.php</link>
+<thumbnail>http://www.canalesdominicano.com/wp-content/uploads/2013/10/Telemedios-Canal-25.jpg</thumbnail>
+</item>
+
+<item>
+<title>Aguilas Cibaenas</title>
+<link>http://livestream-f.akamaihd.net/5710290_2472639_19a98430_1_696@144368?v=3.0.3&fp=WIN%2011,9,900,117&r=LJRRW&g=HFHYOXGQPSHY</link>
+<thumbnail>http://4.bp.blogspot.com/-wzlhpL7IRqk/UGN4z8ipjyI/AAAAAAAAY-E/B6UcKP2KJY4/s1600/aguilas-1024x7681.png</thumbnail>
+</item>
+
+<item>
 <title>Antena Latina Live</title>
 <link>rtmp://ss4.domint.net:1962/al_str/ playpath=antena swfUrl=http://ss4.domint.net/jwplayer6/jwplayer.flash.swf live=true timeout=15 pageUrl=http://www.antenalatina7.com/streaming7/streamingTV.php</link>
 <thumbnail>http://jeniffercalderon.files.wordpress.com/2010/07/logo_antena_latina_canal_71.jpg</thumbnail>

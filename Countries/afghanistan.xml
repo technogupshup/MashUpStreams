@@ -5,6 +5,12 @@
 <thumbnail></thumbnail>
 
 <item>
+<title>Tolo</title>
+<link>rtsp://50.97.117.4/AFG-TAMADON-MAIN</link>
+<thumbnail>http://dolotube.com/wod/wp-content/uploads/2013/09/tolo_tv-160x90.png</thumbnail>
+</item>
+
+<item>
 <title>Euronews Farsi</title>
 <link>rtmp://fr-par-6.stream-relay.hexaglobe.net:1935/rtpeuronewslive playpath=pe_video750_rtp.sdp swfUrl=http://www.euronews.com/media/player_live_1_13.swf live=true timeout=15 pageUrl=http://www.radioshahab.com/persian-tv.php?tvid=euronews</link>
 <thumbnail>http://1.bp.blogspot.com/-A0wx-qfBN-Y/UEhNWdZhDHI/AAAAAAAAa64/GwriqDM1BPY/s400/euronews.jpg</thumbnail>

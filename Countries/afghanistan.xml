@@ -126,7 +126,7 @@
 
 <item>
 <title>Arezu TV</title>
-<link>rtmp://95.84.240.45:1945/live playpath=rtmp.stream swfUrl=http://arezuonlinetv.com/js/flowplayer-3.2.11.swf live=true timeout=15 pageUrl=http://arezuonlinetv.com/</link>
+<link>rtmp://zeenatlive.viddillions.com:1935/zeenatlive playpath=51ztvlive46.stream swfUrl= live=true timeout=15 pageUrl=</link>
 <thumbnail>http://4.bp.blogspot.com/-eL7Bm0B_Fck/Uc7E-utmNCI/AAAAAAAABFA/jc6auT6d5PU/s269/205451_471051409641907_837049089_n.png</thumbnail>
 </item>
 

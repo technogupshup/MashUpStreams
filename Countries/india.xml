@@ -22,6 +22,30 @@
 <thumbnail>http://www.techapna.com/wp-content/uploads/2013/03/Star-Sports-Logo.png</thumbnail>
 </item>
 
+ <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<channel>
+<name>Indian TV Channels</name>
+<thumbnail></thumbnail>
+
+<item>
+<title>Star Life OK</title>
+<link>rtsp://59.162.166.216:554/STARONE_QVGA.sdp</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/en/f/fc/Life_OK_channel_logo.png</thumbnail>
+</item>
+
+<item>
+<title>Star Movie</title>
+<link>http://m24.megafun.vn/live.vs?c=vstv038&amp;q=high</link>
+<thumbnail>http://ftpmirror.your.org/pub/wikimedia/images/wikipedia/vi/4/45/Star_movies_me_hd.png</thumbnail>
+</item>
+
+<item>
+<title>Star Sport</title>
+<link>http://m24.megafun.vn/live.vs?c=vstv033&amp;q=high</link>
+<thumbnail>http://www.techapna.com/wp-content/uploads/2013/03/Star-Sports-Logo.png</thumbnail>
+</item>
+
 <item>
 <title>Star World HD</title>
 <link>http://fw01.livem3u8.me.totiptv.com/live//65f7358b813048a0898f5677e1793cf9.m3u8?bitrate=800</link>
@@ -36,7 +60,7 @@
 
 <item>
 <title>Samay Live</title>
-<link>rtmp://cdn.m.yupptv.tv:1935/liveorigin playpath=saharasamaynew1 swfUrl=http://cdn.freedocast.com/player-octo/yume/v5/infinite-hd-player-YUPPTV.SWF live=true timeout=15 pageUrl=http://www.yupptv.com/streams/saharasamaynew.aspx</link>
+<link>rtmp://122.181.169.147/live/samaya playpath=Samaya swfUrl=http://www.samayatv.in/flash/swfs/jwplayer.swf live=true timeout=15 pageUrl=http://www.samayatv.in/live_news.html</link>
 <thumbnail>http://www.dramaonlinetv.com/wp-content/uploads/2013/01/Sahara-Samay-Hindi-News.jpg</thumbnail>
 </item>
 
@@ -44,12 +68,6 @@
 <title>Sahara Haryana</title>
 <link>rtmp://cdn.m.yupptv.tv:1935/liveorigin playpath=saharah1 swfUrl=http://cdn.freedocast.com/player-octo/yume/v5/infinite-hd-player-YUPPTV.SWF live=true timeout=15 pageUrl=http://www.yupptv.com/streams/saharah.aspx</link>
 <thumbnail>http://nritv.in/images/tv%20channel%20logos/sahara-haryana.png</thumbnail>
-</item>
-
-<item>
-<title>Sahara Uttar Pradesh</title>
-<link>rtmp://cdn.m.yupptv.tv:1935/liveorigin playpath=saharancrnew1 swfUrl=http://cdn.freedocast.com/player-octo/yume/v5/infinite-hd-player-YUPPTV.SWF live=true timeout=15 pageUrl=http://www.yupptv.com/streams/saharancrnew.aspx</link>
-<thumbnail></thumbnail>
 </item>
 
 <item>
@@ -72,7 +90,7 @@
 
 <item>
 <title>Studio N News</title>
-<link>rtmp://cdn.m.yupptv.tv:1935/liveorigin playpath=studion1 swfUrl=http://cdn.freedocast.com/player-octo/yume/v5/infinite-hd-player-YUPPTV.SWF live=true timeout=15 pageUrl=http://www.yupptv.com/streams/studion.aspx</link>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=SnjkGx8jHx0</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ss/studio_n.png</thumbnail>
 </item>
 
@@ -101,12 +119,6 @@
 </item>
 
 <item>
-<title>Times Now</title>
-<link>rtmp://cdn.m.yupptv.tv:1935/liveorigin playpath=yupptvlive1 swfUrl=http://cdn.freedocast.com/player-octo/yume/v5/infinite-hd-player-YUPPTV.SWF live=true timeout=15 pageUrl=http://www.yupptv.com/streams/timesnow.aspx</link>
-<thumbnail>http://1.bp.blogspot.com/_ofapVvUwb5A/TFAhKvW4zBI/AAAAAAAADtk/FRoF2UZIGF8/s400/times_now.jpg</thumbnail>
-</item>
-
-<item>
 <title>HMTV (Link 2)</title>
 <link>rtmp://cdn.m.yupptv.tv:1935/liveorigin playpath=hmtv1 swfUrl=http://cdn.freedocast.com/player-octo/yume/v5/infinite-hd-player-YUPPTV.SWF live=true timeout=15 pageUrl=http://www.yupptv.com/streams/hmtv.aspx</link>
 <thumbnail>http://livetvchannelsfree.incredibleorissa.com/wp-content/uploads/2011/10/hmtv-live.jpg</thumbnail>
@@ -120,13 +132,13 @@
 
 <item>
 <title>Sakshi TV</title>
-<link>rtmp://cdn.m.yupptv.tv:1935/liveorigin playpath=sakshi1 swfUrl=http://cdn.freedocast.com/player-octo/yume/v5/infinite-hd-player-YUPPTV.SWF live=true timeout=15 pageUrl=http://www.yupptv.com/streams/sakshitv.aspx</link>
+<link>http://ndtv.live.cdn.bitgravity.com/ndtv/live/saakshi512</link>
 <thumbnail>http://tv.onlinemoviesportsandtv.com/wp-content/uploads/2012/10/Sakshi-TV1.jpg</thumbnail>
 </item>
 
 <item>
 <title>TV 5</title>
-<link>rtmp://cdn.m.yupptv.tv:1935/liveorigin playpath=tv51 swfUrl=http://cdn.freedocast.com/player-octo/yume/v5/infinite-hd-player-YUPPTV.SWF live=true timeout=15 pageUrl=http://www.yupptv.com/streams/tv5.aspx</link>
+<link>rtmp://50.7.175.252:1940/base2 playpath=tamil25.stream swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=true timeout=15 pageUrl=http://www.turbotv.in/tv5-live/</link>
 <thumbnail>http://upload.wikimedia.org/wikipedia/en/d/dd/ABC-TV5_logo_2008.png</thumbnail>
 </item>
 
@@ -134,12 +146,6 @@
 <title>AsiaNet News</title>
 <link>rtmp://cdn.m.yuppcdn.net:80/liveorigin playpath=asianet2 swfUrl=http://cdn.freedocast.com/player-octo/yume/v5/infinite-hd-player-YUPPTV.SWF live=true timeout=15 pageUrl=http://www.yupptv.com/streams/asianetnews.aspx</link>
 <thumbnail>http://www.livemalayalam.com/wp-content/themes/MagFolio/thumb.php?src=http://www.livemalayalam.com/img/icon/asianet.jpg&w=500&zc=1&q=80&bid=1</thumbnail>
-</item>
-
-<item>
-<title>Survarna News 24x7</title>
-<link>rtmp://cdn.m.yuppcdn.net:1935/liveorigin playpath=suvarna2 swfUrl=http://cdn.freedocast.com/player-octo/yume/v5/infinite-hd-player-YUPPTV.SWF live=true timeout=15 pageUrl=http://www.yupptv.com/streams/suvarna.aspxlink>
-<thumbnail>https://si0.twimg.com/profile_images/1335430305/Suvarna_BLUE.jpg</thumbnail>
 </item>
 
 <item>
@@ -167,14 +173,8 @@
 </item>
 
 <item>
-<title>T News Live</title>
-<link>rtmp://cdn.m.yupptv.tv:1935/liveorigin playpath=channel49001 swfUrl=http://cdn.freedocast.com/player-octo/yume/v5/infinite-hd-player-YUPPTV.SWF live=true timeout=15 pageUrl=http://yupptv.com/streams/tnews.aspx</link>
-<thumbnail>http://dhoomdhaam.com/wp-content/uploads/2011/06/tnews.jpg</thumbnail>
-</item>
-
-<item>
 <title>Thanthi TV</title>
-<link>rtmp://cdn.m.yupptv.tv:1935/liveorigin playpath=ndtvhindu9001 swfUrl=http://cdn.freedocast.com/player-octo/yume/v5/infinite-hd-player-YUPPTV.SWF live=true timeout=15 pageUrl=http://www.yupptv.com/streams/ndtvhindu.aspx</link>
+<link>http://dttv-lh.akamaihd.net/i/dttv1_1@94649/master.m3u8</link>
 <thumbnail>http://upload.wikimedia.org/wikipedia/en/thumb/2/27/Thanthi_TV_logo.jpg/200px-Thanthi_TV_logo.jpg</thumbnail>
 </item>
 
@@ -194,12 +194,6 @@
 <title>Mangalmaya TV</title>
 <link>rtmp://cdn.m.yupptv.tv:1935/liveorigin playpath=aasaram1 swfUrl=http://cdn.freedocast.com/player-octo/yume/v5/infinite-hd-player-YUPPTV.SWF live=true timeout=15 pageUrl=http://www.yupptv.com/streams/mangalmayatv.aspx</link>
 <thumbnail>http://d3jnkp3lrs2hd5.cloudfront.net/images/220x115/37a839bdDivya-logo-220x115.jpg</thumbnail>
-</item>
-
-<item>
-<title>Seithigal TV</title>
-<link>rtmp://cdn.m.yupptv.tv:1935/liveorigin playpath=kalaignarlive1 swfUrl=http://cdn.freedocast.com/player-octo/yume/v5/infinite-hd-player-YUPPTV.SWF live=true timeout=15 pageUrl=http://www.yupptv.com/streams/seithigaltv.aspx</link>
-<thumbnail>http://4.bp.blogspot.com/-nOtYb42zHlQ/TyLGBgDdbnI/AAAAAAAADes/0qTMyJK73Vs/s320/kalaignar_seithigal.jpg</thumbnail>
 </item>
 
 <item>
@@ -230,12 +224,6 @@
 <title>Sony Sab TV</title>
 <link>rtmp://zeenatlive.viddillions.com:1935/zeenatlive playpath=51ztvlive169.stream swfUrl= live=true timeout=60 pageUrl=</link>
 <thumbnail>http://nowwatchtvlive.com/wp-content/uploads/2012/01/sony_sab_tv_asia.png</thumbnail>
-</item>
-
-<item>
-<title>Sakshi TV</title>
-<link>http://cdn.m.yupptv.tv/liveorigin/smil:sakshi.smil/playlist.m3u8</link>
-<thumbnail>http://www.newtvworld.com/Images/sakshi_large.gif</thumbnail>
 </item>
 
 <item>
@@ -281,20 +269,8 @@
 </item>
 
 <item>
-<title>Sahara Up</title>
-<link>http://cdn.m.yuppcdn.net/liveorigin/smil:saharaup.smil/playlist.m3u8</link>
-<thumbnail>http://www.dellatecnica.com/images/client-logos/sahara-one-interiors-della-tecnica.jpg</thumbnail>
-</item>
-
-<item>
-<title>TV5</title>
-<link>http://cdn.m.yupptv.tv/liveorigin/smil:tv5.smil/playlist.m3u8</link>
-<thumbnail>http://business.inquirer.net/files/2012/05/tv5.jpg</thumbnail>
-</item>
-
-<item>
 <title>TNews</title>
-<link>http://cdn.m.yupptv.tv/liveorigin/smil:tnews.smil/playlist.m3u8</link>
+<link>rtmp://edge-ind.inapcdn.in:1935/berry playpath=vdevice3.stream_aac swfUrl=http://smartstream.in/primusplayer/primus-3.2.12.swf live=true timeout=15 pageUrl=http://smartstream.in/tnews/</link>
 <thumbnail>http://dhoomdhaam.com/wp-content/uploads/2011/06/tnews.jpg</thumbnail>
 </item>
 
@@ -311,14 +287,34 @@
 </item>
 
 <item>
+<<<<<<< HEAD
+<<<<<<< HEAD
+<title>Star Plus</title>
+<link>http://fw01.livem3u8.me.totiptv.com/live/7c75ad89c1cc417aa0f066133c0a2333.m3u8?bitrate=800</link>
+=======
 <title>Star Plus [COLOR=FFFF0000]Working[/COLOR]</title>
 <link>rtmp://85.25.199.31/rtp-live/ playpath=starplus.stream swfUrl=http://www.mast.tv/components/com_contushdvideoshare/hdflvplayer/hdplayer.swf live=true timeout=15 pageUrl=http://www.mast.tv/player/live-tv-channels/starplus-live</link>
+>>>>>>> f147493768b7f5745d3f366b91878cef32c0df3a
+=======
+<title>Star Plus [COLOR=FFFF0000]Working[/COLOR]</title>
+<link>rtmp://85.25.199.31/rtp-live/ playpath=starplus.stream swfUrl=http://www.mast.tv/components/com_contushdvideoshare/hdflvplayer/hdplayer.swf live=true timeout=15 pageUrl=http://www.mast.tv/player/live-tv-channels/starplus-live</link>
+>>>>>>> 889d3cbe424779fa04768789e0261be2df282455
 <thumbnail>http://cdn7.staztic.com/app/a/2610/2610171/star-plus-tv-latest-episodes-1370937313-0-s-307x512.jpg</thumbnail>
 </item>
 
 <item>
+<<<<<<< HEAD
+<<<<<<< HEAD
+<title>Star Gold</title>
+<link>http://213.254.202.19/flv/4e2c5fd04592d/testat123?0.3357794941402972</link>
+=======
 <title>Star Gold [COLOR=FFFF0000]Working No Buffering[/COLOR]</title>
 <link>http://46.249.213.87/iPhone/broadcast/bollywoodmovies-tablet.3gp/bollywoodmovies-tablet.3gp-mr648k.m3u8</link>
+>>>>>>> f147493768b7f5745d3f366b91878cef32c0df3a
+=======
+<title>Star Gold [COLOR=FFFF0000]Working No Buffering[/COLOR]</title>
+<link>http://46.249.213.87/iPhone/broadcast/bollywoodmovies-tablet.3gp/bollywoodmovies-tablet.3gp-mr648k.m3u8</link>
+>>>>>>> 889d3cbe424779fa04768789e0261be2df282455
 <thumbnail>http://images.wikia.com/logopedia/images/f/f0/Star_Gold_2011.png</thumbnail>
 </item>
 
@@ -330,7 +326,7 @@
 
 <item>
 <title>Yes Indiavision</title>
-<link>rtmp://50.7.128.149:1939/base2 playpath=hmtv2.stream swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=true timeout=15 pageUrl=http://www.turbotv.in/yes-indiavision-live/</link>
+<link>rtmp://50.7.175.253:1939/base2 playpath=hmtv2.stream swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=true timeout=15 pageUrl=http://www.turbotv.in/yes-indiavision-live/</link>
 <thumbnail>http://www.kerala.me/f_files/yes%20indiavision.jpg</thumbnail>
 </item>
 
@@ -359,14 +355,28 @@
 </item>
 
 <item>
+<<<<<<< HEAD
+<<<<<<< HEAD
+<title>ZEE TV</title>
+<link>http://fw01.livem3u8.me.totiptv.com/live/8be5e8787848472089925a7bb7f43ef1.m3u8?bitrate=800</link>
+=======
 <title>ZEE TV [COLOR=FFFF0000]Working[/COLOR]</title>
 <link>rtmp://zeenatlive.viddillions.com:1935/zeenatlive playpath=51ztvlive29.stream swfUrl= live=true timeout=60 pageUrl=</link>
+>>>>>>> f147493768b7f5745d3f366b91878cef32c0df3a
+=======
+<title>ZEE TV [COLOR=FFFF0000]Working[/COLOR]</title>
+<link>rtmp://zeenatlive.viddillions.com:1935/zeenatlive playpath=51ztvlive29.stream swfUrl= live=true timeout=60 pageUrl=</link>
+>>>>>>> 889d3cbe424779fa04768789e0261be2df282455
 <thumbnail>http://images.wikia.com/logopedia/images/3/38/Zee_TV_2011.png</thumbnail>
 </item>
 
 <item>
 <title>Sony TV</title>
+<<<<<<< HEAD
+<link>rtmp://5.254.102.100/live33 playpath=sony99 swfUrl=http://www.flashi.tv/player/player.swf live=true timeout=15 pageUrl=http://www.flashi.tv/embed.php?v=sony99&vw=600&vh=450&typeplayer=0&domain=www.pogotv.eu</link>
+=======
 <link>rtmp://85.25.199.31/rtp-live/ playpath=sony.stream swfUrl=http://www.mast.tv/components/com_contushdvideoshare/hdflvplayer/hdplayer.swf live=true timeout=15 pageUrl=http://www.mast.tv/player/live-tv-channels/sony-tv-live</link>
+>>>>>>> 889d3cbe424779fa04768789e0261be2df282455
 </thumbnail>http://www.munishsingh.com/wp-content/uploads/2012/06/Sony-TV-logo3.png</thumbnail>
 </item>
 
@@ -381,5 +391,8 @@
 <link><link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=1H_eN2WTexM</link></link>
 <thumbnail>http://www.lyngsat-logo.com/hires/zz/zee_news.png</thumbnail>
 </item>
+
+</channel>
+
 
 </channel>

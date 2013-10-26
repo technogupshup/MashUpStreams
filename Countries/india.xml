@@ -22,30 +22,6 @@
 <thumbnail>http://www.techapna.com/wp-content/uploads/2013/03/Star-Sports-Logo.png</thumbnail>
 </item>
 
- <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-
-<channel>
-<name>Indian TV Channels</name>
-<thumbnail></thumbnail>
-
-<item>
-<title>Star Life OK</title>
-<link>rtsp://59.162.166.216:554/STARONE_QVGA.sdp</link>
-<thumbnail>http://upload.wikimedia.org/wikipedia/en/f/fc/Life_OK_channel_logo.png</thumbnail>
-</item>
-
-<item>
-<title>Star Movie</title>
-<link>http://m24.megafun.vn/live.vs?c=vstv038&amp;q=high</link>
-<thumbnail>http://ftpmirror.your.org/pub/wikimedia/images/wikipedia/vi/4/45/Star_movies_me_hd.png</thumbnail>
-</item>
-
-<item>
-<title>Star Sport</title>
-<link>http://m24.megafun.vn/live.vs?c=vstv033&amp;q=high</link>
-<thumbnail>http://www.techapna.com/wp-content/uploads/2013/03/Star-Sports-Logo.png</thumbnail>
-</item>
-
 <item>
 <title>Star World HD</title>
 <link>http://fw01.livem3u8.me.totiptv.com/live//65f7358b813048a0898f5677e1793cf9.m3u8?bitrate=800</link>

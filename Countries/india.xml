@@ -366,7 +366,7 @@
 
 <item>
 <title>Sony TV</title>
-<link>rtmpe://strm.ukcast.tv/redirect playpath=sonnyy09 swfUrl=http://www.ukcast.tv/player/player.swf pageUrl=http://www.ukcast.tv/embed.php?u=sonnyy09&vw=600&vh=430</link>
+<link>rtmp://85.25.199.31/rtp-live/ playpath=sony.stream swfUrl=http://www.mast.tv/components/com_contushdvideoshare/hdflvplayer/hdplayer.swf live=true timeout=15 pageUrl=http://www.mast.tv/player/live-tv-channels/sony-tv-live</link>
 </thumbnail>http://www.munishsingh.com/wp-content/uploads/2012/06/Sony-TV-logo3.png</thumbnail>
 </item>
 

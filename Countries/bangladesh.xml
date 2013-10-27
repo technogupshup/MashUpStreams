@@ -63,13 +63,6 @@
 <thumbnail>http://bangla21.tv/wp-content/uploads/2013/05/q.png</thumbnail>
 </item>
 
-
-<item>
-<title>NTV Bangla</title>
-<link>rtmp://5.152.213.74/ntvlive/ playpath=mp4:mystream.mp4 swfUrl=http://www.ntveurope.net/jwplayer/jwplayer.flash.swf live=true timeout=15 pageUrl=http://www.ntveurope.net/ntvplayer.php=true</link>
-<thumbnail>http://ing-sat.what.hu/images/logo-insert/satlogos/bangladesh/112-nTV.jpg</thumbnail>
-</item>
-
 <item>
 <title>Channel 9</title>
 <link>rtmpe://live.zzcast.com/live playpath=en2-ch9.stream swfUrl=http://5.79.71.199/player/playe.swf pageUrl=http://www.zzcast.com/embed.php?u=9dflt&vw=600&vh=400 live=true timeout=15</link>

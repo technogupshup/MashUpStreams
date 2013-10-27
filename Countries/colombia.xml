@@ -17,12 +17,6 @@
 </item>
 
 <item>
-<title>RCN</title>
-<link>rtmp://50.7.28.146/flash playpath=16662 swfUrl=http://www.udemy.com/static/flash/player5.9.swf live=true timeout=15 pageUrl=http://sawlive.tv/embed/watch/MzA3MDYzZmYyNzA5OmQ3NmI2ZTYxNmM6YzEwNjBlYmJiZDJiZGYwNDJjZDc0ZWFiMT/MxZjRmNGNlYTVhN2QwMjozOTFmNmQ0NzY0ZmFhMjMyMmQ5NWI2Nzk3MjBmNjFlYg__</link>
-<thumbnail>http://novelascolombianas.net/wp-content/uploads/2012/02/rcn.png</thumbnail>
-</item>
-
-<item>
 <title>Caracol TV</title>
 <link>rtmp://173.192.223.68/live playpath=colombiafutbol?id=55514 conn=S:OK swfUrl=http://www.ucaster.eu/static/scripts/eplayer.swf live=true timeout=15 pageUrl=http://www.ucaster.eu/embedded/colombiafutbol/1/600/400</link>
 <thumbnail>http://www.portalcolombia.co/wp-content/uploads/2010/01/caracol-tv.jpg</thumbnail>
@@ -34,29 +28,10 @@
 <thumbnail>http://ing-sat.what.hu/images/logo-insert/satlogos/colombia/179-City-TV%5B1%5D.jpg</thumbnail>
 </item>
 
-
 <item>
 <title>TBS</title>
 <link>rtmp://50.7.28.178/flash playpath=16007 swfUrl=http://www.udemy.com/static/flash/player5.9.swf live=true timeout=15 pageUrl=http://sawlive.tv/embed/watch/MDJlZGM4YTAxZWU1OjljNmY3ODc0NzY6ZTBmMjU2NzMzNzlmYmMzNDkwYjBlODk3ZW/FjMjdiMzgwN2VhMjUzYzo1OTZlYThjOWY5MjQ0YzU3MTY4ZWQ1MDFkNzkxZWQ4YQ__</link>
 <thumbnail>http://www.blogcdn.com/www.aoltv.com/media/2008/12/tbs-logo-1.jpg</thumbnail>
-</item>
-
-<item>
-<title>HBO 2</title>
-<link>plugin://plugin.video.jtv.archives/?mode=2&amp;name=ultra_hd</link>
-<thumbnail>http://nowwatchtvlive.com/wp-content/uploads/2011/07/hbo2_pl.png</thumbnail>
-</item>
-
-<item>
-<title>History HD</title>
-<link>plugin://plugin.video.jtv.archives/?mode=2&amp;name=alextelevisioncolombia</link>
-<thumbnail>http://blog.cablevision.net.mx/wp-content/uploads/2011/06/History_HD_4Col_Pos_17726.jpg</thumbnail>
-</item>
-
-<item>
-<title>HBO Plus</title>
-<link>rtmp://159.253.131.126/live playpath=180745 swfUrl=http://www.udemy.com/static/flash/player5.9.swf live=true timeout=15 pageUrl=http://castalba.tv/embed.php?cid=10694&wh=650&ht=400&r=canalescp.blogspot.com</link>
-<thumbnail>http://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png</thumbnail>
 </item>
 
 <item>

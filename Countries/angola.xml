@@ -6,7 +6,7 @@
 
 <item>
 <title>TPA</title>
-<link>rtmp://fml.6F53.edgecastcdn.net/206F53 playpath=tpai512 swfUrl=http://www.tpai.tv/swf/jwplayer/player.swf pageUrl=http://www.tpai.tv/live</link>
+<link>rtmp://fml.6F53.edgecastcdn.net/206F53 playpath=tpai512 swfUrl=http://www.tpai.tv/swf/jwplayer/player.swf live=true timeout=15 pageUrl=http://www.tpai.tv/live</link>
 <thumbnail>http://www.semba-c.com/site/uploads/thumbs/20110530162736.jpg</thumbnail>
 </item>
 

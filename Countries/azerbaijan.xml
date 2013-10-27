@@ -6,7 +6,7 @@
 
 <item>
 <title>ATV Baku</title>
-<link>rtmp://85.132.71.4:1935/bakutv playpath=atv.sdp swfUrl=http://www.livetv.az/static/player/player.swf play=ture timeout=15 pageUrl=http://www.livetv.az/atv/</link>
+<link>rtmp://85.132.71.4:1935/bakutv playpath=atv.sdp swfUrl=http://www.livetv.az/static/player/player.swf live=ture timeout=15 pageUrl=http://www.livetv.az/atv/</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/azad_tv_az.jpg</thumbnail>
 </item>
 

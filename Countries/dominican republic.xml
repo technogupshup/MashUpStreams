@@ -4,11 +4,22 @@
 <name>Dominican TV Channels</name>
 <thumbnail></thumbnail>
 
+<item>
+<title>Telecontacto 57</title>
+<link>rtmp://stream.prostudionetwork.com:1957/telecontacto/ playpath=TC swfUrl=http://yucatv.com/jwplayer/jwplayer.flash.swf live=true timeout=15 pageUrl=http://emisoradominicana.net/html5/iframes/telecontacto.html</link>
+<thumbnail>http://pegate.tv/wp-content/uploads/2011/04/Telecontactotv-300x160.jpg</thumbnail>
+</item>
+
+<item>
+<title>Teleunion Canal 16</title>
+<link>rtmp://stream.prostudionetwork.com:1957/telecontacto/ playpath=TC swfUrl=http://yucatv.com/jwplayer/jwplayer.flash.swf live=true timeout=15 pageUrl=http://emisoradominicana.net/html5/iframes/telecontacto.html</link>
+<thumbnail>https://www.google.com/images/nav_logo170.png</thumbnail>
+</item>
 
 <item>
 <title>Telemicro</title>
 <link>rtmp://67.212.234.140:1935/live/ playpath=telemicro52014 swfUrl=http://actualrd.com/www/components/com_jomwebplayer/player.swf?r=938205406 live=true timeout=15 pageUrl=http://emisoradominicana.net/html5/iframes/telemicro.php</link>
-<thumbnail>http://www.canalesdominicano.com/wp-content/uploads/2013/10/Telemedios-Canal-25.jpg</thumbnail>
+<thumbnail>https://www.google.com/images/nav_logo170.png</thumbnail>
 </item>
 
 

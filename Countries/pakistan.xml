@@ -29,7 +29,7 @@
 </item>
 
 <item>
-<title>Samaa TV  [COLOR=FFFF0000]Updated  Channel[/COLOR]</title>
+<title>Samaa TV</title>
 <link>rtmp://38.96.148.99:1935/samaalive playpath=samaalive swfUrl=http://live.samaa.tv/player.swf live=true timeout=15 pageUrl=http://hamariweb.com/pakistan-tv-channels/sama_tv.aspx</link>
 <thumbnail>http://www.dramaonlinetv.com/wp-content/uploads/2012/08/SAMAA-News-TV.jpg</thumbnail>
 </item>
@@ -56,12 +56,6 @@
 <title>KTN</title>
 <link>rtmp://202.5.137.226/kashish playpath=ktn swfUrl=http://ktntv.tv/ktnnews/player/player.swf?&streamer=rtmp://202.5.137.226/kashish&file=ktn&autostart=true&stretching=exactfit pageUrl=http://ktntv.tv/ktnnews/player/player.swf?&streamer=rtmp://202.5.137.226/kashish&file=ktn&autostart=true&stretching=exactfit</link>
 <thumbnail>http://ktntv.tv/ktn-entertainment/images/logo.png</thumbnail>
-</item>
-
-<item>
-<title>Urdu 1</title>
-<link>rtmp://178.18.30.121/live playpath=urduu4 swfUrl=http://www.ukcast.tv/player/player.swf live=true timeout=15 pageUrl=http://www.ukcast.tv/embed.php?u=urduu4&vw=600&vh=470</link>
-<thumbnail>http://upload.wikimedia.org/wikipedia/en/thumb/5/5a/Urdu_1_logo.png/120px-Urdu_1_logo.png</thumbnail>
 </item>
 
 <item>
@@ -96,7 +90,7 @@
 
 <item>
 <title>PTV Sport</title>
-<link>rtmp://live1.1dnsgeo.com/live playpath=ptvsports swfUrl=http://live.server4sale.com:81/swfs/videoPlayer.swf live=true timeout=15 pageUrl=http://sports.ptv.com.pk/LiveStreaming.asp</link>
+<link>rtmp://206.190.140.36/live playpath=ptvazzzz?id=711 swfUrl=http://www.janjua.tv/resources/scripts/eplayer.swf live=true timeout=15 pageUrl=http://www.janjua.tv/embedplayer/ptvazzzz/1/600/420</link>
 <thumbnail>http://www.ptvsports.pk/wp-content/uploads/2012/09/PTV-Sports-Channel-logo.jpg</thumbnail>
 </item>
 

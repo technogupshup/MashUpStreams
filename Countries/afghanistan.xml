@@ -5,12 +5,6 @@
 <thumbnail></thumbnail>
 
 <item>
-<title>1</title>
-<link>http://74.53.101.130/include/called.asp?what2Load=payam&number=68418002</link>
-<thumbnail>http://dolotube.com/wod/wp-content/uploads/2013/09/tolo_tv-160x90.png</thumbnail>
-</item>
-
-<item>
 <title>Varzesh Sport</title>
 <link>rtmp://iriptv.com/iriptvserver3 playpath=20 swfUrl=http://iriptv.com/player/player.swf live=true timeout=15 pageUrl=http://iriptv.com/web/irib.php</link>
 <thumbnail>http://www.iransima.ir/content_images/channel_images/aab3238922bcc25a6f606eb525ffdc56.png</thumbnail>

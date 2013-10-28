@@ -78,7 +78,7 @@
 
 <item>
 <title>Hadi TV</title>
-<link>rtmp://live1.haditv.com:1935/liveTrans playpath=channel1_110k swfUrl= live=true timeout=15 pageUrl=</link>
+<link>rtmp://live1.haditv.com/liveTrans/ playpath=channel1_110k swfUrl=http://www.primcast.com/jwplayer5/player.swf live=true timeout=15 pageUrl=http://www.haditv.com/dmn/1/lang/ur/homepage.html</link>
 <thumbnail>http://cdn7.staztic.com/app/a/1173/1173209/hadi-tv-4-l-124x124.png</thumbnail>
 </item>
 
@@ -96,7 +96,7 @@
 
 <item>
 <title>PTV Sport</title>
-<link>rtmp://159.253.131.103/live playpath=yoyothri swfUrl=http://www.janjua.tv/player/player-licensed55.swf?&streamer=rtmp://159.253.131.103/live&file=yoyothri.flv&autostart=true&stretching=exactfit pageUrl=http://www.janjua.tv/player/player-licensed55.swf?&streamer=rtmp://159.253.131.103/live&file=yoyothri.flv&autostart=true&stretching=exactfit</link>
+<link>rtmp://live1.1dnsgeo.com/live playpath=ptvsports swfUrl=http://live.server4sale.com:81/swfs/videoPlayer.swf live=true timeout=15 pageUrl=http://sports.ptv.com.pk/LiveStreaming.asp</link>
 <thumbnail>http://www.ptvsports.pk/wp-content/uploads/2012/09/PTV-Sports-Channel-logo.jpg</thumbnail>
 </item>
 

@@ -13,13 +13,13 @@
 <item>
 <title>Teleunion Canal 16</title>
 <link>rtmp://stream.prostudionetwork.com:1957/telecontacto/ playpath=TC swfUrl=http://yucatv.com/jwplayer/jwplayer.flash.swf live=true timeout=15 pageUrl=http://emisoradominicana.net/html5/iframes/telecontacto.html</link>
-<thumbnail>https://www.google.com/images/nav_logo170.png</thumbnail>
+<thumbnail>http://melidablog.files.wordpress.com/2011/12/tele.jpg</thumbnail>
 </item>
 
 <item>
 <title>Telemicro</title>
 <link>rtmp://67.212.234.140:1935/live/ playpath=telemicro52014 swfUrl=http://actualrd.com/www/components/com_jomwebplayer/player.swf?r=938205406 live=true timeout=15 pageUrl=http://emisoradominicana.net/html5/iframes/telemicro.php</link>
-<thumbnail>http://melidablog.files.wordpress.com/2011/12/tele.jpg</thumbnail>
+<thumbnail>https://www.google.com/images/nav_logo170.png</thumbnail>
 </item>
 
 

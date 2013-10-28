@@ -5,9 +5,21 @@
 <thumbnail></thumbnail>
 
 <item>
-<title>1</title>
+<title>Afghan Payam</title>
 <link>http://afghansite.com:8134/hds-live/streams/livepkgr/_definist_/livetv/22-pa.m3u8</link>
-<thumbnail>http://1.bp.blogspot.com/-A0wx-qfBN-Y/UEhNWdZhDHI/AAAAAAAAa64/GwriqDM1BPY/s400/euronews.jpg</thumbnail>
+<thumbnail>http://www.afghanfun.com/wp-content/uploads/2012/10/payam-afghan.png</thumbnail>
+</item>
+
+<item>
+<title>Tolo</title>
+<link>rtsp://50.97.117.4/AFG-TAMADON-PACIFIC</link>
+<thumbnail>http://3.bp.blogspot.com/-XHtBLGv52Uw/UlzOx5y8hhI/AAAAAAAACZ8/Va5EFynEZg8/s1600/ToloTvSafid.png</thumbnail>
+</item>
+
+<item>
+<title>Zarin TV/title>
+<link>http://afghansite.com:8134/hls-live/livepkgr/_definst_/livetv/22-zarin.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/zz/zarin_tv.png</thumbnail>
 </item>
 
 <item>

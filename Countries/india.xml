@@ -23,18 +23,6 @@
 </item>
 
 <item>
-<title>Star World HD</title>
-<link>http://fw01.livem3u8.me.totiptv.com/live//65f7358b813048a0898f5677e1793cf9.m3u8?bitrate=800</link>
-<thumbnail>http://www.lyngsat-logo.com/hires/ss/star_world_asia_hd.png</thumbnail>
-</item>
-
-<item>
-<title>Sony SET Asia</title>
-<link>http://fw01.livem3u8.me.totiptv.com/live/bd30e27f1c48430ba2104548a1b124ca.m3u8?bitrate=800</link>
-<thumbnail>http://www.lyngsat-logo.com/hires/ss/set_europe.png</thumbnail>
-</item>
-
-<item>
 <title>Samay Live</title>
 <link>rtmp://122.181.169.147/live/samaya playpath=Samaya swfUrl=http://www.samayatv.in/flash/swfs/jwplayer.swf live=true timeout=15 pageUrl=http://www.samayatv.in/live_news.html</link>
 <thumbnail>http://www.dramaonlinetv.com/wp-content/uploads/2013/01/Sahara-Samay-Hindi-News.jpg</thumbnail>
@@ -333,7 +321,7 @@
 <item>
 <title>Sony TV</title>
 <<<<<<< HEAD
-<link>rtmp://5.254.102.100/live33 playpath=sony99 swfUrl=http://www.flashi.tv/player/player.swf live=true timeout=15 pageUrl=http://www.flashi.tv/embed.php?v=sony99&vw=600&vh=450&typeplayer=0&domain=www.pogotv.eu</link>
+<link>rtmp://85.25.199.31/rtp-live/ playpath=sony.stream swfUrl=http://www.mast.tv/components/com_contushdvideoshare/hdflvplayer/hdplayer.swf live=true timeout=15 pageUrl=http://www.mast.tv/player/live-tv-channels/sony-tv-live</link>
 =======
 <link>rtmp://85.25.199.31/rtp-live/ playpath=sony.stream swfUrl=http://www.mast.tv/components/com_contushdvideoshare/hdflvplayer/hdplayer.swf live=true timeout=15 pageUrl=http://www.mast.tv/player/live-tv-channels/sony-tv-live</link>
 >>>>>>> 889d3cbe424779fa04768789e0261be2df282455
@@ -342,7 +330,7 @@
 
 <item>
 <title>Zee Cinema</title>
-<link>http://213.254.202.141/flv/4dd469a36a357/testat123?0.9469607528299093</link>
+<link>http://213.254.202.18/flv/4e2c5fd04592d/testat123?0.11886078398674726</link>
 </thumbnail>http://images.wikia.com/logopedia/images/4/48/Zee_Cinema_2011.png</thumbnail>
 </item>
 
@@ -350,7 +338,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <title>Star Gold</title>
-<link>http://213.254.202.18/flv/4e2c5fd04592d/testat123?0.7352695604786277</link>
+<link>http://46.249.213.87/iPhone/broadcast/bollywoodmovies-tablet.3gp/bollywoodmovies-tablet.3gp-mr648k.m3u8</link>
 =======
 <title>Star Gold [COLOR=FFFF0000]Working No Buffering[/COLOR]</title>
 <link>http://46.249.213.87/iPhone/broadcast/bollywoodmovies-tablet.3gp/bollywoodmovies-tablet.3gp-mr648k.m3u8</link>

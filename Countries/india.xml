@@ -251,22 +251,6 @@
 </item>
 
 <item>
-<<<<<<< HEAD
-<<<<<<< HEAD
-<title>Star Plus</title>
-<link>rtmp://85.25.199.31/rtp-live/ playpath=starplus.stream swfUrl=http://www.mast.tv/components/com_contushdvideoshare/hdflvplayer/hdplayer.swf live=true timeout=15 pageUrl=http://www.mast.tv/player/live-tv-channels/starplus-live</link>
-=======
-<title>Star Plus [COLOR=FFFF0000]Working[/COLOR]</title>
-<link>rtmp://85.25.199.31/rtp-live/ playpath=starplus.stream swfUrl=http://www.mast.tv/components/com_contushdvideoshare/hdflvplayer/hdplayer.swf live=true timeout=15 pageUrl=http://www.mast.tv/player/live-tv-channels/starplus-live</link>
->>>>>>> f147493768b7f5745d3f366b91878cef32c0df3a
-=======
-<title>Star Plus [COLOR=FFFF0000]Working[/COLOR]</title>
-<link>rtmp://85.25.199.31/rtp-live/ playpath=starplus.stream swfUrl=http://www.mast.tv/components/com_contushdvideoshare/hdflvplayer/hdplayer.swf live=true timeout=15 pageUrl=http://www.mast.tv/player/live-tv-channels/starplus-live</link>
->>>>>>> 889d3cbe424779fa04768789e0261be2df282455
-<thumbnail>http://cdn7.staztic.com/app/a/2610/2610171/star-plus-tv-latest-episodes-1370937313-0-s-307x512.jpg</thumbnail>
-</item>
-
-<item>
 <title>Asianet Movie</title>
 <link>rtmp://50.7.175.251/base2 playpath=asia15.stream swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=true timeout=15 pageUrl=http://www.turbotv.in/asianet-movies-live/</link>
 <thumbnail>http://keralamax.com/movies/wp-content/uploads/2012/07/Asianet-Movie-Channel.jpg</thumbnail>

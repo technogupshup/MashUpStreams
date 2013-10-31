@@ -23,24 +23,6 @@
 </item>
 
 <item>
-<title>Samay Live</title>
-<link>rtmp://122.181.169.147/live/samaya playpath=Samaya swfUrl=http://www.samayatv.in/flash/swfs/jwplayer.swf live=true timeout=15 pageUrl=http://www.samayatv.in/live_news.html</link>
-<thumbnail>http://www.dramaonlinetv.com/wp-content/uploads/2013/01/Sahara-Samay-Hindi-News.jpg</thumbnail>
-</item>
-
-<item>
-<title>Sahara Haryana</title>
-<link>rtmp://cdn.m.yupptv.tv:1935/liveorigin playpath=saharah1 swfUrl=http://cdn.freedocast.com/player-octo/yume/v5/infinite-hd-player-YUPPTV.SWF live=true timeout=15 pageUrl=http://www.yupptv.com/streams/saharah.aspx</link>
-<thumbnail>http://nritv.in/images/tv%20channel%20logos/sahara-haryana.png</thumbnail>
-</item>
-
-<item>
-<title>Sahara Samay News</title>
-<link>rtmp://cdn.m.yupptv.tv:1935/liveorigin playpath=saharancrnew1 swfUrl=http://cdn.freedocast.com/player-octo/yume/v5/infinite-hd-player-YUPPTV.SWF live=true timeout=15 pageUrl=http://www.yupptv.com/streams/saharancrnew.aspx</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/sahara_samay_uttar_pradesh.jpg</thumbnail>
-</item>
-
-<item>
 <title>Sahara Samay Bihar</title>
 <link>rtmp://cdn.m.yupptv.tv:1935/liveorigin playpath=saharabihar1 swfUrl=http://cdn.freedocast.com/player-octo/yume/v5/infinite-hd-player-YUPPTV.SWF live=true timeout=15 pageUrl=http://www.yupptv.com/streams/saharabihar.aspx</link>
 <thumbnail>http://www.newtvworld.com/Images/sahara_samay_bihar.jpg</thumbnail>
@@ -125,12 +107,6 @@
 </item>
 
 <item>
-<title>Bhakthi TV</title>
-<link>rtmp://cdn.m.yupptv.tv:1935/liveorigin playpath=bhakti9001 swfUrl=http://cdn.freedocast.com/player-octo/yume/v5/infinite-hd-player-YUPPTV.SWF live=true timeout=15 pageUrl=http://www.yupptv.com/streams/bhakti.aspx</link>
-<thumbnail>http://1.bp.blogspot.com/_k936YJKWxuM/SVxQfO3G0VI/AAAAAAAACqo/gXdDOTOd5wE/s400/WATCH_bakthi_TV_CHANNEL.jpg</thumbnail>
-</item>
-
-<item>
 <title>Mahaa TV News</title>
 <link>rtmp://cdn.m.yupptv.tv:1935/liveorigin playpath=mahatv9001 swfUrl=http://cdn.freedocast.com/player-octo/yume/v5/infinite-hd-player-YUPPTV.SWF live=true timeout=15 pageUrl=http://yupptv.com/streams/mahaa.aspx</link>
 <thumbnail>http://tollybolly.net/wp-content/uploads/2012/03/Mahaa-News-TV.png</thumbnail>
@@ -179,12 +155,6 @@
 </item>
 
 <item>
-<title>DIVYA TV</title>
-<link>rtmp://202.164.56.130/live/ playpath=livestream.swf swfUrl=http://player.longtailvideo.com/player5.9.swf live=true timeout=15 pageUrl=http://1tvlive.in/divya-channel/</link>
-<thumbnail>http://www.lyngsat-logo.com/hires/dd/divya_tv.png</thumbnail>
-</item>
-
-<item>
 <title>Sony Sab TV</title>
 <link>rtmp://zeenatlive.viddillions.com:1935/zeenatlive playpath=51ztvlive169.stream swfUrl= live=true timeout=60 pageUrl=</link>
 <thumbnail>http://nowwatchtvlive.com/wp-content/uploads/2012/01/sony_sab_tv_asia.png</thumbnail>
@@ -214,17 +184,6 @@
 <thumbnail>http://rajasekharonline.com/wp-content/uploads/2012/02/hmtv_logo1.jpg</thumbnail>
 </item>
 
-<item>
-<title>Sahara Gujrat</title>
-<link>http://cdn.m.yuppcdn.net/liveorigin/smil:saharamumbai.smil/playlist.m3u8</link>
-<thumbnail>http://znn.india.com/Img/2010/12/22/sahara-b.jpg</thumbnail>
-</item>
-
-<item>
-<title>Sahara Samay</title>
-<link>rtmp://cdn.m.yupptv.tv:1935/liveorigin playpath=saharabihar1 swfUrl=http://cdn.freedocast.com/player-octo/yume/v5/infinite-hd-player-YUPPTV.SWF live=true timeout=15 pageUrl=http://www.yupptv.com/streams/saharabihar.aspx</link>
-<thumbnail>http://images2.wikia.nocookie.net/__cb20111007145120/logopedia/images/f/f5/Sahara_Samay_National.png</thumbnail>
-</item>
 
 <item>
 <title>NDTV Hindi</title>
@@ -236,12 +195,6 @@
 <title>TNews</title>
 <link>rtmp://edge-ind.inapcdn.in:1935/berry playpath=vdevice3.stream_aac swfUrl=http://smartstream.in/primusplayer/primus-3.2.12.swf live=true timeout=15 pageUrl=http://smartstream.in/tnews/</link>
 <thumbnail>http://dhoomdhaam.com/wp-content/uploads/2011/06/tnews.jpg</thumbnail>
-</item>
-
-<item>
-<title>Sahara Bihar</title>
-<link>http://cdn.m.yuppcdn.net/liveorigin/smil:saharabihar.smil/playlist.m3u8</link>
-<thumbnail>http://www.samaylive.com/themes/sahara/images_olympics/livetvimages/sahara_bihar_75x50.gif</thumbnail>
 </item>
 
 <item>

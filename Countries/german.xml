@@ -5,12 +5,6 @@
 <thumbnail></thumbnail>
 
 <item>
-<title>BR</title>
-<link>http://88.212.11.205:5000/live/8/8.m3u8</link>
-<thumbnail>http://www.etvizle.net/brtv.png</thumbnail>
-</item>
-
-<item>
 <title>KIKA</title>
 <link>http://88.212.11.206:5000/live/30/30.m3u8</link>
 <thumbnail>http://file1.npage.de/009857/81/bilder/logo_kika.gif</thumbnail>
@@ -29,12 +23,6 @@
 </item>
 
 <item>
-<title>Offener Kanal Magdeburg</title>
-<link>http://62.113.210.250/medienasa-live/_definst_/mp4k-magdeburg_high/playlist.m3u8</link>
-<thumbnail>http://www.ok-magdeburg.de/wp-content/themes/okm/images/logo-offener-kanal-magdeburg.png</thumbnail>
-</item>
-
-<item>
 <title>WDR</title>
 <link>http://88.212.11.205:5000/live/9/9.m3u8</link>
 <thumbnail>http://www1.wdr.de/themen/resources/img/logos/wdr.gif</thumbnail>
@@ -50,12 +38,6 @@
 <title>ORF 2</title>
 <link>rtsp://apasfwl.apa.at:80/orf2_q6a/orf.sdp</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/oo/orf2.jpg</thumbnail>
-</item>
-
-<item>
-<title>3 SAT HD</title>
-<link>http://94.26.50.3:9090/udp/239.255.5.144:10001</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/num/3sat_hd.jpg</thumbnail>
 </item>
 
 <item>
@@ -126,7 +108,7 @@
 
 <item>
 <title>ARTE HD</title>
-<link>http://94.26.50.3:9090/udp/239.255.5.99:10001</link>
+<link>rtmp://rm-edge-4.cdn2.streamago.tv:80/streamagoedge/1926?idutente=1926&idcanale=819&pwd= playpath=819 swfUrl=http://www.streamago.tv/app/StreamVideo.swf live=ture timeout=15 pageUrl=http://www.streamago.tv/iframe/1926/</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/arte_de_hd.jpg</thumbnail>
 </item>
 

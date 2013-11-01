@@ -256,16 +256,6 @@
 </item>
 
 <item>
-<title>Sony TV</title>
-<<<<<<< HEAD
-<link>rtmp://85.25.199.31/rtp-live/ playpath=sony.stream swfUrl=http://www.mast.tv/components/com_contushdvideoshare/hdflvplayer/hdplayer.swf live=true timeout=15 pageUrl=http://www.mast.tv/player/live-tv-channels/sony-tv-live</link>
-=======
-<link>rtmp://85.25.199.31/rtp-live/ playpath=sony.stream swfUrl=http://www.mast.tv/components/com_contushdvideoshare/hdflvplayer/hdplayer.swf live=true timeout=15 pageUrl=http://www.mast.tv/player/live-tv-channels/sony-tv-live</link>
->>>>>>> 889d3cbe424779fa04768789e0261be2df282455
-</thumbnail>http://www.munishsingh.com/wp-content/uploads/2012/06/Sony-TV-logo3.png</thumbnail>
-</item>
-
-<item>
 <title>Zee Cinema</title>
 <link>http://213.254.202.18/flv/4e2c5fd04592d/testat123?0.11886078398674726</link>
 </thumbnail>http://images.wikia.com/logopedia/images/4/48/Zee_Cinema_2011.png</thumbnail>

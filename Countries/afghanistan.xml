@@ -168,7 +168,7 @@
 
 <item>
 <title>Ariana International</title>
-<link>rtsp://50.97.117.4/AFG-AINT-EUROPE</link>
+<link>http://afghansite.com:8134/hls-live/livepkgr/_definst_/livetv/22-arianaint.m3u8</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/ariana_af_tv.jpg</thumbnail>
 </item>
 
@@ -179,8 +179,8 @@
 </item>
 
 <item>
-<title>RTA [COLOR=FFFF0000]If Sound Problem Just STOP and play again[/COLOR]</title>
-<link>rtsp://50.97.117.4/AFG-RTA-EUROPE</link>
+<title>RTA</title>
+<link>http://afghansite.com:8134/hls-live/livepkgr/_definst_/livetv/22-m.m3u8</link>
 <thumbnail>http://upload.wikimedia.org/wikipedia/commons/thumb/4/40/RTA_Afghanistan_Logo.svg/200px-RTA_Afghanistan_Logo.svg.png</thumbnail>
 </item>
 

@@ -42,7 +42,7 @@
 
 <item>
 <title>Tolo News</title>
-<link><link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=opsDahAkUmc</link></link>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=opsDahAkUmc</link>
 <thumbnail>http://aria-tv.com/images/tolo_news.png</thumbnail>
 </item>
 
@@ -204,7 +204,7 @@
 
 <item>
 <title>Madina Live</title>
-<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=1VG4djofFuk=410574</link>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=1VG4djofFuk</link>
 <thumbnail>http://oi39.tinypic.com/1tjxfp.jpg</thumbnail>
 </item>
 

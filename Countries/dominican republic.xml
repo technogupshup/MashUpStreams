@@ -5,6 +5,12 @@
 <thumbnail></thumbnail>
 
 <item>
+<title>CineVision 19</title>
+<link>rtmp://stream.prostudionetwork.com:1957/telecontacto/ playpath=TC swfUrl=http://yucatv.com/jwplayer/jwplayer.flash.swf live=true timeout=15 pageUrl=http://emisoradominicana.net/html5/iframes/telecontacto.html</link>
+<thumbnail>http://emisoradominicana.net/tv/wp-content/uploads/2013/09/Cinevision-Canal-19.jpg</thumbnail>
+</item>
+
+<item>
 <title>Digital 15</title>
 <link>rtmp://67.212.234.140:1935/live/ playpath=digital152014 swfUrl=http://actualrd.com/www/components/com_jomwebplayer/player.swf?r=736185419 live=true timeout=15 pageUrl=http://emisoradominicana.net/html5/iframes/digital15.php</link>
 <thumbnail>http://www.cirqueros.com/web/images/stories/digital%2015%20logo.jpg</thumbnail>

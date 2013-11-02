@@ -227,12 +227,6 @@
 </item>
 
 <item>
-<title>Salaam TV</title>
-<link>rtsp://live.salaamtv.org/S300</link>
-<thumbnail>http://www.murtazawalji.com/sites/ashura/live-tv/salaam-tv/logo.jpg</thumbnail>
-</item>
-
-<item>
 <title>IRIB 1</title>
 <link>rtmp://iriptv.com/iriptvserver3 playpath=27 swfUrl=http://iriptv.com/player/player.swf live=true timeout=60 pageUrl=http://iriptv.com/web/index.php</link>
 <thumbnail>http://247-365.ir/wp-content/pic/tv_logo/IRIB1.png</thumbnail>

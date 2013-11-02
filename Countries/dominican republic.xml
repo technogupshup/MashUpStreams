@@ -42,6 +42,12 @@
 </item>
 
 <item>
+<title>Santiago Tv Canel 36</title>
+<link>plugin://plugin.video.jtv.archives/?mode=2&amp;name=santiagotv36</link>
+<thumbnail>http://www.santiagotv36.com/images/logo.png</thumbnail>
+</item>
+
+<item>
 <title>Antena Latina Live</title>
 <link>rtmp://ss4.domint.net:1962/al_str/ playpath=antena swfUrl=http://ss4.domint.net/jwplayer6/jwplayer.flash.swf live=true timeout=15 pageUrl=http://www.antenalatina7.com/streaming7/streamingTV.php</link>
 <thumbnail>http://jeniffercalderon.files.wordpress.com/2010/07/logo_antena_latina_canal_71.jpg</thumbnail>

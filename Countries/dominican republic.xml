@@ -5,6 +5,18 @@
 <thumbnail></thumbnail>
 
 <item>
+<title>Color Vision Canal 9</title>
+<link>http://198.100.146.31:1935/rtplive/colorvision.sdp/playlist.m3u8?wowzasessionid=2029114220</link>
+<thumbnail>http://www.esacademic.com/pictures/eswiki/67/Colorvisionlogo.jpg</thumbnail>
+</item>
+
+<item>
+<title>Super TV 55</title>
+<link>http://ss4.domint.net:2022/stv_str/tv55/chunklist_w55338945.m3u8</link>
+<thumbnail>http://juancardenes.tripod.com/images/LogoSTV55.jpg</thumbnail>
+</item>
+
+<item>
 <title>CineVision 19</title>
 <link>rtmp://stream.prostudionetwork.com:1957/telecontacto/ playpath=TC swfUrl=http://yucatv.com/jwplayer/jwplayer.flash.swf live=true timeout=15 pageUrl=http://emisoradominicana.net/html5/iframes/telecontacto.html</link>
 <thumbnail>http://emisoradominicana.net/tv/wp-content/uploads/2013/09/Cinevision-Canal-19.jpg</thumbnail>

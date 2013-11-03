@@ -244,14 +244,6 @@
 <<<<<<< HEAD
 <title>ZEE TV</title>
 <link>rtmp://zeenatlive.viddillions.com:1935/zeenatlive playpath=51ztvlive29.stream swfUrl= live=true timeout=15 pageUrl=</link>
-=======
-<title>ZEE TV [COLOR=FFFF0000]Working[/COLOR]</title>
-<link>rtmp://zeenatlive.viddillions.com:1935/zeenatlive playpath=51ztvlive29.stream swfUrl= live=true timeout=60 pageUrl=</link>
->>>>>>> f147493768b7f5745d3f366b91878cef32c0df3a
-=======
-<title>ZEE TV [COLOR=FFFF0000]Working[/COLOR]</title>
-<link>rtmp://zeenatlive.viddillions.com:1935/zeenatlive playpath=51ztvlive29.stream swfUrl= live=true timeout=60 pageUrl=</link>
->>>>>>> 889d3cbe424779fa04768789e0261be2df282455
 <thumbnail>http://images.wikia.com/logopedia/images/3/38/Zee_TV_2011.png</thumbnail>
 </item>
 

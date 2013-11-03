@@ -155,8 +155,8 @@
 </item>
 
 <item>
-<title>Ariana HD</title>
-<link>rtmp://uni2rtmp.tulix.tv:1935/ariana playpath=ariana swfUrl=http://www.tulix.tv/mediaplayer/player.swf live=true timeout=15 pageUrl=http://tulix.com/player/ariana.php</link>
+<title>Ariana</title>
+<link>rtsp://50.97.117.4/AFG-ATN-MAIN</link>
 <thumbnail>http://www.sekisat.com/data/sat_channel/images/996/logo</thumbnail>
 </item>
 

@@ -5,12 +5,6 @@
 <thumbnail></thumbnail>
 
 <item>
-<title>Star Life OK</title>
-<link>rtsp://59.162.166.216:554/STARONE_QVGA.sdp</link>
-<thumbnail>http://upload.wikimedia.org/wikipedia/en/f/fc/Life_OK_channel_logo.png</thumbnail>
-</item>
-
-<item>
 <title>Star Movie</title>
 <link>http://m24.megafun.vn/live.vs?c=vstv038&amp;q=high</link>
 <thumbnail>http://ftpmirror.your.org/pub/wikimedia/images/wikipedia/vi/4/45/Star_movies_me_hd.png</thumbnail>

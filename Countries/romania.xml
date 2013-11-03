@@ -45,7 +45,7 @@
 
 <item>
 <title>Moldova 1</title>
-<link>rtmp://212.0.211.109:1935/live/_definst_ playpath=mp4:MoldovaUnu1 swfUrl=http://www.trm.md/jwplayer/player.swf pageUrl=http://www.trm.md/ro/tv-on-line/</link>
+<link>rtmp://212.0.211.109:1935/live/_definst_ playpath=mp4:MoldovaUnu1 swfUrl=http://www.trm.md/jwplayer/player.swf live=true timeout=15 pageUrl=http://www.trm.md/ro/tv-on-line/</link>
 <thumbnail>http://www.trm.md/img/site/trm.png</thumbnail>
 </item>
 

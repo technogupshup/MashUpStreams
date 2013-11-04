@@ -4,6 +4,12 @@
 <thumbnail></thumbnail>
 
 <item>
+<title>Antena 1</title>
+<link>http://iphone-streaming.ustream.tv/ustreamVideo/12584497/streams/live/playlist.m3u8</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/ro/9/91/Antena1_Logo.png</thumbnail>
+</item>
+
+<item>
 <title>JURNAL TV</title>
 <link>http://ch0.jurnaltv.md/channel0.flv</link>
 <thumbnail>http://www.jurnaltv.md/img/site/logo.jpg?id=2</thumbnail>
@@ -22,9 +28,27 @@
 </item>
 
 <item>
+<title>Look TV</title>
+<link>rtmp://193.239.252.30/LookTV playpath=ll3 swfUrl=http://looktv.ro/sites/all/modules/tprogram/flowplayer-3.2.12.swf live=true timeout=15 pageUrl=http://looktv.ro/live</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/ll/look_tv_ro.png</thumbnail>
+</item>
+
+<item>
 <title>NOVA</title>
 <link>rtmp://86.123.165.135:1935/live/myStream</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/nn/nova_tv_ro.jpg</thumbnail>
+</item>
+
+<item>
+<title>Pro TV Chisinau</title>
+<link>rtmp://93.116.255.5/live playpath=512_direct swfUrl=http://embed.protv.md/design/mediaplayer/player_embed.swf?embed=live&home=false&autostart=true&embedb=false&fullb=false live=true timeout=15 pageUrl=http://embed.protv.md/design/mediaplayer/player_embed.swf?embed=live&home=false&autostart=true&embedb=false&fullb=false</link>
+<thumbnail>http://storage0.dms.mpinteractiv.ro/media/1/1/1706/4002588/1/protv-chisinau-sigla.jpg?width=400</thumbnail>
+</item>
+
+<item>
+<title>Pro TV News</title>
+<link>rtmp://live.protv.ro/news/ playpath=mp4:live1.mp4 swfUrl=http://d1.a4w.ro/tfm/flowplayer.commercial-3.2.15.swf live=true timeout=15 pageUrl=http://stirileprotv.ro/protvnews/</link>
+<thumbnail>http://a1.a4w.ro/assets/yoda/2012/07/25/image_galleries/11805/voyo-news-devine-canalul-de-stiri-online-protv-news_size1.jpg</thumbnail>
 </item>
 
 <item>

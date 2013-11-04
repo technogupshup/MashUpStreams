@@ -10,6 +10,12 @@
 </item>
 
 <item>
+<title>Info Pescar</title>
+<link>rtmp://ak.neoflux.co.uk:1935/infopescar playpath=rtmp swfUrl=http://www.infopescar.tv/yyy/player.swf live=true timeout=15 pageUrl=http://www.infopescar.tv/live/</link>
+<thumbnail>http://infopescar.tv/forum/images/logo_forum_blue.png</thumbnail>
+</item>
+
+<item>
 <title>JURNAL TV</title>
 <link>http://ch0.jurnaltv.md/channel0.flv</link>
 <thumbnail>http://www.jurnaltv.md/img/site/logo.jpg?id=2</thumbnail>
@@ -19,6 +25,12 @@
 <title>TV City</title>
 <link>rtmp://tvcity.ro:1935/live playpath=livestream1 swfUrl=http://fpdownload.adobe.com/strobe/FlashMediaPlayback.swf/[[DYNAMIC]]/1 live=true timeout=15 pageUrl=http://www.tvcity.ro/</link>
 <thumbnail>http://aser.ro/wp-content/uploads/2011/09/Tv-city.png</thumbnail>
+</item>
+
+<item>
+<title>Transilvanua</title>
+<link>rtmp://193.239.252.30:1935/live playpath=tlive3 swfUrl=http://fpdownload.adobe.com/strobe/FlashMediaPlayback.swf/[[DYNAMIC]]/1 live=true timeout=15 pageUrl=http://www.transilvanialive.ro/live-stream</link>
+<thumbnail>http://www.efcafrica.com/images/tv_schedule/efc_africa_tv_schedule_transilvania_live.jpg</thumbnail>
 </item>
 
 <item>

@@ -9,6 +9,11 @@
 <thumbnail>http://www.jurnaltv.md/img/site/logo.jpg?id=2</thumbnail>
 </item>
 
+<item>
+<title>Antena 3</title>
+<link>rtmp://93.115.84.226/live playpath=a3 swfUrl=http://ivm.inin.ro/swf/player_licensed.swf live=true timeout=15 pageUrl=http://www.antena3.ro/live.php</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/aa/antena3_ro.png</thumbnail>
+</item>
 
 <item>
 <title>NOVA</title>
@@ -23,25 +28,16 @@
 </item>
 
 <item>
-<title>NATIONAL 24 PLUS</title>
-<link>http://86.105.253.79:9132/n24plus.asf</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/nn/national_24_plus.jpg</thumbnail>
-</item>
-
-
-<item>
 <title>TOP SHOP RO</title>
 <link>http://46.108.8.42:24000</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/tt/top_shop_tv_ro.jpg</thumbnail>
 </item>
-
 
 <item>
 <title>TV M</title>
 <link>http://tvm.ambra.ro</link>
 <thumbnail>NO PIC?! NOT FOUND ONE</thumbnail>
 </item>
-
 
 <item>
 <title>Moldova 1</title>
@@ -61,20 +57,11 @@
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/tt/tvr1_ro.jpg</thumbnail>
 </item>
 
-
 <item>
 <title>TVR 2</title>
 <link>http://86.105.253.79:9032/tvr2.asf</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/tt/tvr2_ro.jpg</thumbnail>
 </item>
-
-
-<item>
-<title>NATIONAL TV</title>
-<link>http://86.105.253.79:9036/nationaltv.asf</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/nn/ntv_ro.jpg</thumbnail>
-</item>
-
 
 <item>
 <title>ROMANIA TV</title>

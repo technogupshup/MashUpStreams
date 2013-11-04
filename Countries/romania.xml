@@ -10,6 +10,12 @@
 </item>
 
 <item>
+<title>TV City</title>
+<link>rtmp://tvcity.ro:1935/live playpath=livestream1 swfUrl=http://fpdownload.adobe.com/strobe/FlashMediaPlayback.swf/[[DYNAMIC]]/1 live=true timeout=15 pageUrl=http://www.tvcity.ro/</link>
+<thumbnail>http://aser.ro/wp-content/uploads/2011/09/Tv-city.png</thumbnail>
+</item>
+
+<item>
 <title>Antena 3</title>
 <link>rtmp://93.115.84.226/live playpath=a3 swfUrl=http://ivm.inin.ro/swf/player_licensed.swf live=true timeout=15 pageUrl=http://www.antena3.ro/live.php</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/aa/antena3_ro.png</thumbnail>

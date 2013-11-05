@@ -10,6 +10,18 @@
 </item>
 
 <item>
+<title>Kanal D</title>
+<link>http://iphone-streaming.uhttp://80.86.107.140:8100/multimedia/stream.flv</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/tr/archive/a/a4/20120803204625!Kanal_D_logo.png</thumbnail>
+</item>
+
+<item>
+<title>H!T Music</title>
+<link>rtmp://92.249.129.130:1935/live playpath=music1 swfUrl=http://myhit.tv/flash/flowplayer_3/flowplayer.musicchannel.swf?0.37555425171740353 live=true timeout=15 pageUrl=http://myhit.tv/</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/hh/hit_music_channel.png</thumbnail>
+</item>
+
+<item>
 <title>Info Pescar</title>
 <link>rtmp://ak.neoflux.co.uk:1935/infopescar playpath=rtmp swfUrl=http://www.infopescar.tv/yyy/player.swf live=true timeout=15 pageUrl=http://www.infopescar.tv/live/</link>
 <thumbnail>http://infopescar.tv/forum/images/logo_forum_blue.png</thumbnail>

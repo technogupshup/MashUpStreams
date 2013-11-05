@@ -93,10 +93,4 @@
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/rr/rtv_ro.jpg</thumbnail>
 </item>
 
-<item>
-<title>TVR I</title>
-<link>rtmp://rm-edge-7.cdn2.streamago.tv:80/streamagoedge/1049?idutente=1049&idcanale=221&pwd= playpath=221 swfUrl=http://www.streamago.tv/app/StreamVideo.swf live=true timeout=15 pageUrl=http://www.streamago.tv/iframe/1049/</link>
-<thumbnail>http://www.frosat.net/images/logotv/original/tvri.gif</thumbnail>
-</item>
-
 </channel>

@@ -64,12 +64,6 @@
 </item>
 
 <item>
-<title>TRINITAS</title>
-<link>http://86.105.253.79:9136/trinitas.asf</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/tt/trinitas_tv.jpg</thumbnail>
-</item>
-
-<item>
 <title>TOP SHOP RO</title>
 <link>http://46.108.8.42:24000</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/tt/top_shop_tv_ro.jpg</thumbnail>
@@ -94,21 +88,15 @@
 </item>
 
 <item>
-<title>TVR 1</title>
-<link>http://86.105.253.79:9031/tvr1.asf</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/tt/tvr1_ro.jpg</thumbnail>
-</item>
-
-<item>
-<title>TVR 2</title>
-<link>http://86.105.253.79:9032/tvr2.asf</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/tt/tvr2_ro.jpg</thumbnail>
-</item>
-
-<item>
 <title>ROMANIA TV</title>
 <link>http://rtvflash.smcmobile.ro:8010/rtv.flv</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/rr/rtv_ro.jpg</thumbnail>
+</item>
+
+<item>
+<title>TVR I</title>
+<link>rtmp://rm-edge-7.cdn2.streamago.tv:80/streamagoedge/1049?idutente=1049&idcanale=221&pwd= playpath=221 swfUrl=http://www.streamago.tv/app/StreamVideo.swf live=true timeout=15 pageUrl=http://www.streamago.tv/iframe/1049/</link>
+<thumbnail>http://www.frosat.net/images/logotv/original/tvri.gif</thumbnail>
 </item>
 
 </channel>

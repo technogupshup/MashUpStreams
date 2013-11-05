@@ -65,12 +65,6 @@
 </item>
 
 <item>
-<title>NDR</title>
-<link>http://webtv-aarh-7.stofa.dk:80/186_01.m3u8?kivgiverkager=1</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/nn/ndr_fernsehen.jpg</thumbnail>
-</item>
-
-<item>
 <title>RTL</title>
 <link>http://94.26.50.3:9090/udp/239.255.7.3:10001</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/rr/rtl_at.jpg</thumbnail>
@@ -143,21 +137,9 @@
 </item>
 
 <item>
-<title>3Sat</title>
-<link>http://webtv-aarh-8.stofa.dk:80/182_01.m3u8</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/num/3sat.jpg</thumbnail>
-</item>
-
-<item>
 <title>Alex Berlin</title>
 <link>http://alex-stream.rosebud-media.de:1935/live/alexlivetv.smil/hasbahca.m3u8</link>
 <thumbnail>http://i1.ytimg.com/i/CPttRaDpZZ2Rg14A4R9BGg/mq1.jpg?v=51b0b649</thumbnail>
-</item>
-
-<item>
-<title>Baby TV</title>
-<link>http://212.20.40.249:1234/udp/233.7.70.188:5000</link>
-<thumbnail>http://upload.wikimedia.org/wikipedia/fr/4/45/BabyTV.png</thumbnail>
 </item>
 
 <item>

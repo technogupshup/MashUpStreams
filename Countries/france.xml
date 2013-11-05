@@ -7,25 +7,10 @@ http://database.freetuxtv.net/WebStreamExport/index?format=xml&type=1&status=2&l
 <thumbnail></thumbnail>
 
 <item>
-<title>Oldies Zouk  [COLOR=FFFF0000]New  Channel[/COLOR]</title>
-<link>rtmp://extondemand.livestream.com/ondemand playpath=trans/dv02/mogulus-user-files/choldieszouktv/2009/12/09/5a0e4d59-c8e2-41ca-bed1-4e9867aa2846 swfUrl=http://cdn.livestream.com/chromelessPlayer/v21/playerapi.swf?hideChannelBranding=true&textLines=2&showMoreVideos=false&browseMode=false&mode=false&allowChat=true&lschannel=true&jsEnabled=false&showBorderControlBar=false&allowchat=false&autoPlay=true&time=&iconColor=0x555555&hideInfo=true&t=783674&borderColor=0xCCCCCC live=true timeout=15 pageUrl=http://www.livestream.com/embed/oldieszouktv?showMoreVideos=false&hideInfo=true&autoPlay=true&lschannel=true&browseMode=false&textLines=2&hideChannelBranding=true&mode=false&allowchat=false&layout=1&t=783674</link>
-<thumbnail>https://fbcdn-sphotos-e-a.akamaihd.net/hphotos-ak-frc1/578805_10151109401837780_452609174_n.jpg</thumbnail>
-</item>
-
-
-<item>
-<title>M6 Suisse</title>
-<link>rtsp://178.238.86.23/M6Suisse?sid=57518DFFA5CA7D6DA54E8A9FF9DFD1668B5104250C31233702B4F603CD4180D5</link>
-<thumbnail>http://www.lyngsat-logo.com/hires/mm/m6_ch.png</thumbnail>
-</item>
-
-
-<item>
 <title>TV5MONDE</title>
 <link>rtsp://178.238.86.23/Oh-Africa?sid=EFFDD1CBADB62531D95A52D38103BDB2F37D0C49105D334B02B0B277BD35A811</link>
 <thumbnail>http://durban2012.fipf.org/sites/durban2012.fipf.org/files/tv5monde_logo_rvb_blanc.jpg</thumbnail>
 </item>
-
 
 <item>
 <title>Air TV</title>
@@ -43,18 +28,6 @@ http://database.freetuxtv.net/WebStreamExport/index?format=xml&type=1&status=2&l
 <title>APTV Martinique</title>
 <link>mms://vipmms9.yacast.net/aptv_live03</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/aa/aptvmartinique.png</thumbnail>
-</item>
-
-<item>
-<title>BFM TV</title>
-<link>mms://vipmms9.yacast.net/bfm_bfmtv</link>
-<thumbnail>http://www.lyngsat-logo.com/hires/bb/bfm_tv.png</thumbnail>
-</item>
-
-<item>
-<title>BFM TV</title>
-<link>mms://live3.ipercast.net/darty.fr/bfmtv/live</link>
-<thumbnail>http://www.lyngsat-logo.com/hires/bb/bfm_tv.png</thumbnail>
 </item>
 
 <item>
@@ -106,12 +79,6 @@ http://database.freetuxtv.net/WebStreamExport/index?format=xml&type=1&status=2&l
 </item>
 
 <item>
-<title>Congo Planet tv</title>
-<link>mms://vworks.congoplanet.com/Congo_Planet_TV</link>
-<thumbnail>http://www.lyngsat-logo.com/hires/cc/congoplanet_tv.png</thumbnail>
-</item>
-
-<item>
 <title>Congo Planet tv 2</title>
 <link>mms://vworks.congoplanet.com/Congo_Planete_TV_2</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/cc/congoplanet_tv2.png</thumbnail>
@@ -121,12 +88,6 @@ http://database.freetuxtv.net/WebStreamExport/index?format=xml&type=1&status=2&l
 <title>France 24 FR</title>
 <link>mms://stream1.france24.yacast.net/f24_livefr</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ff/france24.png</thumbnail>
-</item>
-
-<item>
-<title>Grand Lille TV</title>
-<link>rtsp://str81.creacast.com/grandlilletv/high</link>
-<thumbnail>http://www.lyngsat-logo.com/hires/gg/grandlille_tv.png</thumbnail>
 </item>
 
 <item>
@@ -142,21 +103,9 @@ http://database.freetuxtv.net/WebStreamExport/index?format=xml&type=1&status=2&l
 </item>
 
 <item>
-<title>L'Ã©quipe TV (Audio)</title>
-<link>mms://vipmms9.yacast.net/eqtv_equipeaudiolive</link>
-<thumbnail>http://www.lyngsat-logo.com/hires/ll/l'ã©quipetv(audio).png</thumbnail>
-</item>
-
-<item>
 <title>La tele</title>
 <link>rtsp://rtmp.infomaniak.ch/livecast/latele</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ll/latele.png</thumbnail>
-</item>
-
-<item>
-<title>La Une</title>
-<link>rtsp://rtmp.rtbf.be/livecast/laune</link>
-<thumbnail>http://www.lyngsat-logo.com/hires/ll/laune.png</thumbnail>
 </item>
 
 <item>
@@ -208,21 +157,9 @@ http://database.freetuxtv.net/WebStreamExport/index?format=xml&type=1&status=2&l
 </item>
 
 <item>
-<title>Quran French TV</title>
-<link>mms://isl1.islam4peace.com/quranfrenchtv</link>
-<thumbnail>http://www.lyngsat-logo.com/hires/qq/quranfrenchtv.png</thumbnail>
-</item>
-
-<item>
 <title>renault TV</title>
 <link>rtsp://rtv.fms6.visionip.tv/live/renault_tv-french-live-25f-16x9_3</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/rr/renaulttv.png</thumbnail>
-</item>
-
-<item>
-<title>RKINGTV</title>
-<link>mms://rkingtv.diffusepro.com/rkingtv</link>
-<thumbnail>http://www.lyngsat-logo.com/hires/rr/rkingtv.png</thumbnail>
 </item>
 
 <item>
@@ -232,21 +169,9 @@ http://database.freetuxtv.net/WebStreamExport/index?format=xml&type=1&status=2&l
 </item>
 
 <item>
-<title>RTC TÃ©lÃ© LiÃ¨ge</title>
-<link>rtsp://rtc.webtvlive.eu:1935/live/rtc.stream</link>
-<thumbnail>http://www.lyngsat-logo.com/hires/rr/rtctã©lã©liã¨ge.png</thumbnail>
-</item>
-
-<item>
 <title>SÃ©nat</title>
 <link>mms://vipmms9.yacast.net/senat_hemi_wm</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ss/sã©nat.png</thumbnail>
-</item>
-
-<item>
-<title>SÃ‰NAT</title>
-<link>http://http5.senat.yacast.net/http/livehemiphone/file.m3u8</link>
-<thumbnail>http://www.lyngsat-logo.com/hires/ss/sã‰nat.png</thumbnail>
 </item>
 
 <item>
@@ -274,20 +199,11 @@ http://database.freetuxtv.net/WebStreamExport/index?format=xml&type=1&status=2&l
 <thumbnail>http://www.lyngsat-logo.com/hires/tt/televisionlibre.png</thumbnail>
 </item>
 
-
 <item>
 <title>TELIM TV FR</title>
 <link>rtsp://telimvod.proximit.fr:1935/live/myStream</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/tt/telimtvfr.png</thumbnail>
 </item>
-
-
-<item>
-<title>TLL Tele Loire</title>
-<link>http://tll.diffusepro.com/index_mms.asx</link>
-<thumbnail>http://www.lyngsat-logo.com/hires/tt/tllteleloire.png</thumbnail>
-</item>
-
 
 <item>
 <title>tv sf</title>

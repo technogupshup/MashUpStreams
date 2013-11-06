@@ -152,12 +152,6 @@ http://database.freetuxtv.net/WebStreamExport/index?format=xml&type=1&status=2&l
 </item>
 
 <item>
-<title>Teleplaisance</title>
-<link>mms://www.diffusepro.com/liveteleplaiz</link>
-<thumbnail>http://www.lyngsat-logo.com/hires/tt/teleplaisance.png</thumbnail>
-</item>
-
-<item>
 <title>Television Libre</title>
 <link>http://modulix.org:8000/libre.ogg</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/tt/televisionlibre.png</thumbnail>

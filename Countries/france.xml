@@ -19,12 +19,6 @@ http://database.freetuxtv.net/WebStreamExport/index?format=xml&type=1&status=2&l
 </item>
 
 <item>
-<title>Aisne TV</title>
-<link>mms://ns6677.ovh.net/a260309640</link>
-<thumbnail>http://www.lyngsat-logo.com/hires/aa/aisnetv.png</thumbnail>
-</item>
-
-<item>
 <title>APTV Martinique</title>
 <link>mms://vipmms9.yacast.net/aptv_live03</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/aa/aptvmartinique.png</thumbnail>

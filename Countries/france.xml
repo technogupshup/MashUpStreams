@@ -61,12 +61,6 @@ http://database.freetuxtv.net/WebStreamExport/index?format=xml&type=1&status=2&l
 </item>
 
 <item>
-<title>Clap TV</title>
-<link>rtsp://rr93.diffusepro.com/rr93</link>
-<thumbnail>http://www.lyngsat-logo.com/hires/cc/clap_tv.png</thumbnail>
-</item>
-
-<item>
 <title>Congo Planet tv 2</title>
 <link>mms://vworks.congoplanet.com/Congo_Planete_TV_2</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/cc/congoplanet_tv2.png</thumbnail>
@@ -76,12 +70,6 @@ http://database.freetuxtv.net/WebStreamExport/index?format=xml&type=1&status=2&l
 <title>France 24 FR</title>
 <link>mms://stream1.france24.yacast.net/f24_livefr</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ff/france24.png</thumbnail>
-</item>
-
-<item>
-<title>Gulli</title>
-<link>http://vipwowza.yacast.net/gulli_live/_definst_/gulli_850.stream/playlist.m3u8</link>
-<thumbnail>http://www.lyngsat-logo.com/hires/gg/gulli.png</thumbnail>
 </item>
 
 <item>

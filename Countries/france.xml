@@ -170,12 +170,6 @@ http://database.freetuxtv.net/WebStreamExport/index?format=xml&type=1&status=2&l
 </item>
 
 <item>
-<title>TV web Lusophonie Parisienne</title>
-<link>mms://www.diffusepro.com/lusophonie</link>
-<thumbnail>http://www.lyngsat-logo.com/hires/tt/tvweblusophonieparisienne.png</thumbnail>
-</item>
-
-<item>
 <title>TV, FR, CA EnOndes Canal QC CA</title>
 <link>http://stream2.canal.qc.ca/enOndes_bas_debit</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/tt/tv,fr,caenondescanalqcca.png</thumbnail>

@@ -176,12 +176,6 @@ http://database.freetuxtv.net/WebStreamExport/index?format=xml&type=1&status=2&l
 </item>
 
 <item>
-<title>TV7 (France)</title>
-<link>rtmp://88.191.94.248/livtv7vo/mystream700.sdp</link>
-<thumbnail>http://www.lyngsat-logo.com/hires/tt/tv7(france).png</thumbnail>
-</item>
-
-<item>
 <title>Tvcaraibe (Soleil TV)</title>
 <link>mms://soleiltv.impek.tv/soleiltv</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/tt/tvcaraibe(soleiltv).png</thumbnail>

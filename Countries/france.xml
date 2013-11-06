@@ -164,12 +164,6 @@ http://database.freetuxtv.net/WebStreamExport/index?format=xml&type=1&status=2&l
 </item>
 
 <item>
-<title>TELIM TV FR</title>
-<link>rtsp://telimvod.proximit.fr:1935/live/myStream</link>
-<thumbnail>http://www.lyngsat-logo.com/hires/tt/telimtvfr.png</thumbnail>
-</item>
-
-<item>
 <title>tv sf</title>
 <link>mms://88.191.99.156:1755/live</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/tt/tvsf.png</thumbnail>

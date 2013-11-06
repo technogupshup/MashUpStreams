@@ -121,12 +121,6 @@ http://database.freetuxtv.net/WebStreamExport/index?format=xml&type=1&status=2&l
 </item>
 
 <item>
-<title>NT 1</title>
-<link>mms://live3.ipercast.net/darty.fr/nt1/live</link>
-<thumbnail>http://www.lyngsat-logo.com/hires/nn/nt1.png</thumbnail>
-</item>
-
-<item>
 <title>PTC</title>
 <link>http://media.rtc.be/vod/mp4:166597.mp4/playlist.m3u8</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/pp/ptc.png</thumbnail>

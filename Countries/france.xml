@@ -62,12 +62,6 @@ http://database.freetuxtv.net/WebStreamExport/index?format=xml&type=1&status=2&l
 
 <item>
 <title>Clap TV</title>
-<link>mms://rr93.diffusepro.com/rr93</link>
-<thumbnail>http://www.lyngsat-logo.com/hires/cc/clap_tv.png</thumbnail>
-</item>
-
-<item>
-<title>Clap TV</title>
 <link>rtsp://rr93.diffusepro.com/rr93</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/cc/clap_tv.png</thumbnail>
 </item>

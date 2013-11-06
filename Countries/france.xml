@@ -139,12 +139,6 @@ http://database.freetuxtv.net/WebStreamExport/index?format=xml&type=1&status=2&l
 </item>
 
 <item>
-<title>SÃ©nat</title>
-<link>mms://vipmms9.yacast.net/senat_hemi_wm</link>
-<thumbnail>http://www.lyngsat-logo.com/hires/ss/sã©nat.png</thumbnail>
-</item>
-
-<item>
 <title>Tebeo</title>
 <link>rtsp://tebeo.e-declic.tv:1935/tebeo_live/myStream.sdp</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/tt/tebeo.png</thumbnail>

@@ -10,12 +10,6 @@
 </item>
 
 <item>
-<title>TVR I</title>
-<link>rtmp://ca-edge-3.cdn2.streamago.tv:80/streamagoedge/1049?idutente=1049&idcanale=221&pwd= playpath=221 swfUrl=http://www.streamago.tv/app/StreamVideo.swf live=true timeout=60 pageUrl=http://www.streamago.tv/iframe/1049/</link>
-<thumbnail>http://www.frosat.net/images/logotv/original/tvri.gif</thumbnail>
-</item>
-
-<item>
 <title>Info Pescar</title>
 <link>rtmp://ak.neoflux.co.uk:1935/infopescar playpath=rtmp swfUrl=http://www.infopescar.tv/yyy/player.swf live=true timeout=15 pageUrl=http://www.infopescar.tv/live/</link>
 <thumbnail>http://infopescar.tv/forum/images/logo_forum_blue.png</thumbnail>

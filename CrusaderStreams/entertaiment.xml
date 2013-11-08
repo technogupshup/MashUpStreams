@@ -33,28 +33,17 @@
 <thumbnail>http://4.bp.blogspot.com/-v7Q1icQUJD0/Tm5vrpPY1gI/AAAAAAAAAGs/640s_zySbsQ/s200/MTV+1.png</thumbnail>
 </item>
 
-<item>
-<title>Al Hayat Red</title>
-<link>plugin://plugin.video.jtv.archives/?mode=2&amp;name=eltayartv</link>
-<thumbnail>http://www.lyngsat-logo.com/hires/aa/alhayat.png</thumbnail>
-</item>
-
-<item>
-<title>Zee Aflam</title>
-<link>rtmp://85.17.73.7/live playpath=EFEDFzddz?id=149860 conn=S:OK swfUrl=http://mips.tv/content/scripts/eplayer.swf live=true timeout=15 pageUrl=http://mips.tv/embedplayer/EFEDFzddz/1/600/380</link>
-<thumbnail>http://1.bp.blogspot.com/-tDB1ch6Kjbw/UZDRfMVHfSI/AAAAAAAAAHQ/PU2Wxrordv4/s1600/zee_aflam.png</thumbnail>
-</item>
-
-<item>
-<title>Aljadeed  [COLOR=FFFF0000]Geo Blocked In Some Areas[/COLOR]</title>
-<link>rtmp://aljadeedlive.itw-hosting.net/jadeedlive playpath=live_1 swfUrl=http://www.itworks-me.net/jadeed/player.swf live=1 pageUrl=http://www.itworks-me.net/jadeed/</link>
-<thumbnail>http://1.bp.blogspot.com/-W1Ry_s_c5-k/UAw9jeMFGoI/AAAAAAAANlY/SJ_JbZV8W5E/s400/aljadeed%2Btv.jpeg</thumbnail>
-</item>
 
 <item>
 <title>OTV Lebanon</title>
 <link>rtmp://livestreaming4.itworkscdn.com/otv playpath=otvlive swfUrl=http://www.otv.com.lb/otvent/jwplayer.flash.swf live=true timeout=15 pageUrl=http://www.otv.com.lb/otvent/live.php</link>
 <thumbnail>http://www.fanoos.com/ia/otv_orange_television.jpg</thumbnail>
+</item>
+
+<item>
+<title>Aljadeed  [COLOR=FFFF0000]Geo Blocked In Some Areas[/COLOR]</title>
+<link>http://origin.etacdn.com/jadeedlive/smil:live.smil/playlist.m3u8</link>
+<thumbnail>http://1.bp.blogspot.com/-W1Ry_s_c5-k/UAw9jeMFGoI/AAAAAAAANlY/SJ_JbZV8W5E/s400/aljadeed%2Btv.jpeg</thumbnail>
 </item>
 
 <item>

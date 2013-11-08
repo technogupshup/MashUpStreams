@@ -11,6 +11,12 @@
 </item>
 
 <item>
+<title>MBN TV</title>
+<link>rtmp://119.59.82.214:1935/live playpath=mp4:livestream.f4v swfUrl=http://mbn.af/swfs/StrobeMediaPlayback.swf live=true timeout=15 pageUrl=http://mbn.af/livetv.php</link>
+<thumbnail>http://mbn.af/images/logo/gif.gif</thumbnail>
+</item>
+
+<item>
 <title>Payam E Afghan</title>
 <link>http://afghansite.com:8134/hls-live/livepkgr/_definst_/livetv/22-pa.m3u8</link>
 <thumbnail>http://www.afghanfun.com/wp-content/uploads/2012/10/payam-afghan.png</thumbnail>

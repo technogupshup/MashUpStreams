@@ -11,6 +11,12 @@
 </item>
 
 <item>
+<title>1test</title>
+<link>http://62.27.87.54/stream.php?channel=4453</link>
+<thumbnail>http://www.radioshahab.com/images/jaam-e-jam_1.png</thumbnail>
+</item>
+
+<item>
 <title>MBN TV</title>
 <link>rtmp://119.59.82.214:1935/live playpath=mp4:livestream.f4v swfUrl=http://mbn.af/swfs/StrobeMediaPlayback.swf live=true timeout=15 pageUrl=http://mbn.af/livetv.php</link>
 <thumbnail>http://mbn.af/images/logo/gif.gif</thumbnail>

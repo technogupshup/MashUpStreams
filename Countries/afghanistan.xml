@@ -4,6 +4,7 @@
 <name>Afghanistan TV Channels</name>
 <thumbnail></thumbnail>
 
+
 <item>
 <title>Jaam E Jam 1</title>
 <link>rtmp://live.kashef.cdn.liveirib.ir/live-e playpath=jjtvn1-2.sdp swfUrl=http://live.irib.ir/player.swf live=true timeout=15 pageUrl=http://live.irib.ir/index.php?cat_id=10&type=256&dif=0&id=2</link>

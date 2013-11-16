@@ -6,61 +6,62 @@
 
 
 <item>
-<title>Sky Sports 1</title>
-<link>rtmp://198.144.121.15/live playpath=skysports1 swfUrl=http://www.udemy.com/static/flash/player5.9.swf live=true timeout=15 pageUrl=http://www.reyhq.com/embed1.php?live=skysports1&vw=620&vh=490</link>
+<title>Sky Sports 1 HD</title>
+<link>rtmp://37.220.36.18:443/liverepeater playpath=23697 token=#atd%#$ZH swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf live=true timeout=15 pageUrl=http://featve.com/player6.php?id=23697&width=640&height=460</link>
 <thumbnail>http://3.bp.blogspot.com/-b3q2g-UxZwI/UVWzFcsgA_I/AAAAAAAAFY8/nmBHsWYdLCM/s1600/sky_sports1.png</thumbnail>
 </item>
 
 
 <item>
-<title>Sky Sports 2</title>
-<link>rtmp://198.144.121.15/live playpath=skysport2 swfUrl=http://www.udemy.com/static/flash/player5.9.swf live=true timeout=15 pageUrl=http://www.reyhq.com/embed1.php?live=skysport2&vw=620&vh=490</link>
+<title>Sky Sports 2 HD</title>
+<link>rtmp://37.220.36.71:443/liverepeater playpath=33698 token=#atd%#$ZH  swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf live=true timeout=15  pageUrl=http://featve.com/player2.php?id=33698&width=640&height=460</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ss/sky_uk_sports2.png</thumbnail>
 </item>
 
 
 <item>
-<title>Sky Sports 3</title>
-<link>rtmp://46.246.69.23/live playpath=ss3 swfUrl=http://www.udemy.com/static/flash/player5.9.swf live=true timeout=15 pageUrl=http://www.reyhq.com/embed1.php?live=ss3&vw=620&vh=490</link>
+<title>Sky Sports 3 HD</title>
+<link>rtmp://37.220.34.61:443/liverepeater playpath=23699 token=#atd%#$ZH  swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf live=true timeout=15  pageUrl=http://featve.com/player2.php?id=23699&width=640&height=460</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/sky_uk_sports3.jpg</thumbnail>
 </item>
 
 <item>
 <title>Eurosport 2</title>
-<link>rtmp://31.220.0.82/live playpath=euro222 swfUrl=http://www.udemy.com/static/flash/player5.9.swf live=true timeout=15 pageUrl=http://www.reyhq.com/embed1.php?live=euro222&vw=620&vh=490</link>
+<link>rtmp://31.220.0.134:443/live playpath=euro2x  swfUrl=http://www.udemy.com/static/flash/player5.9.swf live=true timeout=15  pageUrl=http://www.reyhq.com/embed1.php?live=euro2x&vw=620&vh=490
+</link>
 <thumbnail>http://2.bp.blogspot.com/-I3h_uI0cILc/ULt8sd4tWxI/AAAAAAAAAg0/6F40MH-1Qmk/s1600/eurosport+2+chaine+live.jpg</thumbnail>
 </item>
 
 
 <item>
 <title>Eurosport 1</title>
-<link>rtmp://178.22.217.150/tv/live/5.sdp</link>
+<link>rtmp://31.220.0.134:443/live playpath=euro1x swfUrl=http://www.udemy.com/static/flash/player5.9.swf live=true timeout=15 pageUrl=http://www.reyhq.com/embed1.php?live=euro1x&vw=620&vh=490</link>
 <thumbnail>http://3.bp.blogspot.com/-q691zK90t9Y/TlUbSSLiicI/AAAAAAAAAHY/zGGW_LfRuIU/s1600/EuroSport-izle.png</thumbnail>
 </item>
 
 
 <item>
-<title>SKY Sports 4</title>
-<link>rtmp://198.144.121.15/live playpath=skysports44 swfUrl=http://www.udemy.com/static/flash/player5.9.swf live=true timeout=15 pageUrl=http://www.reyhq.com/embed.php?live=skysports44&vw=620&vh=490</link>
+<title>SKY Sports 4 HD</title>
+<link>rtmp://37.220.32.36:443/liverepeater playpath=23700 token=#atd%#$ZH  swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf live=true timeout=15 pageUrl=http://featve.com/player2.php?id=23700&width=640&height=460</link>
 <thumbnail>http://www.watchlivetvstreaming.com/wp-content/uploads/2012/02/Sky-Sport-4-TV-Watch-Online.png</thumbnail>
 </item>
 
 <item>
 <title>SKY Sports News</title>
-<link>rtmp://46.246.124.16:443/liverepeater playpath=20723 swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/fkr1.swf live=true timeout=15 pageUrl=http://movietrailers.yt/player2.php?id=20723&width=620&height=490</link>
+<link>rtmp://178.18.31.43:443/liverepeater playpath=23701 token=#atd%#$ZH swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf live=true timeout=15 pageUrl=http://featve.com/player2.php?id=23701&width=640&height=460</link>
 <thumbnail>http://coalitionofclubs.com/wp-content/uploads/2013/04/sky-sports-logo-fbz4fgst.png</thumbnail>
 </item>
 
 <item>
 <title>SKY Sports F1</title>
-<link>rtmp://46.246.124.10:443/liverepeater playpath=13877 swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/fkr1.swf live=true timeout=15 pageUrl=http://movietrailers.yt/player2.php?id=13877&width=620&height=490</link>
+<link>rtmp://46.246.124.10:443/liverepeater playpath=13877 #atd%#$ZH swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/fkr1.swf live=true timeout=15 pageUrl=http://movietrailers.yt/player2.php?id=13877&width=620&height=490</link>
 <thumbnail>http://www.digitaltvselector.com/wp-content/uploads/2012/03/skysportsf1.jpg</thumbnail>
 </item>
 
 
 <item>
 <title>British Eurosport</title>
-<link>rtmp://46.246.124.7:443/liverepeater playpath=20827 swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/fkr1.swf live=true timeout=15 pageUrl=http://movietrailers.yt/player2.php?id=20827&width=620&height=490</link>
+<link>rtmp://46.246.124.7:443/liverepeater playpath=20827 #atd%#$ZH swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/fkr1.swf live=true timeout=15 pageUrl=http://movietrailers.yt/player2.php?id=20827&width=620&height=490</link>
 <thumbnail>http://www.logotypes101.com/logos/641/381687ECB867150B2399EAE3067181BB/Eurosport_British.png</thumbnail>
 </item>
 

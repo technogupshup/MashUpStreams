@@ -4,12 +4,7 @@
 <name>Sri Lanka TV Channels</name>
 <thumbnail></thumbnail>
 
-<item>
-<title>Rupavahini Live</title>
-<link>rtmp://dammika.flashwebtown.com:1935/slrc playpath=myStream.sdp swfUrl=http://wwitv.com/player/player15.swf live=true timeout=15
-pageUrl=http://wwitv.com/tv_channels/b2131.htm</link>
-<thumbnail>http://4.bp.blogspot.com/-d7YaGTubXW4/T-mnF-2TDCI/AAAAAAAAAXM/rn8Sw3bBThQ/s1600/rupavahini-logo-sri-lanka-tv.jpg</thumbnail>
-</item>
+
 
 <item>
 <title>ITN</title>

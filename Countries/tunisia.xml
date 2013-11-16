@@ -6,7 +6,8 @@
 
 <item>
 <title>Nessma</title>  
-<link>mms://193.95.93.146/nessma</link>
+<link>rtmp://75.126.203.130/live playpath=mips1301?id=185563 conn=S:OK swfUrl=http://mips.tv/content/scripts/eplayer.swf live=true timeout=15 pageUrl=http://mips.tv/embedplayer/mips1301/1/500/400
+</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/nn/nessma_tv.jpg</thumbnail>
 </item>
 

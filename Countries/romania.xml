@@ -10,12 +10,6 @@
 </item>
 
 <item>
-<title>Info Pescar</title>
-<link>rtmp://ak.neoflux.co.uk:1935/infopescar playpath=rtmp swfUrl=http://www.infopescar.tv/yyy/player.swf live=true timeout=15 pageUrl=http://www.infopescar.tv/live/</link>
-<thumbnail>http://infopescar.tv/forum/images/logo_forum_blue.png</thumbnail>
-</item>
-
-<item>
 <title>JURNAL TV</title>
 <link>http://ch0.jurnaltv.md/channel0.flv</link>
 <thumbnail>http://www.jurnaltv.md/img/site/logo.jpg?id=2</thumbnail>
@@ -83,7 +77,7 @@
 
 <item>
 <title>ROMANIA TV</title>
-<link>http://rtvflash.smcmobile.ro:8010/rtv.flv</link>
+<link>http://rtvflash.smcmobile.ro:8020/rtv.flv?file=rtv.flv&start=0</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/rr/rtv_ro.jpg</thumbnail>
 </item>
 

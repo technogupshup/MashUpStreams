@@ -52,18 +52,6 @@
 <thumbnail>http://coalitionofclubs.com/wp-content/uploads/2013/04/sky-sports-logo-fbz4fgst.png</thumbnail>
 </item>
 
-<item>
-<title>SKY Sports F1</title>
-<link>rtmp://46.246.124.10:443/liverepeater playpath=13877 token=token=$Iwillkill%$wyou@#q5 swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/fkr1.swf live=true timeout=15 pageUrl=http://movietrailers.yt/player2.php?id=13877&width=620&height=490</link>
-<thumbnail>http://www.digitaltvselector.com/wp-content/uploads/2012/03/skysportsf1.jpg</thumbnail>
-</item>
-
-
-<item>
-<title>British Eurosport</title>
-<link>rtmp://46.246.124.7:443/liverepeater playpath=20827 token=token=$Iwillkill%$wyou@#q5 swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/fkr1.swf live=true timeout=15 pageUrl=http://movietrailers.yt/player2.php?id=20827&width=620&height=490</link>
-<thumbnail>http://www.logotypes101.com/logos/641/381687ECB867150B2399EAE3067181BB/Eurosport_British.png</thumbnail>
-</item>
 
 
 </channel>

@@ -5,10 +5,33 @@
 <thumbnail></thumbnail>
 
 <item>
-<title>SVT2</title>
-<link>http://webtv-aarh-6.stofa.dk:80/274_01.m3u8?kivgiverkager=1</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/svt_2.jpg</thumbnail>
+<title>Miracle TV</title>
+<link>rtmp://flash0.80205-live0.dna.qbrick.com:80/80205-live0 playpath=troens2 swfUrl=https://professional.player.qbrick.com/pro/player/p3/modules/mediaplayer.swf?v=D705CC2F live=true timeout=15 pageUrl=http://www.miraclechannel.com/live.html</link>
+<thumbnail>http://2.bp.blogspot.com/-D6AV6vJ_Bd8/UME0-WrY0YI/AAAAAAAAGjw/508fg__RmSg/s1600/iran-tv-6.png</thumbnail>
 </item>
 
+<item>
+<title>Lifestyle TV</title>
+<link>rtmp://stream1.lifestyletv.se/live playpath=livestream3 swfUrl=http://lifestyletv.se/flvplayer/player/waPlayer.swf?VideoID=1&amp;Style=undefined&amp;PlaylistID=undefined&amp;cam=undefined live=true timeout=15 pageUrl=http://lifestyletv.se/ondemand_player.php?prgid=1</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/ll/lifestyle_tv_se.png</thumbnail>
+</item>
+
+<item>
+<title>Kanal 10</title>
+<link>rtmp://live.icecube.no/kanal10 playpath=kanal10 swfUrl=http://icecube.cc/WebTVPlayer.swf live=true timeout=15 pageUrl=http://icecube.cc/Player.aspx?player=97f1b0ee-2546-4e38-baca-0059d67abb39&video=e825da11-0488-4106-b388-576e368e74a3&station=&width=658</link>
+<thumbnail>http://static.timefor.tv/imgs/epg/logos/kanal10_big.png</thumbnail>
+</item>
+
+<item>
+<title>Suroyo TV</title>
+<link>http://suroyolive.tv:8000/live.flv</link>
+<thumbnail>http://www.ankawa.com/english/wp-content/uploads/2007/11/suroyo_tv.jpg</thumbnail>
+</item>
+
+<item>
+<title>Suryoyo Sat TV</title>
+<link>http://xsuryoyosatwebtvx.api.channel.livestream.com/3.0/playlist.m3u8</link>
+<thumbnail>http://www.keditor.org/uploads/televizyon/suryoyo_sat_logo.jpg</thumbnail>
+</item>
 
 </channel>

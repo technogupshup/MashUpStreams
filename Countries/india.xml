@@ -259,7 +259,7 @@
 
 <item>
 <title>ZEE SMILE</title>
-<link>rtmp://zeenatlive.viddillions.com:1935/zeenatlive playpath=51ztvlive106.stream swfUrl= live=true timeout=60 pageUrl=</link>
+<link>rtmp://50.7.175.253:1939/base2 playpath=dd16.stream swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=true timeout=15 pageUrl=http://www.turbotv.in/zee-smile/</link>
 <thumbnail>http://www.turbotv.in/wp-content/uploads/2012/11/Zee_Smile-logo.png</thumbnail>
 </item>
 

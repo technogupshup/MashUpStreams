@@ -318,7 +318,11 @@
 <thumbnail>http://www.lyngsat-logo.com/hires/zz/zee_news.png</thumbnail>
 </item>
 
-</channel>
+<item>
+<title>Zee Business</title>
+<link><link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=1kzXPNQ7LPc</link></link>
+<thumbnail>http://dl.siemens.c.nmdn.net/siemens/titles/19/assets/images/5105a94b-c0fd-4a5f-ae31-a8a6300ebd41_zee-business_web_Active_webPosterLS2.png</thumbnail>
+</item>
 
 
 </channel>

@@ -5,6 +5,176 @@
 <thumbnail></thumbnail>
 
 <item>
+<title>ARD</title>
+<link>http://tinyurl.com/pkqlfk5</link>
+<thumbnail>http://megatv.to/wp-content/uploads/2013/11/das-erste-225x158.png</thumbnail>
+</item>
+
+<item>
+<title>ZDF</title>
+<link>http://tinyurl.com/omwk97z</link>
+<thumbnail>http://megatv.to/wp-content/uploads/2013/11/zdf-225x158.png</thumbnail>
+</item>
+
+
+<item>
+<title>RTL</title>
+<link>http://tinyurl.com/nuzmluk</link>
+<thumbnail>http://megatv.to/wp-content/uploads/2013/11/rtl-ch-225x158.png</thumbnail>
+</item>
+
+
+<item>
+<title>RTL NITRO</title>
+<link>http://tinyurl.com/nh9xl7n</link>
+<thumbnail>http://megatv.to/wp-content/uploads/2013/11/rtl-nitro-225x158.png</thumbnail>
+</item>
+
+
+<item>
+<title>RTL II</title>
+<link>http://tinyurl.com/qxtfry2</link>
+<thumbnail>http://megatv.to/wp-content/uploads/2013/11/rtl-ii-225x158.png</thumbnail>
+</item>
+
+
+<item>
+<title>Pro 7</title>
+<link>http://tinyurl.com/p9ygnfb</link>
+<thumbnail>http://megatv.to/wp-content/uploads/2013/11/pro7-225x158.png</thumbnail>
+</item>
+
+
+<item>
+<title>Pro 7 MAXX</title>
+<link>http://tinyurl.com/Promaxx</link>
+<thumbnail>http://megatv.to/wp-content/uploads/2013/11/pro7maxx.png</thumbnail>
+</item>
+
+
+<item>
+<title>Kabel 1</title>
+<link>http://tinyurl.com/qdtl5pd</link>
+<thumbnail>http://megatv.to/wp-content/uploads/2013/11/kabel-1-225x158.png</thumbnail>
+</item>
+
+
+<item>
+<title>VOX</title>
+<link>http://tinyurl.com/nnyh5m9</link>
+<thumbnail></thumbnail>
+</item>
+
+
+<item>
+<title>Super RTL</title>
+<link>http://tinyurl.com/kbsbyzb</link>
+<thumbnail>http://megatv.to/wp-content/uploads/2013/11/super-rtl-225x158.png</thumbnail>
+</item>
+
+
+<item>
+<title>nickeleodeon</title>
+<link>http://tinyurl.com/pwamkbc</link>
+<thumbnail>http://megatv.to/wp-content/uploads/2013/11/nickelodeon-225x158.png</thumbnail>
+</item>
+
+
+<item>
+<title>KIKA</title>
+<link>http://tinyurl.com/o3vfxcf</link>
+<thumbnail></thumbnail>
+</item>
+
+
+<item>
+<title>DMAX</title>
+<link>http://tinyurl.com/ozxlz7c</link>
+<thumbnail>http://megatv.to/wp-content/uploads/2013/11/dmax-225x158.png</thumbnail>
+</item>
+
+
+<item>
+<title>Sport1</title>
+<link>http://tinyurl.com/nt7osrq</link>
+<thumbnail>http://megatv.to/wp-content/uploads/2013/11/sport1-live-225x158.png</thumbnail>
+</item>
+
+
+<item>
+<title>EuroSport</title>
+<link>http://tinyurl.com/k5ot7tz</link>
+<thumbnail>http://megatv.to/wp-content/uploads/2013/11/eurosport-225x158.png</thumbnail>
+</item>
+
+
+<item>
+<title>SKY BUNDESLIGA HD1</title>
+<link>http://tinyurl.com/pzh5pes</link>
+<thumbnail></thumbnail>
+</item>
+
+
+<item>
+<title>SKY SPORT HD2</title>
+<link>http://tinyurl.com/n2j4ngd</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>[COLOR=FFFF0000]SF SWISS[/COLOR]</title>
+<link>Nothing</link>
+<thumbnail>http://www.adpic.de/data/picture/detail/flagge_schweiz_274230.jpg</thumbnail>
+</item>
+
+<item>
+<title>SF Info (CH)</title>
+<link>http://tinyurl.com/ngudmee</link>
+<thumbnail>http://megatv.to/wp-content/uploads/2013/11/sf-info-225x158.png</thumbnail>
+</item>
+
+
+<item>
+<title>SF 1 (CH)</title>
+<link>http://tinyurl.com/qa936ex</link>
+<thumbnail>http://megatv.to/wp-content/uploads/2013/11/sf-1-225x158.png</thumbnail>
+</item>
+
+
+<item>
+<title>SF 2 (CH)</title>
+<link>http://tinyurl.com/npagcsz</link>
+<thumbnail>http://megatv.to/wp-content/uploads/2013/11/sf-2-225x158.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR=FFFF0000]ORF Austria[/COLOR]</title>
+<link>Nothing</link>
+<thumbnail>http://i14.tinypic.com/4i65kxk.jpg</thumbnail>
+</item>
+
+<item>
+<title>ORF 1 (AT)</title>
+<link>http://tinyurl.com/mzowzhy</link>
+<thumbnail>http://megatv.to/wp-content/uploads/2013/11/orf1-225x158.png</thumbnail>
+</item>
+
+
+<item>
+<title>ORF 2 (AT)</title>
+<link>http://tinyurl.com/kdk4zqv</link>
+<thumbnail>http://megatv.to/wp-content/uploads/2013/11/orf2-225x158.png</thumbnail>
+</item>
+
+
+<item>
+<title>ORF 3 (AT)</title>
+<link>http://tinyurl.com/orfIII</link>
+<thumbnail>http://de.kingofsat.net/jpg/orf3.jpg</thumbnail>
+</item>
+
+
+<item>
 <title>KIKA</title>
 <link>http://88.212.11.206:5000/live/30/30.m3u8</link>
 <thumbnail>http://file1.npage.de/009857/81/bilder/logo_kika.gif</thumbnail>

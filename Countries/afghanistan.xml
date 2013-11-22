@@ -61,7 +61,7 @@
 
 <item>
 <title>Kawthar TV</title>
-<link>rtmp://38.96.148.165:1935/live playpath=mp4:livestream swfUrl=http://www.primcast.com/jwplayer5/player.swf live=true timeout=60 pageUrl=http://www.alkawthartv.ir/livetv</link>
+<link>rtmp://e4.eirib.ir/liverepeater playpath=tv24-128.stream swfUrl=http://live.mehr.ir/player.swf pageUrl=http://live.mehr.ir/alkosar.php</link>
 <thumbnail>http://referenceur-tv.com/wp-content/uploads/2009/08/al-kawthar-tv-television-iranienne-gratuite-en-direct-streaming.png</thumbnail>
 </item>
 

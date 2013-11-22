@@ -42,7 +42,7 @@
 </item>
 
 <item>
-<title>Tolo News [COLOR=FFFF0000]WORKING[/COLOR]</title>
+<title>Tolo News</title>
 <link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=6jS_SWbPLoI</link>
 <thumbnail>http://aria-tv.com/images/tolo_news.png</thumbnail>
 </item>
@@ -150,7 +150,7 @@
 </item>
 
 <item>
-<title>Arezu TV</title>
+<title>Arezu TV [COLOR=FFFF0000]WORKING[/COLOR]</title>
 <link>rtmp://95.84.240.45:1945/live playpath=rtmp.stream swfUrl=http://arezuonlinetv.com/js/flowplayer-3.2.11.swf live=true timeout=15 pageUrl=http://arezuonlinetv.com/</link>
 <thumbnail>http://4.bp.blogspot.com/-eL7Bm0B_Fck/Uc7E-utmNCI/AAAAAAAABFA/jc6auT6d5PU/s269/205451_471051409641907_837049089_n.png</thumbnail>
 </item>
@@ -174,7 +174,7 @@
 </item>
 
 <item>
-<title>Shamshad HD [COLOR=FFFF0000]WORKING[/COLOR]</title>
+<title>Shamshad HD</title>
 <link>rtmp://media.streamingpulse.biz/8068 playpath=8068 swfUrl=http://media.streamingpulse.biz:2000/system/misc/flvplayer/FLVplayer_Custom.swf live=true timeout=15 pageUrl=http://shamshadtv.tv/live/</link>
 <thumbnail>http://cricket.tolafghan.com/assets/posts/18057/medium/SHAMSHAD_TV.jpg?1273990160</thumbnail>
 </item>
@@ -204,7 +204,7 @@
 </item>
 
 <item>
-<title>Madina Live</title>
+<title>Madina Live[COLOR=FFFF0000]WORKING[/COLOR]</title>
 <link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=1VG4djofFuk#t=118073</link>
 <thumbnail>http://oi39.tinypic.com/1tjxfp.jpg</thumbnail>
 </item>

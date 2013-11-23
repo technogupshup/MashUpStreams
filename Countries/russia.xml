@@ -131,12 +131,6 @@
 </item>
 
 <item>
-<title>8 TV</title>
-<link>rtmp://84.47.171.205:1935/rr playpath=stream swfUrl= live=true timeout=15 pageUrl=</link>
-<thumbnail>https://si0.twimg.com/profile_images/1877452526/NEWS8-FB-Icon.jpg</thumbnail>
-</item>
-
-<item>
 <title>Inva Media TV</title>
 <link>rtmp://invatv.cdnvideo.ru:1935/invatv-live playpath=invatv.sdp swfUrl= live=true timeout=15 pageUrl=</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/ii/inva_media_tv_ru.jpg</thumbnail>

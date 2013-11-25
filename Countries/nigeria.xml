@@ -20,7 +20,7 @@
 
 <item>
 <title>NTA</title>
-<link>rtsp://178.238.86.23/NTA?sid=1F29E503F5DA8D5D45FAE2A7A127C96AAB410485AC159B1F3ACC9E8F8DD16095</link>
+<link>http://api.new.livestream.com/broadcasts/35780561.m3u8?dw=100</link>
 <thumbnail>http://www.nigeriamasterweb.com/7mbebe/ntaLogo.jpg</thumbnail>
 </item>
 

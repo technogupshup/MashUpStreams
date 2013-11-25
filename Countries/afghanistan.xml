@@ -24,12 +24,6 @@
 </item>
 
 <item>
-<title>Tolo</title>
-<link>rtsp://50.97.117.4/AFG-TAMADON-EUROPE</link>
-<thumbnail>http://aria-tv.com/images/tolo_tv.png</thumbnail>
-</item>
-
-<item>
 <title>Zarin TV</title>
 <link>http://afghansite.com:8134/hls-live/livepkgr/_definst_/livetv/22-zarin.m3u8</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/zz/zarin_tv.png</thumbnail>
@@ -60,9 +54,9 @@
 </item>
 
 <item>
-<title>Kawthar TV</title>
-<link>rtmp://e4.eirib.ir/liverepeater playpath=tv24-128.stream swfUrl=http://live.mehr.ir/player.swf pageUrl=http://live.mehr.ir/alkosar.php</link>
-<thumbnail>http://referenceur-tv.com/wp-content/uploads/2009/08/al-kawthar-tv-television-iranienne-gratuite-en-direct-streaming.png</thumbnail>
+<title>Face 1</title>
+<link>rtmp://iriptv.com/iriptvserver2=playpath>7 swfUrl=http://iriptv.com/player/player.swf live=true timeout=15 pageUrl=http://iriptv.com/web/index.php</link>
+<thumbnail>http://www.8pic.ir/images/r9v4udb6los78orxw87s_thumb.jpg</thumbnail>
 </item>
 
 <item>

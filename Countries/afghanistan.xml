@@ -187,7 +187,7 @@
 
 <item>
 <title>Noor tv</title>
-<link>rtmp://uni2rtmp.tulix.tv:1935/nooortv playpath=nooortv swfUrl=http://www.tulix.tv/mediaplayer/player.swf live=true timeout=15 pageUrl=http://tulix.com/player/nooor.php/</link>
+<link>http://afghansite.com:8134/hls-live/livepkgr/_definst_/livetv/22-noor.m3u8</link>
 <thumbnail>http://afghanproverbs.com/yahoo_site_admin/assets/images/noor_tv.18460331_std.png</thumbnail>
 </item>
 

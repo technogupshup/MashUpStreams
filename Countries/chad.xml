@@ -6,8 +6,7 @@
 
 <item>
 <title>Chad TV</title>
-<link>rtmp://217.114.200.24/tchad/ playpath=tchad swfUrl=http://wwitv.com/player/player15.swf live=true timeout=15
-pageUrl=http://wwitv.com/tv_channels/b6135.htm</link>
+<link>rtmp://217.114.200.24/tchad/ playpath=tchad swfUrl=http://www.tchadonline.com/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=true timeout=15 pageUrl=http://tchadonline.com/index.php/tv-radio/</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/tt/tele_tchad.jpg</thumbnail>
 </item>
 

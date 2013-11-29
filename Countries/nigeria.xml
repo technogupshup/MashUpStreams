@@ -20,9 +20,14 @@
 
 <item>
 <title>NTA</title>
-<link>http://api.new.livestream.com/broadcasts/35780561.m3u8?dw=100</link>
+<link>http://api.new.livestream.com/broadcasts/36000962.m3u8?dw=100</link>
 <thumbnail>http://www.nigeriamasterweb.com/7mbebe/ntaLogo.jpg</thumbnail>
 </item>
 
+<item>
+<title>TVC News</title>
+<link>rtmp://uni2rtmp.tulix.tv:1935/tvcnews playpath=myStream.sdp swfUrl=http://unistream2.tulix.tv/mediaplayer/player.swf live=true timeout=15 pageUrl=http://www.tvcnews.tv/?q=live-tv</link>
+<thumbnail>http://www.diesl.com/wp-content/uploads/2013/05/tvc-news-logo-680x365.jpeg</thumbnail>
+</item>
 
 </channel>

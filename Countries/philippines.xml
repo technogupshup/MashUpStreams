@@ -10,15 +10,10 @@
 <thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/Mashup/tv5_zpsa48341ab.png</thumbnail>
 </item>
 
-<item>
-<title>Aksyon TV</title>
-<link>http://edge.pldt.swiftserve.com/live/mediascape/amlst:aksyon/playlist.m3u8</link>
-<thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/Mashup/aksyontv_zps0aeecd1e.png</thumbnail>
-</item>
 
 <item>
 <title>Radyo 5</title>
-<link>http://stream2.news5.ph:1935/live/smil:radyo5.smil/playlist.m3u8</link>
+<link>http://103.11.114.132:8000/stream</link>
 <thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/Mashup/radyo5_zps1e4a8acb.png</thumbnail>
 </item>
 
@@ -37,7 +32,7 @@
 
 <item>
 <title>CLTV 36</title>
-<link>http://streamer01.mavshack.com/cltv36/smil:cltv361.smil/chunklist_w2015533479_b384000.m3u8</link>
+<link>http://cltv36-lh.akamaihd.net/i/cltv36_1@155842/master.m3u8</link>
 <thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/Mashup/cltv36_zps2007ac78.png</thumbnail>
 </item>
 
@@ -78,19 +73,7 @@
 </item>
 
 <item>
-<title>GMA 7</title>
-<link>rtmp://ny.iguide.to/edge playpath=tj6zegfdas16p08 token=#ed%h0#w18623jsda6523lDGDve swfUrl=http://player.ilive.to/secure_player_ilive_z.swf live=true timeout=15 pageUrl=http://www.ilive.to/view/44090/watch-live-GMA_7-streaming-channel-for-free</link>
-<thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/Mashup/gma7_zpse6c76072.png</thumbnail>
-</item>
-
-<item>
 <title>ABS-CBN</title>
-<link>http://iwantvls-i.akamaihd.net/hls/live/202810/abscbn/master.m3u8</link>
-<thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/Mashup/abs-cbn2_zps6305f072.png</thumbnail>
-</item>
-
-<item>
-<title>ABS-CBN (Link 2)</title>
 <link>rtmp://cp106256.live.edgefcs.net:443/live playpath=iwantabs-256@36979?videoId=1879066044001 conn=S:OK swfUrl=http://p.jwpcdn.com/6/5/jwplayer.flash.swf live=true timeout=15 pageUrl=http://www.pinoyshownow.net/2011/04/abs-cbn-live-streaming.html</link>
 <thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/Mashup/abs-cbn2_zps6305f072.png</thumbnail>
 </item>

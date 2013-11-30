@@ -12,9 +12,16 @@
 
 <item>
 <title>Alalam</title>
-<link>http://eu.hdn.octoshape.net:1935/live/smil:overon-alalam_ch5_auto.smil/playlist.m3u8</link>
+<link>rtmp://hd6.lsops.net/live/ playpath=alalam_ar_584 swfUrl=http://static.ls-cdn.com/player/5.10/livestation-player.swf?1385302228 live=true timeout=15 pageUrl=http://www.livestation.com/en/alalam</link>
 <thumbnail>http://www.724.tv/Eserler/Resim/Alalam.jpg</thumbnail>
 </item>
+
+<item>
+<title>Alalam (Link 2)</title>
+<link>http://hd6.lsops.net/live/alalam_ar_hls.smil/playlist.m3u8</link>
+<thumbnail>http://www.724.tv/Eserler/Resim/Alalam.jpg</thumbnail>
+</item>
+
 
 <item>
 <title>Ictimai TV</title>

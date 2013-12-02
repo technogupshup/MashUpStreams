@@ -54,7 +54,7 @@
 
 <item>
 <title>Star Plus</title>
-<link>rtmp://46.246.29.146/live33 playpath=stari swfUrl=http://www.casti.tv/player/player-licensed55.swf live=true timeout=15 pageUrl=http://www.casti.tv/embed.php?v=stari&vw=600&vh=450&video=0&domain=pogotv.eu</link>
+<link>rtmp://93.120.27.87/live playpath=starplusi swfUrl=http://www.dcast.tv/player/player.swf live=true timeout=15 pageUrl=http://www.dcast.tv/embed.php?u=starplusi&vw=600&vh=430</link>
 <thumbnail>http://www.xuperdesign.com/tv/chimages/star_plus_logo.png</thumbnail>
 </item>
 
@@ -283,13 +283,13 @@
 
 <item>
 <title>Zee Cinema</title>
-<link>http://213.254.202.142/flv/4e2c5fd04592d/testat123?0.006999617908149958</link>
+<link>http://213.254.202.16/flv/4e0e6f4dcc2d3/testat123?0.5567853348329663</link>
 </thumbnail>http://images.wikia.com/logopedia/images/4/48/Zee_Cinema_2011.png</thumbnail>
 </item>
 
 <item>
 <title>Star Gold</title>
-<link>http://213.254.202.18/flv/4e0e6f4dcc2d3/testat123?0.38930256851017475</link>
+<link>http://89.149.156.210/flv/4dd469a36a357/testat123?0.8287286153063178</link>
 <thumbnail>http://images.wikia.com/logopedia/images/f/f0/Star_Gold_2011.png</thumbnail>
 </item>
 

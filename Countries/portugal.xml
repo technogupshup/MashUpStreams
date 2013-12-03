@@ -1,0 +1,13 @@
+ <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<channel>
+<name>Portugal TV Channels</name>
+<thumbnail></thumbnail>
+
+<item>
+<title>Benfica TV</title>
+<link>rtmp://89.248.168.21/liveedge/ playpath=live5 swfUrl=http://micast.tv/jwplayer/jwplayer.flash.swf live=true timeout=15 pageUrl=http://micast.tv/gen5.php?ch=live5</link>
+<thumbnail>http://files.baixapirata.webnode.com.pt/system_preview_200000105-74c1875bb7/benfica1.png</thumbnail>
+</item>
+
+</channel>

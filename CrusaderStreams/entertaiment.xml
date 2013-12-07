@@ -10,6 +10,12 @@
 
 
 <item>
+<title>[COLOR=FFFF0000]Announcement(s): MBC Fixed, [/COLOR]</title>
+<link>Nothing</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/commons/3/32/The_flag_of_Syrian_Arab_Republic_Damascus%2C_Syria.jpg</thumbnail>
+</item>
+
+<item>
 <title>Dubai TV</title>
 <link>rtmp://dmiLiveDubaiTV.flash.internapcdn.net/ app=dmiLiveDubaiTV/live_1 playpath=dmilivedubaitv_4 swfUrl=http://vod.dmi.ae/bundles/endavoenhance/js/lib/jwplayer/jwplayer.flash.swf live=true timeout=15 pageUrl=http://vod.dmi.ae/jwplayer/player16.php?width=630&height=461&channel=dubaitv
 </link>
@@ -57,6 +63,18 @@
 <title>Aljadeed  [COLOR=FFFF0000]Geo Blocked In Some Areas[/COLOR]</title>
 <link>http://origin.etacdn.com/jadeedlive/smil:live.smil/playlist.m3u8</link>
 <thumbnail>http://1.bp.blogspot.com/-W1Ry_s_c5-k/UAw9jeMFGoI/AAAAAAAANlY/SJ_JbZV8W5E/s400/aljadeed%2Btv.jpeg</thumbnail>
+</item>
+
+<item>
+<title>MBC</title>
+<link>plugin://plugin.video.jtv.archives/?mode=2&amp;name=no__onetv8</link>
+<thumbnail>http://www.ilcode.com/photos/www.ilcode.com-mdubdqlswkxrchiaarxirdk-mbc.jpg</thumbnail>
+</item>
+
+<item>
+<title>MBC (Link 2)</title>
+<link>rtmp://206.190.138.68/live playpath=fregregerg?id=181857 conn=S:OK swfUrl=http://mips.tv/content/scripts/eplayer.swf live=true timeout=15 pageUrl=http://mips.tv/embedplayer/fregregerg/1/600/380</link>
+<thumbnail>http://www.ilcode.com/photos/www.ilcode.com-mdubdqlswkxrchiaarxirdk-mbc.jpg</thumbnail>
 </item>
 
 <item>

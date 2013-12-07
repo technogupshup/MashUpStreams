@@ -10,6 +10,19 @@
 
 
 <item>
+<title>Dubai TV</title>
+<link>rtmp://dmiLiveDubaiTV.flash.internapcdn.net/ app=dmiLiveDubaiTV/live_1 playpath=dmilivedubaitv_4 swfUrl=http://vod.dmi.ae/bundles/endavoenhance/js/lib/jwplayer/jwplayer.flash.swf live=true timeout=15 pageUrl=http://vod.dmi.ae/jwplayer/player16.php?width=630&height=461&channel=dubaitv
+</link>
+<thumbnail>http://tv.onlinemoviesportsandtv.com/wp-content/uploads/2012/11/Dubai-TV.jpg</thumbnail>
+</item>
+
+<item>
+<title>Sama Dubai</title>
+<link>rtmp://dmiLiveSamaDubai.flash.internapcdn.net/ app=dmiLiveSamaDubai/live_1 playpath=dmilivesamadubai_3 swfUrl=http://vod.dmi.ae/bundles/endavoenhance/js/lib/jwplayer/jwplayer.flash.swf live=true timeout=15 pageUrl=http://vod.dmi.ae/jwplayer/player16.php?width=630&height=461&channel=samadubai</link>
+<thumbnail>http://img1.moneycontrol.com/images/entitygame/big/Sama_Dubai_300.jpg</thumbnail>
+</item>
+
+<item>
 <title>Al Baghdadia 2</title>
 <link>rtmp://cp44832.live.edgefcs.net/live playpath=albag2_500@90978 swfUrl=http://player.longtailvideo.com/player.swf live=true timeout=15 pageUrl=http://freetv247.com/tags/al-baghdadia-2-live-tv</link>
 <thumbnail>http://a1.mzstatic.com/us/r1000/107/Purple/cf/aa/5c/mzl.bjffmkul.jpg</thumbnail>

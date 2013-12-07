@@ -3,7 +3,7 @@
 <fanart></fanart>
 #######################################################################################################################################
 <info>
-<message>AJS +9, +2 Updated</message>
+<message></message>
 <thumbnail></thumbnail>
 </info>
 ##############################################################################################################################
@@ -72,12 +72,6 @@
 </item>
 
 <item>
-<title>AD Sports</title>
-<link>rtmp://204.107.27.247/ app=live/?id=0ad5aac39bb13fbefff663cecddcb366a438c9f45c3712f2a117cc64766255c154847fd1258cec87e6449de67d5970cd4b6042b206ea492d27de324b4590855371d5142839bfa394abb8c22211236318f423cf6bc4e19e92b3b10cf1297b9583e8bfd8ad8d8168c4b81475e672741cb4132433b8a3f8109a638f7c899eb78904cd9170c985b1bb495e464dd72c643284d81456e8ab86fd72 playpath=1760.low.stream swfUrl=http://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf?v=26 live=true timeout=15 pageUrl=http://www.filmon.com/tv/channel/export?channel_id=1760</link>
-<thumbnail>http://upload.wikimedia.org/wikipedia/en/d/d2/Abu_dhabi_sports.png</thumbnail>
-</item> 
-
-<item>
 <title>Bahrain Sports</title>
 <link>rtmp://alayam.netromedia.net/btv3//btv3</link>
 <thumbnail>http://ing-sat.what.hu/images/logo-insert/satlogos/bahrain/113-Bahrain-TV-Sports.jpg</thumbnail>
@@ -85,9 +79,9 @@
 
 <item>
 <title>Dubai Sports</title>
-<link>rtmp://live300.edge.filmon.com/ app=live/?id=0ad5aac39bb13fbe4e67619a5f3092dcac922bad6ba6c43af56771fa1839eb38e1d338f1b908185712292186bde224ea6ee7a7b1f738b5e4adb92da5d6fa4630287093b7b4d6a8d9671993c530e7d346de6d4fc338f4623082dbb62d2e3243e79e397dacca9487fefd8189d07d9f9da7f6a9f9826f9463bf233a2eccfc89dfda26b5befac07f90381c80e78457c58783944aa4ceadea8528 playpath=79.high.stream swfUrl=http://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf?v=26 live=true timeout=15 pageUrl=http://www.filmon.com/tv/channel/export?channel_id=79</link>
-<thumbnail>http://www.dmi.ae/common/images/theme/nationalday2012/dubaisports_logo.png</thumbnail>
-</item> 
+<link>rtsp://wms03.endavomedia.com:1935/dmi/_definst_/dmilivedubaisports3_bb.stream</link>
+<thumbnail>http://referenceur-tv.com/wp-content/uploads/2013/05/dubai-sports-tv-online-live-channel-streaming.png</thumbnail>
+</item>
 
 <item>
 <title>Kuwait Sports</title>

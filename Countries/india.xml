@@ -54,7 +54,7 @@
 
 <item>
 <title>Star Plus</title>
-<link>rtmp://93.120.27.87/live playpath=starplusi swfUrl=http://www.dcast.tv/player/player.swf live=true timeout=15 pageUrl=http://www.dcast.tv/embed.php?u=starplusi&vw=600&vh=430</link>
+<link>rtmp://93.120.27.87/live playpath=starplusi swfUrl=http://www.dcast.tv/player/player.swf live=true timeout=60 pageUrl=http://www.dcast.tv/embed.php?u=starplusi&vw=600&vh=430</link>
 <thumbnail>http://www.xuperdesign.com/tv/chimages/star_plus_logo.png</thumbnail>
 </item>
 

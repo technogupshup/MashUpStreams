@@ -4,17 +4,22 @@
 <name>Afghanistan TV Channels</name>
 <thumbnail></thumbnail>
 
+<item>
+<title>Sport 9</title>
+<link>rtmp://iriptv.com/iriptvserver3 playpath=20 swfUrl=http://iriptv.com/player/player.swf pageUrl=http://iriptv.com/web/irib%20tv.php</link>
+<thumbnail>http://erooni.tv/img/channels/12-101.jpg</thumbnail>
+</item>
+
+<item>
+<title>Jaam E Jam 2</title>
+<link>rtmp://iriptv.com/iriptvserver3 playpath=28 swfUrl=http://iriptv.com/player/player.swf live=true timeout=15 pageUrl=http://iriptv.com/web/irib%20tv.php</link>
+<thumbnail>http://www.radioshahab.com/images/jaam-e-jam_1.png</thumbnail>
+</item>
 
 <item>
 <title>Jaam E Jam 1</title>
 <link>rtmp://live.kashef.cdn.liveirib.ir/live-e playpath=jjtvn1-2.sdp swfUrl=http://live.irib.ir/player.swf live=true timeout=15 pageUrl=http://live.irib.ir/index.php?cat_id=10&type=256&dif=0&id=2</link>
 <thumbnail>http://www.radioshahab.com/images/jaam-e-jam_1.png</thumbnail>
-</item>
-
-<item>
-<title>MBN TV</title>
-<link>rtmp://119.59.82.214:1935/live playpath=mp4:livestream.f4v swfUrl=http://mbn.af/swfs/StrobeMediaPlayback.swf live=true timeout=60 pageUrl=http://mbn.af/livetv.php</link>
-<thumbnail>http://mbn.af/images/logo/gif.gif</thumbnail>
 </item>
 
 <item>
@@ -144,7 +149,7 @@
 </item>
 
 <item>
-<title>Arezu TV [COLOR=FFFF0000]WORKING[/COLOR]</title>
+<title>Arezu TV</title>
 <link>rtmp://95.84.240.45:1945/live playpath=rtmp.stream swfUrl=http://arezuonlinetv.com/js/flowplayer-3.2.11.swf live=true timeout=15 pageUrl=http://arezuonlinetv.com/</link>
 <thumbnail>http://4.bp.blogspot.com/-eL7Bm0B_Fck/Uc7E-utmNCI/AAAAAAAABFA/jc6auT6d5PU/s269/205451_471051409641907_837049089_n.png</thumbnail>
 </item>
@@ -159,12 +164,6 @@
 <title>Ariana</title>
 <link>http://afghansite.com:8134/hls-live/livepkgr/_definst_/livetv/22-ariana.m3u8</link>
 <thumbnail>http://www.sekisat.com/data/sat_channel/images/996/logo</thumbnail>
-</item>
-
-<item>
-<title>Ariana EU</title>
-<link>rtsp://50.97.117.4/AFG-ATN-EUROPE</link>
-<thumbnail>http://www.lyngsat-logo.com/hires/aa/ariana_tv_network_international.png</thumbnail>
 </item>
 
 <item>

@@ -198,7 +198,7 @@
 
 <item>
 <title>Sony Sab TV</title>
-<link>rtmp://89.248.174.117/liverm/ playpath=sabtvi swfUrl=http://www.castok.com/jwplayer/jwplayer.flash.swf live=true timeout=15 pageUrl=http://www.castok.com/embed.php?v=sabtvi&vw=600&vh=450&typeplayer=0&domain=www.pogotv.eu</link>
+<link>rtmp://89.248.174.117/liUrlplaypath=sonysab swfUrl= live=true timeout=15 pageUrl=</link>
 <thumbnail>http://nowwatchtvlive.com/wp-content/uploads/2012/01/sony_sab_tv_asia.png</thumbnail>
 </item>
 

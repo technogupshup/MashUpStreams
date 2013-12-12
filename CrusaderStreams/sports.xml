@@ -11,8 +11,14 @@
 
 
 <item>
-<title>[COLOR=FFFF0000]Announcement(s): AJS Sports Updated 12/7[/COLOR]</title>
+<title>[COLOR=FFFF0000]Announcement(s): AJS Sports Updated 12/12[/COLOR]</title>
 <link>Nothing</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/commons/3/32/The_flag_of_Syrian_Arab_Republic_Damascus%2C_Syria.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR=FF00FF00]Important: For Support Or Requests Please Visit (XBMC TALK) http://www.xunitytalk.com/showthread.php?3768-Crusader88-s-XMLs-NOT-FOR-REQUESTS-ONLY-HELP&p=18826#post18826[/COLOR]</title>
+<link>othing</link>
 <thumbnail>http://upload.wikimedia.org/wikipedia/commons/3/32/The_flag_of_Syrian_Arab_Republic_Damascus%2C_Syria.jpg</thumbnail>
 </item>
 
@@ -24,7 +30,7 @@
 
 <item>
 <title>AJS +7  [COLOR=FFFF0000]Updated Daily[/COLOR]</title>
-<link>rtmp://31.220.0.133:1935/live playpath=jsc7  swfUrl=http://eucast.tv/player5.9.swf live=true timeout=15 pageUrl=http://www.eucast.tv/embed.php?live=jsc7&vw=600&vh=450</link>
+<link>rtmp://31.220.0.134:1935/live playpath=jsx7x  swfUrl=http://www.eucast.tv/player5.9.swf live=true timeout=15 pageUrl=http://www.eucast.tv/embed.php?live=jsx7x&vw=600&vh=450</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/aa/al_jazeera_sport_plus7.png</thumbnail>
 </item>
 
@@ -60,13 +66,13 @@
 
 <item>
 <title>AJS +8  [COLOR=FFFF0000]Updated Daily[/COLOR]</title>
-<link>rtmp://77.81.98.130/liverm/ playpath=aj8  swfUrl=http://www.castok.com/jwplayer/jwplayer.flash.swf live=true timeout=15 pageUrl=http://www.castok.com/embed.php?v=aj8&vw=600&vh=450&typeplayer=0&domain=hdembed.com</link>
+<link>rtmp://31.220.0.134:1935/live playpath=jsx8  swfUrl=http://www.eucast.tv/player5.9.swf live=true timeout15 pageUrl=http://www.eucast.tv/embed.php?live=jsx8&vw=600&vh=450</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/aa/al_jazeera_sport_plus8.png</thumbnail>
 </item>
 
 <item>
 <title>AJS +10  [COLOR=FFFF0000]Updated Daily[/COLOR]</title>
-<link>rtmp://5.254.102.106/liverm/ playpath=aj10  swfUrl=http://www.castok.com/jwplayer/jwplayer.flash.swf live=true timeout=15 pageUrl=http://www.castok.com/embed.php?v=aj10&vw=600&vh=450&typeplayer=0&domain=hdembed.com</link>
+<link>rtmp://31.220.0.134:1935/live playpath=jsx10 swfUrl=http://www.eucast.tv/player5.9.swf live=true timeout=15 pageUrl=http://www.eucast.tv/embed.php?live=jsx10&vw=600&vh=450</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/aa/al_jazeera_sport_plus10.png</thumbnail>
 </item>
 

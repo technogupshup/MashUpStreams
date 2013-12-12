@@ -9,6 +9,12 @@
 ##############################################################################################################################
 
 <item>
+<title>[COLOR=FF00FF00]Important: For Support Please Visit (XBMC TALK) http://www.xunitytalk.com/showthread.php?3768-Crusader88-s-XMLs-NOT-FOR-REQUESTS-ONLY-HELP&p=18826#post18826[/COLOR]</title>
+<link>othing</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/commons/3/32/The_flag_of_Syrian_Arab_Republic_Damascus%2C_Syria.jpg</thumbnail>
+</item>
+
+<item>
 <title>Syria TV</title>
 <link>rtmp://50.7.175.254:1947/base2 playpath=arab0.stream swfUrl=http://www.justlivetv.net/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=true timeout=15 pageUrl=http://www.justlivetv.net/syria-satellite-channel-live/</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/syria_satellite_channel.jpg</thumbnail>

@@ -161,8 +161,8 @@
 </item>
 
 <item>
-<title>Ariana</title>
-<link>http://afghansite.com:8134/hls-live/livepkgr/_definst_/livetv/22-ariana.m3u8</link>
+<title>Ariana [COLOR=FFFF0000]HD[/COLOR]</title>
+<link>rtmp://uni2rtmp.tulix.tv:1935/ariana playpath=ariana swfUrl=http://www.tulix.tv/mediaplayer/player.swf live=true timeout=15 pageUrl=http://tulix.com/player/ariana.php</link>
 <thumbnail>http://www.sekisat.com/data/sat_channel/images/996/logo</thumbnail>
 </item>
 
@@ -173,7 +173,7 @@
 </item>
 
 <item>
-<title>Shamshad HD</title>
+<title>Shamshad</title>
 <link>rtmp://media.streamingpulse.biz/8068 playpath=8068 swfUrl=http://media.streamingpulse.biz:2000/system/misc/flvplayer/FLVplayer_Custom.swf live=true timeout=15 pageUrl=http://shamshadtv.tv/live/</link>
 <thumbnail>http://cricket.tolafghan.com/assets/posts/18057/medium/SHAMSHAD_TV.jpg?1273990160</thumbnail>
 </item>

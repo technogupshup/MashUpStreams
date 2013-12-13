@@ -41,8 +41,8 @@
 </item>
 
 <item>
-<title>Tolo News</title>
-<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=srLeG4woD04#t=262800</link>
+<title>Tolo News [COLOR=FFFF0000]HD[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=srLeG4woD04#t=760286</link>
 <thumbnail>http://aria-tv.com/images/tolo_news.png</thumbnail>
 </item>
 
@@ -113,7 +113,7 @@
 </item>
 
 <item>
-<title>1TV HD</title>
+<title>1TV</title>
 <link>http://iphone-streaming.ustream.tv/ustreamVideo/11266193/streams/live/playlist.m3u8</link>
 <thumbnail>https://si0.twimg.com/profile_images/3428097595/ba1111aaf029c6f14726f74e3b2ae6a1.png</thumbnail>
 </item>

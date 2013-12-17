@@ -252,7 +252,7 @@
 
 <item>
 <title>Tolo TV</title>
-<link>rtmp://146.185.18.42/stream playpath= Nafasi?id=110877 swfUrl=http://www.liveflash.tv/resources/scripts/eplayer.swf live=true timeout=15 pageUrl=http://www.liveflash.tv/embedplayer/Nafasi/1/650/440</link>
+<link>rtmp://stream.ssh101.com/free playpath=dolo swfUrl=http://dolotube.com/big/flash/flowplayer-3.2.16.swf live=true timeout=15 pageUrl=http://dolotube.com/big/tolo2.html</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/kk/khatereh_tv.png</thumbnail>
 </item>
 

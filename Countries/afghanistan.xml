@@ -167,12 +167,6 @@
 </item>
 
 <item>
-<title>Ariana International</title>
-<link>http://afghansite.com:8134/hls-live/livepkgr/_definst_/livetv/22-arianaint.m3u8</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/ariana_af_tv.jpg</thumbnail>
-</item>
-
-<item>
 <title>Shamshad</title>
 <link>rtmp://media.streamingpulse.biz/8068 playpath=8068 swfUrl=http://media.streamingpulse.biz:2000/system/misc/flvplayer/FLVplayer_Custom.swf live=true timeout=15 pageUrl=http://shamshadtv.tv/live/</link>
 <thumbnail>http://cricket.tolafghan.com/assets/posts/18057/medium/SHAMSHAD_TV.jpg?1273990160</thumbnail>

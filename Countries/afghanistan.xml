@@ -250,4 +250,10 @@
 <thumbnail>http://www.lyngsat-logo.com/hires/kk/khatereh_tv.png</thumbnail>
 </item>
 
+<item>
+<title>Tolo TV</title>
+<link>rtmp://146.185.18.42/stream playpath=Nafasi?id=110877 swfUrl=http://www.liveflash.tv/resources/scripts/eplayer.swf live=true timeout=15 pageUrl=http://www.liveflash.tv/embedplayer/Nafasi/1/650/440</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/kk/khatereh_tv.png</thumbnail>
+</item>
+
 </channel>

@@ -250,10 +250,4 @@
 <thumbnail>http://www.lyngsat-logo.com/hires/kk/khatereh_tv.png</thumbnail>
 </item>
 
-<item>
-<title>Tolo TV</title>
-<link>rtmp://stream.ssh101.com/free playpath=dolo swfUrl=http://dolotube.com/big/flash/flowplayer-3.2.16.swf live=true timeout=15 pageUrl=http://dolotube.com/big/tolo2.html</link>
-<thumbnail>http://www.lyngsat-logo.com/hires/kk/khatereh_tv.png</thumbnail>
-</item>
-
 </channel>

@@ -48,7 +48,7 @@
 
 <item>
 <title>KTN</title>
-<link>rtmp://202.5.137.226/kashish playpath=ktn swfUrl=http://ktntv.tv/ktnnews/player/player.swf?&streamer=rtmp://202.5.137.226/kashish&file=ktn&autostart=true&stretching=exactfit pageUrl=http://ktntv.tv/ktnnews/player/player.swf?&streamer=rtmp://202.5.137.226/kashish&file=ktn&autostart=true&stretching=exactfit</link>
+<link>rtmp://103.24.96.74/kashish playpath=ktn swfUrl=http://ktntv.tv/ktnnews/player/player.swf live=true timeout=15 pageUrl=http://ktntv.tv/ktn-entertainment/</link>
 <thumbnail>http://ktntv.tv/ktn-entertainment/images/logo.png</thumbnail>
 </item>
 

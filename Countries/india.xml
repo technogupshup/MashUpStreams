@@ -60,7 +60,7 @@
 
 <item>
 <title>Star Plus</title>
-<link>rtmp://109.163.228.4/live33 playpath=starp swfUrl=http://www.casti.tv/player/player-licensed55.swf live=true timeout=15 pageUrl=http://www.casti.tv/embed.php?v=starp&vw=600&vh=450&video=0&domain=pogotv.eu</link>
+<link>rtmp://77.81.98.131/strm playpath=superstar swfUrl=http://www.casti.tv/player/player-licensed55.swf live=true timeout=15 pageUrl=http://www.casti.tv/embed.php?v=superstar&vw=600&vh=450&video=0&domain=pogotv.eu</link>
 <thumbnail>http://www.xuperdesign.com/tv/chimages/star_plus_logo.png</thumbnail>
 </item>
 
@@ -200,12 +200,6 @@
 <title>NDTV India (Link 2)</title>
 <link>http://bglive-a.bitgravity.com/ndtv/indlo/live/native</link>
 <thumbnail>http://www.ndtvmi.com/images/NDTV_India.jpg</thumbnail>
-</item>
-
-<item>
-<title>Sony Sab TV</title>
-<link>rtmp://89.248.174.117/liverm/ playpath=sabtvi swfUrl=http://www.castok.com/jwplayer/jwplayer.flash.swf live=true timeout=60 pageUrl=http://www.castok.com/embed.php?v=sabtvi&vw=600&vh=450&typeplayer=0&domain=pogotv.eu</link>
-<thumbnail>http://nowwatchtvlive.com/wp-content/uploads/2012/01/sony_sab_tv_asia.png</thumbnail>
 </item>
 
 <item>

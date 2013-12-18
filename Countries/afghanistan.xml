@@ -179,18 +179,6 @@
 </item>
 
 <item>
-<title>RTA</title>
-<link>http://afghansite.com:8134/hls-live/livepkgr/_definst_/livetv/22-m.m3u8</link>
-<thumbnail>http://upload.wikimedia.org/wikipedia/commons/thumb/4/40/RTA_Afghanistan_Logo.svg/200px-RTA_Afghanistan_Logo.svg.png</thumbnail>
-</item>
-
-<item>
-<title>Noor tv</title>
-<link>http://afghansite.com:8134/hls-live/livepkgr/_definst_/livetv/22-noor.m3u8</link>
-<thumbnail>http://afghanproverbs.com/yahoo_site_admin/assets/images/noor_tv.18460331_std.png</thumbnail>
-</item>
-
-<item>
 <title>Tamadon</title>
 <link>rtmp://tamadonlive.nanocdn.com:1935/live playpath=tamadon256 swfUrl=http://www.nanocdn.net/modules/lives/js/jwplayer/player.swf live=ture timeout=60 pageUrl=http://www.nanocdn.net/modules/lives/index.php?id=4&channel=tamadon&op=fph</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/tt/tamadon_tv.png</thumbnail>

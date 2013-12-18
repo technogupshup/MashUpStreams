@@ -59,12 +59,6 @@
 </item>
 
 <item>
-<title>Star Plus</title>
-<link>rtmp://77.81.98.131/strm playpath=superstar swfUrl=http://www.casti.tv/player/player-licensed55.swf live=true timeout=15 pageUrl=http://www.casti.tv/embed.php?v=superstar&vw=600&vh=450&video=0&domain=pogotv.eu</link>
-<thumbnail>http://www.xuperdesign.com/tv/chimages/star_plus_logo.png</thumbnail>
-</item>
-
-<item>
 <title>Star Sport</title>
 <link>http://m24.megafun.vn/live.vs?c=vstv033&amp;q=high</link>
 <thumbnail>http://www.techapna.com/wp-content/uploads/2013/03/Star-Sports-Logo.png</thumbnail>

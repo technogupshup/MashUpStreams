@@ -6,8 +6,14 @@
 
 <item>
 <title>Sport 9</title>
-<link>rtmp://iriptv.com/iriptvserver3 playpath=20 swfUrl=http://iriptv.com/player/player.swf pageUrl=http://iriptv.com/web/irib%20tv.php</link>
+<link>rtmp://iriptv.com/iriptvserver3 playpath=20 swfUrl=http://iriptv.com/player/player.swf live=true timeout=15 pageUrl=http://iriptv.com/web/irib%20tv.php</link>
 <thumbnail>http://erooni.tv/img/channels/12-101.jpg</thumbnail>
+</item>
+
+<item>
+<title>Tolo</title>
+<link>rtmp://stream.ssh101.com/free playpath=dolo swfUrl=http://dolotube.com/big/flash/flowplayer-3.2.16.swf live=true timeout=15 pageUrl=http://dolotube.com/big/tolo2.html</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/en/0/01/Tolo.jpg</thumbnail>
 </item>
 
 <item>

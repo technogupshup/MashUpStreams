@@ -18,7 +18,7 @@
 
 <item>
 <title>ARY News</title>
-<link>rtmp://server1.arylive.com:1935/live/ playpath=myStream swfUrl=http://p.jwpcdn.com/6/6/jwplayer.flash.swf live=true timeout=15 pageUrl=http://www.arynews.tv/live/stream5.html</link>
+<link>rtmp://93.115.88.177:1935/live/ playpath=myStream swfUrl=http://p.jwpcdn.com/6/7/jwplayer.flash.swf live=true timeout=15 pageUrl=http://arynews.tv/live/newslive.html</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/aa/ary_news_asia.png</thumbnail>
 </item>
 

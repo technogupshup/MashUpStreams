@@ -66,7 +66,7 @@
 
 <item>
 <title>KTN News</title>
-<link>rtmp://202.5.137.226/kashish playpath=ktnnews swfUrl=http://ktntv.tv/ktnnews/player/player.swf?&streamer=rtmp://202.5.137.226/kashish&file=ktnnews&autostart=true&stretching=exactfit pageUrl=http://ktntv.tv/ktnnews/player/player.swf?&streamer=rtmp://202.5.137.226/kashish&file=ktnnews&autostart=true&stretching=exactfit</link>
+<link>rtmp://watch.dmasti.pk/kashish playpath=kashish swfUrl=http://ktntv.tv/ktnnews/player/player.swf live=true timeout=15 pageUrl=http://ktntv.tv/ktnnews/livetv/player.php?chn=kashish</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/kk/ktn_news.png</thumbnail>
 </item>
 

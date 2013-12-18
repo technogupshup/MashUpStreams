@@ -42,7 +42,7 @@
 
 <item>
 <title>ARY QTV</title>
-<link>rtmp://server1.arylive.com:1935/ARYQTV/playpath=myStream swfUrl=http://p.jwpcdn.com/6/7/jwplayer.flash.swf live=true timeout=15 pageUrl=http://www.aryqtv.tv/live/qtv.html</link>
+<link>rtmp://server1.arylive.com:1935/ARYQTV/ playpath=myStream swfUrl=http://p.jwpcdn.com/6/7/jwplayer.flash.swf live=true timeout=15 pageUrl=http://www.aryqtv.tv/live/qtv.html</link>
 <thumbnail>http://uk.arydigital.tv/images/qtvlogo.jpg</thumbnail>
 </item>
 

@@ -7,7 +7,7 @@
 
 
 <item>
-<title>[COLOR=FFFF0000]Announcement(s): MBC Fixed, [/COLOR]</title>
+<title>[COLOR=FFFF0000]Announcement(s): Added Aljadeed, MBC Bollywood [/COLOR]</title>
 <link>Nothing</link>
 <thumbnail>http://upload.wikimedia.org/wikipedia/commons/3/32/The_flag_of_Syrian_Arab_Republic_Damascus%2C_Syria.jpg</thumbnail>
 </item>
@@ -65,6 +65,12 @@
 <item>
 <title>Aljadeed  [COLOR=FFFF0000]Geo Blocked In Some Areas[/COLOR]</title>
 <link>http://origin.etacdn.com/jadeedlive/smil:live.smil/playlist.m3u8</link>
+<thumbnail>http://1.bp.blogspot.com/-W1Ry_s_c5-k/UAw9jeMFGoI/AAAAAAAANlY/SJ_JbZV8W5E/s400/aljadeed%2Btv.jpeg</thumbnail>
+</item>
+
+<item>
+<title>Aljadeed (Link 2)</title>
+<link>http://origin.etacdn.com/jadeedlive/smil:live.smil/chunklist_w1449481831_b525000.m3u8?nimblesessionid=124</link>
 <thumbnail>http://1.bp.blogspot.com/-W1Ry_s_c5-k/UAw9jeMFGoI/AAAAAAAANlY/SJ_JbZV8W5E/s400/aljadeed%2Btv.jpeg</thumbnail>
 </item>
 
@@ -158,3 +164,8 @@
 <thumbnail>http://www.lyngsat-logo.com/hires/mm/melody_arabia.png</thumbnail>
 </item>
 
+<item>
+<title>MBC Bollywood</title>
+<link>rtmp://50.23.115.84/live playpath=aflam4youddd?id=152675 conn=S:OK swfUrl=http://mips.tv/content/scripts/eplayer.swf live=true timeout=15 pageUrl=http://mips.tv/embedplayer/aflam4youddd/1/600/380</link>
+<thumbnail>http://www.waleg.com/images/mbc-bollywood.jpg</thumbnail>
+</item>

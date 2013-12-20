@@ -18,7 +18,7 @@
 
 <item>
 <title>IRIB TV 3</title>
-<link>rtmp://s3.telewebion.com:1935/live playpath=tv3-udp-500k.stream swfUrl=http://www.telewebion.com/jwplayer_pro/6/jwplayer.flash.swf pageUrl=http://www.telewebion.com/fa/live/tv3/1000kb/%D8%B4%D8%A8%DA%A9%D9%87-3</link>
+<link>rtmp://iriptv.com/iriptvserver3 playpath=23 swfUrl=http://iriptv.com/player/player.swf live=true timeout=15 pageUrl=http://iriptv.com/web/irib%20tv.php</link>
 <thumbnail>http://tv360.us/wp-content/uploads/2013/09/IRIB3-Iran.jpg</thumbnail>
 </item>
 

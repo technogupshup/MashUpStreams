@@ -60,7 +60,7 @@
 
 <item>
 <title>Star Movie</title>
-<link>http://m24.megafun.vn/live.vs?c=vstv038&amp;q=high</link>
+<link>rtmp://fms.6ACD.edgecastcdn.net/806ACD/SD/ playpath=starmovies swfUrl= live=true timeout=15 pageUrl=</link>
 <thumbnail>http://ftpmirror.your.org/pub/wikimedia/images/wikipedia/vi/4/45/Star_movies_me_hd.png</thumbnail>
 </item>
 

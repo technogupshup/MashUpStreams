@@ -59,18 +59,6 @@
 </item>
 
 <item>
-<title>Star Movie</title>
-<link>rtmp://fms.6ACD.edgecastcdn.net/806ACD/SD/ playpath=starmovies swfUrl= live=true timeout=15 pageUrl=</link>
-<thumbnail>http://ftpmirror.your.org/pub/wikimedia/images/wikipedia/vi/4/45/Star_movies_me_hd.png</thumbnail>
-</item>
-
-<item>
-<title>Star Sport</title>
-<link>rtmp://58.97.57.150/l playpath=hd05 swfUrl=http://www.one2hd.com/swfs/mediaPlayer/mediaPlayer.swf live=true timeout=15 pageUrl=</link>
-<thumbnail>http://www.techapna.com/wp-content/uploads/2013/03/Star-Sports-Logo.png</thumbnail>
-</item>
-
-<item>
 <title>Sahara Samay Bihar</title>
 <link>rtmp://cdn.m.yupptv.tv:1935/liveorigin playpath=saharabihar1 swfUrl=http://cdn.freedocast.com/player-octo/yume/v5/infinite-hd-player-YUPPTV.SWF live=true timeout=15 pageUrl=http://www.yupptv.com/streams/saharabihar.aspx</link>
 <thumbnail>http://www.newtvworld.com/Images/sahara_samay_bihar.jpg</thumbnail>

@@ -19,7 +19,7 @@
 
 <item>
 <title>Kuwait Sports</title>
-<link>rtmp://62.215.183.1/rtmplive/rtpencoder/ch3.sdp</link>
+<link>rtmp://62.215.183.1/rtmplive/rtpencoder playpath=ch3.sdp swfUrl=http://www.media.gov.kw/tvradio/Portal/player.swf live=true timeout=15 pageUrl=http://www.media.gov.kw/tvradio/Portal/default.asp?id=3&tt=KTV%203%20Sport</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/kk/ktv_sport.png</thumbnail>
 </item> 
 

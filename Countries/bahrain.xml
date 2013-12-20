@@ -13,10 +13,9 @@
 
 <item>
 <title>Bahrain Sports</title>
-<link>rtmp://alayam.netromedia.net/btv3//btv3</link>
+<link>rtmp://alayam.netromedia.net/btv3 playpath=btv3 swfUrl=http://player.netromedia.com/flowplayer.commercial-3.2.7.swf live=true timeout=15 pageUrl=http://www.watchfomny.com/Video/Arabic/Bahrain-Sports-Tv/Bahrain-Sports-Tv.htm</link>
 <thumbnail>http://ing-sat.what.hu/images/logo-insert/satlogos/bahrain/113-Bahrain-TV-Sports.jpg</thumbnail>
 </item> 
-
 
 <item>
 <title>BAHRAIN TV 3</title>

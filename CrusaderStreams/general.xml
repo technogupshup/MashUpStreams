@@ -11,7 +11,7 @@
 </info>
 
 <info>
-<message>[COLOR=FF00FF00]Important: For Support Or Requests Please Visit (XBMC TALK) http://www.xunitytalk.com/showthread.php?3768-Crusader88-s-XMLs-NOT-FOR-REQUESTS-ONLY-HELP&p=18826#post18826[/COLOR]</message>
+<message>[COLOR=FF00FF00]Important: For Support Please Visit (XBMC TALK) http://www.xunitytalk.com/showthread.php?3768-Crusader88-s-XMLs-NOT-FOR-REQUESTS-ONLY-HELP&p=18826#post18826[/COLOR]</message>
 <thumbnail>http://upload.wikimedia.org/wikipedia/commons/3/32/The_flag_of_Syrian_Arab_Republic_Damascus%2C_Syria.jpg</thumbnail>
 </info>
 
@@ -30,12 +30,6 @@
 </item>
 
 <item>
-<title>AL SHARQIYA DRAMA</title>
-<link>rtmp://ns9.indexforce.com/highres playpath=mystream swfUrl=http://www.alsharqiyatv.com/player.swf live=true timeout=15</link>
-<thumbnail>http://en.kingofsat.net/jpg/alsharqiya-drama.jpg</thumbnail>
-</item>
-
-<item>
 <title>BAGHDAD SAT</title>
 <link>rtmp://212.7.196.88/live playpath=baghdad swfUrl=http://www.primcast.com/jwplayer5/player.swf live=true timeout=15</link>
 <thumbnail>http://playbolo.tv/pics/BagdadChannel-big.jpg</thumbnail>
@@ -51,12 +45,6 @@
 <title>AL Rai</title>
 <link>mms://62.215.216.130/wmtencoder/alrai350.wmv</link>
 <thumbnail>http://www.kooora.com/images/channel_/alrai_tv.jpg</thumbnail>
-</item>
-
-<item>
-<title>NBN Lebanon</title>
-<link>rtmp://lived.nbn.com.lb/nbn playpath=mpegts.stream swfUrl=http://www.nbn.com.lb/live/flowplayer/flowplayer-3.2.16.swf live=true timeout=15 pageUrl=http://www.watchfomny.com/Video/Lebanon/NBN/NBN-Lebanon.htm</link>
-<thumbnail>http://upload.wikimedia.org/wikipedia/en/1/14/Nbn_lebanon.png</thumbnail>
 </item>
 
 <item>
@@ -79,7 +67,7 @@
 
 <item>
 <title>Al Hiwar</title>
-<link>http://209.236.66.43/hls-live/livepkgr/_definst_/liveevent/livestream.m3u8</link>
+<link>rtmp://185.2.136.148/livepkgr/ playpath=livestream swfUrl=http://p.jwpcdn.com/6/7/jwplayer.flash.swf live=true timeout=15 pageUrl=http://www.alhiwar.tv/android.php</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/aa/al_hiwar.png</thumbnail>
 </item>
 
@@ -96,7 +84,7 @@
 </item>
 
 <item>
-<title> Alayam TV</title>
+<title>Alayam TV</title>
 <link>http://btv.alayam.com/alayam/alayam/playlist.m3u8</link>
 <thumbnail>http://www.listenradiostreaming.com/wp-content/uploads/2013/01/Alayam-FM-93.3-Station-Live-Online-Free-Bahrain.jpg</thumbnail>
 </item>
@@ -105,15 +93,6 @@
 <title>OTV Lebanon</title>
 <link>rtmp://livestreaming4.itworkscdn.com/otv playpath=otvlive swfUrl=http://www.otv.com.lb/otvent/jwplayer.flash.swf live=true timeout=15 pageUrl=http://www.otv.com.lb/otvent/live.php</link>
 <thumbnail>http://www.fanoos.com/ia/otv_orange_television.jpg</thumbnail>
-</item>
-
-
-
-<item>
-<title>Rayyan TV</title>
-<link>rtmp://cp177118.live.edgefcs.net/live/alrayyan_ar_1@73925 playpath=alrayyan_ar_1@73925 swfUrl=http://www.alrayyan.tv/Style Library/jwPlayer/player.swf live=true timeout=15 pageUrl=http://www.alrayyan.tv/Arabic/Pages/AlrayanLive.aspx
-</link>
-<thumbnail>http://www.wide-systems.com/wp-content/uploads/2012/05/Alrayyan.jpg</thumbnail>
 </item>
 
 <item>

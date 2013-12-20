@@ -6,7 +6,7 @@
 ##############################################################################################################################
 
 <info>
-<message>[COLOR=FFFF0000]Announcement(s): [/COLOR]</message>
+<message>[COLOR=FFFF0000]Announcement(s): Request To Fill The Empty Space :) [/COLOR]</message>
 <thumbnail>http://upload.wikimedia.org/wikipedia/commons/3/32/The_flag_of_Syrian_Arab_Republic_Damascus%2C_Syria.jpg</thumbnail>
 </info>
 
@@ -15,21 +15,3 @@
 <thumbnail>http://upload.wikimedia.org/wikipedia/commons/3/32/The_flag_of_Syrian_Arab_Republic_Damascus%2C_Syria.jpg</thumbnail>
 </info>
 
-<item>
-<title>LB1 TV</title>
-<link>rtmp://212-68.livestream.com/mogulus-stream-edge/lb1tv playpath=rtmp://212-94.livestream.com/affiliateStream/lb1tv/6c69766572657065617465723a72746d703a2f2f3231322d39342e6cÈ9766573747265616d2e636f6d2f6d6f67756c75732f6c623174762f6c69766573747265616d swfUrl=http://cdn.livestream.com/chromelessPlayer/v21/playerapi.swf?iconColor=0xCCCCCC&mute=false&iconColorOver=0xE7E7E7&time=&jsEnabled=false&color=0x000000&autoPlay=true live=true timeout=15 pageUrl=http://cdn.livestream.com/embed/lb1tv?layout=4&color=0x000000&mute=false&autoPlay=true&iconColorOver=0xE7E7E7&iconColor=0xCCCCCC
-</link>
-<thumbnail>http://tv-online.in/wp-content/uploads/2012/11/LB1-TV.gif</thumbnail>
-</item>
-
-<item>
-<title>Rotana Music</title>
-<link>rtmp://livestreaming4.itworkscdn.net/rotanamousicalive playpath=rotanamousica_360p swfUrl=http://mousica.rotana.net/it-works/jwplayer.flash.swf live=true timeout=15 pageUrl=http://mousica.rotana.net/r/live-tv</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/rr/rotana_mousica.jpg</thumbnail>
-</item>
-
-<item>
-<title>Rotana Music (Link 2)</title> 
-<link>http://149.62.177.50:9009</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/rr/rotana_mousica.jpg</thumbnail>
-</item>

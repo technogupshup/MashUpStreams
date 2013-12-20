@@ -36,7 +36,6 @@
 <thumbnail>http://3.bp.blogspot.com/-IOB9KcaUF4Q/UJb9e9T9jYI/AAAAAAAADtk/qaZeDGNGNuw/s1600/al_mayadeen_tv.png</thumbnail>
 </item>
 
-
 <item>
 <title>OTV Lebanon</title>
 <link>rtmp://livestreaming4.itworkscdn.com/otv playpath=otvlive swfUrl=http://www.otv.com.lb/otvent/jwplayer.flash.swf live=true timeout=15 pageUrl=http://www.otv.com.lb/otvent/live.php</link>
@@ -55,14 +54,11 @@
 <thumbnail>http://svetomir.blox.pl/resource/Noursat.jpg</thumbnail>
 </item>
 
-
 <item>
 <title>LBC International(LBC Europe)</title>
 <link>rtmp://livestreaming.itworkscdn.net/lbclive playpath=lbc_1 swfUrl=http://www.lbcgroup.tv/livemedia4/jwplayer.flash.swf pageUrl=http://www.lbcgroup.tv/watch-lbci-live</link>
 <thumbnail>http://3.bp.blogspot.com/-WuocdC0K9zg/T5hiDrsJySI/AAAAAAAABYg/Vy_-ZiKNIOQ/s1600/582643_356984461016626_119723014742773_951695_695582465_n.jpg</thumbnail>
 </item>
-
-
 
 <item>
 <title>NBN Lebanon</title>
@@ -70,10 +66,9 @@
 <thumbnail>http://upload.wikimedia.org/wikipedia/en/1/14/Nbn_lebanon.png</thumbnail>
 </item>
 
-
 <item>
 <title>Al Hiwar</title>
-<link>rtmp://185.2.136.148/livepkgr playpath=livestream swfUrl=http://alhiwar.tv/tv/510/player.swf live=true timeout=15 pageUrl=http://translate.googleusercontent.com/translate_c?depth=1&hl=en&prev=/search%3Fq%3Dal%2Bhiwar%26biw%3D1366%26bih%3D615&rurl=translate.google.com&sl=ar&u=http://www.alhiwar.tv/&usg=ALkJrhhSMbPdHP5Qj4XnT0dmn-Nj_rubJg</link>
+<link>rtmp://185.2.136.148/livepkgr/ playpath=livestream swfUrl=http://p.jwpcdn.com/6/7/jwplayer.flash.swf live=true timeout=15 pageUrl=http://www.alhiwar.tv/android.php</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/aa/al_hiwar.png</thumbnail>
 </item>
 

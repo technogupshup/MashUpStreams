@@ -6,7 +6,7 @@
 ##############################################################################################################################
 
 <info>
-<message>[COLOR=FFFF0000]Announcement(s): AJS Sports Updated 12/19[/COLOR]</message>
+<message>[COLOR=FFFF0000]Announcement(s): AJS Sports Updated 12/19, Made Channels HD, Added Channels[/COLOR]</message>
 <thumbnail>http://upload.wikimedia.org/wikipedia/commons/3/32/The_flag_of_Syrian_Arab_Republic_Damascus%2C_Syria.jpg</thumbnail>
 </info>
 
@@ -79,7 +79,7 @@
 
 <item>
 <title>Bahrain Sports</title>
-<link>rtmp://alayam.netromedia.net/btv3//btv3</link>
+<link>rtmp://alayam.netromedia.net/btv3 playpath=btv3 swfUrl=http://player.netromedia.com/flowplayer.commercial-3.2.7.swf live=true timeout=15 pageUrl=http://www.watchfomny.com/Video/Arabic/Bahrain-Sports-Tv/Bahrain-Sports-Tv.htm</link>
 <thumbnail>http://ing-sat.what.hu/images/logo-insert/satlogos/bahrain/113-Bahrain-TV-Sports.jpg</thumbnail>
 </item> 
 
@@ -91,21 +91,15 @@
 
 <item>
 <title>Kuwait Sports</title>
-<link>rtmp://62.215.183.1/rtmplive/rtpencoder/ch3.sdp</link>
+<link>rtmp://62.215.183.1/rtmplive/rtpencoder playpath=ch3.sdp swfUrl=http://www.media.gov.kw/tvradio/Portal/player.swf live=true timeout=15 pageUrl=http://www.media.gov.kw/tvradio/Portal/default.asp?id=3&tt=KTV%203%20Sport</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/kk/ktv_sport.png</thumbnail>
 </item> 
 
 <item>
 <title>Oman Sports</title>
-<link>http://38.96.148.30:1935/live/omantv2/playlist.m3u8</link>
-<thumbnail>http://logovector.org/wp-content/uploads/logos/png/o/oman_football_assocation_logo.png</thumbnail>
+<link>rtmp://38.96.148.30:1935/live playpath=omantv2 swfUrl=http://www.primcast.com/jwplayer5/player.swf live=true timeout=15 pageUrl=http://www.part.gov.om/omantvsport/english/</link>
+<thumbnail>http://4.bp.blogspot.com/_7oY0Rsag9gM/Sht40a3RQHI/AAAAAAAAArk/wpwoBu2Jyco/s400/L%26T_Oman_logo.JPG</thumbnail>
 </item> 
-
-<item>
-<title>Saudi Sports</title>
-<link>rtmp://ssports1RTMP.giniko.com:1935/livepkgr?adbe-live-event=liveevent playpath=ssports1?adbe-live-event=liveevent swfUrl=http://fpdownload.adobe.com/strobe/FlashMediaPlayback.swf/[[DYNAMIC]]/1 live=true timeout=15 pageUrl=http://nowwatchtvlive.com/2012/05/watch-saudi-sport-tv-channel/</link>
-<thumbnail>http://www.tv14.net/wp-content/uploads/2013/03/Saudi-Sport-TV1-logo.jpg</thumbnail>
-</item>
 
 <item>
 <title>Nile Sport</title>
@@ -114,14 +108,25 @@
 </item>
 
 <item>
-<title>Al Kass</title>
-<link>http://78.100.44.238/live-kass/kass/playlist.m3u8</link>
+<title>Al Kass HD</title>
+<link>http://alkass-i.akamaihd.net/hls/live/205534/kassHD/af_45s.m3u8</link>
 <thumbnail>http://d2htvlive.in/wp-content/uploads/2013/03/Watch-AL-Kass-Plus-Channel-Live.jpg</thumbnail>
 </item>
 
 <item>
 <title>Iraqi Sports Channel</title>
-<link>rtsp://212.7.196.74/sport?MSWMExt=.asf</link>
+<link>http://212.7.196.74/sport</link>
 <thumbnail>http://www.goalzz.com/images/canal/64cd614655vg2.jpg</thumbnail>
 </item>
 
+<item>
+<title>Dubai Sports 3</title>
+<link>rtmp://dmiLiveDubaiSports3.flash.internapcdn.net/ app=dmiLiveDubaiSports3/live_1 playpath=dmilivedubaisports3_3 swfUrl=http://vod.dmi.ae/bundles/endavoenhance/js/lib/jwplayer/jwplayer.flash.swf live=true timeout=15 pageUrl=http://vod.dmi.ae/jwplayer/player16.php?width=650&height=476&channel=dubaisports3</link>
+<thumbnail>http://2.bp.blogspot.com/-7S1bTNGPZG8/UlOoeCFEWMI/AAAAAAAACbI/AGl4w4SnwdU/s1600/dubai+sport+3+logo.PNG</thumbnail>
+</item>
+
+<item>
+<title>Dubai Racing</title>
+<link>rtmp://dmiLiveDubaiRacing2.flash.internapcdn.net/ app=dmiLiveDubaiRacing2/live_1 playpath=dmilivedubairacing_3 swfUrl=http://vod.dmi.ae/bundles/endavoenhance/js/lib/jwplayer/jwplayer.flash.swf live=true timeout=15 pageUrl=http://vod.dmi.ae/jwplayer/player16.php?width=650&height=476&channel=dubairacing</link>
+<thumbnail>http://www.diahc.ae/$Common/Image/Logo/dubai-racing_logo.jpg</thumbnail>
+</item>

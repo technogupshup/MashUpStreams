@@ -6,7 +6,7 @@
 ##############################################################################################################################
 
 <info>
-<message>[COLOR=FFFF0000]Announcement(s): [/COLOR]</message>
+<message>[COLOR=FFFF0000]Announcement(s): Fixed Logo Issue [/COLOR]</message>
 <thumbnail>http://upload.wikimedia.org/wikipedia/commons/3/32/The_flag_of_Syrian_Arab_Republic_Damascus%2C_Syria.jpg</thumbnail>
 </info>
 
@@ -26,5 +26,5 @@
 <item>
 <title>Baraem TV</title>
 <link>http://78.100.44.238/live-baraem/baraem/playlist.m3u8</link>
-<thumbnail>http://baraem-2.jcctv-cdn.net/baraem-ui/images/home/baraem-logo-n.png</thumbnail>
+<thumbnail>https://pbs.twimg.com/profile_images/378800000537961365/8beaee85fea01719288806e9b1c66fb9.png</thumbnail>
 </item>

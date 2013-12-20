@@ -22,12 +22,22 @@
 <thumbnail>http://www.dmi.ae/common/images/theme/nationalday2012/dubaisports_logo.png</thumbnail>
 </item> 
 
-
 <item>
 <title>National Geographic Abu Dhabi</title>
 <link>http://xnatgeoabudhabilivex.api.channel.livestream.com/3.0/playlist.m3u8</link>
 <thumbnail>http://1.bp.blogspot.com/-dAw9BYeOndY/ULLabmZTUNI/AAAAAAAABtM/8CMlkpM-Wjg/s1600/natgeochannelabudhabi.png</thumbnail>
 </item>
 
+<item>
+<title>Dubai Sports 3</title>
+<link>rtmp://dmiLiveDubaiSports3.flash.internapcdn.net/ app=dmiLiveDubaiSports3/live_1 playpath=dmilivedubaisports3_3 swfUrl=http://vod.dmi.ae/bundles/endavoenhance/js/lib/jwplayer/jwplayer.flash.swf live=true timeout=15 pageUrl=http://vod.dmi.ae/jwplayer/player16.php?width=650&height=476&channel=dubaisports3</link>
+<thumbnail>http://2.bp.blogspot.com/-7S1bTNGPZG8/UlOoeCFEWMI/AAAAAAAACbI/AGl4w4SnwdU/s1600/dubai+sport+3+logo.PNG</thumbnail>
+</item>
+
+<item>
+<title>Dubai Racing</title>
+<link>rtmp://dmiLiveDubaiRacing2.flash.internapcdn.net/ app=dmiLiveDubaiRacing2/live_1 playpath=dmilivedubairacing_3 swfUrl=http://vod.dmi.ae/bundles/endavoenhance/js/lib/jwplayer/jwplayer.flash.swf live=true timeout=15 pageUrl=http://vod.dmi.ae/jwplayer/player16.php?width=650&height=476&channel=dubairacing</link>
+<thumbnail>http://www.diahc.ae/$Common/Image/Logo/dubai-racing_logo.jpg</thumbnail>
+</item>
 
 </channel>

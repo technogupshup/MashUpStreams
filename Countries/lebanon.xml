@@ -61,12 +61,6 @@
 </item>
 
 <item>
-<title>NBN Lebanon</title>
-<link>rtmp://lived.nbn.com.lb/nbn playpath=mpegts.stream swfUrl=http://www.nbn.com.lb/live/flowplayer/flowplayer-3.2.16.swf live=true timeout=15 pageUrl=http://www.watchfomny.com/Video/Lebanon/NBN/NBN-Lebanon.htm</link>
-<thumbnail>http://upload.wikimedia.org/wikipedia/en/1/14/Nbn_lebanon.png</thumbnail>
-</item>
-
-<item>
 <title>Al Hiwar</title>
 <link>rtmp://185.2.136.148/livepkgr/ playpath=livestream swfUrl=http://p.jwpcdn.com/6/7/jwplayer.flash.swf live=true timeout=15 pageUrl=http://www.alhiwar.tv/android.php</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/aa/al_hiwar.png</thumbnail>

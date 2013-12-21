@@ -6,7 +6,7 @@
 ##############################################################################################################################
 
 <info>
-<message>[COLOR=FFFF0000]Announcement(s): AJS Sports Updated 12/19, Made Channels HD, Added Channels[/COLOR]</message>
+<message>[COLOR=FFFF0000]Announcement(s): AJS Sports Updated 12/21, Made Channels HD, Added Channels[/COLOR]</message>
 <thumbnail>http://upload.wikimedia.org/wikipedia/commons/3/32/The_flag_of_Syrian_Arab_Republic_Damascus%2C_Syria.jpg</thumbnail>
 </info>
 
@@ -30,7 +30,7 @@
 
 <item>
 <title>AJS +5  [COLOR=FFFF0000]Updated Daily[/COLOR]</title>
-<link>rtmp://31.220.0.82:1935/live playpath=jsc5  swfUrl=http://eucast.tv/player5.9.swf live=true timeout=15 pageUrl=http://www.eucast.tv/embed.php?live=jsc5&vw=600&vh=450</link>
+<link>rtmp://31.220.0.82:1935/live pageUrl=jsc5  swfUrl=http://www.eucast.tv/player5.9.swf live=true timeout=15 pageUrl=http://www.eucast.tv/embed.php?COLLCC=4161000121&live=jsc5&vw=600&vh=450</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/aa/al_jazeera_sport_plus5.png</thumbnail>
 </item>
 
@@ -70,10 +70,9 @@
 <thumbnail>http://www.lyngsat-logo.com/hires/aa/al_jazeera_sport_plus10.png</thumbnail>
 </item>
 
-
 <item>
 <title>AJS +1  [COLOR=FFFF0000]Updated Daily[/COLOR]</title>
-<link>rtmp://31.220.0.133:1935/live playpath=jsc1 swfUrl=http://eucast.tv/player5.9.swf live=true timeout=15 pageUrl=http://www.eucast.tv/embed.php?live=jsc1&vw=600&vh=450</link>
+<link>rtmp://31.220.0.134:1935/live pageUrl=jsc1  swfUrl=http://www.eucast.tv/player5.9.swf live=true timeout=15 pageUrl=http://www.eucast.tv/embed.php?live=jsc1&vw=600&vh=450</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/aa/al_jazeera_sport_plus1.png</thumbnail>
 </item>
 

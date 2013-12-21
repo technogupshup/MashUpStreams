@@ -186,7 +186,7 @@
 
 <item>
 <title>Ariana [COLOR=FFFF0000]HD[/COLOR]</title>
-<link>rtmp://uni2rtmp.tulix.tv:1935/ariana playpath=ariana swfUrl=http://www.tulix.tv/mediaplayer/player.swf live=true timeout=15 pageUrl=http://tulix.com/player/ariana.php</link>
+<link>http://38.117.88.154/ArianaTVParis?TICKET/path/to/media.file</link>
 <thumbnail>http://www.sekisat.com/data/sat_channel/images/996/logo</thumbnail>
 </item>
 

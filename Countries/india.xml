@@ -11,6 +11,13 @@
 </item>
 
 <item>
+<title>Star Movies</title>
+<link>http://213.254.202.18/flv/52b1ce460c113/testat123?0.856221167370677</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/ss/star_movies_tw_hd.png</thumbnail>
+</item>
+
+
+<item>
 <title>Star Plus</title>
 <link>rtmp://77.81.98.135/strm playpath=superstar swfUrl=http://www.casti.tv/player/player-licensed55.swf live=true timeout=15 pageUrl=http://www.casti.tv/embed.php?v=superstar&vw=600&vh=450&video=0&domain=pogotv.eu</link>
 <thumbnail>http://www.tonylinkson.com/projects/files/gimgs/48_tlsp002.jpg</thumbnail>

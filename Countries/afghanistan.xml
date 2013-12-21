@@ -59,12 +59,6 @@
 </item>
 
 <item>
-<title>Zarin TV</title>
-<link>http://afghansite.com:8134/hls-live/livepkgr/_definst_/livetv/22-zarin.m3u8</link>
-<thumbnail>http://www.lyngsat-logo.com/hires/zz/zarin_tv.png</thumbnail>
-</item>
-
-<item>
 <title>Euronews Farsi</title>
 <link>rtmp://fr-par-6.stream-relay.hexaglobe.net:1935/rtpeuronewslive playpath=pe_video750_rtp.sdp swfUrl=http://www.euronews.com/media/player_live_1_13.swf live=true timeout=15 pageUrl=http://www.radioshahab.com/persian-tv.php?tvid=euronews</link>
 <thumbnail>http://1.bp.blogspot.com/-A0wx-qfBN-Y/UEhNWdZhDHI/AAAAAAAAa64/GwriqDM1BPY/s400/euronews.jpg</thumbnail>
@@ -139,7 +133,7 @@
 <item>
 <title>1TV</title>
 <link>http://iphone-streaming.ustream.tv/ustreamVideo/11266193/streams/live/playlist.m3u8</link>
-<thumbnail>https://si0.twimg.com/profile_images/3428097595/ba1111aaf029c6f14726f74e3b2ae6a1.png</thumbnail>
+<thumbnail>https://fbexternal-a.akamaihd.net/safe_image.php?d=AQBX7-U7ItNvFGVf&w=377&h=197&url=http%3A%2F%2F1tvnews.af%2Fimages%2Fnews%2F1tv-logo-background.jpg&cfs=1</thumbnail>
 </item>
 
 <item>

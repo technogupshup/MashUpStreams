@@ -5,6 +5,18 @@
 <thumbnail></thumbnail>
 
 <item>
+<title>Ariana Afghanistan [COLOR=FFFF0000]HD[/COLOR]</title>
+<link>http://38.117.88.77/ArianaAfghan?TICKET/path/to/media.file</link>
+<thumbnail>http://www.hulkusa.com/wp-content/uploads/2012/12/arianatv.jpg</thumbnail>
+</item>
+
+<item>
+<title>Ariana Europe [COLOR=FFFF0000]HD[/COLOR]</title>
+<link>http://38.117.88.77/ArianaTVParis?TICKET/path/to/media.file</link>
+<thumbnail>http://www.sekisat.com/data/sat_channel/images/996/logo</thumbnail>
+</item>
+
+<item>
 <title>Ariana International TV</title>
 <link>http://38.117.88.77/ArianaInt?TICKET/path/to/media.file</link>
 <thumbnail>http://www.afghancart.com/Tshortcut/7.jpg</thumbnail>
@@ -182,12 +194,6 @@
 <title>S.A.TV</title>
 <link>rtmp://habibhamidi.videocdn.scaleengine.net/habibhamidi-live/play playpath=habibhamidi.stream live=true timeout=60 swfUrl=http://www.satvlive.com/modules/mod_playerjr/player-licensed5.swf pageUrl=http://www.satvlive.com/</link>
 <thumbnail>http://www.afghanfun.com/wp-content/uploads/2012/10/satlive.jpg</thumbnail>
-</item>
-
-<item>
-<title>Ariana [COLOR=FFFF0000]HD[/COLOR]</title>
-<link>http://38.117.88.77/ArianaTVParis?TICKET/path/to/media.file</link>
-<thumbnail>http://www.sekisat.com/data/sat_channel/images/996/logo</thumbnail>
 </item>
 
 <item>

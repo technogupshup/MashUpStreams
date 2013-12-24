@@ -24,7 +24,7 @@
 
 <item>
 <title>ARY Zauq</title>
-<link>rtmp://server1.arylive.com:1935/live/ playpath=myStream swfUrl=http://p.jwpcdn.com/6/6/jwplayer.flash.swf live=true timeout=15 pageUrl=http://www.arynews.tv/live/stream5.html</link>
+<link>rtmp://213.155.26.80:1935/live/ playpath=myStream swfUrl=http://p.jwpcdn.com/6/7/jwplayer.flash.swf live=true timeout=15 pageUrl=http://live.aryzauq.tv/</link>
 <thumbnail>http://www.mediapoondi.com/wp-content/uploads/2013/02/Ary-Zauq-Relaunch-1.jpg</thumbnail>
 </item>
 
@@ -66,7 +66,7 @@
 
 <item>
 <title>KTN News</title>
-<link>rtmp://watch.dmasti.pk/kashish playpath=kashish swfUrl=http://ktntv.tv/ktnnews/player/player.swf live=true timeout=15 pageUrl=http://ktntv.tv/ktnnews/livetv/player.php?chn=kashish</link>
+<link>rtmp://watch.dmasti.pk/kashishn playpath=ktnnews swfUrl=http://ktntv.tv/ktnnews/player/player.swf live=true timeout=15 pageUrl=http://ktntv.tv/ktnnews/livetv/player.php?chn=ktnnews</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/kk/ktn_news.png</thumbnail>
 </item>
 

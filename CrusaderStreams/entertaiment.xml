@@ -7,7 +7,7 @@
 
 
 <info>
-<message>[COLOR=FFFF0000]Announcement(s): Updated Channels [/COLOR]</message>
+<message>[COLOR=FFFF0000]Announcement(s): Updated Melody Channels [/COLOR]</message>
 <thumbnail>http://upload.wikimedia.org/wikipedia/commons/3/32/The_flag_of_Syrian_Arab_Republic_Damascus%2C_Syria.jpg</thumbnail>
 </info>
 
@@ -134,31 +134,25 @@
 
 <item>
 <title>Melody Drama HD</title>
-<link>rtmp://38.96.148.206/MelodyDrama playpath=MDrama_576p swfUrl=http://www.melody.net/flowplayer/flowplayer.commercial-3.2.16.swf pageUrl=http://www.melody.net/pages/view/id/17 live=1 timeout=15</link>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=HwFmY34qZAc</link>
 <thumbnail>http://4.bp.blogspot.com/_ayWC2KUhMqw/TJ04otUC4mI/AAAAAAAACds/mCsD_c_kqfU/s1600/melody%2Bdrama%2Blogo%255B1%255D.JPG</thumbnail>
 </item>
 
 <item>
-<title>Melody Aflam HD</title>
-<link>rtmp://38.96.148.206/MelodyAflam playpath=MAflam_576p swfUrl=http://www.melody.net/flowplayer/flowplayer.commercial-3.2.16.swf pageUrl=http://www.melody.net/pages/view/id/1 live=1 timeout=15</link>
-<thumbnail>http://www.lyngsat-logo.com/hires/mm/melody_aflam.png</thumbnail>
-</item>
-
-<item>
 <title>Melody Hits HD</title>
-<link>rtmp://38.96.148.206/MelodyHits playpath=MHits_576p swfUrl=http://www.melody.net/flowplayer/flowplayer.commercial-3.2.16.swf pageUrl=http://www.melody.net/pages/view/id/18 live=1 timeout=15</link>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=CfChrf0zyv8</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/mm/melody_hits.png</thumbnail>
 </item>
 
 <item>
 <title>Melody Classic HD</title>
-<link>rtmp://38.96.148.206/MelodyClassic playpath=MClassic_576p swfUrl=http://www.melody.net/flowplayer/flowplayer.commercial-3.2.16.swf live=1 pageUrl=http://www.melody.net/halilou.com live=1 timeout=15</link>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=vKm5T-b_4TE</link>
 <thumbnail>http://www.tvfrekans.com/wp-content/uploads/2012/11/melody-tv-logo-resmi.jpg</thumbnail>
 </item>
 
 <item>
 <title>Melody Arabia HD</title>
-<link>rtmp://38.96.148.206/MelodyArabia playpath=MArabia_576p swfUrl=http://www.melody.net/flowplayer/flowplayer.commercial-3.2.16.swf pageUrl=http://www.melody.net/pages/view/id/24 live=1 timeout=15</link>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=y1d0IEeJlNw</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/mm/melody_arabia.png</thumbnail>
 </item>
 

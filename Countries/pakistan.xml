@@ -11,6 +11,12 @@
 </item>
 
 <item>
+<title>Dunya</title>
+<link>rtmp://50.117.24.90/live playpath=mp4:livestream_1.f4v swfUrl=http://dunyanews.tv/jwplayer67/jwplayer.flash.swf live=true timeout=15 pageUrl=http://dunyanews.tv/livehd/</link>
+<thumbnail>http://1.bp.blogspot.com/-Hmw2x8uuP-U/T2czqqdQwSI/AAAAAAAAADA/OBNoQih0PnQ/s1600/Dunya-tv-e1276776502376.jpg</thumbnail>
+</item>
+
+<item>
 <title>Prime TV</title>
 <link>http://46.249.213.93/iPhone/broadcast/primetv-tablet.3gp/primetv-tablet.3gp-mr648k.m3u8?trackingid=3801820000&os=desktop&m3usessid=f054d17cfd429541e5d0e4b7748ba9e2&len=36&gtime=1370053222&guid=bca719c0ac8f4030ffe9123456789012&da=0&hk=F07431CF523A23B6AB4B497B9FD08F1F</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/pp/prime_tv_uk.jpg</thumbnail>

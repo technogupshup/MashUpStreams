@@ -11,7 +11,7 @@
 
 <item>
 <title>B1</title>
-<link>rtmp://fms15.mediadirect.ro:1935/live3/_definst_?id=83190468&publisher=6&siteId=0&token=aee546f48f8318bcc95b484c130a57db155881945cd2292a playpath=b1_low?id=83190468&publisher=6&siteId=0&token=aee546f48f8318bcc95b484c130a57db155881945cd2292a swfUrl=http://static1.mediadirect.ro/mediaplayer/players/0021/player.swf?ver=1387912597421 pageUrl=http://www.b1.ro/live.php</link>
+<link>rtmp://fms15.mediadirect.ro:1935/live3/_definst_?id=83190468&publisher=6&siteId=0&token=aee546f48f8318bcc95b484c130a57db155881945cd2292a playpath=b1_low?id=83190468&publisher=6&siteId=0&token=aee546f48f8318bcc95b484c130a57db155881945cd2292a swfUrl=http://static1.mediadirect.ro/mediaplayer/players/0021/player.swf?ver=1387912597421 live=true timeout=15 pageUrl=http://www.b1.ro/live.php</link>
 <thumbnail>http://upload.wikimedia.org/wikipedia/ro/9/91/Antena1_Logo.png</thumbnail>
 </item>
 

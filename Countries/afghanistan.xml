@@ -84,7 +84,7 @@
 
 <item>
 <title>Euronews Farsi</title>
-<link>rtmp://fr-par-6.stream-relay.hexaglobe.net:1935/rtpeuronewslive playpath=pe_video750_rtp.sdp swfUrl=http://www.euronews.com/media/player_live_1_13.swf live=true timeout=15 pageUrl=http://www.radioshahab.com/persian-tv.php?tvid=euronews</link>
+<link>rtmp://fr-par-10-stream-relay.hexaglobe.net:1935/rtpeuronewslive playpath=pe_video750_rtp.sdp swfUrl=http://persian.euronews.com/media/player_live_1_14.swf live=true timeout=15 pageUrl=http://persian.euronews.com/news/streaming-live/</link>
 <thumbnail>http://1.bp.blogspot.com/-A0wx-qfBN-Y/UEhNWdZhDHI/AAAAAAAAa64/GwriqDM1BPY/s400/euronews.jpg</thumbnail>
 </item>
 

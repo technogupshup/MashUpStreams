@@ -36,7 +36,7 @@
 
 <item>
 <title>ARY QTV</title>
-<link>rtmp://server1.arylive.com:1935/ARYQTV/ playpath=myStream swfUrl=http://p.jwpcdn.com/6/7/jwplayer.flash.swf live=true timeout=15 pageUrl=http://www.aryqtv.tv/live/qtv.html</link>
+<link>rtmp://213.155.26.80:1935/ARYQTV/ playpath=myStream swfUrl=http://p.jwpcdn.com/6/7/jwplayer.flash.swf pageUrl=http://www.aryqtv.tv/live/aryqtvlive.html</link>
 <thumbnail>http://uk.arydigital.tv/images/qtvlogo.jpg</thumbnail>
 </item>
 
@@ -66,7 +66,7 @@
 
 <item>
 <title>KTN News</title>
-<link>rtmp://watch.dmasti.pk/kashishn playpath=ktnnews swfUrl=http://ktntv.tv/ktnnews/player/player.swf live=true timeout=15 pageUrl=http://ktntv.tv/ktnnews/livetv/player.php?chn=ktnnews</link>
+<link>rtmp://watch.dmasti.pk/kashish playpath=ktnnews swfUrl=http://ktntv.tv/ktnnews/player/player.swf live=true timeout=15 pageUrl=http://ktntv.tv/ktnnews/livetv/player.php?chn=ktnnews</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/kk/ktn_news.png</thumbnail>
 </item>
 

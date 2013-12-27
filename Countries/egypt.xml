@@ -74,4 +74,28 @@ pageUrl=https://iframehost-c.iframehost.com/1635152?signed_request=g6IaGABi-b-eo
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/nn/nile_drama.jpg</thumbnail>
 </item>
 
+<item>
+<title>Al Nahar Sports</title>
+<link>rtmp://50.7.180.18/nahar1 playpath=naharsports.stream_720p swfUrl=http://demos.streamtrix.com/swf/flowplayer.commercial-3.2.15.swf live=true timeout=15  pageUrl=http://demos.streamtrix.com/alnaharsport/</link>
+<thumbnail>http://www.alnaharlive.net/wp-content/themes/nahar/images/channel2.png</thumbnail>
+</item>
+
+<item>
+<title>Al Nahar 2 </title>
+<link>rtmp://50.7.180.18/nahar1 playpath=alnahar2.stream_720p swfUrl=http://demos.streamtrix.com/swf/flowplayer.commercial-3.2.15.swf live=true timeout=15 pageUrl=http://demos.streamtrix.com/alnahar2/</link>
+<thumbnail>http://www.alnaharlive.net/wp-content/uploads/2013/01/alnahar2.png</thumbnail>
+</item>
+
+<item>
+<title>Al Nahar Drama</title>
+<link>rtmp://50.7.180.18/nahar1 playpath=alnahardrama.stream_720p  swfUrl=http://demos.streamtrix.com/swf/flowplayer.commercial-3.2.15.swf live=true timeout=15 pageUrl=http://demos.streamtrix.com/alnahardrama/</link>
+<thumbnail>http://www.alnaharlive.net/wp-content/themes/nahar/images/channel4.png</thumbnail>
+</item>
+
+<item>
+<title>Al Nahar</title>
+<link>rtmp://50.7.180.18/nahar1 playpath=nahar1.stream_720p swfUrl=http://demos.streamtrix.com/swf/flowplayer.commercial-3.2.15.swf live=true timeout=15 pageUrl=http://demos.streamtrix.com/Alnahar/</link>
+<thumbnail>http://www.alnaharlive.net/wp-content/themes/nahar/images/channel1.png</thumbnail>
+</item>
+
 </channel>

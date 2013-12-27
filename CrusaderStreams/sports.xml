@@ -6,7 +6,7 @@
 ##############################################################################################################################
 
 <info>
-<message>[COLOR=FFFF0000]Announcement(s): AJS Sports Updated 12/26, +6, +3 Updated[/COLOR]</message>
+<message>[COLOR=FFFF0000]Announcement(s): Added New Channel, AJS Sports Updated 12/26, +6, +3 Updated[/COLOR]</message>
 <thumbnail>http://upload.wikimedia.org/wikipedia/commons/3/32/The_flag_of_Syrian_Arab_Republic_Damascus%2C_Syria.jpg</thumbnail>
 </info>
 
@@ -81,6 +81,12 @@
 <link>rtmp://alayam.netromedia.net/btv3 playpath=btv3 swfUrl=http://player.netromedia.com/flowplayer.commercial-3.2.7.swf live=true timeout=15 pageUrl=http://www.watchfomny.com/Video/Arabic/Bahrain-Sports-Tv/Bahrain-Sports-Tv.htm</link>
 <thumbnail>http://ing-sat.what.hu/images/logo-insert/satlogos/bahrain/113-Bahrain-TV-Sports.jpg</thumbnail>
 </item> 
+
+<item>
+<title>Al Nahar Sports</title>
+<link>rtmp://50.7.180.18/nahar1 playpath=naharsports.stream_720p swfUrl=http://demos.streamtrix.com/swf/flowplayer.commercial-3.2.15.swf live=true timeout=15  pageUrl=http://demos.streamtrix.com/alnaharsport/</link>
+<thumbnail>http://www.alnaharlive.net/wp-content/themes/nahar/images/channel2.png</thumbnail>
+</item>
 
 <item>
 <title>Dubai Sports</title>

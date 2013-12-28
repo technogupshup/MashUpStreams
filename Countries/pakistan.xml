@@ -5,18 +5,6 @@
 <thumbnail></thumbnail>
 
 <item>
-<title>Dekho tv</title>
-<link>http://54.243.231.64:1935/live/dekhotv.mp4/playlist.m3u8</link>
-<thumbnail>http://www.dekhotv.co.uk/images/slider-img2.jpg</thumbnail>
-</item>
-
-<item>
-<title>Prime TV</title>
-<link>http://46.249.213.93/iPhone/broadcast/primetv-tablet.3gp/primetv-tablet.3gp-mr648k.m3u8?trackingid=3801820000&os=desktop&m3usessid=f054d17cfd429541e5d0e4b7748ba9e2&len=36&gtime=1370053222&guid=bca719c0ac8f4030ffe9123456789012&da=0&hk=F07431CF523A23B6AB4B497B9FD08F1F</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/pp/prime_tv_uk.jpg</thumbnail>
-</item>
-
-<item>
 <title>ARY News</title>
 <link>rtmp://93.115.88.177:1935/live/ playpath=myStream swfUrl=http://p.jwpcdn.com/6/7/jwplayer.flash.swf live=true timeout=15 pageUrl=http://arynews.tv/live/newslive.html</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/aa/ary_news_asia.png</thumbnail>
@@ -26,6 +14,18 @@
 <title>ARY Zauq</title>
 <link>rtmp://213.155.26.80:1935/live/ playpath=myStream swfUrl=http://p.jwpcdn.com/6/7/jwplayer.flash.swf live=true timeout=15 pageUrl=http://live.aryzauq.tv/</link>
 <thumbnail>http://www.mediapoondi.com/wp-content/uploads/2013/02/Ary-Zauq-Relaunch-1.jpg</thumbnail>
+</item>
+
+<item>
+<title>Dekho tv</title>
+<link>http://54.243.231.64:1935/live/dekhotv.mp4/playlist.m3u8</link>
+<thumbnail>http://www.dekhotv.co.uk/images/slider-img2.jpg</thumbnail>
+</item>
+
+<item>
+<title>Prime TV</title>
+<link>http://46.249.213.93/iPhone/broadcast/primetv-tablet.3gp/primetv-tablet.3gp-mr648k.m3u8?trackingid=3801820000&os=desktop&m3usessid=f054d17cfd429541e5d0e4b7748ba9e2&len=36&gtime=1370053222&guid=bca719c0ac8f4030ffe9123456789012&da=0&hk=F07431CF523A23B6AB4B497B9FD08F1F</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/pp/prime_tv_uk.jpg</thumbnail>
 </item>
 
 <item>
@@ -74,6 +74,12 @@
 <title>PTV Home</title>
 <link>rtmp://live.server4sale.com/live playpath=PTVhome swfUrl=http://live.server4sale.com:81/swfs/videoPlayer.swf live=true timeout=60 pageUrl=http://home.ptv.com.pk/PTVHomeStreaming.asp</link>
 <thumbnail>http://www.tvskull.com/wp-content/uploads/2012/11/ptv-home-logo.png</thumbnail>
+</item>
+
+<item>
+<title>PTV World</title>
+<link>rtmp://live.server4sale.com/live playpath=8090 swfUrl=http://live.server4sale.com:81/swfs/videoPlayer.swf live=true timeout=15 pageUrl=http://home.ptv.com.pk/PTVWorldStreaming.asp</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/en/b/bd/PTV_World_(logo).jpg</thumbnail>
 </item>
 
 </channel>

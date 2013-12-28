@@ -41,6 +41,12 @@
 </item>
 
 <item>
+<title>Nour TV</title>
+<link>rtmp://nourtv.net:1935/nourtv_web playpath=livestream swfUrl=http://www.nourtv.net/swfs/StrobeMediaPlayback.swf live=true timeout=15 pageUrl=http://www.nourtv.net/</link>
+<thumbnail>https://lh3.ggpht.com/S1BrZFJw5CcbFS_f8dCrameC5X5fcZqAwqaT8KCUZbTZJ4oTz1j40rsBRt3keNiZIDI=w170</thumbnail>
+</item>
+
+<item>
 <title>Nex 1</title>
 <link>rtmp://iriptv.com/iriptvserver2 playpath=6 swfUrl=http://iriptv.com/player/player.swf live=true timeout=15 pageUrl=http://iriptv.com/web/index.php</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/nn/nex1_tv.png</thumbnail>

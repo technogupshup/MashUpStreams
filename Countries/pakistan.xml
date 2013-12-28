@@ -88,5 +88,11 @@
 <thumbnail>http://upload.wikimedia.org/wikipedia/en/b/bd/PTV_World_(logo).jpg</thumbnail>
 </item>
 
+<item>
+<title>PTV Global</title>
+<link>rtmp://ptvglobalRTMP.giniko.com:1935/livepkgr/ playpath=ptvglobal?adbe-live-event=liveevent&adbe-record-mode=record swfUrl=http://www.giniko.com/jwplayer/jwplayer.flash.swf live=true timeout=15 pageUrl=http://www.giniko.com/watch.php?id=82</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/pp/ptv_global_uk_europe.jpg</thumbnail>
+</item>
+
 </channel>
 

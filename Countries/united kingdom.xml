@@ -5,11 +5,22 @@
 <thumbnail></thumbnail>
 
 <item>
+<title>BBC 1</title>
+<link>rtmp://fml.BC83.systemcdn.net/20BC83/tv/ playpath=mp4:14.low.stream.mp4?6fb0914a89a1db80524b1cf2e2eec54a0c6663e8dc63b677264a04b1a18f905a2bf76955b4ce70414f476Â swfUrl=http://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf?v=34 live=true timeout=15 pageUrl=http://www.filmon.com/</link>
+<thumbnail>http://www.wwsc.org.uk/news/images/bbc_one.png</thumbnail>
+</item>
+
+<item>
+<title>BBC News</title>
+<link>rtmp://bbcnewsRTMP.giniko.com:1935/livepkgr/ playpath=bbcnews?adbe-live-event=liveevent&adbe-record-mode=record swfUrl=http://www.giniko.com/jwplayer/jwplayer.flash.swf live=true timeout=15 pageUrl=http://www.giniko.com/watch.php?id=27</link>
+<thumbnail>http://newsimg.bbc.co.uk/media/images/67373000/jpg/_67373987_09f1654a-e583-4b5f-bfc4-f05850c6d3ce.jpg</thumbnail>
+</item>
+
+<item>
 <title>CNBC</title>
 <link>rtmp://cnbcRTMP.giniko.com:1935/livepkgr/ playpath=cnbc1?adbe-live-event=liveevent&adbe-record-mode=record swfUrl=http://www.giniko.com/jwplayer/jwplayer.flash.swf live=true timeout=15 pageUrl=http://www.giniko.com/watch.php?id=69</link>
 <thumbnail>http://www.thedrum.com/uploads/drum_basic_article/122642/main_images/CNBC%20JPEG_0.jpg</thumbnail>
 </item>
-
 
 <item>
 <title>Sky Sports 1 HD</title>
@@ -17,13 +28,11 @@
 <thumbnail>http://3.bp.blogspot.com/-b3q2g-UxZwI/UVWzFcsgA_I/AAAAAAAAFY8/nmBHsWYdLCM/s1600/sky_sports1.png</thumbnail>
 </item>
 
-
 <item>
 <title>Sky Sports 2 HD</title>
 <link>rtmp://37.220.36.71:443/liverepeater playpath=33698 token=#atd%#$ZH  swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf live=true timeout=15  pageUrl=http://featve.com/player2.php?id=33698&width=640&height=460</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ss/sky_uk_sports2.png</thumbnail>
 </item>
-
 
 <item>
 <title>Sky Sports 3 HD</title>

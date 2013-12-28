@@ -5,12 +5,6 @@
 <thumbnail></thumbnail>
 
 <item>
-<title>BBC 1</title>
-<link>rtmp://fml.BC83.systemcdn.net/20BC83/tv/ playpath=mp4:14.low.stream.mp4?6fb0914a89a1db80524b1cf2e2eec54a0c6663e8dc63b677264a04b1a18f905a2bf76955b4ce70414f476Â swfUrl=http://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf?v=34 live=true timeout=15 pageUrl=http://www.filmon.com/</link>
-<thumbnail>http://www.wwsc.org.uk/news/images/bbc_one.png</thumbnail>
-</item>
-
-<item>
 <title>BBC News</title>
 <link>rtmp://bbcnewsRTMP.giniko.com:1935/livepkgr/ playpath=bbcnews?adbe-live-event=liveevent&adbe-record-mode=record swfUrl=http://www.giniko.com/jwplayer/jwplayer.flash.swf live=true timeout=15 pageUrl=http://www.giniko.com/watch.php?id=27</link>
 <thumbnail>http://newsimg.bbc.co.uk/media/images/67373000/jpg/_67373987_09f1654a-e583-4b5f-bfc4-f05850c6d3ce.jpg</thumbnail>

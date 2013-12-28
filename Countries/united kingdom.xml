@@ -4,6 +4,12 @@
 <name>United Kingdom TV Channels</name>
 <thumbnail></thumbnail>
 
+<item>
+<title>CNBC</title>
+<link>rtmp://cnbcRTMP.giniko.com:1935/livepkgr/ playpath=cnbc1?adbe-live-event=liveevent&adbe-record-mode=record swfUrl=http://www.giniko.com/jwplayer/jwplayer.flash.swf live=true timeout=15 pageUrl=http://www.giniko.com/watch.php?id=69</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/commons/e/e3/CNBC_logo.svg</thumbnail>
+</item>
+
 
 <item>
 <title>Sky Sports 1 HD</title>

@@ -83,12 +83,6 @@
 </item>
 
 <item>
-<title>PTV Sport</title>
-<link>rtmp://live1.1dnsgeo.com/live playpath=ptvsports swfUrl=http://live.server4sale.com:81/swfs/videoPlayer.swf live=true timeout=15 pageUrl=http://home.ptv.com.pk/PTVSportsStreaming.asp</link>
-<thumbnail>http://upload.wikimedia.org/wikipedia/en/b/bd/PTV_World_(logo).jpg</thumbnail>
-</item>
-
-<item>
 <title>PTV Global</title>
 <link>rtmp://ptvglobalRTMP.giniko.com:1935/livepkgr/ playpath=ptvglobal?adbe-live-event=liveevent&adbe-record-mode=record swfUrl=http://www.giniko.com/jwplayer/jwplayer.flash.swf live=true timeout=15 pageUrl=http://www.giniko.com/watch.php?id=82</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/pp/ptv_global_uk_europe.jpg</thumbnail>

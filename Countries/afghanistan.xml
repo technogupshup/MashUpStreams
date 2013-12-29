@@ -41,12 +41,6 @@
 </item>
 
 <item>
-<title>Zhwandoon Tv</title>
-<link>rtmp://62.212.72.193/zenex playpath=5zhw7tv3?id=2034 conn=S:OK swfUrl=http://www.zenex.tv/data/scripts/eplayer.swf live=true timeout=15 pageUrl=http://www.zenex.tv/embedplayer/5zhw7tv3/1/670/410</link>
-<thumbnail>http://www.lyngsat-logo.com/hires/zz/zhwandoon_tv_af.png</thumbnail>
-</item>
-
-<item>
 <title>Nour TV</title>
 <link>rtmp://nourtv.net:1935/nourtv_web playpath=livestream swfUrl=http://www.nourtv.net/swfs/StrobeMediaPlayback.swf live=true timeout=15 pageUrl=http://www.nourtv.net/</link>
 <thumbnail>https://lh3.ggpht.com/S1BrZFJw5CcbFS_f8dCrameC5X5fcZqAwqaT8KCUZbTZJ4oTz1j40rsBRt3keNiZIDI=w170</thumbnail>
@@ -72,7 +66,8 @@
 
 <item>
 <title>Tolo</title>
-<link>rtmp://stream.ssh101.com/free playpath=dolo swfUrl=http://dolotube.com/big/flash/flowplayer-3.2.16.swf live=true timeout=15 pageUrl=http://dolotube.com/big/tolo2.html</link>
+<link>rtmp://174.36.146.69/zenex playpath=6tol5tv1?id=2030 conn=S:OK swfUrl=http://www.zenex.tv/data/scripts/eplayer.swf live=true timeout=15 pageUrl=http://www.zenex.tv/embedplayer/6tol5tv1/1/670/410
+</link>
 <thumbnail>http://upload.wikimedia.org/wikipedia/en/0/01/Tolo.jpg</thumbnail>
 </item
 

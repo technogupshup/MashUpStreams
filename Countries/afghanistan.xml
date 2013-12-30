@@ -180,12 +180,6 @@
 </item>
 
 <item>
-<title>Hewad TV</title>
-<link>rtmp://64.37.60.10:1935/live playpath=hewadlive swfUrl=http://www.hewad.tv/tvshow/player/player.swf live=true timeout=15 pageUrl=http://www.hewad.tv/</link>
-<thumbnail>http://www.hgsitebuilder.com/files/writeable/uploads/hostgator237883/image/hewad_tv-www.hewad.tv.jpg</thumbnail>
-</item>
-
-<item>
 <title>Pastho TV</title>
 <link>http://iphone-streaming.ustream.tv/ustreamVideo/10839762/streams/live/playlist.m3u8</link>
 <thumbnail>https://fbcdn-sphotos-d-a.akamaihd.net/hphotos-ak-prn1/534692_497739136915132_142149846_n.png</thumbnail>

@@ -44,7 +44,7 @@
 
 <item>
 <title>Eurosport 1</title>
-<link>rtmp://31.220.0.134:443/live playpath=euro1x swfUrl=http://www.udemy.com/static/flash/player5.9.swf live=true timeout=15 pageUrl=http://www.reyhq.com/embed1.php?live=euro1x&vw=620&vh=490</link>
+<link>rtmp://31.220.0.133:1935/live playpath=eurosx1 swfUrl=http://www.eucast.tv/player5.9.swf live=true timeout=15 pageUrl=http://www.eucast.tv/embed.php?live=eurosx1&vw=620&vh=490</link>
 <thumbnail>http://3.bp.blogspot.com/-q691zK90t9Y/TlUbSSLiicI/AAAAAAAAAHY/zGGW_LfRuIU/s1600/EuroSport-izle.png</thumbnail>
 </item>
 

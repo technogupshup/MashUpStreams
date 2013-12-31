@@ -17,4 +17,136 @@
 <thumbnail>http://files.baixapirata.webnode.com.pt/system_preview_200000105-74c1875bb7/benfica1.png</thumbnail>
 </item>
 
+<item> 
+<title>0 RTP1</title>
+<link>http://www.rtp.pt/play/stream/video/rtp1?key=iphoneapp
+</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/rr/rtp1.jpg </thumbnail>
+</item>
+
+<item>
+<title>0 RTP2</title>
+<link>http://www.rtp.pt/play/stream/video/rtp2?key=iphoneapp
+</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/rr/rtp2.jpg </thumbnail>
+</item>
+
+<item>
+<title>0  RTP MADEIRA</title>
+<link>http://www.rtp.pt/play/stream/video/rtp_madeira?key=iphoneapp
+</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/rr/rtp_madeira.jpg</thumbnail>
+</item>
+
+<item>
+<title>0 RTP Informacao</title>
+<link>http://www.rtp.pt/play/stream/video/rtp_informacao?key=iphoneapp</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/rr/rtp_informacao.jpg </thumbnail>
+</item>
+
+<item>
+<title>0 RTP Memoria</title>
+<link>rtmp://h2j2.rtp.pt/livetv/2ch80h264.flv swfUrl=http://www0.rtp.pt/wportal/sites/tv/economiadomes/videos/mediaplayer.swf pageURL=http://tvfree4.me/rtpplay.php?cid=http://tv2.rtp.pt/masterchef/player.swf%26ch=rtpm%26file=2ch5h264.flv%26streamer=rtmp://h2g2.rtp.pt/livetv%26auto swfVfy=true live=true timeout=15 </link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/rr/rtp_memoria.jpg </thumbnail>
+</item>
+
+<item>
+<title>0 RTP Internacional</title>
+<link>http://www.rtp.pt/play/stream/video/rtp_internacional?key=iphoneapp</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/rr/rtp_internacional.jpg </thumbnail>
+</item>
+
+<item>
+<title>0 RTP Acores</title>
+<link>http://www.rtp.pt/play/stream/video/rtp_acores?key=iphoneapp</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/rr/rtp_acores.jpg </thumbnail>
+</item>
+
+<item>
+<title>SIC</title>
+<link>
+<sublink>rtmp://50.23.239.11/stream playpath=sica2?id=96179 swfUrl=http://www.liveflash.tv/resources/scripts/eplayer.swf live=1 pageUrl=http://www.liveflash.tv/embedplayer/sica2/1/650/500 conn=S:OK --live</sublink>
+<sublink>rtmp://5.63.151.44/stream playpath=sica2?id=96179 swfUrlhttp://www.liveflash.tv/resources/scripts/eplayer.swfl live=1 pageUrl=http://www.liveflash.tv/embedplayer/sica2/1/650/500 conn=S:OK
+</sublink>
+</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/sic.jpg</thumbnail>
+</item>
+
+<item>
+<title>SIC Noticias</title>
+<link>
+<sublink>rtmp://173.192.223.68/live playpath=sicn2?id=48227 swfUrl=http://www.ucaster.eu/static/scripts/eplayer.swf live=1 pageUrl=http://www.ucaster.eu/embedded/sicn2/1/650/500 conn=S:OK</sublink>
+<sublink>http://213.13.26.11:1935/live/sicnoticias/playlist.m3u8</sublink>
+</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/sic_noticias.jpg</thumbnail>
+</item>
+
+<item>
+<title>economico tv</title>
+<link>rtmp://213.13.26.42/live/ playpath=etv_direto swfUrl=http://sicnoticias.sapo.pt/skins/sicnot/gfx/jwplayer/player.swf live=1 pageUrl=http://sicnoticias.sapo.pt/skins/sicnot/gfx/jwplayer/player.swf
+</link>
+<thumbnail>http://www.apr.pt/image/economico-tv1.jpg</thumbnail>
+</item>
+
+<item>
+<title>SIC Radical</title>
+<link>http://tvplanetsoft.com:8734/mobile/sicradicalmobile.stream/playlist.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/sic_radical.jpg </thumbnail>
+</item>
+
+<item>
+<title>TVI24</title>
+<link>rtmp://198.7.58.79/edge swfUrl=http://s.zuuk.net/ply.swf pageURL=http://s.zuuk.net playpath=tvi24 swfVfy=true live=true timeout=15 </link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/tt/tvi_24.jpg </thumbnail>
+</item>
+
+<item>
+<title>TVI</title>
+<link>rtmp://198.105.209.116/stream playpath=tvitvi3?id=99922 swfUrl=http://www.liveflash.tv/resources/scripts/eplayer.swf live=1  pageUrl=http://www.liveflash.tv/embedplayer/tvitvi3/1/550/420conn=S:OK</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/tt/tvi_pt.jpg </thumbnail>
+</item>
+
+<item>
+<title>TVI big brother</title>
+<link>http://tvplanetsoft.com:1935/mobile/bigbrothermobile.stream/chunklist.m3u8</link>
+<thumbnail>http://img407.imageshack.us/img407/7020/logojfn.png</thumbnail>
+</item>
+
+<item>
+<title>discovery</title>
+<link>http://tvplanetsoft.com:8734/mobile/discoverymobile.stream/playlist.m3u8</link>
+<thumbnail>http://www.topnews.in/law/files/discovery-channel.jpg</thumbnail>
+</item>
+
+<item>
+<title>Odisseia</title>
+<link>http://tvplanetsoft.com:8734/mobile/odisseiamobile.stream/playlist.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/oo/odisseia.jpg </thumbnail>
+</item>
+
+<item>
+<title>Disney Channel</title>
+<link>rtmp://tvplanetsoft.com:1700/live/ playpath=disneychannel swfUrl=http://www.tvzune.tv/player.swf live=1 pageUrl=http://www.tvzune.tv/soft.htm
+</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/dd/disney_channel_pt.jpg </thumbnail>
+</item>
+
+<item>
+<title>porto canal</title>
+<link>rtmp://174.36.251.140/live playpath=port2?id=47710 swfUrl=http://ucaster.eu/static/scripts/eplayer.swf live=1 pageUrl=www.zuuk.net/ conn=S:OK --live</link>
+<thumbnail>http://1.bp.blogspot.com/-p5aLi_Dvowo/UZqm-NFel6I/AAAAAAAAESc/IKw4Sx--jdI/s400/portocanal.jpg</thumbnail>
+</item>
+
+<item>
+<title>historia</title>
+<link>rtmp://tvplanetsoft.com:1700/live/ playpath=historia swfUrl=http://www.tvzune.tv/player.swf live=1 pageUrl=http://www.tvzune.tv/soft.htm</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/en/thumb/c/cd/Historia_logo.jpg/200px-Historia_logo.jpg</thumbnail>
+</item>
+
+<item>
+<title>nacional geografic</title>
+<link>rtmp://tvplanetsoft.com:1700/live/ playpath=national swfUrl=http://www.tvzune.tv/player.swf live=1 pageUrl=http://www.tvzune.tv/soft.htm</link>
+<thumbnail>http://www.ronwhitetraining.com/wp-content/uploads/2011/08/national-geographic-logo.jpg</thumbnail>
+</item>
+
 </channel>

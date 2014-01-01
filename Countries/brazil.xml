@@ -17,7 +17,6 @@ pageUrl=http://www.demaistv.com.br/video/video.html</link>
 <thumbnail>http://www.tvcidadepelotas.com.br/noticia/foto/f383cda4-bfa3-4106-b797-4b68692a385a/original/LOGO_TV_CIDADE_PELOTAS_3D_MESCLADO_.jpg</thumbnail>
 </item>
 
-
 <item>
 <title>Morena Live TV</title>
 <link>rtmp://nsp0813vimna35.nethorizontes.com.br/nsp0813vimna35 playpath=viamorena swfUrl=http://wwitv.com/player/player15.swf live=true timeout=15 pageUrl=http://wwitv.com/tv_channels/b4050.htm</link>
@@ -28,6 +27,641 @@ pageUrl=http://www.demaistv.com.br/video/video.html</link>
 <title>Cancao Nova</title>
 <link>http://cancaonovahls-lh.akamaihd.net/i/cancaonovahls_1@102227/index_200_av-p.m3u8</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/tt/tv_cancao_nova_rede.png</thumbnail>
+</item>
+
+<item>
+<title>0 Globo</title>
+<link>rtmp://94.102.56.186/freelivestreamHD playpath=futebolmelhor swfUrl=http://www.freelivestream.tv/swfs/player.swf pageUrl=http://www.freelivestream.tv/embedPlayer.php?file=futebolmelhor&width=475&height=370  live=1 swfVfy=1 timeout=15</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/rr/rede_globo.jpg</thumbnail>
+</item>
+
+<item>
+<title>0 Globo rj</title>
+<link>rtmp://cdn.abcast.biz/liverepeat playpath=bob123456811 swfUrl=http://player.longtailvideo.com/player5.9.swf pageUrl=http://abcast.biz/embed.php?file=bob123456811&width=650&height=500 live=true swfVfy=true timeout=15</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/rr/rede_globo.jpg</thumbnail>
+</item>
+
+<item>
+<title>BR \ globo News 1</title>
+<link>rtmp://live.direct-stream.org/originlive/ playpath=noticias swfUrl=http://direct-stream.org/swfs/player.swf pageUrl=http://direct-stream.org/embed_br.php?c=noticias&vw=468&vh=360 live=true</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/gg/globo_news.png</thumbnail>
+</item>
+
+<item>
+<title>BR \ tv record </title>
+<link>rtmp://rtmp.cdn.upx.net.br:80/00161/ swfUrl=http://www.supertela.net.br/supertela/ch/flash_util.swf pageURL=http://www.supertela.net.br/supertela/ch/?player=flash&canal=myStream.sdp&file=rtmp://rtmp.cdn.upx.net.br:80/00161/&titulo=Record&v playpath=myStream.sdp  live=true</link> 
+<thumbnail>http://cratonoticias.files.wordpress.com/2011/07/record.jpg</thumbnail>
+</item>
+
+<item>
+<title>BR \ tv record </title>
+<link>rtmp://miami.tvonlinevto.org:1935/live/ swfUrl=http://www.tvonlinevto.org/p.swf pageURL=http://www.tvnanet.biz/boss/ch18-record.htm playpath=ch18  live=true</link> 
+<thumbnail>http://cratonoticias.files.wordpress.com/2011/07/record.jpg</thumbnail>
+</item>
+
+<item>
+<title>BR \ tv record </title>
+<link>http://94.242.228.41:1935/live/ch18/manifest(format=m3u8-aapl).m3u8</link> 
+<thumbnail>http://cratonoticias.files.wordpress.com/2011/07/record.jpg</thumbnail>
+</item>
+
+<item>
+<title>BR \ tv record </title>
+<link>http://miami.tvonlinevto.org:1935/live/ch18/manifest(format=m3u8-aapl).m3u8</link> 
+<thumbnail>http://cratonoticias.files.wordpress.com/2011/07/record.jpg</thumbnail>
+</item>
+
+<item>
+
+<title>BR \ fazenda </title>
+<link>rtsp://166.78.230.143:1935/liveorigin/r7-fazenda6</link> 
+<thumbnail>http://4.bp.blogspot.com/-iJWLUIbrwFI/Ub47cwdPeEI/AAAAAAAAA5A/ux4lho8j3vY/s1600/Assistir+A+Fazenda+6+ao+vivo.jpg</thumbnail>
+</item>
+
+<item>
+<title>BR \tv aratu</title>
+<link>rtmp://lbalance174.navegarteidc.net/tvaratu/tvaratu.sdp</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/pt/2/22/TV_Aratu.jpg</thumbnail>
+</item>
+
+<item>
+<title>brasil 24 horas</title>
+<link>rtmp://ec2-174-129-179-185.compute-1.amazonaws.com/live/ipbtv400.sdp</link> 
+<thumbnail>http://www.lyngsat-logo.com/hires/tt/tvn_24_horas_cl.png</thumbnail>
+</item>
+
+<item>
+<title>   BR \ tv record news </title>
+<link>rtmp://a1.fabricahost.com.br:1935/redemercosul playpath=redemercosul swfUrl=http://streaming.fabricahost.com.br/flashvideo/player.swf live=1 pageURL=http://www.assistirtvonlinehd.tv/canais/recordnews.htm</link> 
+<thumbnail>http://images1.wikia.nocookie.net/__cb20120916104702/logopedia/images/9/99/Record-news.jpg</thumbnail>
+</item>
+
+<item>
+<title>BR \ Band 1</title>
+<link>rtmp://94.102.56.186/freelivestreamHD playpath=bandtvhd swfUrl=http://www.freelivestream.tv/swfs/player.swf pageUrl=http://www.freelivestream.tv/embedPlayer.php?file=bandtvhd&width=475&height=370 live=true
+</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/bb/band_nacional.png</thumbnail>
+</item>
+
+<item>
+<title>BR \ Band</title>
+<link>rtmp://209.236.66.go/player6.sw playpath=ttttttttttzzzzzzzzzzdudatiagotvelectro0600 swfUrl=http://www.tvetvonline.net/tve/33/tiago/player6.swf live=1 pageUrl=http://www.tvetvonline.net/tve/33/ch06.php</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/bb/band_nacional.png</thumbnail>
+</item>
+
+<item>
+<title>BR \ canal Viva</title>
+<link>rtmp://31.204.128.140/live/ swfUrl=http://www.cdn-br.com/swf/player.swf?autostart=true&displayclick=fullscreen&file=master21.flv&streamer=rtmp://31.204.128.140/live/&stretching=exactfit pageUrl=http://www.tvmeubrasil.com/megacubo/viva.html playpath=master21 live=true timeout=60</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/pt/e/e8/Canal_Viva_logo.png</thumbnail>
+</item>
+
+<item>
+<title>BR \ canal Viva</title>
+<link>rtmp://31.204.128.140/live/ swfUrl=http://www.cdnbr.biz/swf/player.swf pageUrl=http://www.cdnbr.biz/mastertv/Viva.html playpath=master21 live=true timeout=60</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/pt/e/e8/Canal_Viva_logo.png</thumbnail>
+</item>
+
+<item>
+<title>sbt piaui</title>
+<link>http://31.204.128.76:1935/live/master94/manifest(format=m3u8-aapl).m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/ss/sbt_nacional.png</thumbnail>
+</item>
+
+<item>
+<title>sbt aracatuba</title>
+<link>http://srv3.zoeweb.tv:1935/z133-live/stream/playlist.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/ss/sbt_nacional.png</thumbnail>
+</item>
+
+<item>
+<title>BR \ SBT</title>
+<link>rtmp://31.204.128.76/live/ playPath=master94 pageUrl=http://cdnbr.biz/swf/player.swf swfUrl=http://www.cdnbr.biz/mastertv/SBT.html  live=true  timeout=60</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/ss/sbt_nacional.png</thumbnail>
+</item>
+
+<item>
+<title>HBO Plus</title>
+<link>rtmp://159.253.131.103/live playpath=ch004f swfUrl=http://www.janjua.tv/player/player-licensed55.swf live=1pageUrl=www.janjua.tv/embed.php?v=ch004f&vw=468&vh=360&typeplayer=0&domain=www.cdn-br.com</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/hh/hbo_brasil.jpg</thumbnail>
+</item>
+
+<item>
+<title>+ BR \ hbo</title>
+<link>rtmp://109.200.202.124:1935/live playpath=hboplus swfUrl=http://tv-msn.com/StroveMediaPlaybackSecureToken-fp10.swf token=ef8e8620da151301dfa07b3886ab30ad pageUrl=http://tv-msn.com/hboplus.html live=1 swfVfy=1 timeout=15</link>
+<thumbnail>http://www.geogtv.com/videos/HBO-Plus-Brasil.gif</thumbnail>
+</item>
+
+<item>
+<title>+ BR \ hbo 2</title> 
+<link>rtmp://109.200.202.124:1935/live playpath=hbo2 swfUrl=http://tv-msn.com/StroveMediaPlaybackSecureToken-fp10.swf token=ef8e8620da151301dfa07b3886ab30ad pageUrl=http://tv-msn.com/hbo2.html live=1 swfVfy=1 timeout=15</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/hh/hbo2_brasil.jpg</thumbnail>
+</item>
+
+<item>
+<title>+ BR \ hbo FAMILY</title> 
+<link>rtmp://109.200.202.124:1935/live playpath=hbofamily swfUrl=http://tv-msn.com/StroveMediaPlaybackSecureToken-fp10.swf token=ef8e8620da151301dfa07b3886ab30ad pageUrl=http://tv-msn.com/hbofamily.html live=1 swfVfy=1 timeout=15</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/hh/hbo_family_br.png</thumbnail>
+</item>
+
+<item>
+<title>+ BR \ hbo hd</title> 
+<link>rtmp://109.200.202.124:1935/live playpath=hbohd swfUrl=http://tv-msn.com/StroveMediaPlaybackSecureToken-fp10.swf token=ef8e8620da151301dfa07b3886ab30ad pageUrl=http://tv-msn.com/hbohd.html live=1 swfVfy=1 timeout=15</link>
+<thumbnail>http://2.bp.blogspot.com/-CIOGJbedXnU/UZAwsFfJy0I/AAAAAAAAAe0/Ju4RJGO131c/s1600/HBO.jpg</thumbnail>
+</item>
+
+<item>
+<title>+ BR \fox</title> 
+<link>rtmp://31.204.128.75/live/ playpath=fox swfUrl=http://www.tv-msn.com/player/player.swf  pageUrl=http://www.cdnbr.biz/mastertv/FOX.html live=1 swfVfy=1 timeout=15</link>
+<thumbnail>http://1.bp.blogspot.com/-QxjhvECJlA4/US4UZc2msaI/AAAAAAAAOF0/yXZakTnoYt8/s1600/images+(9).jpg</thumbnail>
+</item>
+
+<item>
+<title>BR \ Telecine action</title>
+<link>rtmp://31.204.128.73/live/ swfUrl=http://www.cdn-br.com/swf/player.swf?autostart=true&displayclick=fullscreen&file=master17.flv&streamer=rtmp://31.204.128.73/live/&stretching=exactfit pageUrl=http://www.tvmeubrasil.com/megacubo/action.html  playPath=master17 live=true timeout=60</link> 
+<thumbnail>http://upload.wikimedia.org/wikipedia/commons/c/ce/TC_Action.png</thumbnail>
+</item>  
+
+<item>
+<title>telecine pipoca </title>
+<link>rtmp://31.204.128.74/live/ swfUrl=http://www.cdn-br.com/swf/player.swf?autostart=true&displayclick=fullscreen&file=master18.flv&streamer=rtmp://31.204.128.74/live/&stretching=exactfit pageUrl=http://www.tvmeubrasil.com/megacubo/pipoca.html playPath=master18 live=true timeout=60</link> 
+<thumbnail>http://upload.wikimedia.org/wikipedia/commons/1/1e/TC_Pipoca.png</thumbnail>
+</item>
+
+<item>
+<title>telecine premium</title>
+<link>rtmp://31.204.128.75/live/ swfUrl=http://www.cdn-br.com/swf/player.swf?autostart=true&displayclick=fullscreen&file=master19.flv&streamer=rtmp://31.204.128.75/live/&stretching=exactfit pageUrl=http://www.tvmeubrasil.com/megacubo/premium.html playPath=master19 live=true timeout=60</link> 
+<thumbnail>http://upload.wikimedia.org/wikipedia/commons/e/ef/TC_Premium.png</thumbnail>
+</item>
+
+<item>
+<title>telecine touch</title>
+<link>rtmp://109.200.202.124:1935/live playpath=touch swfUrl=http://tv-msn.com/StroveMediaPlaybackSecureToken-fp10.swf token=ef8e8620da151301dfa07b3886ab30ad pageUrl=http://tv-msn.com/touch.html live=1 swfVfy=1 timeout=15</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/commons/f/f4/TC_Touch.png</thumbnail>
+</item>
+
+<item>
+<title>history channel</title> 
+<link>rtmp://109.200.202.124:1935/live playpath=history  swfUrl=http://tv-msn.com/StroveMediaPlaybackSecureToken-fp10.swf token=ef8e8620da151301dfa07b3886ab30ad pageUrl=http://tv-msn.com/history.html live=1 swfVfy=1 timeout=15</link>
+<thumbnail>http://www.blogeweb.com/wp-content/uploads/2012/12/Mega-Quiz-do-History-Channel-Teste-Seus-Conhecimentos.png</thumbnail>
+</item>
+
+<item>
+<title>+ BR \isat</title> 
+<link>rtmp://31.204.128.76/live/ playpath=isat  swfUrl=http://www.cdnbr.biz/swf/player.swf pageUrl=http://www.cdnbr.biz/mastertv/ISAT.html live=1 swfVfy=1 timeout=15</link>
+<thumbnail>http://www.lamac.org/res/channels/logos/_0008_isat.png</thumbnail>
+</item>
+
+<item>
+<title>   BR \ universal channel</title>
+<link>rtmp://31.204.128.73/live/ swfUrl=http://www.cdn-br.com/swf/player.swf pageUrl=http://www.cdn-br.com/super-tela/universal.html playpath=master20 live=true timeout=60</link> 
+<thumbnail>http://1.bp.blogspot.com/_JwYbP1lYt6A/SZGl8gCbqOI/AAAAAAAAKCA/q09-nQXPi4Q/s400/tvuniversal.jpg</thumbnail>
+</item>
+
+<item>
+<title>AniMax</title>
+<link>rtmp://cdn2.mastertv.net/ueba23/animax app=ueba23/ pageUrl=http://tv-msn.com/animax.html swfUrl=http://tv-msn.com/player/player.swf Url=rtmp://cdn2.mastertv.net/ueba23/ playPath=animax swfVfy=true live=true timeout=60</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/aa/animax_br.png</thumbnail>
+</item>
+
+<item>
+<title>BR \tv diario</title>
+<link>http://livela.sambatech.com.br/hls-live/livepkgr/tvdiario_2ff357495c9f34b35fc02b51ee33d935/liveevent/livestream.m3u8</link>
+<thumbnail>http://www.brandsoftheworld.com/sites/default/files/styles/logo-thumbnail/public/0019/6967/brand.gif</thumbnail>
+</item>
+
+<item>
+<title>BR \tv com sc</title>
+<link>http://cdn-fms.rbs.com.br/hls-live/tvcomsc-live/_definst_/liveevent/livestream.m3u8</link>
+<thumbnail>http://www.tv14.net/wp-content/uploads/2010/09/TVCOM-SC.jpg</thumbnail>
+</item>
+
+<item>
+<title>BR \tv com rs</title>
+<link>http://cdn-fms.rbs.com.br/hls-live/tvcomrs-live/_definst_/liveevent/livestream.m3u8</link>
+<thumbnail>http://www.tv14.net/wp-content/uploads/2010/09/TVCOM-SC.jpg</thumbnail>
+</item>
+
+<item>
+<title>BR \tve </title>
+<link>rtsp://200.189.113.200/TVE/</link>
+<thumbnail>http://www.tv14.net/wp-content/uploads/2010/09/TVE.jpg</thumbnail>
+</item>
+
+<item>
+<title>BR \tve rs </title>
+<link>rtsp://mmidia4.procergs.com.br/TveRs-online</link>
+<thumbnail>http://2.bp.blogspot.com/-OOt-PlDJqX4/TsxJFht87gI/AAAAAAAAA6A/CJHklucvAAk/s320/BR+%25E2%2580%2593+CMIYV+%25E2%2580%2593+CMIFCPRTV+%25E2%2580%2593+FOTOS+TVE+%25E2%2580%2593+LOGO+79-81+-+CLR%252C6x6.jpg</thumbnail>
+</item>
+
+<item>
+<title>tbc</title>
+<link>http://72.55.165.5:1935/rsync00026/rsync.sdp/playlist.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/tt/tbc_news_br.jpg</thumbnail>
+</item>
+
+<item>
+<title>tv correio </title>
+<link>mms://207.210.109.26/tvcorreio</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/cc/correio_tv.jpg</thumbnail>
+</item>
+
+<item>
+<title>tv internauta </title>
+<link>mms://67.159.5.244/tvinternauta</link>
+<thumbnail>http://www.onlinetvplanet.com/wp-content/uploads/2009/03/TV-Internauta.jpg</thumbnail>
+</item>
+
+<item>
+<title>tv embratel 21 </title>
+<link>mms://mediafarm02.cdn.embratel.net.br/embratel21-v</link>
+<thumbnail>http://tvi.com.br/wp-content/themes/tvi/timthumb.php?src=http://tvi.com.br/wp-content/uploads/2012/11/b8d8h2-Via-Embratel-21.jpg&w=230&h=150&zc=0</thumbnail>
+</item>
+
+<item>
+<title>ponte rio niteroi</title>
+<link>mms://189.1.137.179/pontelive</link>
+<thumbnail>https://farm9.staticflickr.com/8296/7818799570_780905d40a.jpg</thumbnail>
+</item>
+
+<item>
+<title>tv rede familia</title>
+<link>mms://srv3.ntelecom.com.br/redefamilia</link>
+<thumbnail>http://www.tv14.net/wp-content/uploads/2010/09/Rede-Familia.jpg</thumbnail>
+</item>
+
+<item>
+<title>rede minas</title>
+<link>rtmp://rtmp.cdn.upx.net.br/00046 playPath=myStream.sdp swfUrl=http://www.supertela.net.br/supertela/ch/flash_util.swf pageUrl=http://www.supertela.net.br/supertela/ch/?player=flash&canal=myStream.sdp&file=rtmp://rtmp.cdn.upx.net.br/00046&titulo=Rede Minas&v= live=1 swfVfy=1 timeout=15</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/ss/sbt_nacional.png</thumbnail>
+</item>
+
+<item>
+<title>+ BR \animal planet</title> 
+<link>rtmp://178.18.23.128/live swfUrl=http://www.ukcast.tv/player/player.swf pageUrl=http://www.ukcast.tv/embed.php?u=30&vw=468&vh=360 playpath=30 live=true timeout=60</link> 
+<thumbnail>http://www.brasiltvdigital.com/wp-content/uploads/Animal_Planet_Brasil.jpg</thumbnail>
+</item>
+
+<item>
+<title>tv gazeta</title>
+<link>rtmp://flash.asaweb.com.br/tvodia playpath=tvodia  swfUrl=http://static.vto.tv/player4.7.swf pageUrl=http://www.vtotvonline.tv/canais/gazeta.html live=true</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/pt/5/5a/TV_GAZETA_HD_SP.jpg</thumbnail>
+</item>
+
+<item>
+<title>BR \ canal novo tempo</title>
+<link>rtmp://play2go.tv:8074/live  playpath=TVnovotempo  swfUrl=http://play2go.tv/flowplayer/flowplayer.commercial-3.2.14.swf pageUrl=http://play2go.tv/live/novotempo.html?stream=TVnovotempo live=1 swfVfy=1 timeout=15</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/cc/canal_executivo.jpg</thumbnail>
+</item>        
+
+<item>
+<title> louve tv</title>
+<link>rtmp://109.123.114.180/8064 swfUrl=http://www.asaweb.com.br/player/obemtevi/player.swf pageUrl=http://www.louve.tv/ playpath=8064 live=true timeout=60</link>
+<thumbnail>http://4.bp.blogspot.com/-OhHyIZeW0_A/T0fMEZ6g8qI/AAAAAAAAAik/9vKAFQTyksY/s1600/Logo+Louve+TV.jpg</thumbnail>
+</item>
+
+<item>
+<title>BR \ Conexao Brasil</title>
+<link>rtmp://200.136.27.12/live/tv swfUrl=http://www.tamoligado.net/player/player.swf pageUrl=http://tvdedegraca-i.blogspot.com/2010/06/tv-cultura.html live=true timeout=60</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/cc/conexao_br.png</thumbnail>
+</item>
+
+<item>
+<title>BR \ CULTURA</title>
+<link>rtmp://200.136.27.12/live/tv swfUrl=http://www.tamoligado.net/player/player.swf pageUrl=http://tvdedegraca-i.blogspot.com/2010/06/tv-cultura.html live=true timeout=60</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/tt/tv_cultura_sao_paulo.png</thumbnail>
+</item>
+
+<item>
+<title>   BR \ Megapix </title>
+<link>rtmp://31.204.128.75/live/  playpath=master11swfUrl=http://www.cdnbr.org/swf/player.swf live=1pageUrl=http://www.cdn-br.com/super-tela/megapix.html</link> 
+<thumbnail>http://brasilantenado.files.wordpress.com/2010/05/megapix1.jpg</thumbnail>
+</item>
+
+<item>
+<title>BR \ TV MOCINHA</title>
+<link>rtsp://tvmocinha.radioamfm.com.br/tvmocinha</link>
+<thumbnail>http://vodspod.com/tv-images/brazil-tv-mocinha.jpg</thumbnail>
+</item>
+
+<item>
+<title>BR \ TRU TV</title>
+<link>rtmp://streamer.istreamlive.net/35_137/ playpath=esportestv48 swfUrl=http://static.vto.tv/player4.7.swf live=1 pageUrl=http://www.tvnanet.biz/boss/ch48-trutv.htm live=1 timeout=10</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/tt/tru_tv.jpg</thumbnail>
+</item>
+
+<item>
+<title>BR \tv diario</title>
+<link>http://livela.sambatech.com.br/hls-live/livepkgr/tvdiario_2ff357495c9f34b35fc02b51ee33d935/liveevent/livestream.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/tt/tru_tv.jpg</thumbnail>
+</item>
+
+<item>
+<title>BR \tv clima tempo</title>
+<link>http://livela.sambatech.com.br/hls-live/livepkgr/climatempo_230a484eda44c54cca620351bbaf4e01/liveevent/livestream.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/tt/tru_tv.jpg</thumbnail>
+</item>
+
+<item>
+<title>BR \rbs tv</title>
+<link>mms://gruporbs-rbstv-rs.wm.llnwd.net/gruporbs_RBSTV-RS?MSWMExt=.asf</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/tt/tru_tv.jpg</thumbnail>
+</item>
+
+<item>
+<title>terra viva</title>
+<link>rtmp://evp.mm.uol.com.br/terraviva/terraviva</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/tt/tru_tv.jpg</thumbnail>
+</item>
+
+<item>
+<title>all tv</title>
+<link>mms://sb1.alltv.com.br/alltv</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/tt/tru_tv.jpg</thumbnail>
+</item>
+
+<item>
+<title>tv pocos</title>
+<link>rtmp://rtmp.cdn.upx.net.br/00084 playpath=myStream.sdp swfUrl=http://files.cdn.upx.net.br/sandbox/static/library/flowplayer/flowplayer.unlimited-3.2.5.swf?0.783732176059857 live=1 pageUrl=http://www.tvpocos.com.br/ live=1 timeout=10</link>
+<thumbnail>http://www.tv14.net/wp-content/uploads/2010/09/TV-Po%C3%A7os.gif</thumbnail>
+</item>
+
+<item> 
+<title>AGRO CANAL</title>
+<link>rtmp://srvvenus.canaldoboi.com/liveac/ swfUrl=http://www.tvtuga.com/live47/player.swf pageURL=http://www.tvtuga.com/agro-canal/ playpath=livestream?adbe-live-event=liveevent live=true timeout=60 </link>
+<thumbnail>http://www.lyngsat-logo.com/hires/aa/agro_canal.png </thumbnail>
+</item>
+
+<item> 
+<title>AGROMIX</title>
+<link>rtmp://67.228.177.151:1935/agromix swfUrl=http://www.tvtuga.com/live47/player.swf pageURL=http://www.agromix.tv/player.swf playpath=novoagromix.sdp live=true timeout=15 </link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/agro_brasil_tv.jpg </thumbnail>
+</item>
+
+<item>
+<title>CANAL DO BOI</title>
+<link>rtmp://srvvenus.canaldoboi.com/livecb/ swfUrl=http://www.tvtuga.com/live47/player.swf pageURL=http://www.tvtuga.com/canal-do-boi/ playpath=livestream?adbe-live-event=liveevent live=true timeout=15</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/cc/canal_do_boi.jpg</thumbnail>
+</item>
+
+<item>
+<title>BR \ CULTURA</title>
+<link>rtmp://200.136.27.12/live/tv swfUrl=http://www.tamoligado.net/player/player.swf pageURL=http://tvdedegraca-i.blogspot.com/2010/06/tv-cultura.html live=true timeout=60</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/tt/tv_cultura_sao_paulo.png</thumbnail>
+</item>
+
+<item>
+<title>BOas Novas</title>
+<link>rtmp://212-75.livestream.com:80/mogulus-stream-edge/boasnovas swfUrl=http://cdn.livestream.com/chromelessPlayer/v21/playerapi.swf?color=0xe7e7e7&autoPlay=true&jsEnabled=false&mute=false page URL=http://www.tvtuga.com/boas-novas-tv/ playpath=rtmp://212-169.livestream.com/affiliateStream/boasnovas/6c69766572657065617465723a72746d703a2f2f3231322d313Â live=true timeout=60</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/bb/boas_novas.jpg</thumbnail>
+</item>
+
+<item>
+<title>REDE NGT</title>
+<link>http://173.193.213.230/redengt live=1 swfVfy=1 timeout=15</link>
+<thumbnail>http://1.bp.blogspot.com/_52zCUQ2Xdq8/TSzAgQY-q7I/AAAAAAAABZo/oLCp5DCgZcA/s1600/ngt.jpg</thumbnail>
+</item>
+
+<item>
+<title>TV CAFENAS</title>
+<link>mms://tv-coder.unifenas.br/aovivo</link>
+<thumbnail>http://www.aciaalfenas.com.br/portal/arquivo/433-4346TV%20Cafenas%20novo.jpg</thumbnail>
+</item>
+
+
+<item>
+<title>adinet 1</title>
+<link>rtsp://208.43.77.197/adinetgospel</link>
+<thumbnail>http://farm9.staticflickr.com/8014/7176545759_c1b7edbf2f_z.jpg</thumbnail>
+</item>
+
+<item>
+<title>Adinet tv</title>
+<link>rtmp://extondemand.livestream.com/ondemand playpath=trans/dv15/mogulus-user-files/chadinet/2013/03/09/ab2bd367-4998-4cd7-8916-80595fab8b9f swfUrl=http://cdn.livestream.com/chromelessPlayer/v21/playerapi.swf?time=&browseMode=false&textLines=2&showMoreVideos=false&hideChannelBranding=true&mode=false&jsEnabled=false&hideInfo=true&t=229144&autoPlay=true&allowchat=false&lschannel=true pageUrl=http://www.livestream.com/embed/adinet?showMoreVideos=false&hideInfo=true&autoPlay=true&lschannel=true&browseMode=false&textLines=2&hideChannelBranding=true&mode=false&allowchat=false&layout=4&t=229144 live=true</link>
+<thumbnail>http://farm9.staticflickr.com/8014/7176545759_c1b7edbf2f_z.jpg</thumbnail>
+</item>
+
+<item>
+<title>tv aldeia</title>
+<link>http://187.6.85.49/tvaldeia</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/tt/tv_aldeia.png</thumbnail>
+</item>
+
+<item>
+<title>Arca tv</title>
+<link>http://www.arcaonline.com.br/tvarca.asx</link>
+<thumbnail>http://farm3.staticflickr.com/2292/2322117711_75ab95e9ac.jpg</thumbnail>
+</item>
+
+<item>
+<title>Art tv</title>
+<link>rtsp://midia.contato.net/artv</link>
+<thumbnail>http://www.guerrillazoo.com/uploads/1/2/6/7/12672707/_426416_orig.jpg</thumbnail>
+</item>
+
+<item>
+<title>Canal Rural</title>
+<link>rtmp://gruporbs.fc.llnwd.net:1935/gruporbs/ swfUrl=http://www.tvtuga.com/live47/player.swf pageURL=http://www.tvtuga.com/canal-rural/ playpath=Canal_Rural live=true timeout=60</link>
+<thumbnail>http://www.tv14.net/wp-content/uploads/2010/09/Canal-Rural-TV.jpg</thumbnail>
+</item>
+
+<item>
+<title>boa vida</title>
+<link>rtsp://wm01.mediaservices.ws/canalboavida2-live</link>
+<thumbnail>http://www.cambtv.com/doc/tv/logo/Canal%20Boa%20Vida%20Brazil.jpg</thumbnail>
+</item>
+
+<item>
+<title>Tv aberta</title>
+<link>rtmp://inaclive.tv.br/tvabertalive swfUrl=http://player.longtailvideo.com/player4.6.swf?file=aovivo.sdp.flv&streamer=rtmp://inaclive.tv.br/tvabertalive&autostart=true  swfVfy=true  live=true timeout=60</link>
+<thumbnail>http://www.acesp.tv.br/img/uploads//emissoras/4e57e797edb48.jpg</thumbnail>
+</item>
+     
+<item>
+<title>Cancao nova</title>
+<link>rtmp://flash.webtvcn.com:1935/live swfUrl=http://www.tvtuga.com/live47/player.swf  pageURL=http://www.tvtuga.com/cancao-nova/ playpath=cancaonova.sdp live=true timeout=60</link>
+<thumbnail>http://3.bp.blogspot.com/_ytb67gFlQvg/Sw_42VuMeDI/AAAAAAAABTE/JIQvs6nuAwI/s1600/cancao20nova1.jpg</thumbnail>
+</item>
+
+<item>
+<title>Chefe Tv</title>
+<link>rtmp://flashd.localmidia.com.br/cheftv/ swfUrl=http://www.tvtuga.com/live47/player.swf  pageURL=http://www.tvtuga.com/chef-tv/ playpath=aovivo live=true timeout=60</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/pt/1/1c/LOGOCHEFTV.jpg</thumbnail>
+</item>
+
+<item>
+<title>conexao Brasil</title>
+<link>rtmp://srvvenus.canaldoboi.com/livecx/ swfUrl=http://www.tvtuga.com/live47/player.swf  pageURL=http://www.tvtuga.com/conexao-m/ playpath=livestream?adbe-live-event=liveevent live=true timeout=60</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/cc/conexao_br.png</thumbnail>
+</item>
+
+<item>
+<title>D +TV</title>
+<link>rtmp://demaistv.flashplayer.acessaradios.com.br:443/demaistv/ swfUrl=http://www.tvtuga.com/live47/player.swf  pageURL=http://www.tvtuga.com/d-tv/ playpath=livestream?adbe-live-event=liveevent live=true timeout=60</link>
+<thumbnail>http://www.crozcast.com/images/logos/d_plus_tv.jpg</thumbnail>
+</item>
+
+<item>
+<title>Box TV</title>
+<link>rtmp://extondemand.livestream.com/ondemand swfUrl=http://http://cdn.livestream.com/chromelessPlayer/v21/playerapi.swf?jsEnabled=false&time=&browseMode=false&textLines=2&lschannel=true&allowchat=false&autoPlay=true&t=384509&mode=false&hideChannelBranding=true&showMoreVideos=false&hideInfo=true  pageURL=http://http://www.livestream.com playpath=trans/dv03/mogulus-user-files/chv2boxtvbr/2009/05/02/82a3b965-d1e6-4fbf-b34e-e98f4ee6f022 live=true timeout=60</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/bb/box_brazil.jpg</thumbnail>
+</item>
+
+<item>
+<title>Just Tv (Link 2)</title>
+<link>rtmp://67.228.177.151:1935/live swfUrl=http://www.justtv.com.br/player/aovivo/player.swf pageURL=http://www.justtv.com.br/player/aovivo/ playpath=myStream.sdp live=true timeout=60</link>
+<thumbnail>http://www.tv14.net/wp-content/uploads/2010/09/Just-TV.gif</thumbnail>
+</item>
+
+<item>
+<title>Kaz Tv</title>
+<link>rtmp://flash.asaweb.com.br/kazstudio/ swfUrl=http://www.tvtuga.com/live47/player.swf pageURL=http://www.tvtuga.com/kaz-tv/ playpath=kazstudio live=true timeout=60</link>
+<thumbnail>http://www.4online.tv/wp-content/uploads/2011/07/Kaz-TV.jpg</thumbnail>
+</item>
+
+<item>
+<title>Mtv Brasil</title>
+<link>rtmp://ev.mm.uol.com.br/liverepeater/ swfUrl=http://www.tvtuga.com/live47/player.swf pageURL=http://www.tvtuga.com/mtv-brasil/ playpath=mtvcast_flash.sdp live=true timeout=60</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/pt/6/6d/MtvBR1995-1999.jpg</thumbnail>
+</item>
+
+<item>
+<title>Rede Super</title>
+<link>rtmp://207.210.100.237:1935/redesuper3/ swfUrl=http://www.tvtuga.com/live47/player.swf pageURL=http://www.tvtuga.com/rede-super/ playpath=redesuper3 live=true timeout=60</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/pt/3/3b/Logo_da_Rede_Super.png</thumbnail>
+</item>
+
+<item>
+<title>Rede Brasil</title>
+<link>rtmp://137690976.r.cdnstreaming.net/live-137690976 swfUrl=http://www.tvtuga.com/live47/player.swf pageURL=http://www.tvtuga.com/rede-brasil/ playpath=rbtv.sdp live=true timeout=60</link>
+<thumbnail>http://www.tv14.net/wp-content/uploads/2010/09/Rede-Brasil.jpg</thumbnail>
+</item>
+
+<item>
+<title>Rede Tv</title>
+<link>rtmp://REDETV.flash.internapcdn.net/REDETV/live_1/ swfUrl=http://www.tvtuga.com/live47/player.swf pageURL=http://www.tvtuga.com/rede-tv-2/ playpath=aovivo  live=true timeout=60</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/pt/1/1d/LOGO_REDETV%21.png</thumbnail>
+</item>
+
+<item>
+<title>tv az</title>
+<link>rtmp://umbrellaflash.dyndns.org/live/tvaz swfUrl=http://player.longtailvideo.com/player4.6.swf?file=umbrella.flv&streamer=rtmp://umbrellaflash.dyndns.org/live/tvaz&autostart=true pageURL=about:blank playpath=umbrella  live=true timeout=60</link>
+<thumbnail>http://wwitv.com/tvlogos/b6142.jpg</thumbnail>
+</item>
+
+<item>
+<title>Rede vida </title>
+<link>http://www.tvtuga.com/live47/redevida.asx live=true timeout=60</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/pt/0/07/Rede_Vida_logo.jpg</thumbnail>
+</item>
+
+<item>
+<title>tv blue </title>
+<link>rtsp://wms.localmidia.com.br/canalsp</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/pt/0/07/Rede_Vida_logo.jpg</thumbnail>
+</item>
+
+<item>
+<title>Atalaia </title>
+<link>http://tv.atalaianet.com/studiopalmas.asx</link>
+<thumbnail>http://www.tv14.net/wp-content/uploads/2010/09/AtalaiaNet-TV.jpg</thumbnail>
+</item>
+
+<item>
+<title>tv JAngadeiro</title>
+<link>rtmp://201.12.119.29/livepkgr swfUrl=http://www.tvonlinegratis.tv/fucku2.swf pageURL=http://www.tvonlinegratis.tv/canais/jangadeiro.php
+ playpath=tvjangadeiro3  live=true timeout=60</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/pt/8/8d/TV_Jangadeiro.jpg</thumbnail>
+</item>
+
+<item>
+<title>tv 1001 noites</title>
+<link>http://r6---sn-j5caxoxu-hh0l.c.2mdn.net/MotifFiles/html/3646913/LATR0065H_Art-Culture15_AddThis_136087700493863_H264_medium.flv?ms=nvh&mv=m&mt=1368569585&ir=1&cms_redirect=yes live=true timeout=60</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/mm/mil_e_uma_noites.jpg</thumbnail>
+</item>
+
+<item>
+<title>tv ABCD</title>
+<link>rtmp://tvabcd.flashplayer.acessaradios.com.br:443/tvabcd/ swfUrl=http://www.tvtuga.com/live47/player.swf pageURL=http://www.tvtuga.com/tv-abcd/ playpath=*. live=true timeout=60</link>
+<thumbnail>http://img.tvabcd.com.br/images/cd439a3c8ed435c1ebcc4f744322d234.png</thumbnail>
+</item>
+
+<item>
+<title>tv Aparecida</title>
+<link>rtmp://67.228.212.5/ponto45_new/ swfUrl=http://www.tvtuga.com/live47/player.swf  pageURL=http://www.tvtuga.com/tv-aparecida/ playpath=aparecida live=true timeout=60</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/tt/tv_aparecida.png</thumbnail>
+</item>
+
+<item>
+<title>tv Antares</title>
+<link>rtmp://srv3.zoeweb.tv/z99-live/ swfUrl=http://www.tvtuga.com/live47/player.swf  pageURL=http://www.tvtuga.com/tv-antares/ playpath=stream live=true timeout=60</link>
+<thumbnail>http://www.tv14.net/wp-content/uploads/2010/09/TV-Antares.png</thumbnail>
+</item>
+
+
+<item>
+<title>tv Arapuan</title>
+<link>rtmp://mediacp.ciclanohost.com.br:1935/8064/ swfUrl=http://www.tvtuga.com/live47/player.swf  pageURL=http://www.tvtuga.com/tv-arapuan/ playpath=8064 live=true timeout=60</link>
+<thumbnai>http://1.bp.blogspot.com/-I8nQeQ2c5Ic/UAtyqvpGoMI/AAAAAAAAALU/tLBYAM_EtQs/s1600/02.bmp</thumbnail>
+</item>
+
+<item>
+<title>tv BRasil</title>
+<link>rtmp://cp138854.live.edgefcs.net/live/ swfUrl=http://www.tvtuga.com/live47/player.swf  pageURL=http://www.tvtuga.com/tv-brasil/ playpath=TVBrInternacionalNew@17328 live=true timeout=60</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/tt/tv_brasil.jpg</thumbnail>
+</item>
+
+<item>
+<title>tv Camara</title>
+<link>http://stream.camara.gov.br/tvcamara1t44.asx</link>
+<thumbnail>http://3.bp.blogspot.com/_744KXmFCyEo/S3p4YAc2oyI/AAAAAAAAAEQ/Mj48RqeTAd4/s400/tv-camara.jpg</thumbnail>
+</item>
+
+<item>
+<title>tv Cidade Verde</title>
+<link>rtmp://67.228.212.5/ponto61/ swfUrl=http://www.tvtuga.com/live47/player.swf  pageURL=http://www.tvtuga.com/tv-cidade-verde/ playpath=cidadeverde live=true timeout=60</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/tt/tv_cidade_verde_piaui.jpg</thumbnail>
+</item>
+
+<item>
+<title>tv Escola</title>
+<link>http://refletor.mec.gov.br/tvescola</link>
+<thumbnail>http://www.conexoes.org/wp-content/uploads/2010/08/logotipo_tv-escola.jpg</thumbnail>
+</item>
+
+<item>
+<title>Litoral</title>
+<link>http://wz1.dnip.com.br:1935/tvlitoral/tvlitoral.sdp/playlist.m3u8</link>
+<thumbnail>http://www.tv14.net/wp-content/uploads/2010/09/TV-Litoral.jpg</thumbnail>
+</item>
+
+<item>
+<title>tv Meio Norte</title>
+<link>rtmp://flash.asaweb.com.br/meionorte/ swfUrl=www.tvtuga.com/live47/player.swf pageURL=http://www.tvtuga.com/tv-meio-norte/ playpath=meionorte.sdp live=true timeout=60</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/tt/tv_meio_norte.jpg</thumbnail>
+</item>
+
+<item>
+<title>tv Mundi</title>
+<link>rtmp://inaclive.tv.br/tvmundi/ swfUrl=www.tvtuga.com/live47/player.swf pageURL=http://www.tvtuga.com/tv-mundi/ playpath=meionorte.sdp live=true timeout=60</link>
+<thumbnail>http://www.tv14.net/wp-content/uploads/2010/09/TV-Mundi.png</thumbnail>
+</item>
+
+<item>
+<title>tv Mundo Maior</title>
+<link>http://www.tvtuga.com/live47/mundomaior.asx</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/tt/tv_mundo_maior.jpg</thumbnail>
+</item>
+
+<item>
+<title>tv Nazare</title>
+<link>http://www.tvtuga.com/live47/tvnazare.asx</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/rr/rede_nazare_comunicacao.jpg</thumbnail>
+</item>
+
+<item>
+<title>tv novo Tempo</title>
+<link>rtmp://play2go.tv:8074/live swfUrl=http://play2go.tv/flowplayer/flowplayer.commercial-3.2.14.swf pageURL=http://http://play2go.tv/live/novotempo.html?stream=TVnovotempo playpath=TVnovotempo live=true timeout=60</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/nn/novo_tempo_brasil.jpg</thumbnail>
 </item>
 
 </channel>

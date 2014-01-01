@@ -6,37 +6,25 @@
 
 <item>
 <title>Alekhbaria Syria</title>
-<link>http://live.rtv.gov.sy/live/Snews.m3u8</link>
+<link>http://live.rtv.gov.sy/live/Snews/Snews_HQ.m3u8</link>
 <thumbnail>http://www.tuniscope.com/uploads/images/content/syrie-270812-v.jpg</thumbnail>
-</item>
-
-<item>
-<title>Alekhbaria Syria  Link 2</title>
-<link>http://82.137.248.20:8134/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8</link>
-<thumbnail>http://www.tuniscope.com/uploads/images/content/syrie-270812-v.jpg</thumbnail>
-</item>
-
-<item>
-<title>Syria Drama</title>
-<link>http://live.rtv.gov.sy/live/Drama.m3u8</link>
-<thumbnail>http://agadira.com/dell/tv/syria-drama.jpg</thumbnail>
 </item>
 
 <item>
 <title>Talaqie</title>
-<link>http://live.rtv.gov.sy/live/Talaqie.m3u8</link>
+<link>http://live.rtv.gov.sy/live/Talaqie/Talaqie_HQ.m3u8</link>
 <thumbnail>http://upload.wikimedia.org/wikipedia/en/e/e7/Talaqie_Logo.png</thumbnail>
 </item>
 
 <item>
-<title>Syria TV</title>
-<link>rtmp://50.7.175.242:1947/base2 playpath=arab0.stream swfUrl=http://www.justlivetv.net/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=true timeout=15 pageUrl=http://www.justlivetv.net/syria-satellite-channel-live/</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/syria_satellite_channel.jpg</thumbnail>
+<title>Syria Drama</title>
+<link>http://live.rtv.gov.sy/live/Drama/Drama_HQ.m3u8</link>
+<thumbnail>http://agadira.com/dell/tv/syria-drama.jpg</thumbnail>
 </item>
 
 <item>
-<title>Syria TV (Link 2)</title>
-<link>http://live.rtv.gov.sy/live/HQSat.m3u8</link>
+<title>Syria TV</title>
+<link>http://live.rtv.gov.sy/live/sat/sat_HQ.m3u8</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/syria_satellite_channel.jpg</thumbnail>
 </item>
 

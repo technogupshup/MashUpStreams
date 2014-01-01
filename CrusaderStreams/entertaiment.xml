@@ -7,7 +7,7 @@
 
 
 <info>
-<message>[COLOR=FFFF0000]Announcement(s): Added New Channels [/COLOR]</message>
+<message>[COLOR=FFFF0000]Announcement(s): Updated Syrian Channels [/COLOR]</message>
 <thumbnail>http://upload.wikimedia.org/wikipedia/commons/3/32/The_flag_of_Syrian_Arab_Republic_Damascus%2C_Syria.jpg</thumbnail>
 </info>
 
@@ -15,6 +15,18 @@
 <message>[COLOR=FF00FF00]Important: For Support Or Requests Please Visit (XBMC TALK) http://www.xunitytalk.com/showthread.php?3768-Crusader88-s-XMLs-NOT-FOR-REQUESTS-ONLY-HELP&p=18826#post18826[/COLOR]</message>
 <thumbnail>http://upload.wikimedia.org/wikipedia/commons/3/32/The_flag_of_Syrian_Arab_Republic_Damascus%2C_Syria.jpg</thumbnail>
 </info>
+
+<item>
+<title>Talaqie</title>
+<link>http://live.rtv.gov.sy/live/Talaqie/Talaqie_HQ.m3u8</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/en/e/e7/Talaqie_Logo.png</thumbnail>
+</item>
+
+<item>
+<title>Syria Drama</title>
+<link>http://live.rtv.gov.sy/live/Drama/Drama_HQ.m3u8</link>
+<thumbnail>http://agadira.com/dell/tv/syria-drama.jpg</thumbnail>
+</item>
 
 <item>
 <title>Dubai TV</title>

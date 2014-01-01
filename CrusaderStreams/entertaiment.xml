@@ -7,7 +7,7 @@
 
 
 <info>
-<message>[COLOR=FFFF0000]Announcement(s): Updated Syrian Channels [/COLOR]</message>
+<message>[COLOR=FFFF0000]Announcement(s): Fixed Some Channels [/COLOR]</message>
 <thumbnail>http://upload.wikimedia.org/wikipedia/commons/3/32/The_flag_of_Syrian_Arab_Republic_Damascus%2C_Syria.jpg</thumbnail>
 </info>
 
@@ -71,10 +71,9 @@
 <thumbnail>http://4.bp.blogspot.com/-v7Q1icQUJD0/Tm5vrpPY1gI/AAAAAAAAAGs/640s_zySbsQ/s200/MTV+1.png</thumbnail>
 </item>
 
-
 <item>
 <title>OTV Lebanon</title>
-<link>rtmp://livestreaming4.itworkscdn.com/otv playpath=otvlive swfUrl=http://www.otv.com.lb/otvent/jwplayer.flash.swf live=true timeout=15 pageUrl=http://www.otv.com.lb/otvent/live.php</link>
+<link>rtmp://livestreaming.itworkscdn.net/otvlive playpath=otvlive swfUrl=http://itworks-me.net/otvent/jwplayer.flash.swf live=true timeout=15 pageUrl=http://itworks-me.net/otvent/live2.php</link>
 <thumbnail>http://www.fanoos.com/ia/otv_orange_television.jpg</thumbnail>
 </item>
 
@@ -90,14 +89,9 @@
 <thumbnail>http://1.bp.blogspot.com/-W1Ry_s_c5-k/UAw9jeMFGoI/AAAAAAAANlY/SJ_JbZV8W5E/s400/aljadeed%2Btv.jpeg</thumbnail>
 </item>
 
-<item>
-<title>MBC</title>
-<link>plugin://plugin.video.jtv.archives/?mode=2&amp;name=no__onetv8</link>
-<thumbnail>http://www.ilcode.com/photos/www.ilcode.com-mdubdqlswkxrchiaarxirdk-mbc.jpg</thumbnail>
-</item>
 
 <item>
-<title>MBC (Link 2)</title>
+<title>MBC</title>
 <link>rtmp://206.190.138.68/live playpath=fregregerg?id=181857 conn=S:OK swfUrl=http://mips.tv/content/scripts/eplayer.swf live=true timeout=15 pageUrl=http://mips.tv/embedplayer/fregregerg/1/600/380</link>
 <thumbnail>http://www.ilcode.com/photos/www.ilcode.com-mdubdqlswkxrchiaarxirdk-mbc.jpg</thumbnail>
 </item>
@@ -110,7 +104,13 @@
 
 <item>
 <title>MBC 2</title>
-<link>rtmp://50.23.115.84/live playpath=aflam4youfff?id=152673 conn=S:OK swfUrl=http://mips.tv/content/scripts/eplayer.swf live=true timeout=15 pageUrl=http://mips.tv/embedplayer/aflam4youfff/1/600/380</link>
+<link>rtmp://173.193.46.104/live playpath=aflam4youfff?id=152673 conn:S=OK swfUrl=http://mips.tv/content/scripts/eplayer.swf live=true timeout=15 pageUrl=http://mips.tv/embedplayer/aflam4youfff/1/600/380</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/mm/mbc2_ae.png</thumbnail>
+</item>
+
+<item>
+<title>MBC 2 (Link 2)</title> 
+<link>http://static.innovid.com/assets/8504/1256/encoded/media-1.flv</link> 
 <thumbnail>http://www.lyngsat-logo.com/hires/mm/mbc2_ae.png</thumbnail>
 </item>
 
@@ -188,6 +188,6 @@
 
 <item>
 <title>MBC Bollywood</title>
-<link>rtmp://50.23.115.84/live playpath=aflam4youddd?id=152675 conn=S:OK swfUrl=http://mips.tv/content/scripts/eplayer.swf live=true timeout=15 pageUrl=http://mips.tv/embedplayer/aflam4youddd/1/600/380</link>
+<link>rtmp://46.165.210.32/live playpath=aflam4youddd?id=152675 conn=S:OK swfUrl=http://mips.tv/content/scripts/eplayer.swf live=true timeout=15 pageUrl=http://mips.tv/embedplayer/aflam4youddd/1/600/380</link>
 <thumbnail>http://www.waleg.com/images/mbc-bollywood.jpg</thumbnail>
 </item>

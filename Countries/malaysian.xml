@@ -9,19 +9,11 @@
 <thumbnail>http://www.lyngsat-logo.com/hires/tt/tv3_my.png</thumbnail>
 </item>
 
-
 <item>
 <title>TV9</title>
 <link>http://baik.layarku.tv/live/sz%3DIMN%3Dtv9232543785632696896784568743483467835 24/playlist.m3u8?wowzasessionid=90494488</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/tt/tv9_my.png</thumbnail>
 </item>
-
-<item>
-<title>Galaksi Muzik</title>
-<link>rtmp://stream.rtm.swiftserve.com/live/rtm/rtm-ch007</link>
-<thumbnail>http://mystream.rtm.gov.my/images/galaksimuzik.png</thumbnail>
-</item>
-
 
 <item>
 <title>Parlimen Malaysia</title>

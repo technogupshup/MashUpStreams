@@ -60,7 +60,7 @@
 
 <item>
 <title>IRIB TV 3</title>
-<link>rtmp://iriptv.com/iriptvserver3 playpath=23 swfUrl=http://iriptv.com/player/player.swf live=true timeout=15 pageUrl=http://iriptv.com/web/irib%20tv.php</link>
+<link>rtmp://iriptv.com/iriptvserver3 playpath=23.stream swfUrl=http://iriptv.com/player/player.swf live=true timeout=15 pageUrl=http://iriptv.com/web/irib%20tv.php</link>
 <thumbnail>http://tv360.us/wp-content/uploads/2013/09/IRIB3-Iran.jpg</thumbnail>
 </item>
 
@@ -138,7 +138,7 @@
 
 <item>
 <title>Gem TV</title>
-<link>rtmp://iriptv.com/iriptvserver3 playpath=25 swfUrl=http://iriptv.com/player/player.swf live=true timeout=60 pageUrl=http://iriptv.com/web/index.php</link>
+<link>rtmp://iriptv.com/iriptvserver3 playpath=25.stream swfUrl=http://iriptv.com/player/player.swf live=true timeout=60 pageUrl=http://iriptv.com/web/index.php</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/gg/gem_tv_ae.png</thumbnail>
 </item>
 

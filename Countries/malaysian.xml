@@ -3,35 +3,6 @@
 
 
 
-
-<item>
-<title>TV1 v1</title>
-<link>rtmp://stream.rtm.swiftserve.com/live/rtm/rtm-ch001</link>
-<thumbnail>http://www.lyngsat-logo.com/hires/rr/rtm_tv1_my.png</thumbnail>
-</item>
-
-
-<item>
-<title>TV1 v2</title>
-<link>http://stream.layarku.tv/live/rtm/rtm-ch001/chunklist.m3u8</link>
-<thumbnail>http://www.lyngsat-logo.com/hires/rr/rtm_tv1_my.png</thumbnail>
-</item>
-
-
-<item>
-<title>TV2 v1</title>
-<link>rtmp://stream.rtm.swiftserve.com/live/rtm/rtm-ch003</link>
-<thumbnail>http://www.lyngsat-logo.com/hires/rr/rtm2_malaysia.png</thumbnail>
-</item>
-
-
-<item>
-<title>TV2 v2</title>
-<link>http://stream.layarku.tv/live/rtm/rtm-ch003/chunklist.m3u8</link>
-<thumbnail>http://www.lyngsat-logo.com/hires/rr/rtm2_malaysia.png</thumbnail>
-</item>
-
-
 <item>
 <title>TV3</title>
 <link>http://baik.layarku.tv/live/sz%3DIMN%3Dtv37495872537483943746583462384952/playlist.m3u8?wowzasessionid=370460574</link>
@@ -44,14 +15,6 @@
 <link>http://baik.layarku.tv/live/sz%3DIMN%3Dtv9232543785632696896784568743483467835 24/playlist.m3u8?wowzasessionid=90494488</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/tt/tv9_my.png</thumbnail>
 </item>
-
-
-<item>
-<title>TVi</title>
-<link>rtmp://stream.rtm.swiftserve.com/live/rtm/rtm-ch005</link>
-<thumbnail>http://www.lyngsat-logo.com/hires/rr/rtm_tvi_my.png</thumbnail>
-</item>
-
 
 <item>
 <title>Galaksi Muzik</title>
@@ -75,6 +38,6 @@
 
 <item>
 <title>TV Selangor</title>
-<link>rtmp://live2.selangorku.com/selangorlive2/channel1</link>
+<link>rtmp://live2.selangorku.com/selangorlive2 playpath=channel1 swfUrl=http://www.selangorku.com/streaming/player.swf?bandwidth=562&amp;file=channel1&amp;plugins=viral-2d&amp;streamer=rtmp://live2.selangorku.com/selangorlive2&amp;allowfullscreen=true&amp;allowscriptaccess=always&amp;autostart=true live=true timeout=15 pageUrl=http://www.selangorku.com/streaming/player.swf?bandwidth=562&amp;file=channel1&amp;plugins=viral-2d&amp;streamer=rtmp://live2.selangorku.com/selangorlive2&amp;allowfullscreen=true&allowscriptaccess=always&amp;autostart=true</link>
 <thumbnail>http://sidangrakyat.com/wp-content/uploads/2013/05/tvselangor.jpg</thumbnail>
 </item>

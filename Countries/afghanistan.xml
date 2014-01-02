@@ -66,7 +66,7 @@
 
 <item>
 <title>Sport 9</title>
-<link>rtmp://iriptv.com/iriptvserver3 playpath=20 swfUrl=http://iriptv.com/player/player.swf live=true timeout=15 pageUrl=http://iriptv.com/web/irib%20tv.php</link>
+<link>rtmp://iriptv.com/iriptvserver3 playpath=20.stream swfUrl=http://iriptv.com/player/player.swf live=true timeout=15 pageUrl=http://iriptv.com/web/irib%20tv.php</link>
 <thumbnail>http://erooni.tv/img/channels/12-101.jpg</thumbnail>
 </item>
 
@@ -78,7 +78,7 @@
 
 <item>
 <title>Jaam E Jam 2</title>
-<link>rtmp://iriptv.com/iriptvserver3 playpath=28 swfUrl=http://iriptv.com/player/player.swf live=true timeout=15 pageUrl=http://iriptv.com/web/irib%20tv.php</link>
+<link>rtmp://iriptv.com/iriptvserver3 playpath=28.stream swfUrl=http://iriptv.com/player/player.swf live=true timeout=15 pageUrl=http://iriptv.com/web/irib%20tv.php</link>
 <thumbnail>http://www.radioshahab.com/images/jaam-e-jam_1.png</thumbnail>
 </item>
 
@@ -156,7 +156,7 @@
 
 <item>
 <title>Toon</title>
-<link>rtmp://iriptv.com/iriptvserver3 playpath=17 swfUrl=http://iriptv.com/player/player.swf live=true timeout=60 pageUrl=http://iriptv.com/web/index.php</link>
+<link>rtmp://iriptv.com/iriptvserver3 playpath=17.stream swfUrl=http://iriptv.com/player/player.swf live=true timeout=60 pageUrl=http://iriptv.com/web/index.php</link>
 <thumbnail>https://fbcdn-profile-a.akamaihd.net/hprofile-ak-prn1/c25.25.309.309/s160x160/1148910_589053007821342_2053424282_n.png</thumbnail>
 </item>
 
@@ -234,7 +234,7 @@
 
 <item>
 <title>VOA</title>
-<link>rtmp://iriptv.com/iriptvserver3 playpath=32 swfUrl=http://iriptv.com/player/player.swf live=ture timeout=60 pageUrl=http://iriptv.com/web/index.php</link>
+<link>rtmp://iriptv.com/iriptvserver3 playpath=32.stream swfUrl=http://iriptv.com/player/player.swf live=ture timeout=60 pageUrl=http://iriptv.com/web/index.php</link>
 <thumbnail>http://www.engineeringradio.us/blog/wp-content/uploads/2011/06/Voice_of_America_Logo.png</thumbnail>
 </item>
 
@@ -246,7 +246,7 @@
 
 <item>
 <title>IRIB 1</title>
-<link>rtmp://iriptv.com/iriptvserver3 playpath=27 swfUrl=http://iriptv.com/player/player.swf live=true timeout=60 pageUrl=http://iriptv.com/web/index.php</link>
+<link>rtmp://live.kashef.cdn.liveirib.ir/live-e playpath=irib1-2.sdp swfUrl=http://live.irib.ir/player.swf live=ture timeout=60 pageUrl=http://live.irib.ir/index.php?cat_id=1&type=256&dif=0&id=2</link>
 <thumbnail>http://247-365.ir/wp-content/pic/tv_logo/IRIB1.png</thumbnail>
 </item>
 

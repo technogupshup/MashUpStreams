@@ -6,7 +6,7 @@
 ##############################################################################################################################
 
 <info>
-<message>[COLOR=FFFF0000]Announcement(s): AJS Sports Updated 12/28, +3 Updated[/COLOR]</message>
+<message>[COLOR=FFFF0000]Announcement(s): AJS Sports Is Now Bein [/COLOR]</message>
 <thumbnail>http://upload.wikimedia.org/wikipedia/commons/3/32/The_flag_of_Syrian_Arab_Republic_Damascus%2C_Syria.jpg</thumbnail>
 </info>
 
@@ -17,63 +17,63 @@
 
 
 <item>
-<title>AJS +9  [COLOR=FFFF0000]Updated Daily[/COLOR]</title>
-<link>rtmp://31.220.0.134:1935/live playpath=jsx9 swfUrl=http://www.eucast.tv/player5.9.swf live=true timeout=15 pageUrl=http://www.eucast.tv/embed.php?live=jsx9&vw=600&vh=450</link>
-<thumbnail>http://www.lyngsat-logo.com/hires/aa/al_jazeera_sport_plus9.png</thumbnail>
+<title>Bein 11 [COLOR=FFFF0000]Updated Daily[/COLOR]</title>
+<link>rtmp://77.81.98.135/fms playpath=bein11  swfUrl=http://www.zcast.tv/player/player-licensed55.swf live=true timeout=15 pageUrl=http://www.zcast.tv/embed.php?v=hdembedbein11c4t4&vw=600&vh=450&video=0&domain=hdembed.com</link>
+<thumbnail>http://i.imgur.com/yuzQdoY.jpg</thumbnail>
 </item>
 
 <item>
-<title>AJS +7  [COLOR=FFFF0000]Updated Daily[/COLOR]</title>
-<link>rtmp://31.220.0.134:1935/live playpath=jsx7x  swfUrl=http://www.eucast.tv/player5.9.swf live=true timeout=15 pageUrl=http://www.eucast.tv/embed.php?live=jsx7x&vw=600&vh=450</link>
-<thumbnail>http://www.lyngsat-logo.com/hires/aa/al_jazeera_sport_plus7.png</thumbnail>
+<title>Bein 7  [COLOR=FFFF0000]Updated Daily[/COLOR]</title>
+<link>rtmp://77.81.98.133/fms playpath=bein7  swfUrl=http://www.zcast.tv/player/player-licensed55.swf live=true timeout=15 pageUrl=http://www.zcast.tv/embed.php?v=hdembedbein765k3&vw=600&vh=450&video=0&domain=hdembed.com</link>
+<thumbnail>http://i.imgur.com/cHNlLaQ.jpg</thumbnail>
 </item>
 
 <item>
-<title>AJS +5  [COLOR=FFFF0000]Updated Daily[/COLOR]</title>
-<link>rtmp://31.220.0.133:1935/live playpath=jsc5 swfUrl=http://www.eucast.tv/player5.9.swf live=true timeout=15 pageUrl=http://www.eucast.tv/embed.php?live=jsc5&vw=600&vh=450</link>
-<thumbnail>http://www.lyngsat-logo.com/hires/aa/al_jazeera_sport_plus5.png</thumbnail>
+<title>Bein 5  [COLOR=FFFF0000]Updated Daily[/COLOR]</title>
+<link>rtmp://77.81.98.130/pub playpath=wjsc5  swfUrl=http://www.fbcast.tv/player/player-licensed.swf live=true timeout=15 pageUrl=http://www.fbcast.tv/embed.php?v=tv591c3f&vw=600&vh=450&video=0&domain=hdembed.com</link>
+<thumbnail>http://i.imgur.com/eKtzUc4.jpg</thumbnail>
 </item>
 
 <item>
-<title>AJS +6  [COLOR=FFFF0000]Updated Daily[/COLOR]</title>
-<link>rtmp://31.220.0.133:1935/live playpath=jsc6 swfUrl=http://www.eucast.tv/player5.9.swf live=true timeout=15 pageUrl=http://www.eucast.tv/embed.php?live=jsc6&vw=620&vh=490</link>
-<thumbnail>http://www.lyngsat-logo.com/hires/aa/al_jazeera_sport_plus6.png</thumbnail>
+<title>Bein 6  [COLOR=FFFF0000]Updated Daily[/COLOR]</title>
+<link>rtmp://77.81.98.130/pub playpath=wjsc6  swfUrl=http://www.fbcast.tv/player/player-licensed.swf live=true timeout=15 pageUrl=http://www.fbcast.tv/embed.php?v=tv6zzqwf&vw=600&vh=450&video=0&domain=hdembed.com</link>
+<thumbnail>http://i.imgur.com/by9j5N2.jpg</thumbnail>
 </item>
 
 <item>
-<title>AJS +3  [COLOR=FFFF0000]Updated Daily[/COLOR]</title>
-<link>rtmp://31.220.0.133:1935/live playpath=jsc3xx swfUrl=http://www.eucast.tv/player5.9.swf live=true timeout=15 pageUrl=http://www.eucast.tv/embed.php?live=jsc3xx&vw=620&vh=490</link>
-<thumbnail>http://www.lyngsat-logo.com/hires/aa/al_jazeera_sport_plus3.png</thumbnail>
+<title>Bein 3  [COLOR=FFFF0000]Updated Daily[/COLOR]</title>
+<link>rtmp://77.81.98.130/pub playpath=jc4  swfUrl=http://www.fbcast.tv/player/player-licensed.swf live=true timeout=15 pageUrl=http://www.fbcast.tv/embed.php?v=tv3bk0fs&vw=600&vh=450&video=0&domain=hdembed.com</link>
+<thumbnail>http://i.imgur.com/LaMq1FJ.jpg</thumbnail>
 </item>
 
 <item>
-<title>AJS +2  [COLOR=FFFF0000]Updated Daily[/COLOR]</title>
+<title>Bein 2  [COLOR=FFFF0000]Updated Daily[/COLOR]</title>
 <link>rtmp://31.220.0.134:1935/live playpath=jsc2  swfUrl=http://eucast.tv/player5.9.swf live=true timeout=15 pageUrl=http://www.eucast.tv/embed.php?live=jsc2&vw=600&vh=450</link>
-<thumbnail>http://www.lyngsat-logo.com/hires/aa/al_jazeera_sport_plus2.png</thumbnail>
+<thumbnail>http://i.imgur.com/G8aSwIJ.jpg</thumbnail>
 </item>
 
 <item>
-<title>AJS +4  [COLOR=FFFF0000]Updated Daily[/COLOR]</title>
-<link>rtmp://31.220.0.134:1935/live playpath=jsc4  swfUrl=http://eucast.tv/player5.9.swf live=true timeout=15 pageUrl=http://www.eucast.tv/embed.php?live=jsc4&vw=600&vh=450</link>
-<thumbnail>http://www.lyngsat-logo.com/hires/aa/al_jazeera_sport_plus4.png</thumbnail>
+<title>Bein 4  [COLOR=FFFF0000]Updated Daily[/COLOR]</title>
+<link>rtmp://77.81.98.131/fms playpath=bein4  swfUrl=http://www.zcast.tv/player/player-licensed55.swf live=true timeout=15 pageUrl=http://www.zcast.tv/embed.php?v=hdembedbein4jk5w&vw=600&vh=450&video=0&domain=hdembed.com</link>
+<thumbnail>http://i.imgur.com/MCi8WTD.jpg</thumbnail>
 </item>
 
 <item>
-<title>AJS +8  [COLOR=FFFF0000]Updated Daily[/COLOR]</title>
-<link>rtmp://31.220.0.134:1935/live playpath=jsx8  swfUrl=http://www.eucast.tv/player5.9.swf live=true timeout=15 pageUrl=http://www.eucast.tv/embed.php?live=jsx8&vw=600&vh=450</link>
-<thumbnail>http://www.lyngsat-logo.com/hires/aa/al_jazeera_sport_plus8.png</thumbnail>
+<title>Bein 8  [COLOR=FFFF0000]Updated Daily[/COLOR]</title>
+<link>rtmp://77.81.98.133/fms playpath=bein8  swfUrl=http://www.zcast.tv/player/player-licensed55.swf live=true timeout=15 pageUrl=http://www.zcast.tv/embed.php?v=hdembedbein8n933&vw=600&vh=450&video=0&domain=hdembed.com</link>
+<thumbnail>http://i.imgur.com/cEpkyFy.jpg</thumbnail>
 </item>
 
 <item>
-<title>AJS +10  [COLOR=FFFF0000]Updated Daily[/COLOR]</title>
-<link>rtmp://31.220.0.134:1935/live playpath=jsx10 swfUrl=http://www.eucast.tv/player5.9.swf live=true timeout=15 pageUrl=http://www.eucast.tv/embed.php?live=jsx10&vw=600&vh=450</link>
-<thumbnail>http://www.lyngsat-logo.com/hires/aa/al_jazeera_sport_plus10.png</thumbnail>
+<title>Bein 12 [COLOR=FFFF0000]Updated Daily[/COLOR]</title>
+<link>rtmp://77.81.98.130/fms playpath=bein12  swfUrl=http://www.zcast.tv/player/player-licensed55.swf live=true timeout=15 pageUrl=http://www.zcast.tv/embed.php?v=hdembedbein12egow&vw=600&vh=450&video=0&domain=hdembed.com</link>
+<thumbnail>http://i.imgur.com/bT87VMx.jpg</thumbnail>
 </item>
 
 <item>
-<title>AJS +1  [COLOR=FFFF0000]Updated Daily[/COLOR]</title>
-<link>rtmp://31.220.0.134:1935/live playpath=jsc1 swfUrl=http://www.eucast.tv/player5.9.swf live=true timeout=15 pageUrl=http://www.eucast.tv/embed.php?live=jsc1&vw=600&vh=450</link>
-<thumbnail>http://www.lyngsat-logo.com/hires/aa/al_jazeera_sport_plus1.png</thumbnail>
+<title>Bein 1  [COLOR=FFFF0000]Updated Daily[/COLOR]</title>
+<link>rtmp://77.81.98.130/pub playpath=okc1  swfUrl=http://www.fbcast.tv/player/player-licensed.swf live=true timeout=15 pageUrl=http://www.fbcast.tv/embed.php?v=tv11iteo&vw=600&vh=450&video=0&domain=hdembed.com</link>
+<thumbnail>http://i.imgur.com/r3A1LIO.jpg</thumbnail>
 </item>
 
 <item>

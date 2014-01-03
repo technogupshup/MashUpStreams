@@ -6,7 +6,7 @@
 
 <item>
 <title>CDM</title> 
-<link>rtmp://cdne2.unored.com/unored_video/587 playpath=stream swfUrl=http://tvportal.unored.com/embed.swf live=true timeout=15 pageUrl=http://tvportal.unored.com/embed/587/425/351/FALSE/false</link>
+<link>rtmp://cdne2.unored.com/unored_video/587 playpath=stream swfUrl=http://tvportal.unored.com/embed.swf live=true timeout=15 pageUrl=http://tvportal.unored.com/channel/view/pr-587</link>
 <thumbnail>http://ing-sat.what.hu/images/logo-insert/satlogos/puerto-rico/106-CDM%5B6%5D.jpg</thumbnail>
 </item>
 

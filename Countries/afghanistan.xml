@@ -59,12 +59,6 @@
 </item>
 
 <item>
-<title>Nex 1</title>
-<link>rtmp://iriptv.com/iriptvserver2 playpath=6 swfUrl=http://iriptv.com/player/player.swf live=true timeout=15 pageUrl=http://iriptv.com/web/index.php</link>
-<thumbnail>http://www.lyngsat-logo.com/hires/nn/nex1_tv.png</thumbnail>
-</item>
-
-<item>
 <title>IRIB TV 3</title>
 <link>rtmp://iriptv.com/iriptvserver3 playpath=23.stream swfUrl=http://iriptv.com/player/player.swf live=true timeout=15 pageUrl=http://iriptv.com/web/irib%20tv.php</link>
 <thumbnail>http://tv360.us/wp-content/uploads/2013/09/IRIB3-Iran.jpg</thumbnail>
@@ -114,7 +108,7 @@
 
 <item>
 <title>MTC</title>
-<link>rtmp://mellitv.tulix.tv/mellitv playpath=myStream.sdp swfUrl=http://iriptv.com/player/player.swf live=true timeout=60 pageUrl=http://iriptv.com/web/index.php</link>
+<link>rtmp://mellitv.tulix.tv/mellitv playpath=myStream.sdp swfUrl=http://iriptv.com/player/player.swf live=true timeout=15 pageUrl=http://iriptv.com/web/index.php</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/mm/mtc.png</thumbnail>
 </item>
 
@@ -126,25 +120,25 @@
 
 <item>
 <title>AAA Family</title>
-<link>rtmp://iriptv.com/iriptvserver2 playpath=9 swfUrl=http://iriptv.com/player/player.swf pageUrl=http://iriptv.com/web/index.php</link>
+<link>rtmp://iriptv.com/iriptvserver2 playpath=9 swfUrl=http://iriptv.com/player/player.swf live=true timeout=15 pageUrl=http://iriptv.com/web/index.php</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/aa/aaa_family.png</thumbnail>
 </item>
 
 <item>
 <title>AAA Music</title>
-<link>rtmp://iriptv.com/iriptvserver3 playpath=30.stream swfUrl=http://iriptv.com/player/player.swf live=true timeout=60 pageUrl=http://iriptv.com/web/index.php</link>
+<link>rtmp://iriptv.com/iriptvserver3 playpath=30.stream swfUrl=http://iriptv.com/player/player.swf live=true timeout=15 pageUrl=http://iriptv.com/web/index.php</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/aa/aaa_music.png</thumbnail>
 </item>
 
 <item>
 <title>IFilm</title>
-<link>rtmp://live.cdn.kashef.bz/live-e playpath=ifilm-2.sdp swfUrl=http://live.irib.ir/player.swf live=true timeout=60 pageUrl=http://live.irib.ir/index.php?cat_id=18&type=128&dif=0&id=2</link>
+<link>rtmp://live.cdn.kashef.bz/live-e playpath=ifilm-2.sdp swfUrl=http://live.irib.ir/player.swf live=true timeout=15 pageUrl=http://live.irib.ir/index.php?cat_id=18&type=128&dif=0&id=2</link>
 <thumbnail>https://www.wherever.tv/partners/arabic/images/ifilm.png</thumbnail>
 </item>
 
 <item>
 <title>Gem TV</title>
-<link>rtmp://iriptv.com/iriptvserver3 playpath=25.stream swfUrl=http://iriptv.com/player/player.swf live=true timeout=60 pageUrl=http://iriptv.com/web/index.php</link>
+<link>rtmp://iriptv.com/iriptvserver3 playpath=25.stream swfUrl=http://iriptv.com/player/player.swf live=true timeout=15 pageUrl=http://iriptv.com/web/index.php</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/gg/gem_tv_ae.png</thumbnail>
 </item>
 
@@ -156,7 +150,7 @@
 
 <item>
 <title>PMC</title>
-<link>rtmp://iriptv.com/iriptvserver2 playpath=10 swfUrl=http://iriptv.com/player/player.swf live=true timeout=60 pageUrl=http://iriptv.com/web/index.php</link>
+<link>rtmp://iriptv.com/iriptvserver2 playpath=10 swfUrl=http://iriptv.com/player/player.swf live=true timeout=15 pageUrl=http://iriptv.com/web/index.php</link>
 <thumbnail>http://img6.mynet.com/ha7/p/pmc.jpg</thumbnail>
 </item>
 
@@ -168,7 +162,7 @@
 
 <item>
 <title>Farsi 1</title>
-<link>rtmp://iriptv.com/iriptvserver2 playpath=14 swfUrl=http://iriptv.com/player/player.swf live=true timeout=60 pageUrl=http://iriptv.com/web/index.php</link>
+<link>rtmp://iriptv.com/iriptvserver2 playpath=14 swfUrl=http://iriptv.com/player/player.swf live=true timeout=15 pageUrl=http://iriptv.com/web/index.php</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ff/farsi1.png</thumbnail>
 </item>
 
@@ -252,7 +246,7 @@
 
 <item>
 <title>IRIB 1</title>
-<link>rtmp://live.kashef.cdn.liveirib.ir/live-e playpath=irib1-2.sdp swfUrl=http://live.irib.ir/player.swf live=ture timeout=60 pageUrl=http://live.irib.ir/index.php?cat_id=1&type=256&dif=0&id=2</link>
+<link>rtmp://live.kashef.cdn.liveirib.ir/live-e playpath=irib1-2.sdp swfUrl=http://live.irib.ir/player.swf live=ture timeout=15 pageUrl=http://live.irib.ir/index.php?cat_id=1&type=256&dif=0&id=2</link>
 <thumbnail>http://247-365.ir/wp-content/pic/tv_logo/IRIB1.png</thumbnail>
 </item>
 
@@ -270,7 +264,7 @@
 
 <item>
 <title>Khatereh TV</title>
-<link>rtmp://iriptv.com/iriptv playpath=33 swfUrl=http://iriptv.com/player/player.swf live=true timeout=60 pageUrl=http://iriptv.com/web/index.php</link>
+<link>rtmp://iriptv.com/iriptv playpath=33 swfUrl=http://iriptv.com/player/player.swf live=true timeout=15 pageUrl=http://iriptv.com/web/index.php</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/kk/khatereh_tv.png</thumbnail>
 </item>
 

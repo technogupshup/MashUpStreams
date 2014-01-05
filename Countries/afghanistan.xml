@@ -185,7 +185,7 @@
 </item>
 
 <item>
-<title>Pastho TV</title>
+<title>Pastho TV [COLOR=FFFF0000]This Channel is live for 12 Hours[/COLOR]</title>
 <link>http://iphone-streaming.ustream.tv/ustreamVideo/10839762/streams/live/playlist.m3u8</link>
 <thumbnail>https://fbcdn-sphotos-d-a.akamaihd.net/hphotos-ak-prn1/534692_497739136915132_142149846_n.png</thumbnail>
 </item>
@@ -209,7 +209,7 @@
 </item>
 
 <item>
-<title>Shamshad</title>
+<title>Shamshad [COLOR=FFFF0000]Fixed[/COLOR]</title>
 <link>rtmp://media.streamingpulse.biz/8068 playpath=8068 swfUrl=http://media.streamingpulse.biz:2000/system/misc/flvplayer/FLVplayer_Custom.swf live=true timeout=15 pageUrl=http://shamshadtv.tv/live/</link>
 <thumbnail>http://cricket.tolafghan.com/assets/posts/18057/medium/SHAMSHAD_TV.jpg?1273990160</thumbnail>
 </item>

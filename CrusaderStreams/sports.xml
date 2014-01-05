@@ -6,7 +6,7 @@
 ##############################################################################################################################
 
 <info>
-<message>[COLOR=FFFF0000]Announcement(s): Updated Bein, AJS Sports Is Now Bein [/COLOR]</message>
+<message>[COLOR=FFFF0000]Announcement(s): Updated Bein Again, AJS Sports Is Now Bein [/COLOR]</message>
 <thumbnail>http://upload.wikimedia.org/wikipedia/commons/3/32/The_flag_of_Syrian_Arab_Republic_Damascus%2C_Syria.jpg</thumbnail>
 </info>
 
@@ -30,7 +30,7 @@
 
 <item>
 <title>Bein 5  [COLOR=FFFF0000]Updated Daily[/COLOR]</title>
-<link>rtmp://77.81.98.130/pub playpath=wjsc5  swfUrl=http://www.fbcast.tv/player/player-licensed.swf live=true timeout=15 pageUrl=http://www.fbcast.tv/embed.php?v=tv591c3f&vw=600&vh=450&video=0&domain=hdembed.com</link>
+<link>rtmpe://strm.dcast.tv/redirect playpath=jsc05 swfurl=http://www.dcast.tv/player/player.swf live=true timeout=15 pageurl=http://www.dcast.tv/embed.php?u=jsc05&vw=600&vh=400</link>
 <thumbnail>http://i.imgur.com/eKtzUc4.jpg</thumbnail>
 </item>
 
@@ -48,13 +48,13 @@
 
 <item>
 <title>Bein 2  [COLOR=FFFF0000]Updated Daily[/COLOR]</title>
-<link>rtmp://31.220.0.134:1935/live playpath=jsc2  swfUrl=http://eucast.tv/player5.9.swf live=true timeout=15 pageUrl=http://www.eucast.tv/embed.php?live=jsc2&vw=600&vh=450</link>
+<link>rtmpe://origim.hdcast.org/flash/ playpath=HDMBS2 swfUrl=http://www.udemy.com/static/flash/player5.9.swf  pageUrl=http://www.hdcast.org/ live=true timeout=15</link>
 <thumbnail>http://i.imgur.com/G8aSwIJ.jpg</thumbnail>
 </item>
 
 <item>
 <title>Bein 4  [COLOR=FFFF0000]Updated Daily[/COLOR]</title>
-<link>rtmp://77.81.98.131/fms playpath=bein4  swfUrl=http://www.zcast.tv/player/player-licensed55.swf live=true timeout=15 pageUrl=http://www.zcast.tv/embed.php?v=hdembedbein4jk5w&vw=600&vh=450&video=0&domain=hdembed.com</link>
+<link>rtmpe://origim.hdcast.org/flash/ playpath=HDMBS4 swfUrl=http://www.udemy.com/static/flash/player5.9.swf  pageUrl=http://www.hdcast.org/ live=true timeout=15</link>
 <thumbnail>http://i.imgur.com/MCi8WTD.jpg</thumbnail>
 </item>
 

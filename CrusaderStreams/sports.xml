@@ -6,7 +6,7 @@
 ##############################################################################################################################
 
 <info>
-<message>[COLOR=FFFF0000]Announcement(s): AJS Sports Is Now Bein [/COLOR]</message>
+<message>[COLOR=FFFF0000]Announcement(s): Updated Bein, AJS Sports Is Now Bein [/COLOR]</message>
 <thumbnail>http://upload.wikimedia.org/wikipedia/commons/3/32/The_flag_of_Syrian_Arab_Republic_Damascus%2C_Syria.jpg</thumbnail>
 </info>
 
@@ -24,7 +24,7 @@
 
 <item>
 <title>Bein 7  [COLOR=FFFF0000]Updated Daily[/COLOR]</title>
-<link>rtmp://77.81.98.133/fms playpath=bein7  swfUrl=http://www.zcast.tv/player/player-licensed55.swf live=true timeout=15 pageUrl=http://www.zcast.tv/embed.php?v=hdembedbein765k3&vw=600&vh=450&video=0&domain=hdembed.com</link>
+<link>rtmpe://strm.ukcast.tv/redirect playpath=toni7 swfUrl=http://ukcast.tv/player/player.swf pageUrl=http://www.ukcast.tv live=true swfVfy=true timeout=15</link>
 <thumbnail>http://i.imgur.com/cHNlLaQ.jpg</thumbnail>
 </item>
 
@@ -36,13 +36,13 @@
 
 <item>
 <title>Bein 6  [COLOR=FFFF0000]Updated Daily[/COLOR]</title>
-<link>rtmp://77.81.98.130/pub playpath=wjsc6  swfUrl=http://www.fbcast.tv/player/player-licensed.swf live=true timeout=15 pageUrl=http://www.fbcast.tv/embed.php?v=tv6zzqwf&vw=600&vh=450&video=0&domain=hdembed.com</link>
+<link>rtmpe://strm.ukcast.tv/redirect playpath=toni6 swfUrl=http://ukcast.tv/player/player.swf pageUrl=http://www.ukcast.tv live=true swfVfy=true timeout=15</link>
 <thumbnail>http://i.imgur.com/by9j5N2.jpg</thumbnail>
 </item>
 
 <item>
 <title>Bein 3  [COLOR=FFFF0000]Updated Daily[/COLOR]</title>
-<link>rtmp://77.81.98.130/pub playpath=jc4  swfUrl=http://www.fbcast.tv/player/player-licensed.swf live=true timeout=15 pageUrl=http://www.fbcast.tv/embed.php?v=tv3bk0fs&vw=600&vh=450&video=0&domain=hdembed.com</link>
+<link>rtmpe://strm.ukcast.tv/redirect playpath=toni3 swfUrl=http://ukcast.tv/player/player.swf pageUrl=http://www.ukcast.tv live=true swfVfy=true timeout=15</link>
 <thumbnail>http://i.imgur.com/LaMq1FJ.jpg</thumbnail>
 </item>
 
@@ -60,19 +60,19 @@
 
 <item>
 <title>Bein 8  [COLOR=FFFF0000]Updated Daily[/COLOR]</title>
-<link>rtmp://77.81.98.133/fms playpath=bein8  swfUrl=http://www.zcast.tv/player/player-licensed55.swf live=true timeout=15 pageUrl=http://www.zcast.tv/embed.php?v=hdembedbein8n933&vw=600&vh=450&video=0&domain=hdembed.com</link>
+<link>rtmpe://strm.ukcast.tv/redirect playpath=toni8 swfUrl=http://ukcast.tv/player/player.swf pageUrl=http://www.ukcast.tv live=true swfVfy=true timeout=15</link>
 <thumbnail>http://i.imgur.com/cEpkyFy.jpg</thumbnail>
 </item>
 
 <item>
 <title>Bein 12 [COLOR=FFFF0000]Updated Daily[/COLOR]</title>
-<link>rtmp://77.81.98.130/fms playpath=bein12  swfUrl=http://www.zcast.tv/player/player-licensed55.swf live=true timeout=15 pageUrl=http://www.zcast.tv/embed.php?v=hdembedbein12egow&vw=600&vh=450&video=0&domain=hdembed.com</link>
+<link>rtmpe://strm.ukcast.tv/redirect playpath=toni10 swfUrl=http://ukcast.tv/player/player.swf pageUrl=http://www.ukcast.tv live=true swfVfy=true timeout=15</link>
 <thumbnail>http://i.imgur.com/bT87VMx.jpg</thumbnail>
 </item>
 
 <item>
 <title>Bein 1  [COLOR=FFFF0000]Updated Daily[/COLOR]</title>
-<link>rtmp://77.81.98.130/pub playpath=okc1  swfUrl=http://www.fbcast.tv/player/player-licensed.swf live=true timeout=15 pageUrl=http://www.fbcast.tv/embed.php?v=tv11iteo&vw=600&vh=450&video=0&domain=hdembed.com</link>
+<link>rtmpe://strm.ukcast.tv/redirect playpath=toni1 swfUrl=http://ukcast.tv/player/player.swf pageUrl=http://www.ukcast.tv live=true swfVfy=true timeout=15</link>
 <thumbnail>http://i.imgur.com/r3A1LIO.jpg</thumbnail>
 </item>
 

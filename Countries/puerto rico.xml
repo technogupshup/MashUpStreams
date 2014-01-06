@@ -12,7 +12,7 @@
 
 <item>
 <title>Wapa TV</title>
-<link>rtmp://flash59.ustream.tv:1935/ustreamCdn1/flash74/12047840 playpath=streams/live_1 swfUrl=http://static-cdn1.ustream.tv/swf/live/viewer.rsl:577.swf live=true timeout=15 pageUrl=http://www.ustream.tv/embed/12047840</link>
+<link>http://iphone-streaming.ustream.tv/ustreamVideo/12047840/streams/live/playlist.m3u8</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ww/wapa_televicentro.png</thumbnail>
 </item>
 

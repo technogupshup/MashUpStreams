@@ -71,7 +71,7 @@
 </item>
 
 <item>
-<title>Tolo</title>
+<title>Tolo [COLOR=FFFF0000]If channel is not working. STOP and Reply[/COLOR]</title>
 <link>rtmp://stream.ssh101.com/free playpath=dolo swfUrl=http://dolotube.com/big/flash/flowplayer-3.2.16.swf live=true timeout=15 pageUrl=http://dolotube.com/big/tolo2.html</link>
 <thumbnail>http://upload.wikimedia.org/wikipedia/en/0/01/Tolo.jpg</thumbnail>
 </item

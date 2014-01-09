@@ -6,7 +6,7 @@
 ##############################################################################################################################
 
 <info>
-<message>[COLOR=FFFF0000]Announcement(s): Updated Bein Again, AJS Sports Is Now Bein [/COLOR]</message>
+<message>[COLOR=FFFF0000]Announcement(s): Updated Bein 4 [/COLOR]</message>
 <thumbnail>http://upload.wikimedia.org/wikipedia/commons/3/32/The_flag_of_Syrian_Arab_Republic_Damascus%2C_Syria.jpg</thumbnail>
 </info>
 
@@ -54,7 +54,7 @@
 
 <item>
 <title>Bein 4  [COLOR=FFFF0000]Updated Daily[/COLOR]</title>
-<link>rtmpe://origim.hdcast.org/flash/ playpath=HDMBS4 swfUrl=http://www.udemy.com/static/flash/player5.9.swf  pageUrl=http://www.hdcast.org/ live=true timeout=15</link>
+<link><link>rtmpe://93.120.27.86/live playpath=jsc04 swfUrl=http://www.dcast.tv/player/player.swf live=1 pageUrl=http://www.dcast.tv/embed.php?u=jsc04&vw=550&vh=400</link></link>
 <thumbnail>http://i.imgur.com/MCi8WTD.jpg</thumbnail>
 </item>
 

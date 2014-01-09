@@ -197,8 +197,8 @@
 </item>
 
 <item>
-<title>Arezu TV</title>
-<link>rtmp://95.84.240.45:1945/live playpath=rtmp.stream swfUrl=http://arezuonlinetv.com/js/flowplayer-3.2.11.swf live=true timeout=15 pageUrl=http://arezuonlinetv.com/</link>
+<title>Arezu TV [COLOR=FFFF0000]Working 09/01/2013[/COLOR]</title>
+<link>rtmp://arezutv-live.cdn.ngenix.net/live/Stream playpath=arezutv_default.stream swfUrl=http://arezuonlinetv.com/js/flowplayer-3.2.11.swf live=true timeout=15 pageUrl=http://arezuonlinetv.com/</link>
 <thumbnail>http://4.bp.blogspot.com/-eL7Bm0B_Fck/Uc7E-utmNCI/AAAAAAAABFA/jc6auT6d5PU/s269/205451_471051409641907_837049089_n.png</thumbnail>
 </item>
 

@@ -36,4 +36,10 @@
 <thumbnail>http://set574.com/setbanner971x150.jpg</thumbnail>
 </item>
 
+<item>
+<title>VPop</title>
+<link>rtmp://50.7.104.133/liveStream playpath=vpoptv_1 swfUrl=http://player.longtailvideo.com/player.swf live=true timeout=15 pageUrl=http://tv-online.in/vpop-tv-live</link>
+<thumbnail>http://tv-online.in/wp-content/uploads/2013/04/Vpop-TV-live.jpg</thumbnail>
+</item>
+
 </channel>

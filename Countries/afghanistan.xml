@@ -120,7 +120,7 @@
 
 <item>
 <title>AAA Family</title>
-<link>rtmp://iriptv.com/iriptvserver2 playpath=9 swfUrl=http://iriptv.com/player/player.swf live=true timeout=15 pageUrl=http://iriptv.com/web/index.php</link>
+<link>rtmp://iriptv.com/iriptvserver2 playpath=9.stream swfUrl=http://iriptv.com/player/player.swf live=true timeout=15 pageUrl=http://iriptv.com/web/index.php</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/aa/aaa_family.png</thumbnail>
 </item>
 

@@ -234,7 +234,7 @@
 
 <item>
 <title>BBC Farsi</title>
-<link>rtmp://iriptv.com/iriptvserver2 playpath=16 swfUrl=http://iriptv.com/player/player.swf live=ture timeout=60 pageUrl=http://iriptv.com/web/index.php</link>
+<link>rtmp://iriptv.com/iriptvserver2 playpath=16.stream swfUrl=http://iriptv.com/player/player.swf live=ture timeout=60 pageUrl=http://iriptv.com/web/index.php</link>
 <thumbnail>http://static.guim.co.uk/sys-images/Guardian/About/General/2012/3/14/1331728105752/bbc-persian-tv-007.jpg</thumbnail>
 </item>
 

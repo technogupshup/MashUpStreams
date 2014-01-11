@@ -72,7 +72,7 @@
 
 <item>
 <title>Tolo [COLOR=FFFF0000]If channel is not working. STOP and Reply[/COLOR]</title>
-<link>rtmp://stream.ssh101.com/free playpath=dolo swfUrl=http://dolotube.com/big/flash/flowplayer-3.2.16.swf live=true timeout=15 pageUrl=http://dolotube.com/big/tolo2.html</link>
+<link>http://62.27.87.54/stream.php?channel=4453</link>
 <thumbnail>http://upload.wikimedia.org/wikipedia/en/0/01/Tolo.jpg</thumbnail>
 </item
 
@@ -197,7 +197,7 @@
 </item>
 
 <item>
-<title>Arezu TV [COLOR=FFFF0000]Working 09/01/2013[/COLOR]</title>
+<title>Arezu TV</title>
 <link>rtmp://arezutv-live.cdn.ngenix.net/live/Stream playpath=arezutv_default.stream live=true timeout=15 swfUrl=http://arezuonlinetv.com/js/flowplayer-3.2.11.swf pageUrl=http://arezuonlinetv.com/</link>
 <thumbnail>http://4.bp.blogspot.com/-eL7Bm0B_Fck/Uc7E-utmNCI/AAAAAAAABFA/jc6auT6d5PU/s269/205451_471051409641907_837049089_n.png</thumbnail>
 </item>

@@ -143,12 +143,6 @@
 </item>
 
 <item>
-<title>AMC</title>
-<link>http://38.117.88.154/AMC?TICKET/path/to/media.file</link>
-<thumbnail>http://cdn3-www.craveonline.com/assets/uploads/2013/04/AMC-logo.jpg</thumbnail>
-</item>
-
-<item>
 <title>PMC</title>
 <link>rtmp://iriptv.com/iriptvserver2 playpath=10 swfUrl=http://iriptv.com/player/player.swf live=true timeout=15 pageUrl=http://iriptv.com/web/index.php</link>
 <thumbnail>http://img6.mynet.com/ha7/p/pmc.jpg</thumbnail>

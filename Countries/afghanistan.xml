@@ -114,7 +114,7 @@
 
 <item>
 <title>Face 1</title>
-<link>rtmp://iriptv.com/iriptvserver2 playpath=7 swfUrl=http://iriptv.com/player/player.swf live=true timeout=15 pageUrl=http://iriptv.com/web/index.php</link>
+<link>rtmp://iriptv.com/iriptvserver2 playpath=7.stream swfUrl=http://iriptv.com/player/player.swf live=true timeout=15 pageUrl=http://iriptv.com/web/index.php</link>
 <thumbnail>http://www.8pic.ir/images/r9v4udb6los78orxw87s_thumb.jpg</thumbnail>
 </item>
 

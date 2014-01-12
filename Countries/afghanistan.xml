@@ -156,7 +156,7 @@
 
 <item>
 <title>Farsi 1</title>
-<link>rtmp://iriptv.com/iriptvserver2 playpath=14 swfUrl=http://iriptv.com/player/player.swf live=true timeout=15 pageUrl=http://iriptv.com/web/index.php</link>
+<link>rtmp://iriptv.com/iriptvserver2 playpath=14.stream swfUrl=http://iriptv.com/player/player.swf live=true timeout=15 pageUrl=http://iriptv.com/web/index.php</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ff/farsi1.png</thumbnail>
 </item>
 

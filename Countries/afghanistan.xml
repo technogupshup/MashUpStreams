@@ -144,7 +144,7 @@
 
 <item>
 <title>PMC</title>
-<link>rtmp://iriptv.com/iriptvserver2 playpath=10 swfUrl=http://iriptv.com/player/player.swf live=true timeout=15 pageUrl=http://iriptv.com/web/index.php</link>
+<link>rtmp://iriptv.com/iriptvserver2 playpath=10.stream swfUrl=http://iriptv.com/player/player.swf live=true timeout=15 pageUrl=http://iriptv.com/web/index.php</link>
 <thumbnail>http://img6.mynet.com/ha7/p/pmc.jpg</thumbnail>
 </item>
 

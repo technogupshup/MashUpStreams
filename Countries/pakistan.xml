@@ -47,12 +47,6 @@
 </item>
 
 <item>
-<title>KTN</title>
-<link>rtmp://103.24.96.74/kashish playpath=ktn swfUrl=http://ktntv.tv/ktnnews/player/player.swf live=true timeout=15 pageUrl=http://ktntv.tv/ktn-entertainment/</link>
-<thumbnail>http://ktntv.tv/ktn-entertainment/images/logo.png</thumbnail>
-</item>
-
-<item>
 <title>Peace TV Urdu</title>
 <link>rtmp://peace.fms.visionip.tv:1935/live playpath=b2b-peace_asia-live-25f-4x3-sdh_1 swfUrl= live=true timeout=60 pageUrl=</link>
 <thumbnail>http://2.bp.blogspot.com/-waYHC1FmpIE/UGZZyD2MeLI/AAAAAAAABWc/PpoVfUaaacQ/s320/peace+tv+urdu.jpg</thumbnail>

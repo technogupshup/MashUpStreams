@@ -192,13 +192,13 @@
 
 <item>
 <title>Arezu TV</title>
-<link>rtmp://arezutv-live.cdn.ngenix.net/live/Stream playpath=arezutv_default.stream live=true timeout=15 swfUrl=http://arezuonlinetv.com/js/flowplayer-3.2.11.swf pageUrl=http://arezuonlinetv.com/</link>
+<link>rtmp://arezutv-live.cdn.ngenix.net/live/Stream playpath=arezutv_default.stream swfUrl=http://arezuonlinetv.com/js/flowplayer-3.2.11.swf live=true timeout=15 pageUrl=http://arezuonlinetv.com/</link>
 <thumbnail>http://4.bp.blogspot.com/-eL7Bm0B_Fck/Uc7E-utmNCI/AAAAAAAABFA/jc6auT6d5PU/s269/205451_471051409641907_837049089_n.png</thumbnail>
 </item>
 
 <item>
 <title>S.A.TV</title>
-<link>rtmp://habibhamidi.videocdn.scaleengine.net/habibhamidi-live/play playpath=habibhamidi.stream live=true timeout=60 swfUrl=http://www.satvlive.com/modules/mod_playerjr/player-licensed5.swf pageUrl=http://www.satvlive.com/</link>
+<link>rtmp://server55.livestreamingcdn.com:1935/satvlive playpath=myStream.sdp swfUrl=http://satvlive.com/modules/mod_playerjr/player-licensed5.swf live=true timeout=60 pageUrl=http://satvlive.com/</link>
 <thumbnail>http://www.afghanfun.com/wp-content/uploads/2012/10/satlive.jpg</thumbnail>
 </item>
 

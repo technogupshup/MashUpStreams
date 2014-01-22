@@ -6,7 +6,7 @@
 ##############################################################################################################################
 
 <info>
-<message>[COLOR=FFFF0000]Announcement(s): Updated Bein 2 [/COLOR]</message>
+<message>[COLOR=FFFF0000]Announcement(s): Updated Bein 12, 1 [/COLOR]</message>
 <thumbnail>http://upload.wikimedia.org/wikipedia/commons/3/32/The_flag_of_Syrian_Arab_Republic_Damascus%2C_Syria.jpg</thumbnail>
 </info>
 
@@ -70,13 +70,13 @@
 
 <item>
 <title>Bein 12 [COLOR=FFFF0000]Updated Daily[/COLOR]</title>
-<link>rtmpe://strm.ukcast.tv/redirect playpath=toni10 swfUrl=http://ukcast.tv/player/player.swf pageUrl=http://www.ukcast.tv live=true swfVfy=true timeout=15</link>
+<link>rtmpe://93.120.27.86/live playpath=jsc10 swfUrl=http://www.dcast.tv/player/player.swf live=1 pageUrl=http://www.dcast.tv/embed.php?u=jsc010&vw=550&vh=400</link>
 <thumbnail>http://i.imgur.com/bT87VMx.jpg</thumbnail>
 </item>
 
 <item>
 <title>Bein 1  [COLOR=FFFF0000]Updated Daily[/COLOR]</title>
-<link>rtmpe://strm.ukcast.tv/redirect playpath=toni1 swfUrl=http://ukcast.tv/player/player.swf pageUrl=http://www.ukcast.tv live=true swfVfy=true timeout=15</link>
+<link>rtmpe://93.120.27.86/live playpath=jsc01 swfUrl=http://www.dcast.tv/player/player.swf live=1 pageUrl=http://www.dcast.tv/embed.php?u=jsc01&vw=550&vh=400</link>
 <thumbnail>http://i.imgur.com/r3A1LIO.jpg</thumbnail>
 </item>
 

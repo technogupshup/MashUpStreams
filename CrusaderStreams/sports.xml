@@ -6,7 +6,7 @@
 ##############################################################################################################################
 
 <info>
-<message>[COLOR=FFFF0000]Announcement(s): Updated Bein 12, 1 [/COLOR]</message>
+<message>[COLOR=FFFF0000]Announcement(s): Updated Bein 5[/COLOR]</message>
 <thumbnail>http://upload.wikimedia.org/wikipedia/commons/3/32/The_flag_of_Syrian_Arab_Republic_Damascus%2C_Syria.jpg</thumbnail>
 </info>
 
@@ -34,7 +34,7 @@
 
 <item>
 <title>Bein 5  [COLOR=FFFF0000]Updated Daily[/COLOR]</title>
-<link>rtmpe://strm.dcast.tv/redirect playpath=jsc05 swfurl=http://www.dcast.tv/player/player.swf live=true timeout=15 pageurl=http://www.dcast.tv/embed.php?u=jsc05&vw=600&vh=400</link>
+<link>rtmpe://93.120.27.86/live playpath=jsc05 swfUrl=http://www.dcast.tv/player/player.swf live=1 pageUrl=http://www.dcast.tv/embed.php?u=jsc05&vw=550&vh=400</link>
 <thumbnail>http://i.imgur.com/eKtzUc4.jpg</thumbnail>
 </item>
 

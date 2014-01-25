@@ -54,12 +54,6 @@
 </item>
 
 <item>
-<title>ZOOM</title>
-<link>http://d1vfuy3zwrxiut.cloudfront.net/live/_definst_/sweetbcha1novD160_W_150.sdp/playlist.m3u8</link>
-<thumbnail>http://www.webretina.com/wp-content/uploads/2011/12/Zoom-TV.jpg</thumbnail>
-</item>
-
-<item>
 <title>DD NATIONAL</title>
 <link>http://d1vfuy3zwrxiut.cloudfront.net/live/_definst_/sweetbcha1novD99_W_150.sdp/playlist.m3u8</link>
 <thumbnail>http://www.livetvstreamingfree.com/wp-content/uploads/2012/12/DD-National-TV-Channel-Logo.jpg</thumbnail>
@@ -289,12 +283,6 @@
 </item>
 
 <item>
-<title>Zee Salaam</title>
-<link>rtmp://live.wmncdn.net/livestream/ playpath=cb582cc2f3b08e0bbd1c9f3d23541e26.sdp swfUrl=http://player-apac-sing.webmobilive.com/jw/player.swf live=true timeout=15 pageUrl=http://zeesalaam.com/live/</link>
-<thumbnail>http://www.lyngsat-logo.com/hires/zz/zee_salaam.png</thumbnail>
-</item>
-
-<item>
 <title>Peace TV</title>
 <link>rtmp://peace.fms.visionip.tv/live/ playpath=b2b-peace_usa-live-25f-4x3-sdh_1 live=true timeout=15 swfUrl=http://www.peacetv.tv/templates/swf/player.swf pageUrl=http://www.peacetv.tv/</link>
 <thumbnail>http://upload.wikimedia.org/wikipedia/en/2/2f/Peace_TV_logo.png</thumbnail>
@@ -317,12 +305,5 @@
 <link><link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=UiGzihK84XA#t=3591061</link></link>
 <thumbnail>http://www.lyngsat-logo.com/hires/zz/zee_news.png</thumbnail>
 </item>
-
-<item>
-<title>Zee Business</title>
-<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=1kzXPNQ7LPc</link>
-<thumbnail>http://dl.siemens.c.nmdn.net/siemens/titles/19/assets/images/5105a94b-c0fd-4a5f-ae31-a8a6300ebd41_zee-business_web_Active_webPosterLS2.png</thumbnail>
-</item>
-
 
 </channel>

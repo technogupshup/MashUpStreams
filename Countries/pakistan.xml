@@ -53,12 +53,6 @@
 </item>
 
 <item>
-<title>Hadi TV</title>
-<link>rtmp://live1.haditv.com/liveTrans/ playpath=channel1_110k swfUrl=http://www.primcast.com/jwplayer5/player.swf live=true timeout=15 pageUrl=http://www.haditv.com/dmn/1/lang/ur/homepage.html</link>
-<thumbnail>http://cdn7.staztic.com/app/a/1173/1173209/hadi-tv-4-l-124x124.png</thumbnail>
-</item>
-
-<item>
 <title>KTN News</title>
 <link>rtmp://watch.dmasti.pk/kashish playpath=ktnnews swfUrl=http://ktntv.tv/ktnnews/player/player.swf pageUrl=http://ktntv.tv/ktnnews/livetv/player.php?chn=ktnnews</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/kk/ktn_news.png</thumbnail>
@@ -74,12 +68,6 @@
 <title>PTV World</title>
 <link>rtmp://live.server4sale.com/live playpath=8090 swfUrl=http://live.server4sale.com:81/swfs/videoPlayer.swf live=true timeout=15 pageUrl=http://home.ptv.com.pk/PTVWorldStreaming.asp</link>
 <thumbnail>http://upload.wikimedia.org/wikipedia/en/b/bd/PTV_World_(logo).jpg</thumbnail>
-</item>
-
-<item>
-<title>PTV Global</title>
-<link>rtmp://ptvglobalRTMP.giniko.com:1935/livepkgr/ playpath=ptvglobal?adbe-live-event=liveevent&adbe-record-mode=record swfUrl=http://www.giniko.com/jwplayer/jwplayer.flash.swf live=true timeout=15 pageUrl=http://www.giniko.com/watch.php?id=82</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/pp/ptv_global_uk_europe.jpg</thumbnail>
 </item>
 
 </channel>

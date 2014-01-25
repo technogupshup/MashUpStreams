@@ -43,7 +43,7 @@
 
 <item>
 <title>Star Plus</title>
-<link>rtmp://77.81.98.138/dms/ playpath=starplushd swfUrl=http://www.castok.com/jwplayer/jwplayer.flash.swf live=true timeout=15 pageUrl=http://www.castok.com/embed.php?v=starplushd&vw=600&vh=450&typeplayer=0&domain=pogotv.eu</link>
+<link>rtsp://93.120.27.78:1935/live/splusso</link>
 <thumbnail>http://www.tonylinkson.com/projects/files/gimgs/48_tlsp002.jpg</thumbnail>
 </item>
 

@@ -36,7 +36,7 @@
 
 <item>
 <title>Star Movies</title>
-<link>http://89.149.156.212/flv/52b1ce460c113/testat123?0.7667182651348412</link>
+<link>http://213.254.202.148/flv/52df22a1062b5/testat123?0.19240434980019927</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ss/star_movies_tw_hd.png</thumbnail>
 </item>
 
@@ -179,12 +179,6 @@
 </item>
 
 <item>
-<title>Vanitha TV</title>
-<link>rtmp://cdn.m.yupptv.tv:1935/liveorigin playpath=vanitha9001 swfUrl=http://cdn.freedocast.com/player-octo/yume/v5/infinite-hd-player-YUPPTV.SWF live=true timeout=15 pageUrl=http://yupptv.com/streams/vanitha.aspx</link>
-<thumbnail>http://upload.wikimedia.org/wikipedia/en/7/7e/Vanitha_tv-logo.jpg</thumbnail>
-</item>
-
-<item>
 <title>Janasari News</title>
 <link>rtmp://cdn.m.yupptv.tv:1935/liveorigin playpath=channel81 swfUrl=http://cdn.freedocast.com/player-octo/yume/v5/infinite-hd-player-YUPPTV.SWF live=true timeout=15 pageUrl=http://www.yupptv.com/streams/janasrinews.aspx</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/jj/janasri_news.jpg</thumbnail>
@@ -289,7 +283,7 @@
 
 <item>
 <title>Zee Cinema</title>
-<link>http://213.254.202.20/flv/4dd469a36a357/testat123?0.3170041861012578</link></link>
+<link>http://213.254.202.13/flv/4dd469a36a357/testat123?0.4231511107645929</link></link>
 </thumbnail>http://images.wikia.com/logopedia/images/4/48/Zee_Cinema_2011.png</thumbnail>
 </item>
 

@@ -35,12 +35,6 @@
 </item>
 
 <item>
-<title>A1 TV</title>
-<link>rtmp://a1tv.cdnvideo.ru/a1tv-live playpath=22 swfUrl=http://aonehiphop.ru/static/js/player.swf live=true timeout=15 pageUrl=http://aonehiphop.ru/channel/live/</link>
-<thumbnail>http://ing-sat.what.hu/images/logo-insert/satlogos/russia/362-A-One-TV[1].jpg</thumbnail>
-</item>
-
-<item>
 <title>RT2</title>
 <link>rtmp://fms5.visionip.tv/live playpath=RT_2 swfUrl=http://rt.com/s/swf/player.swf?streamer=rtmp://fms5.visionip.tv/live&file=RT_2.flv&autostart=true pageUrl=http://www.watchfomny.com/Video/Russia/Russia-Today/Russia-Today.htm</link>
 <thumbnail>http://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/200px-Russia-today-logo.svg.png</thumbnail>

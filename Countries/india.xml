@@ -59,12 +59,6 @@
 </item>
 
 <item>
-<title>AAJ TAK</title>
-<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=4ORjYnrd7SE</link>
-<thumbnail>http://www.media247.co.uk/bizasia/wp-content/uploads/2012/05/aajtak001.jpg</thumbnail>
-</item>
-
-<item>
 <title>NEWS-24</title>
 <link>http://d1vfuy3zwrxiut.cloudfront.net/live/_definst_/sweetbcha1novD36_W_150.sdp/playlist.m3u8</link>
 <thumbnail>http://sindhworld.com/images/News%2024%20India.png</thumbnail>
@@ -265,7 +259,7 @@
 
 <item>
 <title>ZEE SMILE</title>
-<link>rtmp://50.7.175.253:1939/base2 playpath=dd16.stream swfUrl=http://desilivetv.net/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=true timeout=15 pageUrl=http://desilivetv.net/zee-smile/</link>
+<link>rtmp://50.7.175.253:1939/base2 playpath=dd16.stream  swfUrl=http://desilivetv.net/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=true timeout=15 pageUrl=http://desilivetv.net/zee-smile/</link>
 <thumbnail>http://www.turbotv.in/wp-content/uploads/2012/11/Zee_Smile-logo.png</thumbnail>
 </item>
 

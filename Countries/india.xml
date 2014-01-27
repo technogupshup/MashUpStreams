@@ -48,7 +48,7 @@
 
 <item>
 <title>Sony Mix</title>
-<link>rtmp://50.7.175.253:1939/base2 playpath=dd17.stream swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=true timeout=15 pageUrl=http://www.turbotv.in/b4u-music/</link>
+<link>rtmp://50.7.175.253:1939/base2 playpath=dd17.stream swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=true timeout=60 pageUrl=http://www.turbotv.in/b4u-music/</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ss/sony_mix_in.png</thumbnail>
 </item>
 

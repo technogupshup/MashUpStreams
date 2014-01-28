@@ -35,8 +35,8 @@
 </item>
 
 <item>
-<title>KIKA</title>
-<link>http://88.212.11.206:5000/live/30/30.m3u8</link>
+<title>KIKA  [COLOR=FFFF0000]Geo Blocked In Some Areas[/COLOR]</title>
+<link>rtmp://85.239.122.162/live playpath=mk3w-csa4-18ew-encw-kika swfUrl=http://kikaplus.net/clients/kika/player/public/player/KIKALivePlayer.swf live=true timeout=15 pageUrl=http://kikaplus.net/clients/kika/player/tvplayer.php</link>
 <thumbnail>http://file1.npage.de/009857/81/bilder/logo_kika.gif</thumbnail>
 </item>
 
@@ -54,7 +54,7 @@
 
 <item>
 <title>WDR</title>
-<link>http://88.212.11.205:5000/live/9/9.m3u8</link>
+<link>rtmp://gffstream.fc.llnwd.net:1935/gffstream/003 playpath=wdrfs_h264_l_a swfUrl=http://www.wdr.de/themen/global/flashplayer/wsPlayer.swf live=true timeout=15 pageUrl=http://www1.wdr.de/mediathek/video/livestream/index.html</link>
 <thumbnail>http://www1.wdr.de/themen/resources/img/logos/wdr.gif</thumbnail>
 </item>
 
@@ -71,15 +71,9 @@
 </item>
 
 <item>
-<title>ZDF HD</title>
-<link>http://94.26.50.3:9090/udp/239.255.6.2:10001</link>
+<title>ZDF HD  [COLOR=FFFF0000]Geo Blocked In Some Areas[/COLOR]</title>
+<link>rtmp://zdf.fc.llnwd.net:1935/zdf/_definst_ playpath=zdf_meta swfUrl=http://www.zdf.de/ZDFmediathek/flash/data/swf/LimelightStreamingPlugin.swf live=true timeout=15 pageUrl=http://www.zdf.de/ZDFmediathek/beitrag/live/1822600/ZDF</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/zz/zdf_de_hd.jpg</thumbnail>
-</item>
-
-<item>
-<title>EINSFESTIVAL</title>
-<link>http://94.26.50.3:9090/udp/239.255.5.98:10001</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/ard_eins_festival.jpg</thumbnail>
 </item>
 
 <item>
@@ -96,26 +90,8 @@
 
 <item>
 <title>RTL</title>
-<link>http://94.26.50.3:9090/udp/239.255.7.3:10001</link>
+<link>rtmp://wowza02.newmedia.lu/channel1/ playpath=live swfUrl=http://i.rtl.lu/common/js/jwplayer/jwplayer.flash.swf live=true timeout=15 pageUrl=http://tele.rtl.lu/livestream/</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/rr/rtl_at.jpg</thumbnail>
-</item>
-
-<item>
-<title>SUPER RTL</title>
-<link>http://94.26.50.3:9090/udp/239.255.7.6:10001</link>
-<thumbnail>http://www.lyngsat-logo.com/hires/ss/super_rtl.png</thumbnail>
-</item>
-
-<item>
-<title>RTL II</title>
-<link>http://94.26.50.3:9090/udp/239.255.7.5:10001</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/rr/rtl2_at.jpg</thumbnail>
-</item>
-
-<item>
-<title>Das Erste</title>
-<link>http://webtv-aarh-6.stofa.dk:80/253_01.m3u8?kivgiverkager=1</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/ard_das_erste.jpg</thumbnail>
 </item>
 
 <item>
@@ -125,44 +101,26 @@
 </item>
 
 <item>
-<title>ARD Das Erste HD</title>
-<link>http://94.26.50.3:9090/udp/239.255.5.94:10001</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/ard_das_erste_hd.jpg</thumbnail>
-</item>
-
-<item>
-<title>ARTE HD</title>
+<title>ARTE HD  [COLOR=FFFF0000]Geo Blocked In Some Areas[/COLOR]</title>
 <link>rtmp://rm-edge-4.cdn2.streamago.tv:80/streamagoedge/1926?idutente=1926&idcanale=819&pwd= playpath=819 swfUrl=http://www.streamago.tv/app/StreamVideo.swf live=ture timeout=15 pageUrl=http://www.streamago.tv/iframe/1926/</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/arte_de_hd.jpg</thumbnail>
 </item>
 
 <item>
-<title>ARD Das Erste</title>
-<link>http://88.212.11.206:5000/live/29/29.m3u8</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/ard_das_erste.jpg</thumbnail>
-</item>
-
-<item>
 <title>SAT1</title>
-<link>http://94.26.50.3:9090/udp/239.255.5.95:10001</link>
+<link>http://38.113.164.99:1935/toronto/sat1/chunklist.m3u8</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/sat1.jpg</thumbnail>
 </item>
 
 <item>
-<title>PRO 7</title>
-<link>http://149.255.37.194/hls/8615/index.m3u8</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/pp/pro_sieben_ch.jpg</thumbnail>
-</item>
-
-<item>
 <title>VOX</title>
-<link>http://94.26.50.3:9090/udp/239.255.7.4:10001</link>
+<link>http://38.113.164.99:1935/toronto/vox/SAT_TOTAL.m3u8</link>
 <thumbnail>http://4.bp.blogspot.com/-2_2zXUYZJHs/UW02asERLiI/AAAAAAAAAJM/GkUg6mll8X8/s1600/Vox.jpg</thumbnail>
 </item>
 
 <item>
 <title>Mühlviertel TV</title>
-<link>mms://wmsstream22.v4.mytv.ris.at/live/stream_149</link>
+<link>rtmp://sw6dh53qqk9ox.cloudfront.net/cfx/st/ playpath=mp4:videos-hl/live-5e4420db-eacb-4f38-a7f7-6272e157ec7b.mp4 swfUrl=http://www.muehlviertel.tv/static/jwplayer/jwplayer.flash.swf live=true timeout=15 pageUrl=http://www.muehlviertel.tv/live</link>
 <thumbnail>http://www.sterngartl-kutscher.at/content/media/muehlviertel-tv_logo.jpg</thumbnail>
 </item>
 
@@ -179,7 +137,7 @@
 </item>
 
 <item>
-<title>DW Europa</title>
+<title>DW Europa  [COLOR=FFFF0000]Geo Blocked In Some Areas[/COLOR]</title>
 <link>http://94.242.221.141/hls/a-lo/stream100.m3u8</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/dd/deutsche_welle_tv.jpg</thumbnail>
 </item>
@@ -203,12 +161,6 @@
 </item>
 
 <item>
-<title>SAT1</title>
-<link>http://88.212.11.206:5000/live/26/26.m3u8</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/sat1.jpg</thumbnail>
-</item>
-
-<item>
 <title>TV Aktuell</title>
 <link>http://tvaktuellr.iptv-playoutcenter.de:1935/tvaktuellr/tvaktuellr.stream_3/hasbahca.m3u8</link>
 <thumbnail>http://www.testberichte.de/imgs/p_imgs/RTL+RTL+Aktuell+(18.45+++19.10+Uhr)-55-55168.jpg</thumbnail>
@@ -221,7 +173,7 @@
 </item>
 
 <item>
-<title>TV Oberfranken 2</title>
+<title>TV Oberfranken (Link 2)</title>
 <link>http://tvoberfranken.iptv-playoutcenter.de:1935/tvoberfranken/tvoberfranken_2/hasbahca.m3u8</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/tt/tv_oberfranken.jpg</thumbnail>
 </item>

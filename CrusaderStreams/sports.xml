@@ -23,8 +23,10 @@
 
 <item>
 <title>Bein 11 [COLOR=FFFF0000]Updated Daily[/COLOR]</title>
-<link>rtmp://77.81.98.135/fms playpath=bein11  swfUrl=http://www.zcast.tv/player/player-licensed55.swf live=true timeout=15 pageUrl=http://www.zcast.tv/embed.php?v=hdembedbein11c4t4&vw=600&vh=450&video=0&domain=hdembed.com</link>
-<link>rtmp://77.81.98.130/fms app=fms Playpath=bein11 swfUrl=http://www.fbcast.tv/player/player-licensed.swf pageUrl=http://www.fbcast.tv/embed.php?v=beinss15m9b7&vw=600&vh=450&video=0&domain=hdembed.com live=1</link>
+<link>
+<sublink>rtmp://77.81.98.135/fms playpath=bein11  swfUrl=http://www.zcast.tv/player/player-licensed55.swf live=true timeout=15 pageUrl=http://www.zcast.tv/embed.php?v=hdembedbein11c4t4&vw=600&vh=450&video=0&domain=hdembed.com</sublink>
+<sublink>rtmp://77.81.98.130/fms app=fms Playpath=bein11 swfUrl=http://www.fbcast.tv/player/player-licensed.swf pageUrl=http://www.fbcast.tv/embed.php?v=beinss15m9b7&vw=600&vh=450&video=0&domain=hdembed.com live=1</sublink>
+</link>
 <thumbnail>http://i.imgur.com/yuzQdoY.jpg</thumbnail>
 </item>
 

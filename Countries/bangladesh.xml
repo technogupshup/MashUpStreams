@@ -109,9 +109,7 @@
 
 <item>
 <title>ATN News</title>
-<link>
-rtmpe://live.zzcast.com/live playpath=$doregex[id] swfUrl=http://5.79.71.199/player/playerzz.swf pageUrl=http://www.zzcast.com/ live=true timeout=15 token=%bwwpe(nKa@#.
-<regex>
+<link>rtmpe://live.zzcast.com/live playpath=$doregex[id] swfUrl=http://5.79.71.199/player/playerzz.swf pageUrl=http://www.zzcast.com/ live=true timeout=15 token=%bwwpe(nKa@#.<regex>
 <name>id</name>
 <expres>'file','([^']*)</expres>
 <page>http://www.zzcast.com/embed.php?u=atnnewsss&vw=600&vh=400</page>

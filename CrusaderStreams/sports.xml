@@ -20,6 +20,14 @@
 <thumbnail>http://upload.wikimedia.org/wikipedia/commons/3/32/The_flag_of_Syrian_Arab_Republic_Damascus%2C_Syria.jpg</thumbnail>
 </info>
 
+<notify>
+<new>2</new>
+<message1>New Links For Bein!</message1>
+<message2>your message</message2>
+<message3>your message</message3>
+<old>1</old>
+</notify>
+
 <item>
 <title>Bein 11 [COLOR=FFFF0000]Updated Daily[/COLOR]</title>
 <link>

@@ -85,7 +85,6 @@
 <item>
 <title>ATN News</title>
 <link>rtmpe://live.zzcast.com/live playpath=$doregex[id] swfUrl=http://5.79.71.199/player/playerzz.swf pageUrl=http://www.zzcast.com/ live=true timeout=15 token=%bwwpe(nKa@#.
-<thumbnail>http://www.livetvstreamingfree.com/wp-content/uploads/2012/10/ATN-News-Bangladesh-Logo.jpg</thumbnail>
 <regex>
 <name>id</name>
 <expres>'file','([^']*)</expres>
@@ -93,6 +92,7 @@
 <referer>http://www.jagobd.com</referer>
 </regex>
 </link>
+<thumbnail>http://www.livetvstreamingfree.com/wp-content/uploads/2012/10/ATN-News-Bangladesh-Logo.jpg</thumbnail>
 </item>
 
 <item>

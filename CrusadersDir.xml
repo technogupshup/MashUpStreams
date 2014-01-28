@@ -4,17 +4,10 @@
 #######################################################################################################################################
 <info>
 <message>[COLOR=FF00FF00]Report dead links at my twitter @crus88_mashup [/COLOR]</message>
-<thumbnail> </thumbnail>
+<thumbnail>http://img834.imageshack.us/img834/7852/928o.png</thumbnail>
 </info>
 ##############################################################################################################################
 
-<notify>
-<new>2</new>
-<message1>New Links For Bein!</message1>
-<message2>your message</message2>
-<message3>your message</message3>
-<old>1</old>
-</notify>
 
 <name>General</name>
 <link>https://github.com/mash2k3/MashUpStreams/raw/master/CrusaderStreams/general.xml</link>

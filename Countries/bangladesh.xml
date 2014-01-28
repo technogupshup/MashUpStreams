@@ -84,15 +84,20 @@
 
 <item>
 <title>ATN News</title>
-<link>rtmpe://live.zzcast.com/live playpath=atnews0002233556688995666.stream swfUrl=http://5.79.71.199/player/playe.swf pageUrl=http://www.zzcast.com/embed.php?u=atnnewsss&vw=600&vh=400 live=true timeout=15</link>
-<thumbnail>http://www.livetvstreamingfree.com/wp-content/uploads/2012/10/ATN-News-Bangladesh-Logo.jpg</thumbnail>
-</item>
+<link>rtmpe://live.zzcast.com/live playpath=$doregex[id] swfUrl=http://5.79.71.199/player/playerzz.swf pageUrl=http://www.zzcast.com/ live=true timeout=15 token=%bwwpe(nKa@#.</link>
+ <thumbnail>http://www.livetvstreamingfree.com/wp-content/uploads/2012/10/ATN-News-Bangladesh-Logo.jpg</thumbnail>
+ <regex>
+ <name>id</name>
+ <expres>'file','([^']*)</expres>
+ <page>http://www.zzcast.com/embed.php?u=atnnewsss&vw=600&vh=400</page>
+ <referer>http://www.jagobd.com</referer>
+ </regex>
+ </item>
 
 <item>
 <title>ATN Bangla TV</title>
 <link>rtmpe://live.zzcast.com/live playpath=atnbd00022313114455666.stream swfUrl=http://5.79.71.199/player/playe.swf pageUrl=http://www.zzcast.com/embed.php?u=atsnbds&vw=600&vh=400&domain=www.jagobd.com live=true timeout=15</link>
 <thumbnail>http://www.media247.co.uk/bizasia/wp-content/uploads/2013/01/atn_bangla001.jpg</thumbnail>
-</item>
 
 
 <item>

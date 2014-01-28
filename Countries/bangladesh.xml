@@ -84,7 +84,8 @@
 
 <item>
 <title>ATN News</title>
-<link>rtmpe://live.zzcast.com/live playpath=$doregex[id] swfUrl=http://5.79.71.199/player/playerzz.swf pageUrl=http://www.zzcast.com/ live=true timeout=15 token=%bwwpe(nKa@#.
+<link>
+rtmpe://live.zzcast.com/live playpath=$doregex[id] swfUrl=http://5.79.71.199/player/playerzz.swf pageUrl=http://www.zzcast.com/ live=true timeout=15 token=%bwwpe(nKa@#.
 <regex>
 <name>id</name>
 <expres>'file','([^']*)</expres>
@@ -99,7 +100,7 @@
 <title>ATN Bangla TV</title>
 <link>rtmpe://live.zzcast.com/live playpath=atnbd00022313114455666.stream swfUrl=http://5.79.71.199/player/playe.swf pageUrl=http://www.zzcast.com/embed.php?u=atsnbds&vw=600&vh=400&domain=www.jagobd.com live=true timeout=15</link>
 <thumbnail>http://www.media247.co.uk/bizasia/wp-content/uploads/2013/01/atn_bangla001.jpg</thumbnail>
-
+</item>
 
 <item>
 <title>Rupashi Bangla</title>

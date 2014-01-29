@@ -121,18 +121,4 @@ rtmpe://live.zzcast.com/live playpath=$doregex[id] swfUrl=http://5.79.71.199/pla
 <thumbnail>http://www.livetvstreamingfree.com/wp-content/uploads/2012/10/ATN-News-Bangladesh-Logo.jpg</thumbnail>
 </item>
 
-
-<item>
-<title>Test Mash2</title>
-<link>
-$doregex[rtmp] playpath=aplus  swfUrl=http://www.eboundservices.com/live/player.swf?  pageUrl=http://www.eboundservices.com/iframe/new/iframe.php?streamer=streamer35&app=tv&stream=aplus&width=480&height=270 live=1 timeout=15
-<regex>
-<name>rtmp</name>
-<expres>'streamer','([^']+)'</expres>
-<page>http://www.eboundservices.com/iframe/new/iframe.php?streamer=streamer35&amp;app=tv&amp;stream=aplus&amp;width=480&amp;height=270</page>
-<referer>http://www.eboundservices.com:8888/users/aplus/aplus_iframe.htm</referer>
-</regex>
-</link>
-<thumbnail>http://www.dramaonlinetv.com/wp-content/uploads/2012/07/A-Plus-TV-Pakistan.jpg</thumbnail>
-</item>
 </channel>

@@ -5,6 +5,24 @@
 <thumbnail></thumbnail>
 
 <item>
+<title>Tolo News [COLOR=FFFF0000]HD[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=DF2b9ehhHho#t=43716</link>
+<thumbnail>http://aria-tv.com/images/tolo_news.png</thumbnail>
+</item>
+
+<item>
+<title>Tolo</title>
+<link>http://38.117.88.77/Tolo?TICKET/path/to/media.file</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/en/0/01/Tolo.jpg</thumbnail>
+</item>
+
+<item>
+<title>Payam E Afghan</title>
+<link>http://38.117.88.77/PayamEAfghan?TICKET/path/to/media.file</link>
+<thumbnail>http://www.afghanfun.com/wp-content/uploads/2012/10/payam-afghan.png</thumbnail>
+</item>
+
+<item>
 <title>Hewad TV [COLOR=FFFF0000]This Channel is live for 12 Hours[/COLOR]</title>
 <link>rtmp://64.37.60.10:1935/live playpath=hewadlive swfUrl=http://www.hewad.tv/tvshow/player/player.swf live=true timeout=15 pageUrl=http://www.hewad.tv/</link>
 <thumbnail>http://www.hgsitebuilder.com/files/writeable/uploads/hostgator237883/image/hewad_tv-www.hewad.tv.jpg</thumbnail>
@@ -47,111 +65,15 @@
 </item>
 
 <item>
+<title>Makkah Live</title>
+<link>http://iphone-streaming.ustream.tv/ustreamVideo/15134415/streams/live/playlist.m3u8</link>
+<thumbnail>http://www.jagobd.com/wp-content/uploads/2012/09/ZiPJL-300x220.jpg</thumbnail>
+</item>
+
+<item>
 <title>Nour TV</title>
 <link>rtmp://nourtv.net:1935/nourtv_web playpath=livestream swfUrl=http://www.nourtv.net/swfs/StrobeMediaPlayback.swf live=true timeout=15 pageUrl=http://www.nourtv.net/</link>
 <thumbnail>https://lh3.ggpht.com/S1BrZFJw5CcbFS_f8dCrameC5X5fcZqAwqaT8KCUZbTZJ4oTz1j40rsBRt3keNiZIDI=w170</thumbnail>
-</item>
-
-<item>
-<title>IRIB TV 3</title>
-<link>rtmp://iriptv.com/iriptvserver3 playpath=23.stream swfUrl=http://iriptv.com/player/player.swf live=true timeout=15 pageUrl=http://iriptv.com/web/irib%20tv.php</link>
-<thumbnail>http://tv360.us/wp-content/uploads/2013/09/IRIB3-Iran.jpg</thumbnail>
-</item>
-
-<item>
-<title>Sport 9</title>
-<link>rtmp://iriptv.com/iriptvserver3 playpath=20.stream swfUrl=http://iriptv.com/player/player.swf live=true timeout=15 pageUrl=http://iriptv.com/web/irib%20tv.php</link>
-<thumbnail>http://erooni.tv/img/channels/12-101.jpg</thumbnail>
-</item>
-
-<item>
-<title>Tolo [COLOR=FFFF0000]If channel is not working. STOP and Reply[/COLOR]</title>
-<link>http://38.117.88.77/Tolo?TICKET/path/to/media.file</link>
-<thumbnail>http://upload.wikimedia.org/wikipedia/en/0/01/Tolo.jpg</thumbnail>
-</item
-
-<item>
-<title>Jaam E Jam 2</title>
-<link>rtmp://iriptv.com/iriptvserver3 playpath=28.stream swfUrl=http://iriptv.com/player/player.swf live=true timeout=15 pageUrl=http://iriptv.com/web/irib%20tv.php</link>
-<thumbnail>http://www.radioshahab.com/images/jaam-e-jam_1.png</thumbnail>
-</item>
-
-<item>
-<title>Jaam E Jam 1</title>
-<link>rtmp://live.kashef.cdn.liveirib.ir/live-e playpath=jjtvn1-2.sdp swfUrl=http://live.irib.ir/player.swf live=true timeout=15 pageUrl=http://live.irib.ir/index.php?cat_id=10&type=256&dif=0&id=2</link>
-<thumbnail>http://www.radioshahab.com/images/jaam-e-jam_1.png</thumbnail>
-</item>
-
-<item>
-<title>Payam E Afghan</title>
-<link>http://38.117.88.77/PayamEAfghan?TICKET/path/to/media.file</link>
-<thumbnail>http://www.afghanfun.com/wp-content/uploads/2012/10/payam-afghan.png</thumbnail>
-</item>
-
-<item>
-<title>Euronews Farsi</title>
-<link>rtmp://fr-par-10-stream-relay.hexaglobe.net:1935/rtpeuronewslive playpath=pe_video750_rtp.sdp swfUrl=http://persian.euronews.com/media/player_live_1_14.swf live=true timeout=15 pageUrl=http://persian.euronews.com/news/streaming-live/</link>
-<thumbnail>http://1.bp.blogspot.com/-A0wx-qfBN-Y/UEhNWdZhDHI/AAAAAAAAa64/GwriqDM1BPY/s400/euronews.jpg</thumbnail>
-</item>
-
-<item>
-<title>Tolo News [COLOR=FFFF0000]HD[/COLOR]</title>
-<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=DF2b9ehhHho#t=43716</link>
-<thumbnail>http://aria-tv.com/images/tolo_news.png</thumbnail>
-</item>
-
-<item>
-<title>MTC</title>
-<link>rtmp://mellitv.tulix.tv/mellitv playpath=myStream.sdp swfUrl=http://iriptv.com/player/player.swf live=true timeout=15 pageUrl=http://iriptv.com/web/index.php</link>
-<thumbnail>http://www.lyngsat-logo.com/hires/mm/mtc.png</thumbnail>
-</item>
-
-<item>
-<title>Face 1</title>
-<link>rtmp://iriptv.com/iriptvserver2 playpath=7.stream swfUrl=http://iriptv.com/player/player.swf live=true timeout=15 pageUrl=http://iriptv.com/web/index.php</link>
-<thumbnail>http://www.8pic.ir/images/r9v4udb6los78orxw87s_thumb.jpg</thumbnail>
-</item>
-
-<item>
-<title>AAA Family</title>
-<link>rtmp://iriptv.com/iriptvserver2 playpath=9.stream swfUrl=http://iriptv.com/player/player.swf live=true timeout=15 pageUrl=http://iriptv.com/web/index.php</link>
-<thumbnail>http://www.lyngsat-logo.com/hires/aa/aaa_family.png</thumbnail>
-</item>
-
-<item>
-<title>AAA Music</title>
-<link>rtmp://iriptv.com/iriptvserver3 playpath=30.stream swfUrl=http://iriptv.com/player/player.swf live=true timeout=15 pageUrl=http://iriptv.com/web/index.php</link>
-<thumbnail>http://www.lyngsat-logo.com/hires/aa/aaa_music.png</thumbnail>
-</item>
-
-<item>
-<title>IFilm</title>
-<link>rtmp://live.cdn.kashef.bz/live-e playpath=ifilm-2.sdp swfUrl=http://iriptv.com/player/player.swf live=true timeout=15 pageUrl=http://iriptv.com/web/irib%20tv.php</link>
-<thumbnail>https://www.wherever.tv/partners/arabic/images/ifilm.png</thumbnail>
-</item>
-
-<item>
-<title>Gem TV</title>
-<link>rtmp://iriptv.com/iriptvserver3 playpath=25.stream swfUrl=http://iriptv.com/player/player.swf live=true timeout=15 pageUrl=http://iriptv.com/web/index.php</link>
-<thumbnail>http://www.lyngsat-logo.com/hires/gg/gem_tv_ae.png</thumbnail>
-</item>
-
-<item>
-<title>PMC</title>
-<link>rtmp://iriptv.com/iriptvserver2 playpath=10.stream swfUrl=http://iriptv.com/player/player.swf live=true timeout=15 pageUrl=http://iriptv.com/web/index.php</link>
-<thumbnail>http://img6.mynet.com/ha7/p/pmc.jpg</thumbnail>
-</item>
-
-<item>
-<title>Toon</title>
-<link>rtmp://iriptv.com/iriptvserver3 playpath=17.stream swfUrl=http://iriptv.com/player/player.swf live=true timeout=60 pageUrl=http://iriptv.com/web/index.php</link>
-<thumbnail>https://fbcdn-profile-a.akamaihd.net/hprofile-ak-prn1/c25.25.309.309/s160x160/1148910_589053007821342_2053424282_n.png</thumbnail>
-</item>
-
-<item>
-<title>Farsi 1</title>
-<link>rtmp://iriptv.com/iriptvserver2 playpath=14.stream swfUrl=http://iriptv.com/player/player.swf live=true timeout=15 pageUrl=http://iriptv.com/web/index.php</link>
-<thumbnail>http://www.lyngsat-logo.com/hires/ff/farsi1.png</thumbnail>
 </item>
 
 <item>
@@ -209,51 +131,9 @@
 </item>
 
 <item>
-<title>Makkah Live</title>
-<link>http://iphone-streaming.ustream.tv/ustreamVideo/15134415/streams/live/playlist.m3u8</link>
-<thumbnail>http://www.jagobd.com/wp-content/uploads/2012/09/ZiPJL-300x220.jpg</thumbnail>
-</item>
-
-<item>
-<title>Bidari</title>
-<link>rtsp://bidari.streamwebtown.com/bidaritv</link>
-<thumbnail>http://www.glwiz.com/web/epg/images/cim_303556.png</thumbnail>
-</item>
-
-<item>
 <title>VOA</title>
 <link>rtmp://iriptv.com/iriptvserver3 playpath=32.stream swfUrl=http://iriptv.com/player/player.swf live=ture timeout=15 pageUrl=http://iriptv.com/web/index.php</link>
 <thumbnail>http://www.engineeringradio.us/blog/wp-content/uploads/2011/06/Voice_of_America_Logo.png</thumbnail>
-</item>
-
-<item>
-<title>BBC Farsi</title>
-<link>rtmp://iriptv.com/iriptvserver2 playpath=16.stream swfUrl=http://iriptv.com/player/player.swf live=ture timeout=60 pageUrl=http://iriptv.com/web/index.php</link>
-<thumbnail>http://static.guim.co.uk/sys-images/Guardian/About/General/2012/3/14/1331728105752/bbc-persian-tv-007.jpg</thumbnail>
-</item>
-
-<item>
-<title>IRIB 1</title>
-<link>rtmp://live.kashef.cdn.liveirib.ir/live-e playpath=irib1-2.sdp swfUrl=http://live.irib.ir/player.swf live=ture timeout=15 pageUrl=http://live.irib.ir/index.php?cat_id=1&type=256&dif=0&id=2</link>
-<thumbnail>http://247-365.ir/wp-content/pic/tv_logo/IRIB1.png</thumbnail>
-</item>
-
-<item>
-<title>Sahar TV 1</title>
-<link>rtsp://sahar1.live.hypercdn.com/live-35895787/sahartv1-512.sdp</link>
-<thumbnail>http://www.ashura.tv/live-tv/sahar-tv/logo.jpg</thumbnail>
-</item>
-
-<item>
-<title>Sahar TV 2</title>
-<link>rtmp://sahar2.live.hypercdn.com/live-558787594 playpath=sahartv2-512.sdp swfUrl=http://www.sahartv.ir/live/player.swf live=true timeout=60 pageUrl=http://www.sahartv.ir/live/sahar2.flv.html</link>
-<thumbnail>http://www.ashura.tv/live-tv/sahar-tv/logo.jpg</thumbnail>
-</item>
-
-<item>
-<title>Khatereh TV</title>
-<link>rtmp://iriptv.com/iriptv playpath=33 swfUrl=http://iriptv.com/player/player.swf live=true timeout=15 pageUrl=http://iriptv.com/web/index.php</link>
-<thumbnail>http://www.lyngsat-logo.com/hires/kk/khatereh_tv.png</thumbnail>
 </item>
 
 </channel>

@@ -5,28 +5,129 @@
 <thumbnail></thumbnail>
 
 <item>
+<title>IRIB TV 3</title>
+<link>rtmp://iriptv.com/iriptvserver3 playpath=23.stream swfUrl=http://iriptv.com/player/player.swf live=true timeout=15 pageUrl=http://iriptv.com/web/irib%20tv.php</link>
+<thumbnail>http://tv360.us/wp-content/uploads/2013/09/IRIB3-Iran.jpg</thumbnail>
+</item>
+
+<item>
+<title>Sport 9</title>
+<link>rtmp://iriptv.com/iriptvserver3 playpath=20.stream swfUrl=http://iriptv.com/player/player.swf live=true timeout=15 pageUrl=http://iriptv.com/web/irib%20tv.php</link>
+<thumbnail>http://erooni.tv/img/channels/12-101.jpg</thumbnail>
+</item>
+
+<item>
+<title>Jaam E Jam 2</title>
+<link>rtmp://iriptv.com/iriptvserver3 playpath=28.stream swfUrl=http://iriptv.com/player/player.swf live=true timeout=15 pageUrl=http://iriptv.com/web/irib%20tv.php</link>
+<thumbnail>http://www.radioshahab.com/images/jaam-e-jam_1.png</thumbnail>
+</item>
+
+<item>
+<title>Jaam E Jam 1</title>
+<link>rtmp://live.kashef.cdn.liveirib.ir/live-e playpath=jjtvn1-2.sdp swfUrl=http://live.irib.ir/player.swf live=true timeout=15 pageUrl=http://live.irib.ir/index.php?cat_id=10&type=256&dif=0&id=2</link>
+<thumbnail>http://www.radioshahab.com/images/jaam-e-jam_1.png</thumbnail>
+</item>
+
+<item>
+<title>Euronews Farsi</title>
+<link>rtmp://fr-par-10-stream-relay.hexaglobe.net:1935/rtpeuronewslive playpath=pe_video750_rtp.sdp swfUrl=http://persian.euronews.com/media/player_live_1_14.swf live=true timeout=15 pageUrl=http://persian.euronews.com/news/streaming-live/</link>
+<thumbnail>http://1.bp.blogspot.com/-A0wx-qfBN-Y/UEhNWdZhDHI/AAAAAAAAa64/GwriqDM1BPY/s400/euronews.jpg</thumbnail>
+</item>
+
+<item>
+<title>MTC</title>
+<link>rtmp://mellitv.tulix.tv/mellitv playpath=myStream.sdp swfUrl=http://iriptv.com/player/player.swf live=true timeout=15 pageUrl=http://iriptv.com/web/index.php</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/mm/mtc.png</thumbnail>
+</item>
+
+<item>
+<title>Face 1</title>
+<link>rtmp://iriptv.com/iriptvserver2 playpath=7.stream swfUrl=http://iriptv.com/player/player.swf live=true timeout=15 pageUrl=http://iriptv.com/web/index.php</link>
+<thumbnail>http://www.8pic.ir/images/r9v4udb6los78orxw87s_thumb.jpg</thumbnail>
+</item>
+
+<item>
+<title>AAA Family</title>
+<link>rtmp://iriptv.com/iriptvserver2 playpath=9.stream swfUrl=http://iriptv.com/player/player.swf live=true timeout=15 pageUrl=http://iriptv.com/web/index.php</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/aa/aaa_family.png</thumbnail>
+</item>
+
+<item>
+<title>AAA Music</title>
+<link>rtmp://iriptv.com/iriptvserver3 playpath=30.stream swfUrl=http://iriptv.com/player/player.swf live=true timeout=15 pageUrl=http://iriptv.com/web/index.php</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/aa/aaa_music.png</thumbnail>
+</item>
+
+<item>
+<title>IFilm</title>
+<link>rtmp://live.cdn.kashef.bz/live-e playpath=ifilm-2.sdp swfUrl=http://iriptv.com/player/player.swf live=true timeout=15 pageUrl=http://iriptv.com/web/irib%20tv.php</link>
+<thumbnail>https://www.wherever.tv/partners/arabic/images/ifilm.png</thumbnail>
+</item>
+
+<item>
+<title>Gem TV</title>
+<link>rtmp://iriptv.com/iriptvserver3 playpath=25.stream swfUrl=http://iriptv.com/player/player.swf live=true timeout=15 pageUrl=http://iriptv.com/web/index.php</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/gg/gem_tv_ae.png</thumbnail>
+</item>
+
+<item>
+<title>PMC</title>
+<link>rtmp://iriptv.com/iriptvserver2 playpath=10.stream swfUrl=http://iriptv.com/player/player.swf live=true timeout=15 pageUrl=http://iriptv.com/web/index.php</link>
+<thumbnail>http://img6.mynet.com/ha7/p/pmc.jpg</thumbnail>
+</item>
+
+<item>
+<title>Toon</title>
+<link>rtmp://iriptv.com/iriptvserver3 playpath=17.stream swfUrl=http://iriptv.com/player/player.swf live=true timeout=60 pageUrl=http://iriptv.com/web/index.php</link>
+<thumbnail>https://fbcdn-profile-a.akamaihd.net/hprofile-ak-prn1/c25.25.309.309/s160x160/1148910_589053007821342_2053424282_n.png</thumbnail>
+</item>
+
+<item>
+<title>Farsi 1</title>
+<link>rtmp://iriptv.com/iriptvserver2 playpath=14.stream swfUrl=http://iriptv.com/player/player.swf live=true timeout=15 pageUrl=http://iriptv.com/web/index.php</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/ff/farsi1.png</thumbnail>
+</item>
+
+<item>
+<title>Bidari</title>
+<link>rtsp://bidari.streamwebtown.com/bidaritv</link>
+<thumbnail>http://www.glwiz.com/web/epg/images/cim_303556.png</thumbnail>
+</item>
+
+<item>
+<title>BBC Farsi</title>
+<link>rtmp://iriptv.com/iriptvserver2 playpath=16.stream swfUrl=http://iriptv.com/player/player.swf live=ture timeout=60 pageUrl=http://iriptv.com/web/index.php</link>
+<thumbnail>http://static.guim.co.uk/sys-images/Guardian/About/General/2012/3/14/1331728105752/bbc-persian-tv-007.jpg</thumbnail>
+</item>
+
+<item>
+<title>IRIB 1</title>
+<link>rtmp://live.kashef.cdn.liveirib.ir/live-e playpath=irib1-2.sdp swfUrl=http://live.irib.ir/player.swf live=ture timeout=15 pageUrl=http://live.irib.ir/index.php?cat_id=1&type=256&dif=0&id=2</link>
+<thumbnail>http://247-365.ir/wp-content/pic/tv_logo/IRIB1.png</thumbnail>
+</item>
+
+<item>
+<title>Sahar TV 1</title>
+<link>rtsp://sahar1.live.hypercdn.com/live-35895787/sahartv1-512.sdp</link>
+<thumbnail>http://www.ashura.tv/live-tv/sahar-tv/logo.jpg</thumbnail>
+</item>
+
+<item>
+<title>Sahar TV 2</title>
+<link>rtmp://sahar2.live.hypercdn.com/live-558787594 playpath=sahartv2-512.sdp swfUrl=http://www.sahartv.ir/live/player.swf live=true timeout=60 pageUrl=http://www.sahartv.ir/live/sahar2.flv.html</link>
+<thumbnail>http://www.ashura.tv/live-tv/sahar-tv/logo.jpg</thumbnail>
+</item>
+
+<item>
+<title>Khatereh TV</title>
+<link>rtmp://iriptv.com/iriptv playpath=33 swfUrl=http://iriptv.com/player/player.swf live=true timeout=15 pageUrl=http://iriptv.com/web/index.php</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/kk/khatereh_tv.png</thumbnail>
+</item>
+
+<item>
 <title>AFNL</title>
 <link>http://38.117.88.153/AFNLink?baseURLs=http://www.afnl.com/FirefoxHTMLShellOpenCommand&MSWMExt=.asf</link>
 <thumbnail>http://wwitv.com/tvlogos/b3933.jpg</thumbnail>
-</item>
-
-<item>
-<title>Alalam</title>
-<link>rtmp://hd6.lsops.net/live/ playpath=alalam_ar_584 swfUrl=http://static.ls-cdn.com/player/5.10/livestation-player.swf?1385302228 live=true timeout=15 pageUrl=http://www.livestation.com/en/alalam</link>
-<thumbnail>http://www.724.tv/Eserler/Resim/Alalam.jpg</thumbnail>
-</item>
-
-<item>
-<title>Alalam (Link 2)</title>
-<link>http://hd6.lsops.net/live/alalam_ar_hls.smil/playlist.m3u8</link>
-<thumbnail>http://www.724.tv/Eserler/Resim/Alalam.jpg</thumbnail>
-</item>
-
-
-<item>
-<title>Ictimai TV</title>
-<link>http://ASX.JahanTV.Com/Ictimai-TV.asx</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/ii/ictimai_tv.jpg</thumbnail>
 </item>
 
 <item>
@@ -35,17 +136,6 @@
 <thumbnail>http://img-ipad.lisisoft.com/imgmic/9/4/941-1-zagros-tv.jpg</thumbnail>
 </item>
 
-<item>
-<title>SAT 7</title>
-<link>rtmp://unirtmp.tulix.tv:1935/sat7arabic/ playpath=sat7arabic1 swfUrl=http://p.jwpcdn.com/6/6/jwplayer.flash.swf live=true timeout=15 pageUrl=http://www.sat7.org/tv2/TV2_arabic.html</link>
-<thumbnail>http://www.pcimissionoverseas.org/fs/img/news/rs-200xnc/sat-7-logo-23.jpg</thumbnail>
-</item>
-
-<item>
-<title>Channel 1</title>
-<link>http://ASX.JahanTV.Com/ch1.asx</link>
-<thumbnail>http://yalibnan.com/site/archives/2009/06/27/channel%20one%20-iran.jpg</thumbnail>
-</item>
 
 <item>
 <title>VOA Persian TV</title>
@@ -69,12 +159,6 @@
 <title>Press TV</title>
 <link>rtmp://mtv.fms-01.visionip.tv/live playpath=mtv-ptv-live-25f-16x9-SD?ref=www.presstv.ir&USER=MTV+-+PTV+Stream swfUrl=http://embeddedplayer.visionip.tv/data/swf/1f92659aabbee91b48fdc3022f92d553964/player.swf live=true timeout=15 pageUrl=http://www.presstv.ir/live.html</link>
 <thumbnail>http://www.thebureauinvestigates.com/wp-content/uploads/2012/01/press_tv.png</thumbnail>
-</item>
-
-<item>
-<title>Euronews Persian</title>
-<link>rtmp://fr-par-3.stream-relay.hexaglobe.net:1935/rtpeuronewslive playpath=pe_video750_rtp.sdp swfUrl=http://persian.euronews.com/media/player_live_1_14.swf live=true timeout=15 pageUrl=http://persian.euronews.com/news/streaming-live/</link>
-<thumbnail>http://1.bp.blogspot.com/-A0wx-qfBN-Y/UEhNWdZhDHI/AAAAAAAAa64/GwriqDM1BPY/s400/euronews.jpg</thumbnail>
 </item>
 
 </channel>

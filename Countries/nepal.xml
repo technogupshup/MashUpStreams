@@ -16,4 +16,16 @@
 <thumbnail>http://i1.wp.com/www.onlynepali.com/wp-content/uploads/2011/10/ntv-plus.png?resize=200%2C112</thumbnail>
 </item>
 
+<item>
+<title>Sagarmatha TV</title>
+<link>mms://202.52.237.122/sagarmathalive</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/en/b/bb/Sagarmatha_tv_logo_nepal.jpg</thumbnail>
+</item>
+
+<item>
+<title>Kantipur TV</title>
+<link>rtmp://live01us.kantipurtv.com:1935/live/ktvlive.sdp swfUrl=http://kantipurtv.com/js/jwplayer6/jwplayer.flash.swf pageUrl=http://kantipurtv.com/live live=1 timeout=20</link>
+<thumbnail>http://kantipurtv.com/files/resources/Site.logo.png</thumbnail>
+</item>
+
 </channel>

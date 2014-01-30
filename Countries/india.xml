@@ -253,7 +253,7 @@
 
 <item>
 <title>Yes Indiavision</title>
-<link>rtmp://50.7.175.253:1939/base2 playpath=hmtv2.stream swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=true timeout=15 pageUrl=http://www.turbotv.in/yes-indiavision-live/</link>
+<link>rtmp://50.7.175.253:1939/base2 playpath=hmtv2.stream token=Vu4KaBzaxa swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=true timeout=15 pageUrl=http://www.turbotv.in/yes-indiavision-live/</link>
 <thumbnail>http://www.kerala.me/f_files/yes%20indiavision.jpg</thumbnail>
 </item>
 
@@ -289,7 +289,7 @@
 
 <item>
 <title>Zee News</title>
-<link><link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=UiGzihK84XA#t=3591061</link></link>
+<link><link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=UiGzihK84XA</link></link>
 <thumbnail>http://www.lyngsat-logo.com/hires/zz/zee_news.png</thumbnail>
 </item>
 

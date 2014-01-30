@@ -5,6 +5,12 @@
 <thumbnail></thumbnail>
 
 <item>
+<title>Alalam</title>
+<link>rtmp://31.14.40.251/live playpath=alalam1 swfUrl=http://www.alalam.ir/files/flowplayer.commercial-3.2.16.swf live=true timeout=15 pageUrl=http://en.alalam.ir/live</link>
+<thumbnail>http://www.724.tv/Eserler/Resim/Alalam.jpg</thumbnail>
+</item>
+
+<item>
 <title>IRIB TV 3</title>
 <link>rtmp://iriptv.com/iriptvserver3 playpath=23.stream swfUrl=http://iriptv.com/player/player.swf live=true timeout=15 pageUrl=http://iriptv.com/web/irib%20tv.php</link>
 <thumbnail>http://tv360.us/wp-content/uploads/2013/09/IRIB3-Iran.jpg</thumbnail>

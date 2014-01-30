@@ -7,7 +7,7 @@
 
 
 <info>
-<message>[COLOR=FFFF0000]Announcement(s): Fixed Dubai TV[/COLOR]</message>
+<message>[COLOR=FFFF0000]Announcement(s): Fixed All Melody Channels[/COLOR]</message>
 <thumbnail>http://upload.wikimedia.org/wikipedia/commons/3/32/The_flag_of_Syrian_Arab_Republic_Damascus%2C_Syria.jpg</thumbnail>
 </info>
 
@@ -88,7 +88,6 @@
 <thumbnail>http://1.bp.blogspot.com/-W1Ry_s_c5-k/UAw9jeMFGoI/AAAAAAAANlY/SJ_JbZV8W5E/s400/aljadeed%2Btv.jpeg</thumbnail>
 </item>
 
-
 <item>
 <title>MBC</title>
 <link>rtmp://206.190.138.68/live playpath=fregregerg?id=181857 conn=S:OK swfUrl=http://mips.tv/content/scripts/eplayer.swf live=true timeout=15 pageUrl=http://mips.tv/embedplayer/fregregerg/1/600/380</link>
@@ -163,25 +162,31 @@
 
 <item>
 <title>Melody Drama HD</title>
-<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=HwFmY34qZAc</link>
+<link>rtmp://38.96.148.206/Melody playpath=MDramaWeb  swfUrl=http://www.melody.net/flowplayer/flowplayer.commercial-3.2.16.swf live=true timeout=15 pageUrl=http://www.melody.net/pages/view/id/17</link>
 <thumbnail>http://4.bp.blogspot.com/_ayWC2KUhMqw/TJ04otUC4mI/AAAAAAAACds/mCsD_c_kqfU/s1600/melody%2Bdrama%2Blogo%255B1%255D.JPG</thumbnail>
 </item>
 
 <item>
 <title>Melody Hits HD</title>
-<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=CfChrf0zyv8</link>
+<link>rtmp://38.96.148.206/Melody playpath=MHitsWeb  swfUrl=http://www.melody.net/flowplayer/flowplayer.commercial-3.2.16.swf live=true timeout=15 pageUrl=http://www.melody.net/pages/view/id/18</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/mm/melody_hits.png</thumbnail>
 </item>
 
 <item>
 <title>Melody Classic HD</title>
-<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=vKm5T-b_4TE</link>
+<link>rtmp://38.96.148.206/Melody playpath=MClassicWeb  swfUrl=http://www.melody.net/flowplayer/flowplayer.commercial-3.2.16.swf live=true timeout=15 pageUrl=http://www.melody.net/pages/view/id/25</link>
 <thumbnail>http://www.tvfrekans.com/wp-content/uploads/2012/11/melody-tv-logo-resmi.jpg</thumbnail>
 </item>
 
 <item>
 <title>Melody Arabia HD</title>
-<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=y1d0IEeJlNw</link>
+<link>rtmp://38.96.148.206/Melody playpath=MArabiaWeb  swfUrl=http://www.melody.net/flowplayer/flowplayer.commercial-3.2.16.swf live=true timeout=15 pageUrl=http://www.melody.net/pages/view/id/24</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/mm/melody_arabia.png</thumbnail>
+</item>
+
+<item>
+<title>Melody Aflam</title>
+<link>rtmp://38.96.148.206/Melody playpath=MAflamWeb  swfUrl=http://www.melody.net/flowplayer/flowplayer.commercial-3.2.16.swf live=true timeout=15 pageUrl=http://www.melody.net/pages/view/id/1</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/mm/melody_arabia.png</thumbnail>
 </item>
 

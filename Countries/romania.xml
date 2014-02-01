@@ -87,4 +87,71 @@
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/rr/rtv_ro.jpg</thumbnail>
 </item>
 
+ <item>
+<title>Dolce 1</title>
+<link>$doregex[url]
+<regex>
+<name>url</name>
+<expres>file: "([^"]+)</expres>
+<page>http://www.hqtv.biz/tv/dolcesport.php</page>
+<referer>http://www.hqtv.biz/dolce-sport-1/</referer>
+</regex>
+</link>
+<thumbnail>http://tv-live.tv/wp-content/uploads/2013/09/Dolce-Sport-live.png</thumbnail>
+</item>
+
+ <item>
+<title>Dolce 2</title>
+<link>$doregex[url]
+<thumbnail></thumbnail>
+<regex>
+<name>url</name>
+<expres>file: "([^"]+)</expres>
+<page>http://www.hqtv.biz/tv/dolcesport2.php</page>
+<referer>http://www.hqtv.biz/dolce-sport-2/</referer>
+</regex>
+</link>
+<thumbnail>http://tv-live.tv/wp-content/uploads/2013/09/Dolce-Sport-live.png</thumbnail>
+</item>
+
+ <item>
+<title>Dolce 3</title>
+<link>$doregex[url]
+<regex>
+<name>url</name>
+<expres>file: "([^"]+)</expres>
+<page>http://www.hqtv.biz/tv/dolcesport3.php</page>
+<referer>http://www.hqtv.biz/dolce-sport-3/</referer>
+</regex>
+</link>
+<thumbnail>http://tv-live.tv/wp-content/uploads/2013/09/Dolce-Sport-live.png</thumbnail>
+</item>
+
+ <item>
+<title>Dolce 4</title>
+<link>$doregex[url]
+<regex>
+<name>url</name>
+<expres>file: "([^"]+)</expres>
+<page>http://www.hqtv.biz/tv/dolcesport4.php</page>
+<referer>http://www.hqtv.biz/dolce-sport-4/</referer>
+</regex>
+</link>
+<thumbnail>http://tv-live.tv/wp-content/uploads/2013/09/Dolce-Sport-live.png</thumbnail>
+</item>
+
+ <item>
+<title>Dolce HD</title>
+<link>$doregex[url]
+<regex>
+<name>url</name>
+<expres>file: "([^"]+)</expres>
+<page>http://www.hqtv.biz/tv/dolcesporthd.php</page>
+<referer>http://www.hqtv.biz/dolce-sport-hd/</referer>
+</regex>
+</link>
+<thumbnail>http://tv-live.tv/wp-content/uploads/2013/09/Dolce-Sport-live.png</thumbnail>
+</item>
+
+
 </channel>

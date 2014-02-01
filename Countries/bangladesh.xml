@@ -8,15 +8,29 @@
 
 <item>
 <title>CHANNEL S UK</title>
-<link>rtmpe://live.zzcast.com/live playpath=channesuk00223534455668877.stream swfUrl=http://5.79.71.199/player/playe.swf pageUrl=http://www.zzcast.com/embed.php?u=chsuk&vw=600&vh=400 live=true timeout=15</link>
-<thumbnail>http://upload.wikimedia.org/wikipedia/en/6/6d/Channel_S_logo.JPG</thumbnail>
-</item>
+<link>rtmpe://live.zzcast.com/live playpath=$doregex[id] swfUrl=http://5.79.71.199/player/playerzz.swf pageUrl=http://www.zzcast.com/ live=true timeout=15 token=%bwwpe(nKa@#.
+ <regex>
+ <name>id</name>
+ <expres>'file','([^']*)</expres>
+ <page>http://www.zzcast.com/embed.php?u=chsuk&vw=600&vh=400&domain=www.jagobd.com</page>
+ <referer>http://www.jagobd.com</referer>
+ </regex>
+ </link>
+ <thumbnail>http://upload.wikimedia.org/wikipedia/en/6/6d/Channel_S_logo.JPG</thumbnail>
+ </item>
 
 <item>
 <title>Ekattor TV</title>
-<link>rtmpe://live.zzcast.com/live playpath=ekattor0022332445574455666.stream swfUrl=http://5.79.71.199/player/playe.swf pageUrl=http://www.zzcast.com/embed.php?u=ekattor12&vw=600&vh=400 live=true timeout=15</link>
-<thumbnail>http://3.bp.blogspot.com/-l_1uiceSdK8/UL1y0tVnrsI/AAAAAAAAEus/x8mO6Ndo2H8/s1600/71+tv+bangladesh.png</thumbnail>
-</item>
+<link>rtmpe://live.zzcast.com/live playpath=$doregex[id] swfUrl=http://5.79.71.199/player/playerzz.swf pageUrl=http://www.zzcast.com/ live=true timeout=15 token=%bwwpe(nKa@#.
+ <regex>
+ <name>id</name>
+ <expres>'file','([^']*)</expres>
+ <page>http://www.zzcast.com/embed.php?u=ekattor12&vw=600&vh=400</page>
+ <referer>http://www.jagobd.com</referer>
+ </regex>
+ </link>
+ <thumbnail>http://3.bp.blogspot.com/-l_1uiceSdK8/UL1y0tVnrsI/AAAAAAAAEus/x8mO6Ndo2H8/s1600/71+tv+bangladesh.png</thumbnail>
+ </item>
 
 <item>
 <title>News Time Bangala</title>
@@ -24,68 +38,122 @@
 <thumbnail>http://2.bp.blogspot.com/-gA13tUliPpE/TrdUvWVtQ6I/AAAAAAAAAMk/cXRXZUP8lrQ/s1600/News_Time_Logo.png</thumbnail>
 </item>
 
-
 <item>
 <title>Channel 16</title>
-<link>rtmpe://live.zzcast.com/live playpath=channel16022334145522886644.stream swfUrl=http://5.79.71.199/player/playe.swf pageUrl=http://www.zzcast.com/embed.php?u=channel16bd&vw=600&vh=400&domain=www.jagobd.com live=true timeout=15</link>
-<thumbnail>http://www.lyngsat-logo.com/hires/cc/channel_16_bd.png</thumbnail>
-</item>
-
+<link>rtmpe://live.zzcast.com/live playpath=$doregex[id] swfUrl=http://5.79.71.199/player/playerzz.swf pageUrl=http://www.zzcast.com/ live=true timeout=15 token=%bwwpe(nKa@#.
+ <regex>
+ <name>id</name>
+ <expres>'file','([^']*)</expres>
+ <page>http://www.zzcast.com/embed.php?u=channel16bd&vw=600&vh=400&domain=www.jagobd.com</page>
+ <referer>http://www.jagobd.com</referer>
+ </regex>
+ </link>
+ <thumbnail>http://www.lyngsat-logo.com/hires/cc/channel_16_bd.png</thumbnail>
+ </item>
+ 
 <item>
 <title>MY TV</title>
-<link>rtmpe://live.zzcast.com/live playpath=mytv00022323.stream swfUrl=http://5.79.71.199/player/playe.swf pageUrl=http://www.zzcast.com/embed.php?u=sdfsdfgs&vw=600&vh=400&domain=www.jagobd.com  live=true timeout=15</link>
-<thumbnail>http://demo123.net76.net/images/bd%20tv/my%20tv.png</thumbnail>
-</item>
-
+<link>rtmpe://live.zzcast.com/live playpath=$doregex[id] swfUrl=http://5.79.71.199/player/playerzz.swf pageUrl=http://www.zzcast.com/ live=true timeout=15 token=%bwwpe(nKa@#.
+ <regex>
+ <name>id</name>
+ <expres>'file','([^']*)</expres>
+ <page>http://www.zzcast.com/embed.php?u=sdfsdfgs&vw=600&vh=400&domain=www.jagobd.com</page>
+ <referer>http://www.jagobd.com</referer>
+ </regex>
+ </link>
+ <thumbnail>http://demo123.net76.net/images/bd%20tv/my%20tv.png</thumbnail>
+ </item>
 
 <item>
 <title>Channel 24</title>
-<link>rtmpe://live.zzcast.com/live playpath=channel240001125245645145453223232.stream swfUrl=http://5.79.71.199/player/playe.swf pageUrl=http://www.zzcast.com/embed.php?u=channel241&vw=600&vh=400&domain=www.jagobd.com  live=true timeout=15</link>
-<thumbnail>http://rootsbd.com/wp-content/uploads/2012/05/Channel24-TV-Bangladesh.jpg</thumbnail>
+<link>rtmpe://live.zzcast.com/live playpath=$doregex[id] swfUrl=http://5.79.71.199/player/playerzz.swf pageUrl=http://www.zzcast.com/ live=true timeout=15 token=%bwwpe(nKa@#.
+ <regex>
+ <name>id</name>
+ <expres>'file','([^']*)</expres>
+ <page>http://www.zzcast.com/embed.php?u=channel241&vw=600&vh=400&domain=www.jagobd.com</page>
+ <referer>http://www.jagobd.com</referer>
+ </regex>
+ </link>
+ <thumbnail>http://rootsbd.com/wp-content/uploads/2012/05/Channel24-TV-Bangladesh.jpg</thumbnail>
 </item>
 
 <item>
 <title>GTV</title>
-<link>rtmpe://live.zzcast.com/live playpath=gazi22331144556656.stream swfUrl=http://5.79.71.199/player/playe.swf pageUrl=http://www.zzcast.com/embed.php?u=gazitvpo1&vw=600&vh=400 live=true timeout=15</link>
-<thumbnail>http://jagobd.com/image/gazitv.jpg</thumbnail>
-</item>
-
+<link>rtmpe://live.zzcast.com/live playpath=$doregex[id] swfUrl=http://5.79.71.199/player/playerzz.swf pageUrl=http://www.zzcast.com/ live=true timeout=15 token=%bwwpe(nKa@#.
+ <regex>
+ <name>id</name>
+ <expres>'file','([^']*)</expres>
+ <page>http://www.zzcast.com/embed.php?u=gazitvpo1&vw=600&vh=400</page>
+ <referer>http://www.jagobd.com</referer>
+ </regex>
+ </link>
+ <thumbnail>http://jagobd.com/image/gazitv.jpg</thumbnail>
+ </item>
 
 <item>
 <title>Mohona TV</title>
-<link>rtmpe://live.zzcast.com/live playpath=mohonatv000223232244556633.stream swfUrl=http://5.79.71.199/player/playe.swf pageUrl=http://www.zzcast.com/embed.php?u=mohonatvs&vw=600&vh=400&domain=www.jagobd.com live=true timeout=15</link>
+<link>rtmpe://live.zzcast.com/live playpath=$doregex[id] swfUrl=http://5.79.71.199/player/playerzz.swf pageUrl=http://www.zzcast.com/ live=true timeout=15 token=%bwwpe(nKa@#.
+ <regex>
+ <name>id</name>
+ <expres>'file','([^']*)</expres>
+ <page>http://www.zzcast.com/embed.php?u=mohonatvs&vw=600&vh=400&domain=www.jagobd.com</page>
+ <referer>http://www.jagobd.com</referer>
+ </regex>
+ </link>
+</link>
 <thumbnail>http://www.livetvstreamingfree.com/wp-content/uploads/2012/11/mohona-tv-bangladesh-logo.png</thumbnail>
 </item>
 
 <item>
 <title>Bangla 21</title>
-<link>rtmpe://live.zzcast.com/live playpath=bangla21tv0889956.stream swfUrl=http://5.79.71.199/player/playe.swf pageUrl=http://www.zzcast.com/embed.php?u=bangla21&vw=600&vh=400&domain=www.jagobd.com live=true timeout=15</link>
-<thumbnail>http://bangla21.tv/wp-content/uploads/2013/05/q.png</thumbnail>
-</item>
+<link>rtmpe://live.zzcast.com/live playpath=$doregex[id] swfUrl=http://5.79.71.199/player/playerzz.swf pageUrl=http://www.zzcast.com/ live=true timeout=15 token=%bwwpe(nKa@#.
+ <regex>
+ <name>id</name>
+ <expres>'file','([^']*)</expres>
+ <page>http://www.zzcast.com/embed.php?u=bangla21&vw=600&vh=400&domain=www.jagobd.com</page>
+ <referer>http://www.jagobd.com</referer>
+ </regex>
+ </link>
+ <thumbnail>http://bangla21.tv/wp-content/uploads/2013/05/q.png</thumbnail>
+ </item>
 
 <item>
 <title>Channel 9</title>
-<link>rtmpe://live.zzcast.com/live playpath=en2-ch9.stream swfUrl=http://5.79.71.199/player/playe.swf pageUrl=http://www.zzcast.com/embed.php?u=9dflt&vw=600&vh=400 live=true timeout=15</link>
-<thumbnail>http://www.lyngsat-logo.com/hires/cc/channel9_bd.png</thumbnail>
-</item>
+<link>rtmpe://live.zzcast.com/live playpath=$doregex[id] swfUrl=http://5.79.71.199/player/playerzz.swf pageUrl=http://www.zzcast.com/ live=true timeout=15 token=%bwwpe(nKa@#.
+ <regex>
+ <name>id</name>
+ <expres>'file','([^']*)</expres>
+ <page>http://www.zzcast.com/embed.php?u=9bdslow&vw=600&vh=400&domain=www.jagobd.com</page>
+ <referer>http://www.jagobd.com</referer>
+ </regex>
+ </link>
+ <thumbnail>http://www.lyngsat-logo.com/hires/cc/channel9_bd.png</thumbnail>
+ </item>
 
 <item>
 <title>Sa TV</title>
-<link>rtmpe://live.zzcast.com/live playpath=satvoff00022121445566475666.stream swfUrl=http://5.79.71.199/player/playe.swf pageUrl=http://www.zzcast.com/embed.php?u=satvs24&vw=600&vh=400&domain=www.jagobd.com live=true timeout=15</link>
+<link>rtmpe://live.zzcast.com/live playpath=$doregex[id] swfUrl=http://5.79.71.199/player/playerzz.swf pageUrl=http://www.zzcast.com/ live=true timeout=15 token=%bwwpe(nKa@#.
+<regex>
+<name>id</name>
+<expres>'file','([^']*)</expres>
+<page>http://www.zzcast.com/embed.php?u=satvs24&vw=600&vh=400&domain=www.jagobd.com</page>
+<referer>http://www.jagobd.com</referer>
+</regex>
+</link>
 <thumbnail>http://bd24x7.com/wp-content/uploads/2012/04/S-A-TV.jpg</thumbnail>
 </item>
 
 <item>
 <title>Asian TV</title>
-<link>rtmpe://live.zzcast.com/live playpath=asian000223135544112433545.stream swfUrl=http://5.79.71.199/player/playe.swf pageUrl=http://www.zzcast.com/embed.php?u=asiantvbd26&vw=600&vh=400&domain=www.jagobd.com live=true timeout=15</link>
+<link>rtmpe://live.zzcast.com/live playpath=$doregex[id] swfUrl=http://5.79.71.199/player/playerzz.swf pageUrl=http://www.zzcast.com/ live=true timeout=15 token=%bwwpe(nKa@#.
+<regex>
+<name>id</name>
+<expres>'file','([^']*)</expres>
+<page>http://www.zzcast.com/embed.php?u=asiantvbd26&vw=600&vh=400&domain=www.jagobd.com</page>
+<referer>http://www.jagobd.com</referer>
+</regex>
+</link>
 <thumbnail>http://3.bp.blogspot.com/-qoZfF5Tu63U/T-bFgz37oHI/AAAAAAAAAMk/i4ceqZvC82o/s1600/ASIAN-TV%2Bbangladesh.jpg</thumbnail>
-</item>
-
-
-<item>
-<title>ATN Bangla TV</title>
-<link>rtmpe://live.zzcast.com/live playpath=atnbd00022313114455666.stream swfUrl=http://5.79.71.199/player/playe.swf pageUrl=http://www.zzcast.com/embed.php?u=atsnbds&vw=600&vh=400&domain=www.jagobd.com live=true timeout=15</link>
-<thumbnail>http://www.media247.co.uk/bizasia/wp-content/uploads/2013/01/atn_bangla001.jpg</thumbnail>
 </item>
 
 <item>
@@ -102,15 +170,20 @@
 
 <item>
 <title>Somoy News</title>
-<link>rtmpe://live.zzcast.com/live playpath=smy swfUrl=http://5.79.71.199/player/playe.swf pageUrl=http://www.zzcast.com/embed.php?u=somoy4&vw=600&vh=400&domain=www.jagobd.com live=true timeout=15</link>
+<link>rtmpe://live.zzcast.com/live playpath=$doregex[id] swfUrl=http://5.79.71.199/player/playerzz.swf pageUrl=http://www.zzcast.com/ live=true timeout=15 token=%bwwpe(nKa@#.
+<regex>
+<name>id</name>
+<expres>'file','([^']*)</expres>
+<page>http://www.zzcast.com/embed.php?u=somoy4&vw=600&vh=400&domain=www.jagobd.com</page>
+<referer>http://www.jagobd.com</referer>
+</regex>
+</link>
 <thumbnail>http://www.jagobd.com/wp-content/uploads/2012/09/Somoy+TV+logo1-300x239.jpg</thumbnail>
 </item>
 
-
 <item>
 <title>ATN News</title>
-<link>
-rtmpe://live.zzcast.com/live playpath=$doregex[id] swfUrl=http://5.79.71.199/player/playerzz.swf pageUrl=http://www.zzcast.com/ live=true timeout=15 token=%bwwpe(nKa@#.
+<link>rtmpe://live.zzcast.com/live playpath=$doregex[id] swfUrl=http://5.79.71.199/player/playerzz.swf pageUrl=http://www.zzcast.com/ live=true timeout=15 token=%bwwpe(nKa@#.
 <regex>
 <name>id</name>
 <expres>'file','([^']*)</expres>

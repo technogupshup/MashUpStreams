@@ -104,18 +104,7 @@
 <thumbnail>http://www.livetvstreamingfree.com/wp-content/uploads/2012/11/mohona-tv-bangladesh-logo.png</thumbnail>
 </item>
 
-<item>
-<title>Bangla 21</title>
-<link>rtmpe://live.zzcast.com/live playpath=$doregex[id] swfUrl=http://5.79.71.199/player/playerzz.swf pageUrl=http://www.zzcast.com/ live=true timeout=15 token=%bwwpe(nKa@#.
- <regex>
- <name>id</name>
- <expres>'file','([^']*)</expres>
- <page>http://www.zzcast.com/embed.php?u=bangla21&vw=600&vh=400&domain=www.jagobd.com</page>
- <referer>http://www.jagobd.com</referer>
- </regex>
- </link>
- <thumbnail>http://bangla21.tv/wp-content/uploads/2013/05/q.png</thumbnail>
- </item>
+
 
 <item>
 <title>Channel 9</title>
@@ -179,6 +168,19 @@
 </regex>
 </link>
 <thumbnail>http://www.jagobd.com/wp-content/uploads/2012/09/Somoy+TV+logo1-300x239.jpg</thumbnail>
+</item>
+
+<item>
+<title>Bangla 21</title>
+<link>rtmpe://live.zzcast.com/live playpath=$doregex[id] swfUrl=http://5.79.71.199/player/playerzz.swf pageUrl=http://www.zzcast.com/ live=true timeout=15 token=%bwwpe(nKa@#.
+<regex>
+<name>id</name>
+<expres>'file','([^']*)</expres>
+<page>http://www.zzcast.com/embed.php?u=bangla21&vw=600&vh=400</page>
+<referer>http://www.jagobd.com</referer>
+</regex>
+</link>
+<thumbnail>http://bangla21.tv/wp-content/uploads/2013/05/q.png</thumbnail>
 </item>
 
 <item>

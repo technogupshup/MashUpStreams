@@ -9,15 +9,15 @@
 <item>
 <title>CHANNEL S UK</title>
 <link>rtmpe://live.zzcast.com/live playpath=$doregex[id] swfUrl=http://5.79.71.199/player/playerzz.swf pageUrl=http://www.zzcast.com/ live=true timeout=15 token=%bwwpe(nKa@#.
- <regex>
- <name>id</name>
- <expres>'file','([^']*)</expres>
- <page>http://www.zzcast.com/embed.php?u=chsuk&vw=600&vh=400&domain=www.jagobd.com</page>
- <referer>http://www.jagobd.com</referer>
- </regex>
- </link>
- <thumbnail>http://upload.wikimedia.org/wikipedia/en/6/6d/Channel_S_logo.JPG</thumbnail>
- </item>
+<regex>
+<name>id</name>
+<expres>'file','([^']*)</expres>
+<page>http://www.zzcast.com/embed.php?u=chsuk&vw=600&vh=400&domain=www.jagobd.com</page>
+<referer>http://www.jagobd.com</referer>
+</regex>
+</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/en/6/6d/Channel_S_logo.JPG</thumbnail>
+</item>
 
 <item>
 <title>Ekattor TV</title>

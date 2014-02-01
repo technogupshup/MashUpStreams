@@ -23,12 +23,6 @@
 </item>
 
 <item>
-<title>Jaam E Jam 2</title>
-<link>rtmp://iriptv.com/iriptvserver3 playpath=28.stream swfUrl=http://iriptv.com/player/player.swf live=true timeout=15 pageUrl=http://iriptv.com/web/irib%20tv.php</link>
-<thumbnail>http://www.radioshahab.com/images/jaam-e-jam_1.png</thumbnail>
-</item>
-
-<item>
 <title>Jaam E Jam 1</title>
 <link>rtmp://live.kashef.cdn.liveirib.ir/live-e playpath=jjtvn1-2.sdp swfUrl=http://live.irib.ir/player.swf live=true timeout=15 pageUrl=http://live.irib.ir/index.php?cat_id=10&type=256&dif=0&id=2</link>
 <thumbnail>http://www.radioshahab.com/images/jaam-e-jam_1.png</thumbnail>
@@ -68,12 +62,6 @@
 <title>IFilm</title>
 <link>rtmp://live.cdn.kashef.bz/live-e playpath=ifilm-2.sdp swfUrl=http://iriptv.com/player/player.swf live=true timeout=15 pageUrl=http://iriptv.com/web/irib%20tv.php</link>
 <thumbnail>https://www.wherever.tv/partners/arabic/images/ifilm.png</thumbnail>
-</item>
-
-<item>
-<title>Gem TV</title>
-<link>rtmp://iriptv.com/iriptvserver3 playpath=25.stream swfUrl=http://iriptv.com/player/player.swf live=true timeout=15 pageUrl=http://iriptv.com/web/index.php</link>
-<thumbnail>http://www.lyngsat-logo.com/hires/gg/gem_tv_ae.png</thumbnail>
 </item>
 
 <item>
@@ -141,7 +129,6 @@
 <link>http://asx.jahantv.com/Zagros-TV.asx</link>
 <thumbnail>http://img-ipad.lisisoft.com/imgmic/9/4/941-1-zagros-tv.jpg</thumbnail>
 </item>
-
 
 <item>
 <title>VOA Persian TV</title>

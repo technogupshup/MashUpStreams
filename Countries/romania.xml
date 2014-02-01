@@ -87,7 +87,7 @@
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/rr/rtv_ro.jpg</thumbnail>
 </item>
 
- <item>
+<item>
 <title>Dolce 1</title>
 <link>$doregex[url]
 <regex>
@@ -100,7 +100,7 @@
 <thumbnail>http://tv-live.tv/wp-content/uploads/2013/09/Dolce-Sport-live.png</thumbnail>
 </item>
 
- <item>
+<item>
 <title>Dolce 2</title>
 <link>$doregex[url]
 <thumbnail></thumbnail>
@@ -114,7 +114,7 @@
 <thumbnail>http://tv-live.tv/wp-content/uploads/2013/09/Dolce-Sport-live.png</thumbnail>
 </item>
 
- <item>
+<item>
 <title>Dolce 3</title>
 <link>$doregex[url]
 <regex>
@@ -127,7 +127,7 @@
 <thumbnail>http://tv-live.tv/wp-content/uploads/2013/09/Dolce-Sport-live.png</thumbnail>
 </item>
 
- <item>
+<item>
 <title>Dolce 4</title>
 <link>$doregex[url]
 <regex>
@@ -140,7 +140,7 @@
 <thumbnail>http://tv-live.tv/wp-content/uploads/2013/09/Dolce-Sport-live.png</thumbnail>
 </item>
 
- <item>
+<item>
 <title>Dolce HD</title>
 <link>$doregex[url]
 <regex>

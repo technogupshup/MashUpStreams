@@ -14,7 +14,7 @@
 </notify>
 
 <info>
-<message>[COLOR=FFFF0000]Announcement(s): Updated Al Kass[/COLOR]</message>
+<message>[COLOR=FFFF0000]Announcement(s): Updated Bein 11[/COLOR]</message>
 <thumbnail>http://upload.wikimedia.org/wikipedia/commons/3/32/The_flag_of_Syrian_Arab_Republic_Damascus%2C_Syria.jpg</thumbnail>
 </info>
 
@@ -31,8 +31,8 @@
 <item>
 <title>Bein 11 [COLOR=FFFF0000]Updated Daily[/COLOR]</title>
 <link>
-<sublink>rtmp://77.81.98.135/fms playpath=bein11  swfUrl=http://www.zcast.tv/player/player-licensed55.swf live=true timeout=15 pageUrl=http://www.zcast.tv/embed.php?v=hdembedbein11c4t4&vw=600&vh=450&video=0&domain=hdembed.com</sublink>
-<sublink>rtmp://77.81.98.130/fms app=fms Playpath=bein11 swfUrl=http://www.fbcast.tv/player/player-licensed.swf pageUrl=http://www.fbcast.tv/embed.php?v=beinss15m9b7&vw=600&vh=450&video=0&domain=hdembed.com live=1</sublink>
+<sublink>rtmp://31.220.0.82:1935/live playpath=jsc9xxx swfUrl=http://www.eucast.tv/player5.9.swf live=true timeout=15 pageUrl=http://www.eucast.tv/embed.php?live=jsc9xxx&vw=620&vh=490</sublink>
+<sublink>rtmp://77.81.98.130/fms playpath=b11 swfUrl=http://www.9flash.tv/player/player-licensed55.swf live=true timeout=15 pageUrl=http://www.9flash.tv/embed.php?v=bein11sportskgr7i&vw=600&vh=450&video=0&domain=hdembed.com</sublink>
 </link>
 <thumbnail>http://i.imgur.com/yuzQdoY.jpg</thumbnail>
 </item>

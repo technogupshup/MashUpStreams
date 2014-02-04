@@ -5,16 +5,9 @@
 
 ##############################################################################################################################
 
-<notify>
-<new>2</new>
-<message1>New Links For Bein!</message1>
-<message2> </message2>
-<message3> </message3>
-<old>1</old>
-</notify>
 
 <info>
-<message>[COLOR=FFFF0000]Announcement(s): Updated Bein 11[/COLOR]</message>
+<message>[COLOR=FFFF0000]Announcement(s): Added Bein 15[/COLOR]</message>
 <thumbnail>http://upload.wikimedia.org/wikipedia/commons/3/32/The_flag_of_Syrian_Arab_Republic_Damascus%2C_Syria.jpg</thumbnail>
 </info>
 
@@ -27,6 +20,12 @@
 <message>[COLOR=FF00FF00]Important: For Support Or Requests Please Visit (XBMC TALK) http://www.xunitytalk.com/showthread.php?3768-Crusader88-s-XMLs-NOT-FOR-REQUESTS-ONLY-HELP&p=18826#post18826[/COLOR]</message>
 <thumbnail>http://upload.wikimedia.org/wikipedia/commons/3/32/The_flag_of_Syrian_Arab_Republic_Damascus%2C_Syria.jpg</thumbnail>
 </info>
+
+<item>
+<title>Bein 15  [COLOR=FFFF0000]Updated Daily[/COLOR]</title>
+<link>rtmpe://cdn.hdcast.org:1935/redirect/ playpath=BST15 pageurl=http://www.hdcast.org/embedlive2.php?u=BST15&vw=640&vh=460&domain=hdfoots.com</link>
+<thumbnail>http://nowwatchtvlive.com/wp-content/uploads/2014/01/bein-sport-15HD.jpg</thumbnail>
+</item>
 
 <item>
 <title>Bein 11 [COLOR=FFFF0000]Updated Daily[/COLOR]</title>

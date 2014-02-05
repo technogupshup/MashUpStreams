@@ -4,8 +4,16 @@
 #######################################################################################################################################
 <info>
 <message>[COLOR=FF00FF00]Report dead links at my twitter @crus88_mashup [/COLOR]</message>
-<thumbnail>http://img834.imageshack.us/img834/7852/928o.png</thumbnail>
+<thumbnail> </thumbnail>
 </info>
+
+<notify>
+<new>1</new>
+<message1>Test</message1>
+<message2> </message2>
+<message3> </message3>
+<old>2</old>
+</notify>
 ##############################################################################################################################
 
 

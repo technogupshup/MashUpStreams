@@ -36,7 +36,7 @@
 
 <item>
 <title>Star Movies</title>
-<link>plugin://plugin.video.veetle/?play=52ea9181ecdc2</link>
+<link>rtmpe://watch.playfooty.tv/live playpath=starmovi swfUrl=http://www.playfooty.tv/play/player/player.swf live=true timeout=15 pageUrl=http://www.playfooty.tv/</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ss/star_movies_tw_hd.png</thumbnail>
 </item>
 
@@ -56,12 +56,6 @@
 <title>DD NATIONAL</title>
 <link>http://d1vfuy3zwrxiut.cloudfront.net/live/_definst_/sweetbcha1novD99_W_150.sdp/playlist.m3u8</link>
 <thumbnail>http://www.livetvstreamingfree.com/wp-content/uploads/2012/12/DD-National-TV-Channel-Logo.jpg</thumbnail>
-</item>
-
-<item>
-<title>NEWS-24</title>
-<link>http://d1vfuy3zwrxiut.cloudfront.net/live/_definst_/sweetbcha1novD36_W_150.sdp/playlist.m3u8</link>
-<thumbnail>http://sindhworld.com/images/News%2024%20India.png</thumbnail>
 </item>
 
 <item>
@@ -90,25 +84,19 @@
 
 <item>
 <title>Studio N News</title>
-<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=SnjkGx8jHx0</link>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=AKLqZ0x6qDw</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ss/studio_n.png</thumbnail>
 </item>
 
 <item>
 <title>NDTV India</title>
-<link>rtmp://cdn.m.yupptv.tv:1935/liveorigin playpath=ndtvhindi9002 swfUrl=http://cdn.freedocast.com/player-octo/yume/v5/infinite-hd-player-YUPPTV.SWF live=true timeout=15 pageUrl=http://www.yupptv.com/streams/ndtvhindi.aspx</link>
+<link>http://ndtv.live.cdn.bitgravity.com/ndtv/live/ndtvindialive256</link>
 <thumbnail>http://www.wirelessduniya.com/wp-content/uploads/2012/01/ndtv-logo.png</thumbnail>
 </item>
 
 <item>
-<title>NDTV 24x7</title>
-<link>rtmp://cdn.m.yupptv.tv:1935/liveorigin playpath=ndtvenglish9001 swfUrl=http://cdn.freedocast.com/player-octo/yume/v5/infinite-hd-player-YUPPTV.SWF live=true timeout=15 pageUrl=http://www.yupptv.com/streams/ndtvenglish.aspx</link>
-<thumbnail>http://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/NDTV_247.svg/300px-NDTV_247.svg.png</thumbnail>
-</item>
-
-<item>
 <title>NDTV Profit</title>
-<link>rtmp://cdn.m.yupptv.tv:1935/liveorigin playpath=ndtvprofit9001 swfUrl=http://cdn.freedocast.com/player-octo/yume/v5/infinite-hd-player-YUPPTV.SWF live=true timeout=15 pageUrl=http://www.yupptv.com/streams/ndtvprofit.aspx</link>
+<link>http://ndtv.live.cdn.bitgravity.com/ndtv/live/ndtvprofitlive256</link>
 <thumbnail>http://upload.wikimedia.org/wikipedia/en/a/a3/NDTV-Profit.pngthumbnail>
 </item>
 
@@ -138,8 +126,8 @@
 
 <item>
 <title>TV 5</title>
-<link>rtmp://50.7.175.252:1940/base2 playpath=tamil25.stream swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=true timeout=15 pageUrl=http://www.turbotv.in/tv5-live/</link>
-<thumbnail>http://upload.wikimedia.org/wikipedia/en/d/dd/ABC-TV5_logo_2008.png</thumbnail>
+<link>rtmp://50.7.175.252:1940/base2 playpath=tamil25.stream swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=true timeout=15 pageUrl=http://www.turbotv.in/tv5-live/ token=Vu4KaBzaxa</link>
+<thumbnail>http://www.bharatchannels.com/images/serials/telugu/tv5.jpg</thumbnail>
 </item>
 
 <item>
@@ -149,26 +137,8 @@
 </item>
 
 <item>
-<title>Raj News</title>
-<link>rtmp://cdn.m.yupptv.tv:1935/liveorigin playpath=rajnewstamil1 swfUrl=http://cdn.freedocast.com/player-octo/yume/v5/infinite-hd-player-YUPPTV.SWF live=true timeout=15 pageUrl=http://yupptv.com/streams/rajnewstamil.aspx</link>
-<thumbnail>http://www.tv14.net/wp-content/uploads/2010/10/Raj-News.jpg</thumbnail>
-</item>
-
-<item>
-<title>Jeevan TV (Link 2)</title>
-<link>rtmp://cdn.m.yupptv.tv:1935/liveorigin playpath=jeevan9001 swfUrl=http://cdn.freedocast.com/player-octo/yume/v5/infinite-hd-player-YUPPTV.SWF live=true timeout=15 pageUrl=http://www.yupptv.com/streams/jeevan.aspx</link>
-<thumbnail>http://www.keralatv.in/wp-content/uploads/2011/12/Jeevan-TV-Frequency.jpg</thumbnail>
-</item>
-
-<item>
-<title>Mahaa TV News</title>
-<link>rtmp://cdn.m.yupptv.tv:1935/liveorigin playpath=mahatv9001 swfUrl=http://cdn.freedocast.com/player-octo/yume/v5/infinite-hd-player-YUPPTV.SWF live=true timeout=15 pageUrl=http://yupptv.com/streams/mahaa.aspx</link>
-<thumbnail>http://tollybolly.net/wp-content/uploads/2012/03/Mahaa-News-TV.png</thumbnail>
-</item>
-
-<item>
 <title>Thanthi TV</title>
-<link>http://dttv-lh.akamaihd.net/i/dttv1_1@94649/master.m3u8</link>
+<link>http://dttv-lh.akamaihd.net/i/dttv1_1@94649/index_3_av-b.m3u8</link>
 <thumbnail>http://upload.wikimedia.org/wikipedia/en/thumb/2/27/Thanthi_TV_logo.jpg/200px-Thanthi_TV_logo.jpg</thumbnail>
 </item>
 
@@ -179,19 +149,13 @@
 </item>
 
 <item>
-<title>Mangalmaya TV</title>
-<link>rtmp://cdn.m.yupptv.tv:1935/liveorigin playpath=aasaram1 swfUrl=http://cdn.freedocast.com/player-octo/yume/v5/infinite-hd-player-YUPPTV.SWF live=true timeout=15 pageUrl=http://www.yupptv.com/streams/mangalmayatv.aspx</link>
-<thumbnail>http://d3jnkp3lrs2hd5.cloudfront.net/images/220x115/37a839bdDivya-logo-220x115.jpg</thumbnail>
-</item>
-
-<item>
 <title>Malayalam</title>
 <link>rtmp://65.51.67.40:1935/rtplive playpath=event.stream swfUrl=http://malayalamiptv.net/usa/player_s4_0.swf live=true timeout=15 pageUrl=http://malayalamtv.tv/iframe/mtv-live.php</link>
 <thumbnail>http://upload.wikimedia.org/wikipedia/en/1/17/Malayalam_Television_USA_logo.jpeg</thumbnail>
 </item>
 
 <item>
-<title>NDTV 24x7 (Link 2)</title>
+<title>NDTV 24x7</title>
 <link>http://bglive-a.bitgravity.com/ndtv/247hi/live/native</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/nn/ndtv_24x7.png</thumbnail>
 </item>
@@ -226,7 +190,6 @@
 <thumbnail>http://rajasekharonline.com/wp-content/uploads/2012/02/hmtv_logo1.jpg</thumbnail>
 </item>
 
-
 <item>
 <title>NDTV Hindi</title>
 <link>http://cdn.m.yuppcdn.net/liveorigin/smil:ndtvhindi_iphone.smil/playlist.m3u8</link>
@@ -254,7 +217,7 @@
 <item>
 <title>Yes Indiavision</title>
 <link>rtmp://50.7.175.253:1939/base2 playpath=hmtv2.stream token=Vu4KaBzaxa swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=true timeout=15 pageUrl=http://www.turbotv.in/yes-indiavision-live/</link>
-<thumbnail>http://www.kerala.me/f_files/yes%20indiavision.jpg</thumbnail>
+<thumbnail>http://2.bp.blogspot.com/-FclahjrKKN8/T4Gavfg-1-I/AAAAAAAAAhc/g6dga73Q3AY/s1600/images+(7).jpg</thumbnail>
 </item>
 
 <item>
@@ -277,19 +240,20 @@
 
 <item>
 <title>Star Gold</title>
-<link>plugin://plugin.video.veetle/?play=4e0e6f4dcc2d3</link>
+<link>rtmp://77.81.98.133/dms/ playpath=stargoldo swfUrl=http://www.castok.com/jwplayer/jwplayer.flash.swf live=true timeout=15 pageUrl=http://www.castok.com/embed.php?v=we1&vw=600&vh=450&typeplayer=0&domain=pogotv.eu</link>
 </thumbnail>http://images.wikia.com/logopedia/images/f/f0/Star_Gold_2011.png</thumbnail>
 </item>
 
 <item>
 <title>Zee Cinema</title>
-<link>plugin://plugin.video.veetle/?play=4e2c5fd04592d</link>
+<link>rtmpe://watch.playfooty.tv/live playpath=zeecinn swfUrl=http://www.playfooty.tv/play/player/player.swf live=true timeout=15 pageUrl=http://www.playfooty.tv/</link>
 <thumbnail>http://images.wikia.com/logopedia/images/4/48/Zee_Cinema_2011.png</thumbnail>
 </item>
 
 <item>
 <title>Zee News</title>
 <link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=UiGzihK84XA</link>
+<thumbnail>http://www.idubba.com/img/channel/zee-news/zee-news.png</thumbnail>
 </item>
 
 </channel>

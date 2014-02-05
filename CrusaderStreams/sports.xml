@@ -7,7 +7,7 @@
 
 
 <info>
-<message>[COLOR=FFFF0000]Announcement(s): Added Bein 15[/COLOR]</message>
+<message>[COLOR=FFFF0000]Announcement(s): Added All Bein[/COLOR]</message>
 <thumbnail>http://upload.wikimedia.org/wikipedia/commons/3/32/The_flag_of_Syrian_Arab_Republic_Damascus%2C_Syria.jpg</thumbnail>
 </info>
 
@@ -20,6 +20,30 @@
 <message>[COLOR=FF00FF00]Important: For Support Or Requests Please Visit (XBMC TALK) http://www.xunitytalk.com/showthread.php?3768-Crusader88-s-XMLs-NOT-FOR-REQUESTS-ONLY-HELP&p=18826#post18826[/COLOR]</message>
 <thumbnail>http://upload.wikimedia.org/wikipedia/commons/3/32/The_flag_of_Syrian_Arab_Republic_Damascus%2C_Syria.jpg</thumbnail>
 </info>
+
+<item>
+<title>Bein 9</title>
+<link>rtmpe://46.246.124.15:1935/redirect playpath=BST9 swfUrl=http://www.hdcast.org/aplayer/jwplayer.flash.swf live=1 pageUrl=http://www.hdcast.org/</link>
+<thumbnail>http://nowwatchtvlive.com/wp-content/uploads/2014/01/beinsport_9hd.jpg</thumbnail>
+</item>
+
+<item>
+<title>Bein 10</title>
+<link>rtmpe://46.246.124.15:1935/redirect playpath=BST10 swfUrl=http://www.hdcast.org/aplayer/jwplayer.flash.swf live=1 pageUrl=http://www.hdcast.org/</link>
+<thumbnail>http://nowwatchtvlive.com/wp-content/uploads/2014/01/bein-sport-10HD.png</thumbnail>
+</item>
+
+<item>
+<title>Bein 13</title>
+<link>rtmpe://46.246.124.15:1935/redirect playpath=BST13 swfUrl=http://www.hdcast.org/aplayer/jwplayer.flash.swf live=1 pageUrl=http://www.hdcast.org/</link>
+<thumbnail>http://nowwatchtvlive.com/wp-content/uploads/2014/01/bein-sport-13HD.png</thumbnail>
+</item>
+
+<item>
+<title>Bein 14</title>
+<link>rtmpe://46.246.124.15:1935/redirect playpath=BST14 swfUrl=http://www.hdcast.org/aplayer/jwplayer.flash.swf live=1 pageUrl=http://www.hdcast.org/</link>
+<thumbnail>http://nowwatchtvlive.com/wp-content/uploads/2014/01/bein-sport-14HD.png</thumbnail>
+</item>
 
 <item>
 <title>Bein 15  [COLOR=FFFF0000]Updated Daily[/COLOR]</title>

@@ -47,12 +47,6 @@
 </item>
 
 <item>
-<title>Sony Mix</title>
-<link>rtmp://50.7.175.253:1939/base2 playpath=dd17.stream token=Vu4KaBzaxa swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=true timeout=60 pageUrl=http://www.turbotv.in/b4u-music/</link>
-<thumbnail>http://www.lyngsat-logo.com/hires/ss/sony_mix_in.png</thumbnail>
-</item>
-
-<item>
 <title>DD NATIONAL</title>
 <link>http://d1vfuy3zwrxiut.cloudfront.net/live/_definst_/sweetbcha1novD99_W_150.sdp/playlist.m3u8</link>
 <thumbnail>http://www.livetvstreamingfree.com/wp-content/uploads/2012/12/DD-National-TV-Channel-Logo.jpg</thumbnail>

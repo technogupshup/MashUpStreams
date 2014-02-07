@@ -221,12 +221,6 @@
 </item>
 
 <item>
-<title>Star Utsav</title>
-<link>rtmp://50.7.175.253:1939/base2 playpath=dd15.stream token=Vu4KaBzaxa swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=true timeout=60 pageUrl=http://www.turbotv.in/star-utsav/</link>
-<thumbnail>http://imageshack.us/a/img440/5421/starutsav300.png</thumbnail>
-</item>
-
-<item>
 <title>Peace TV</title>
 <link>rtmp://peace.fms.visionip.tv/live/ playpath=b2b-peace_usa-live-25f-4x3-sdh_1 live=true timeout=15 swfUrl=http://www.peacetv.tv/templates/swf/player.swf pageUrl=http://www.peacetv.tv/</link>
 <thumbnail>http://upload.wikimedia.org/wikipedia/en/2/2f/Peace_TV_logo.png</thumbnail>

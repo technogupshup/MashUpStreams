@@ -31,7 +31,7 @@ pageUrl=http://www.demaistv.com.br/video/video.html</link>
 
 <item>
 <title>0 Globo</title>
-<link>rtmp://94.102.56.186/freelivestreamHD playpath=futebolmelhor swfUrl=http://www.freelivestream.tv/swfs/player.swf pageUrl=http://www.freelivestream.tv/embedPlayer.php?file=futebolmelhor&width=475&height=370  live=1 swfVfy=1 timeout=15</link>
+<link>rtmp://94.242.228.180/liverepeat playpath=burj swfUrl=http://abcast.biz/playercanal.swf pageUrl=http://abcast.biz/assistirtv.php?file=burj&width=640&height=385  live=1 swfVfy=1 timeout=15</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/rr/rede_globo.jpg</thumbnail>
 </item>
 

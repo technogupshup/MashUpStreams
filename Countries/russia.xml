@@ -5,8 +5,14 @@
 <thumbnail></thumbnail>
 
 <item>
-<title>Россия 1 [COLOR=FFFF0000]WORKING[/COLOR]</title>
+<title>Россия 1</title>
 <link>rtmp://85.132.44.99:1935/turktv playpath=rossiya1.sdp swfUrl=http://www.livetv.az/static/player/player.swf live=true timeout=15 pageUrl=http://www.livetv.az/rossiya-1/</link>
+<thumbnail>http://toplogos.ru/images/logo-rossiya-1.png</thumbnail>
+</item>
+
+<item>
+<title>Россия 1 (Link 2)</title>
+<link>http://87.251.151.251:4022/rtp/230.3.3.130:5678</link>
 <thumbnail>http://toplogos.ru/images/logo-rossiya-1.png</thumbnail>
 </item>
 
@@ -47,7 +53,7 @@
 </item>
 
 <item>
-<title>RT Doc HD(Link 2)</title>
+<title>RT Doc HD (Link 2)</title>
 <link>http://87.251.151.251:4022/rtp/230.3.4.156:5678</link>
 <thumbnail>http://thewatchtv.com/wp-content/uploads/2013/02/RT-Documentary.png</thumbnail>
 </item>
@@ -110,6 +116,157 @@
 <title>Union</title>
 <link>rtmp://n3.mos.cdn.online.ru/live-r playpath=rtmp://www.planeta-online.tv:1936/live/soyuz swfUrl=http://www.corbina.tv/flash/swf/player.swf live=true timeout=15 pageUrl=http://www.corbina.tv/tv/soyuz</link>
 <thumbnail>http://tv-online.nashol.com/images/tv_online_kanali/soyuz_tv_onlain.jpg</thumbnail>
+</item>
+
+
+<item>
+<title>Fox HD</title>
+<link>http://87.251.151.251:4022/rtp/230.3.4.223:5678</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ff/fox_ru.png</thumbnail>
+</item>
+
+<item>
+<title>Fox Life Russia HD</title>
+<link>http://87.251.151.251:4022/rtp/230.3.4.220:5678</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ff/fox_life_ru.png</thumbnail>
+</item>
+
+<item>
+<title>National Geographic Channel HD</title>
+<link>http://87.251.151.251:4022/rtp/230.3.4.222:5678</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/nn/nat_geo_ru.png</thumbnail>
+</item>
+
+<item>
+<title>2x2 Channel</title>
+<link>http://87.251.151.251:4022/rtp/230.3.3.84:5678</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>Channel Five</title>
+<link>http://87.251.151.251:4022/rtp/230.3.4.165:5678</link>
+<thumbnail> </thumbnail>
+</item>
+
+<item>
+<title>Home</title>
+<link>http://87.251.151.251:4022/rtp/230.3.4.163:5678</link>
+<thumbnail> </thumbnail>
+</item>
+
+<item>
+<title>MTV Russia</title>
+<link>http://87.251.151.251:4022/rtp/230.3.3.126:5678</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/mm/mtv_ru.png</thumbnail>
+</item>
+
+<item>
+<title>Muz TV</title>
+<link>http://87.251.151.251:4022/rtp/230.3.4.158:5678</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/mm/muz_tv.png</thumbnail>
+</item>
+
+<item>
+<title>NTV</title>
+<link>http://87.251.151.251:4022/rtp/230.3.3.125:5678</link>
+<thumbnail>http://nowwatchtvlive.com/wp-content/uploads/2012/05/ntv-russia-logo.png</thumbnail>
+</item>
+
+<item>
+<title>Channel</title>
+<link>http://87.251.151.251:4022/rtp/230.3.3.134:5678</link>
+<thumbnail> </thumbnail>
+</item>
+
+<item>
+<title>Ren TV</title>
+<link>http://87.251.151.251:4022/rtp/230.3.3.135:5678</link>
+<thumbnail>http://www.freevector.com/site_media/preview_images/FreeVector-REN-TV.jpg</thumbnail>
+</item>
+
+<item>
+<title>Russia 2</title>
+<link>http://87.251.151.251:4022/rtp/230.3.3.132:5678</link>
+<thumbnail>http://www.logotypes101.com/logos/339/70718E7F097CA6518372A4ED36B7A74D/Russia2.png</thumbnail>
+</item>
+
+<item>
+<title>To Russia</title>
+<link>http://87.251.151.251:4022/rtp/230.3.3.131:5678</link>
+<thumbnail> </thumbnail>
+</item>
+
+<item>
+<title>STS</title>
+<link>http://87.251.151.251:4022/rtp/230.3.3.242:5678</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/sts_ru.png</thumbnail>
+</item>
+
+<item>
+<title>TNT</title>
+<link>http://87.251.151.251:4022/rtp/230.3.3.188:5678</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/tt/tnt_ru.png</thumbnail>
+</item>
+
+<item>
+<title>TV3</title>
+<link>http://87.251.151.251:4022/rtp/230.3.4.128:5678</link>
+<thumbnail>http://findlogo.net/images/T/tv3%20russia%20logo.jpg</thumbnail>
+</item>
+
+<item>
+<title>TV Center</title>
+<link>http://87.251.151.251:4022/rtp/230.3.4.161:5678</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/tt/tv_centr.png</thumbnail>
+</item>
+
+<item>
+<title>Pepper</title>
+<link>http://87.251.151.251:4022/rtp/230.3.4.146:5678</link>
+<thumbnail> </thumbnail>
+</item>
+
+<item>
+<title>Stars</title>
+<link>http://87.251.151.251:4022/rtp/230.3.3.128:5678</link>
+<thumbnail> </thumbnail>
+</item>
+
+<item>
+<title>TB</title>
+<link>http://87.251.151.251:4022/rtp/230.3.4.162:5678</link>
+<thumbnail> </thumbnail>
+</item>
+
+<item>
+<title>8th Channel</title>
+<link>http://87.251.151.251:4022/rtp/230.3.4.129:5678</link>
+<thumbnail> </thumbnail>
+</item>
+
+<item>
+<title>Russian HD</title>
+<link>http://87.251.151.251:4022/rtp/230.3.4.131:5678</link>
+<thumbnail> </thumbnail>
+</item>
+
+<item>
+<title>Channel HD</title>
+<link>http://87.251.151.251:4022/rtp/230.3.4.152:5678</link>
+<thumbnail> </thumbnail>
+</item>
+
+<item>
+<title>A-One</title>
+<link>http://87.251.151.251:4022/rtp/230.3.4.21:5678</link>
+<thumbnail>http://seeklogo.com/images/A/A-ONE-logo-F923855EDA-seeklogo.com.gif</thumbnail>
+</item>
+
+<item>
+<title>Bridge TV</title>
+<link>http://87.251.151.251:4022/rtp/230.3.4.16:5678</link>
+<thumbnail>http://ing-sat.what.hu/images/logo-insert/satlogos/russia/632-Bridge-TV[3].jpg</thumbnail>
 </item>
 
 <item>

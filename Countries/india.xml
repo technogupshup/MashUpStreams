@@ -77,7 +77,7 @@
 
 <item>
 <title>Star Plus</title>
-<link>rtmp://77.81.98.136/fot/ playpath=starplushd swfUrl=http://www.castok.com/jwplayer/jwplayer.flash.swf live=true timeout=15 pageUrl=http://www.castok.com/embed.php?v=starplushd&vw=600&vh=450&typeplayer=0&domain=pogotv.tv</link>
+<link>rtmp://89.248.163.3/fms22/ playpath=starpluss swfUrl=http://tags.kbcast.com/jwplayer/jwplayer.flash.swf live=true timeout=15 pageUrl=http://www.kbcast.com/embed.php?live=starpluss&vw=600&vh=450</link>
 <thumbnail>http://www.tonylinkson.com/projects/files/gimgs/48_tlsp002.jpg</thumbnail>
 </item>
 

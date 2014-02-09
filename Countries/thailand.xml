@@ -69,7 +69,7 @@
 
 <item>
 <title>Blue Sky</title>
- <link>rtmp://live.blueskychannel.tv/bluesky_live playpath=myStream swfUrl=http://www.blueskychannel.tv/live/flowplayer-3.2.7.swf pageUrl=http://www.blueskychannel.tv/ live=1 timeout=10</link>
+ <link>rtmp://live.blueskychannel.tv/bluesky_live app=bluesky_live playpath=myStream swfUrl=http://www.blueskychannel.tv/live/flowplayer-3.2.7.swf pageUrl=http://www.blueskychannel.tv/ live=1 timeout=10</link>
  <thumbnail>http://www.lyngsat-logo.com/hires/bb/blue_sky_channel.png</thumbnail>
  </item>
 

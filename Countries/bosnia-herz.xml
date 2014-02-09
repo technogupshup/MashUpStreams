@@ -11,10 +11,57 @@
 </item>
 
 <item>
-<title>PTPC</title>
-<link>rtmp://parh.rtrs.tv/tv playpath=live swfUrl=http://www.rtrs.tv/_player/flowplayer/flowplayer.commercial-3.2.14.swf live=true timeout=15
-pageUrl=http://www.rtrs.tv/program/uzivo.php?c=1</link>
+<title>PTPC-TV</title>
+<link>rtmp://parh.rtrs.tv/tv playpath=live swfUrl=http://www.rtrs.tv/_player/flowplayer/flowplayer.commercial-3.2.14.swf live=true timeout=15 pageUrl=http://www.rtrs.tv/program/uzivo.php?c=1</link>
 <thumbnail>http://upload.wikimedia.org/wikipedia/en/thumb/5/50/Logo_of_RTRS-BiH.jpg/250px-Logo_of_RTRS-BiH.jpg</thumbnail>
+</item>
+
+<item>
+<title>PTPC-Radio</title>
+<link>rtmp://parh.rtrs.tv/radio playpath=live swfUrl=http://www.rtrs.tv/_player/flowplayer/flowplayer.commercial-3.2.14.swf live=true timeout=15 pageUrl=http://www.rtrs.tv/program/uzivo.php?c=1&bcast_on=0</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/en/thumb/5/50/Logo_of_RTRS-BiH.jpg/250px-Logo_of_RTRS-BiH.jpg</thumbnail>
+</item>
+
+<item>
+<title>Pink TV</title>
+<link>rtmp://198.105.209.124/zenex playpath=tash102?id=465 conn=S:OK swfUrl=http://www.zenex.tv/data/scripts/eplayer.swf live=true timeout=15 pageUrl=http://www.zenex.tv/embedplayer/tash102/1/610/470</link>
+<thumbnail>http://tv-place.net/images/thumbs/pinktv.jpg</thumbnail>
+</item>
+
+<item>
+<title>Happy TV</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=XbEqRyAgKjo</link>
+<thumbnail> </thumbnail>
+</item>
+
+<item>
+<title>Arena Sport 1</title>
+<link>rtmp://199.189.110.172/zenex playpath=tash1?id=3461 conn=S:OK swfUrl=http://www.zenex.tv/data/scripts/eplayer.swf live=true timeout=15 pageUrl=http://www.zenex.tv/embedplayer/tash1/1/610/470</link>
+<thumbnail>http://static.politika.co.rs/uploads/rubrike/240071/i/1/TV-Arena-Sport.jpg</thumbnail>
+</item>
+
+<item>
+<title>Sport Klub</title>
+<link>rtmp://go.fasts.tv/fasts playpath=tash2  swfUrl=http://www.fasts.tv/player/player_embed_fasts.swf live=true timeout=15 pageUrl=http://www.fasts.tv/embedplayer.php?width=610&height=470&id=tash2&autoplay=true</link>
+<thumbnail>http://www.hteronet.ba/upload/novosti/sport_klub_13265.jpg</thumbnail>
+</item>
+
+<item>
+<title>Arena Sport 4</title>
+<link>rtmp://199.195.195.28/zenex playpath=tash1?id=3461 conn=S:OK swfUrl=http://www.zenex.tv/data/scripts/eplayer.swf live=true timeout=15 pageUrl=http://www.zenex.tv/embedplayer/tash1/1/610/470</link>
+<thumbnail>http://www.miskobobic.com/wp-content/uploads/2010/09/arena-sport-4.jpg</thumbnail>
+</item>
+
+<item>
+<title>Sport TV 4</title>
+<link>rtmp://93.174.93.50/liveedge/ playpath=sporttv4  swfUrl=http://turbocast.tv/jwplayer/jwplayer.flash.swf live=true timeout=15 pageUrl=http://turbocast.tv/gen.php?ch=sporttv4</link>
+<thumbnail>http://d2htvlive.in/wp-content/uploads/2013/03/Watch-Sport-Tv-4-HD-Live.png</thumbnail>
+</item>
+
+<item>
+<title>Sport TV 1</title>
+<link>rtmp://89.248.168.21/liveedge/ playpath=sporttv1  swfUrl=http://turbocast.tv/jwplayer/jwplayer.flash.swf live=true timeout=15 pageUrl=http://turbocast.tv/gen.php?ch=sporttv1</link>
+<thumbnail>http://4.bp.blogspot.com/_xVOK0KdYqJw/TLL20Vdj19I/AAAAAAAAAoo/kVL-ICiF4hw/s1600/SPORT+TV+1+ONLINE..png</thumbnail>
 </item>
 
 

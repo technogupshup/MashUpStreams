@@ -72,7 +72,7 @@
 
 <item>
 <title>THB</title>
-<link>rtmp://n3.mos.cdn.online.ru/live-r playpath=rtmp://edge1.mediacdn.ru/tvn-tnv/2318971247890124 swfUrl=http://www.corbina.tv/flash/swf/player.swf live=true timeout=15 pageUrl=http://www.corbina.tv/tv/tnv</link>
+<link>rtmp://776697656.e.754074626.r.worldcdn.net/754074626 playpath=tbn.stream swfUrl=http://tbn-tv.ru/player.swf live=true timeout=15 pageUrl=http://tbn-tv.ru/online/</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/tt/tnv_tatarstan.jpg</thumbnail>
 </item>
 
@@ -83,7 +83,7 @@
 </item>
 
 <item>
-<title>World Fushion</title>
+<title>World Fashion</title>
 <link>rtmp://n3.mos.cdn.online.ru/live-r playpath=udp://0.0.0.0:3098 swfUrl=http://www.corbina.tv/flash/swf/player.swf live=true timeout=15 pageUrl=http://www.corbina.tv/tv/wfc</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ww/world_fashion_channel_int.png</thumbnail>
 </item>

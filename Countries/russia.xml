@@ -35,7 +35,7 @@
 </item>
 
 <item>
-<title>RT2</title>
+<title>RT 2</title>
 <link>rtmp://fms5.visionip.tv/live playpath=RT_2 swfUrl=http://rt.com/s/swf/player.swf?streamer=rtmp://fms5.visionip.tv/live&file=RT_2.flv&autostart=true pageUrl=http://www.watchfomny.com/Video/Russia/Russia-Today/Russia-Today.htm</link>
 <thumbnail>http://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/200px-Russia-today-logo.svg.png</thumbnail>
 </item>
@@ -47,8 +47,14 @@
 </item>
 
 <item>
+<title>RT Doc HD(Link 2)</title>
+<link>http://87.251.151.251:4022/rtp/230.3.4.156:5678</link>
+<thumbnail>http://thewatchtv.com/wp-content/uploads/2013/02/RT-Documentary.png</thumbnail>
+</item>
+
+<item>
 <title>Cyber Game</title>
-<link>rtmp://st.cyber-game.tv/iptvsd playpath=stream swfUrl=http://www.cyber-game.tv/maxison/MaxisonPlayer.swf live=true timeout=15 pageUrl=http://www.cyber-game.tv/</link>
+<link>rtmp://st.cyber-game.tv/iptvhd playpath=stream swfUrl=http://www.cyber-game.tv/MaxisonPlayer.swf?sd=fgh live=true timeout=15 pageUrl=http://www.cyber-game.tv/</link>
 <thumbnail>http://en.glaz.tv/images/logos/tv/big/cyber-game-tv.jpg</thumbnail>
 </item>
 
@@ -67,6 +73,12 @@
 <item>
 <title>RBC</title>
 <link>rtmp://n3.mos.cdn.online.ru/live-r playpath=udp://0.0.0.0:3091 swfUrl=http://www.corbina.tv/flash/swf/player.swf live=true timeout=15 pageUrl=http://www.corbina.tv/tv/rbc</link>
+<thumbnail>http://freestreamtv.ucoz.net/TVLOGOS/rbc.jpg</thumbnail>
+</item>
+
+<item>
+<title>RBC (Link 2)</title>
+<link>http://87.251.151.251:4022/rtp/230.3.3.87:5678</link>
 <thumbnail>http://freestreamtv.ucoz.net/TVLOGOS/rbc.jpg</thumbnail>
 </item>
 
@@ -98,18 +110,6 @@
 <title>Union</title>
 <link>rtmp://n3.mos.cdn.online.ru/live-r playpath=rtmp://www.planeta-online.tv:1936/live/soyuz swfUrl=http://www.corbina.tv/flash/swf/player.swf live=true timeout=15 pageUrl=http://www.corbina.tv/tv/soyuz</link>
 <thumbnail>http://tv-online.nashol.com/images/tv_online_kanali/soyuz_tv_onlain.jpg</thumbnail>
-</item>
-
-<item>
-<title>FOX v1</title>
-<link>http://95.188.113.180:1234/udp/233.7.70.154:5000</link>
-<thumbnail>http://www.lyngsat-logo.com/hires/ff/fox_asia.png</thumbnail>
-</item>
-
-<item>
-<title>FOX Life v1</title>
-<link>http://95.188.113.180:1234/udp/233.7.70.85:5000</link>
-<thumbnail>http://www.lyngsat-logo.com/hires/ff/fox_life_ru.png</thumbnail>
 </item>
 
 <item>

@@ -3,6 +3,41 @@
 <channel>
 <name>Indian TV Channels</name>
 <thumbnail></thumbnail>
+<item>
+<title>ABP Ananda</title>
+<link>rtmp://54.251.165.11/live/unrestricted app=live/unrestricted playpath=463.sdp  swfUrl=http://abpananda.abplive.in/resources/flash/flowplayer-3.2.16.swf  pageUrl=http://abpananda.abplive.in/livetv/</link>
+<thumbnail>http://tv.onlinemoviesportsandtv.com/wp-content/uploads/2012/10/abp_ananda.jpg</thumbnail>
+</item>
+
+<item>
+<title>Times Now</title>
+<link>http://ongoingevents-f.akamaihd.net/timesnow_1_1@174555?v=2.4.5&amp;fp=WIN%2012,0,0,44&amp;r=TNPIF&amp;g=OQTRLZTMCBKP</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/tt/times_now.png</thumbnail>
+</item>
+
+<item>
+<title>Mera TV</title>
+<link>http://cnbc_awaaz_hls-lh.akamaihd.net/i/cnbc_awaaz_hls_1@174872/index_3_av-b.m3u8?sd=10&amp;rebase=on</link>
+<thumbnail>http://www.techbusy.org/wp-content/uploads/2011/06/mera-live-tv.png</thumbnail>
+</item>
+
+<item>
+<title>ETV Kannada</title>
+<link>http://etv_kannada-lh.akamaihd.net/i/etv_kannada_1@84610/index_3_av-b.m3u8?sd=10&amp;rebase=on</link>
+<thumbnail>http://2.bp.blogspot.com/--p49uV_BLR4/TYLW2sPV7wI/AAAAAAAADUg/clsJ_OB_YYo/s1600/etv_kannada.jpg</thumbnail>
+</item>
+
+<item>
+<title>CNBC TV 18</title>
+<link>http://cnbc_tv18_hls-lh.akamaihd.net/i/cnbc_tv18_HLS_1@174868/index_3_av-p.m3u8?sd=10&amp;rebase=on</link>
+<thumbnail>https://pbs.twimg.com/profile_images/420081780318679040/J0PPNeJ3.png</thumbnail>
+</item>
+
+<item>
+<title>ABP News</title>
+<link>rtmp://54.251.165.11/live/unrestricted app=live/unrestricted playpath=462.sdp  swfUrl=http://www.abplive.in/resources/flash/flowplayer-3.2.16.swf  pageUrl=http://www.abplive.in/livetv/#main</link>
+<thumbnail>http://4.bp.blogspot.com/-IFaVajKdtsw/T9Vizf2ic2I/AAAAAAAAF-s/l77n7ruKGh8/s1600/abpnews.jpg</thumbnail>
+</item>
 
 <item>
 <title>Zing</title>

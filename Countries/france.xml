@@ -7,6 +7,12 @@ http://database.freetuxtv.net/WebStreamExport/index?format=xml&type=1&status=2&l
 <thumbnail></thumbnail>
 
 <item>
+<title>Montagne TV</title>
+<link>rtmp://cp44832.live.edgefcs.net/live/ playpath=montagne_500@90984 swfUrl=http://www.montagnetv.com/sites/all/modules/altimax/modLive/flowplayer/_player/flowplayer.commercial-3.2.6.swf live=true timeout=15 pageUrl=http://www.montagnetv.com/programmes/live</link>
+<thumbnail>http://www.lacroix-skis.com/site/img/cms/55-102-cms.jpg</thumbnail>
+</item>
+
+<item>
 <title>TV5MONDE</title>
 <link>rtsp://178.238.86.23/Oh-Africa?sid=EFFDD1CBADB62531D95A52D38103BDB2F37D0C49105D334B02B0B277BD35A811</link>
 <thumbnail>http://durban2012.fipf.org/sites/durban2012.fipf.org/files/tv5monde_logo_rvb_blanc.jpg</thumbnail>

@@ -11,4 +11,46 @@
 <thumbnail>http://upload.wikimedia.org/wikipedia/it/archive/0/0d/20110729120547%21Logo_di_TV2000.png</thumbnail>
 </item>
 
+<item>
+<title>Rai Premium</title>
+<link>http://212.162.68.102/Rai_Premium</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/rr/rai_premium.png</thumbnail>
+</item>
+
+<item>
+<title>Rai Yoyo</title>
+<link>http://212.162.68.162/rai_yoyo</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/rr/rai_yoyo.png</thumbnail>
+</item>
+
+<item>
+<title>Rai Gulp</title>
+<link>http://212.162.68.102/Rai_Gulp</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/rr/rai_gulp.png</thumbnail>
+</item>
+
+<item>
+<title>Rai Uno</title>
+<link>http://212.162.68.162/prodtvr1</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/rr/rai_1.png</thumbnail>
+</item>
+
+<item>
+<title>Rai Due</title>
+<link>http://212.162.68.162/prodtvr2</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/rr/rai_2.png</thumbnail>
+</item>
+
+<item>
+<title>Rai Tre</title>
+<link>http://212.162.68.162/prodtvr3</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/rr/rai_3.png</thumbnail>
+</item>
+
+<item>
+<title>Rai International</title>
+<link>http://212.162.68.13/raiinternational</link>
+<thumbnail>http://www.niaf.org/links/share/images/rai_international_logo.jpg</thumbnail>
+</item>
+
 </channel>

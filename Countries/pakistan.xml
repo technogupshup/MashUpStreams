@@ -5,6 +5,30 @@
 <thumbnail></thumbnail>
 
 <item>
+<title>Geo Entertainment</title>
+<link>rtmpe://watch.playfooty.tv/live playpath=geoentiiiii swfUrl=http://www.playfooty.tv/play/player/player.swf live=true timeout=15 pageUrl=http://www.playfooty.tv/</link>
+<thumbnail>http://tvstream247.com/wp-content/uploads/2013/08/Geo-Entertainment-200x200.jpg</thumbnail>
+</item>
+
+<item>
+<title>Hum TV</title>
+<link>rtmpe://watch.playfooty.tv/live playpath=humiii swfUrl=http://www.playfooty.tv/play/player/player.swf live=true timeout=15 pageUrl=http://www.playfooty.tv/</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/en/1/12/Hum_tv.png</thumbnail>
+</item>
+
+<item>
+<title>ARY Digital</title>
+<link>rtmpe://watch.playfooty.tv/live playpath=arydiig swfUrl=http://www.playfooty.tv/play/player/player.swf live=true timeout=15 pageUrl=http://www.playfooty.tv/play/embed.php?u=arydigitali&vw=670&vh=410</link>
+<thumbnail>http://www.livetvstreamingfree.com/wp-content/uploads/2012/10/ARY-Digital-TV-Channel-Pakistan-Logo.png</thumbnail>
+</item>
+
+<item>
+<title>Dunya TV</title>
+<link>rtmp://50.117.24.90/live playpath=mp4:livestream_1.f4v swfUrl=http://dunyanews.tv/videoplayer/jwplayer.flash.swf live=true timeout=15 pageUrl=http://dunyanews.tv/livehd/</link>
+<thumbnail>http://www.tv14.net/wp-content/uploads/2010/10/Dunya-TV.jpg</thumbnail>
+</item>
+
+<item>
 <title>ARY News</title>
 <link>rtmp://93.115.88.177:1935/live/ playpath=myStream swfUrl=http://p.jwpcdn.com/6/7/jwplayer.flash.swf live=true timeout=15 pageUrl=http://arynews.tv/live/newslive.html</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/aa/ary_news_asia.png</thumbnail>

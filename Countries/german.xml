@@ -265,7 +265,7 @@
 <item>
 <title>Super RTL</title>
 <link>http://38.113.164.99:1935/toronto/superrtl/stv39.m3u8</link>
-<thumbnail>http://www.lyngsat-logo.com/tvcountry/de_16.html</thumbnail>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/super_rtl_at.png</thumbnail>
 </item>
 
 <item>
@@ -343,13 +343,13 @@
 <item>
 <title>Super RTL (Link 2)</title>
 <link>rtmp://server15-yr.stream-company.org/live/superrtl</link>
-<thumbnail>http://www.lyngsat-logo.com/tvcountry/de_16.html</thumbnail>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/super_rtl_at.png</thumbnail>
 </item>
 
 <item>
 <title>SRF 1</title>
 <link>rtmp://server15-yr.stream-company.org/live/sf1</link>
-<thumbnail>http://upload.wikimedia.org/wikipedia/en/a/a9/SRF_1_logo.svg</thumbnail>
+<thumbnail>http://upload.wikimedia.org/wikipedia/en/2/27/SF_1_logo.png</thumbnail>
 </item>
 
 <item>
@@ -361,7 +361,7 @@
 <item>
 <title>Sixx</title>
 <link>rtmp://server15-yr.stream-company.org/live/sixx</link>
-<thumbnail>http://www.lyngsat-logo.com/tvcountry/de_14.html</thumbnail>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/sixx.png</thumbnail>
 </item>
 
 <item>

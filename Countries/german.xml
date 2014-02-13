@@ -215,6 +215,253 @@
 </item>
 
 <item>
+<title>MDR</title>
+<link>http://38.113.164.99:1935/toronto/mdr/stv39.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/mm/mdr_fernsehen_de.png</thumbnail>
+</item>
+
+<item>
+<title>NDR</title>
+<link>http://38.113.164.99:1935/toronto/ndr/stv39.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/nn/ndr_fernsehen.png</thumbnail>
+</item>
+
+<item>
+<title>RBB</title>
+<link>http://38.113.164.99:1935/toronto/rbb/stv39.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/rr/rbb_berlin.png</thumbnail>
+</item>
+
+<item>
+<title>SWR</title>
+<link>http://38.113.164.99:1935/toronto/swr/stv39.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/swr_fernsehen.png</thumbnail>
+</item>
+
+<item>
+<title>SWR HD</title>
+<link>http://is.gd/SWRHD</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/swr_fernsehen_hd.png</thumbnail>
+</item>
+
+<item>
+<title>SWR HD (Link 2)</title>
+<link>http://82.220.10.66/udp/239.3.0.4:1234</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/swr_fernsehen_hd.png</thumbnail>
+</item>
+
+<item>
+<title>SWR HD (Link 3)</title>
+<link>http://82.220.10.66/udp/239.3.0.3:1234</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/swr_fernsehen_hd.png</thumbnail>
+</item>
+
+<item>
+<title>SWR HD (Link 4)</title>
+<link>http://82.220.10.66/udp/239.3.0.23:1234</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/swr_fernsehen_hd.png</thumbnail>
+</item>
+
+<item>
+<title>Super RTL</title>
+<link>http://38.113.164.99:1935/toronto/superrtl/stv39.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/tvcountry/de_16.html</thumbnail>
+</item>
+
+<item>
+<title>Eurosport</title>
+<link>http://38.113.164.99:1935/toronto/eurosport/stv39.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ee/eurosport.png</thumbnail>
+</item>
+
+<item>
+<title>3 Sat</title>
+<link>rtmp://server15-yr.stream-company.org/live/3sat</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/num/3sat.png</thumbnail>
+</item>
+
+<item>
+<title>ATV</title>
+<link>rtmp://server15-yr.stream-company.org/live/atv</link>
+<thumbnail>http://www.tv14.net/wp-content/uploads/2010/10/ATV1.jpeg</thumbnail>
+</item>
+
+<item>
+<title>Disney Channel</title>
+<link>rtmp://server15-yr.stream-company.org/live/disneychannel</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/dd/disney_junior_de.png</thumbnail>
+</item>
+
+<item>
+<title>Dmax</title>
+<link>rtmp://server15-yr.stream-company.org/live/dmax</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/dd/dmax_de.png</thumbnail>
+</item>
+
+<item>
+<title>Eurosport (Link 2)</title>
+<link>rtmp://server15-yr.stream-company.org/live/eurosport</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ee/eurosport.png</thumbnail>
+</item>
+
+<item>
+<title>Kabel 1</title>
+<link>rtmp://server15-yr.stream-company.org/live/kabel1</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/kk/kabel_eins.png</thumbnail>
+</item>
+
+<item>
+<title>N24</title>
+<link>rtmp://server15-yr.stream-company.org/live/n24</link>
+<thumbnail>https://www.triple-it.nl/resources/files/images/n24.jpg</thumbnail>
+</item>
+
+<item>
+<title>Pro 7</title>
+<link>rtmp://server15-yr.stream-company.org/live/pro7</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/pp/pro_sieben_ch.png</thumbnail>
+</item>
+
+<item>
+<title>Pro 7 Max</title>
+<link>rtmp://server15-yr.stream-company.org/live/pro7maxx</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/pp/pro_sieben_maxx_de.png</thumbnail>
+</item>
+
+<item>
+<title>RTL 2</title>
+<link>rtmp://server15-yr.stream-company.org/live/rtl2</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/rr/rtl2_at.png</thumbnail>
+</item>
+
+<item>
+<title>RTL Nitro</title>
+<link>rtmp://server15-yr.stream-company.org/live/rtlnitro</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/rr/rtl_nitro_de.png</thumbnail>
+</item>
+
+<item>
+<title>Super RTL (Link 2)</title>
+<link>rtmp://server15-yr.stream-company.org/live/superrtl</link>
+<thumbnail>http://www.lyngsat-logo.com/tvcountry/de_16.html</thumbnail>
+</item>
+
+<item>
+<title>SRF 1</title>
+<link>rtmp://server15-yr.stream-company.org/live/sf1</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/en/a/a9/SRF_1_logo.svg</thumbnail>
+</item>
+
+<item>
+<title>SRF Sport</title>
+<link>rtmp://server15-yr.stream-company.org/live/sf2</link>
+<thumbnail>http://www.srf.ch/medien/wp-content/uploads/2012/12/468669-767x553.jpg</thumbnail>
+</item>
+
+<item>
+<title>Sixx</title>
+<link>rtmp://server15-yr.stream-company.org/live/sixx</link>
+<thumbnail>http://www.lyngsat-logo.com/tvcountry/de_14.html</thumbnail>
+</item>
+
+<item>
+<title>Sport 1</title>
+<link>rtmp://server15-yr.stream-company.org/live/sport1</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/sport1_de.png</thumbnail>
+</item>
+
+<item>
+<title>Viva</title>
+<link>rtmp://server15-yr.stream-company.org/live/viva</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/vv/viva_de.png</thumbnail>
+</item>
+
+<item>
+<title>Tele 5</title>
+<link>rtmp://server15-yr.stream-company.org/live/tele5</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/tt/tele5_de.png</thumbnail>
+</item>
+
+<item>
+<title>SERVUS TV</title>
+<link>http://82.220.10.66/udp/239.3.0.12:1234</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/servus_tv_de.png</thumbnail>
+</item>
+
+<item>
+<title>SERVUS TV HD</title>
+<link>http://82.220.10.66/udp/239.3.0.21:1234</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/servus_tv_de_hd.png</thumbnail>
+</item>
+
+<item>
+<title>SERVUS TV HD (Link 2)</title>
+<link>http://82.220.10.66/udp/239.3.0.11:1234</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/servus_tv_de_hd.png</thumbnail>
+</item>
+
+<item>
+<title>Das Erste HD (Link 2)</title>
+<link>http://is.gd/pQOabO/udp/239.3.0.1:5000</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/ard_das_erste_hd.png</thumbnail>
+</item>
+
+<item>
+<title>DRM HD</title>
+<link>http://82.220.10.66/udp/239.3.0.14:1234</link>
+<thumbnail>http://3.bp.blogspot.com/_ZKEQoUFwe3g/SyO8S_HCzFI/AAAAAAAACek/BoCscwYDDWs/s400/DRM-logo.jpg</thumbnail>
+</item>
+
+<item>
+<title>DRM HD (Link 2)</title>
+<link>http://82.220.10.66/udp/239.3.0.13:1234</link>
+<thumbnail>http://3.bp.blogspot.com/_ZKEQoUFwe3g/SyO8S_HCzFI/AAAAAAAACek/BoCscwYDDWs/s400/DRM-logo.jpg</thumbnail>
+</item>
+
+<item>
+<title>3 SAT HD</title>
+<link>http://82.220.10.66/udp/239.3.0.8:1234</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/num/3sat_hd.png</thumbnail>
+</item>
+
+<item>
+<title>ZDF NEO HD</title>
+<link>http://82.220.10.66/udp/239.3.0.16:1234</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/zz/zdf_neo_hd.png</thumbnail>
+</item>
+
+<item>
+<title>ZDF NEO HD (Link 2)</title>
+<link>http://82.220.10.66/udp/239.3.0.6:1234</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/zz/zdf_neo_hd.png</thumbnail>
+</item>
+
+<item>
+<title>ZDF NEO HD (Link 3)</title>
+<link>http://82.220.10.66/udp/239.3.0.20:1234</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/zz/zdf_neo_hd.png</thumbnail>
+</item>
+
+<item>
+<title>ZDF KULTUR HD</title>
+<link>http://82.220.10.66/udp/239.3.0.7:1234</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/zz/zdf_kultur_hd.png</thumbnail>
+</item>
+
+<item>
+<title>ZDF INFO HD</title>
+<link>http://82.220.10.66/udp/239.3.0.18:1234</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/zz/zdf_info_hd.png</thumbnail>
+</item>
+
+<item>
+<title>ZDF INFO HD (Link 2)</title>
+<link>http://82.220.10.66/udp/239.3.0.10:1234</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/zz/zdf_info_hd.png</thumbnail>
+</item>
+
+
+<item>
 <title>ARTE HD  [COLOR=FFFF0000]Geo Blocked In Some Areas[/COLOR]</title>
 <link>rtmp://rm-edge-4.cdn2.streamago.tv:80/streamagoedge/1926?idutente=1926&idcanale=819&pwd= playpath=819 swfUrl=http://www.streamago.tv/app/StreamVideo.swf live=true timeout=15 pageUrl=http://www.streamago.tv/iframe/1926/</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/arte_de_hd.jpg</thumbnail>

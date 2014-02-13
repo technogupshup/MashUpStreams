@@ -17,19 +17,31 @@
 </item>
 
 <item>
-<title>ORF 1 (AT)</title>
+<title>ORF 1</title>
 <link>http://tinyurl.com/mzowzhy</link>
 <thumbnail>http://megatv.to/wp-content/uploads/2013/11/orf1-225x158.png</thumbnail>
 </item>
 
 <item>
-<title>ORF 2 (AT)</title>
+<title>ORF 1 (Link 2)</title>
+<link>rtmp://server15-yr.stream-company.org/live/orf1</link>
+<thumbnail>http://megatv.to/wp-content/uploads/2013/11/orf1-225x158.png</thumbnail>
+</item>
+
+<item>
+<title>ORF 2</title>
 <link>http://tinyurl.com/kdk4zqv</link>
 <thumbnail>http://megatv.to/wp-content/uploads/2013/11/orf2-225x158.png</thumbnail>
 </item>
 
 <item>
-<title>ORF 3 (AT)</title>
+<title>ORF 2 (Link 2)</title>
+<link>rtmp://server15-yr.stream-company.org/live/orf2</link>
+<thumbnail>http://megatv.to/wp-content/uploads/2013/11/orf2-225x158.png</thumbnail>
+</item>
+
+<item>
+<title>ORF 3</title>
 <link>http://tinyurl.com/orfIII</link>
 <thumbnail>http://de.kingofsat.net/jpg/orf3.jpg</thumbnail>
 </item>
@@ -37,6 +49,42 @@
 <item>
 <title>KIKA  [COLOR=FFFF0000]Geo Blocked In Some Areas[/COLOR]</title>
 <link>rtmp://85.239.122.162/live playpath=mk3w-csa4-18ew-encw-kika swfUrl=http://kikaplus.net/clients/kika/player/public/player/KIKALivePlayer.swf live=true timeout=15 pageUrl=http://kikaplus.net/clients/kika/player/tvplayer.php</link>
+<thumbnail>http://file1.npage.de/009857/81/bilder/logo_kika.gif</thumbnail>
+</item>
+
+<item>
+<title>KIKA (Link 2)</title>
+<link>rtmp://server15-yr.stream-company.org/live/kika</link>
+<thumbnail>http://file1.npage.de/009857/81/bilder/logo_kika.gif</thumbnail>
+</item>
+
+<item>
+<title>KIKA (Link 3)</title>
+<link>http://38.113.164.99:1935/toronto/kika/stv39.m3u8</link>
+<thumbnail>http://file1.npage.de/009857/81/bilder/logo_kika.gif</thumbnail>
+</item>
+
+<item>
+<title>KIKA HD</title>
+<link>http://is.gd/Cpt08x/udp/239.3.0.9:5000</link>
+<thumbnail>http://file1.npage.de/009857/81/bilder/logo_kika.gif</thumbnail>
+</item>
+
+<item>
+<title>KIKA HD (Link 2)</title>
+<link>http://82.220.10.66/udp/239.3.0.9:1234</link>
+<thumbnail>http://file1.npage.de/009857/81/bilder/logo_kika.gif</thumbnail>
+</item>
+
+<item>
+<title>KIKA HD (Link 3)</title>
+<link>http://82.220.10.66/udp/239.3.0.19:1234</link>
+<thumbnail>http://file1.npage.de/009857/81/bilder/logo_kika.gif</thumbnail>
+</item>
+
+<item>
+<title>KIKA HD (Link 4)</title>
+<link>http://82.220.10.66/udp/239.3.0.17:1234</link>
 <thumbnail>http://file1.npage.de/009857/81/bilder/logo_kika.gif</thumbnail>
 </item>
 
@@ -59,20 +107,50 @@
 </item>
 
 <item>
+<title>WDR (Link 2)</title>
+<link>http://38.113.164.99:1935/toronto/wdr/stv39.m3u8</link>
+<thumbnail>http://www1.wdr.de/themen/resources/img/logos/wdr.gif</thumbnail>
+</item>
+
+<item>
 <title>ORF EINS</title>
 <link>rtsp://apasfwl.apa.at:80/orf1_q6a/orf.sdp</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/oo/orf_eins.jpg</thumbnail>
 </item>
 
 <item>
-<title>ORF 2</title>
+<title>ORF 2 (Link 3)</title>
 <link>rtsp://apasfwl.apa.at:80/orf2_q6a/orf.sdp</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/oo/orf2.jpg</thumbnail>
 </item>
 
 <item>
-<title>ZDF HD  [COLOR=FFFF0000]Geo Blocked In Some Areas[/COLOR]</title>
-<link>rtmp://zdf.fc.llnwd.net:1935/zdf/_definst_ playpath=zdf_meta swfUrl=http://www.zdf.de/ZDFmediathek/flash/data/swf/LimelightStreamingPlugin.swf live=true timeout=15 pageUrl=http://www.zdf.de/ZDFmediathek/beitrag/live/1822600/ZDF</link>
+<title>ZDF</title>
+<link>http://38.113.164.99:1935/toronto/zdf/stv39.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/zz/zdf_de_hd.jpg</thumbnail>
+</item>
+
+<item>
+<title>ZDF (Link 2)</title>
+<link>rtmp://server15-yr.stream-company.org/live/zdf</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/zz/zdf_de_hd.jpg</thumbnail>
+</item>
+
+<item>
+<title>ZDF (Link 3)</title>
+<link>http://is.gd/J5wqGR/udp/239.3.0.15:5000</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/zz/zdf_de_hd.jpg</thumbnail>
+</item>
+
+<item>
+<title>ZDF HD</title>
+<link>http://is.gd/odSdmX/udp/239.3.0.5:5000</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/zz/zdf_de_hd.jpg</thumbnail>
+</item>
+
+<item>
+<title>ZDF HD (Link 2)</title>
+<link>http://82.220.10.66/udp/239.3.0.5:1234</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/zz/zdf_de_hd.jpg</thumbnail>
 </item>
 
@@ -95,14 +173,62 @@
 </item>
 
 <item>
+<title>RTL (Link 2)</title>
+<link>http://38.113.164.99:1935/toronto/rtl/stv39.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/rr/rtl_at.jpg</thumbnail>
+</item>
+
+<item>
+<title>RTL (Link 3)</title>
+<link>http://is.gd/iJDike/udp/239.3.0.98:5000</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/rr/rtl_at.jpg</thumbnail>
+</item>
+
+<item>
+<title>RTL (Link 4)</title>
+<link>rtmp://server15-yr.stream-company.org/live/rtl</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/rr/rtl_at.jpg</thumbnail>
+</item>
+
+<item>
 <title>ARD Das Erste</title>
 <link>rtsp://daserste.edges.wowza.gl-systemhaus.de/live/mp4:daserste_int_1600</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/ard_das_erste.jpg</thumbnail>
 </item>
 
 <item>
+<title>Das Erste</title>
+<link>http://38.113.164.99:1935/toronto/ard/stv39.m3u8</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Das_Erste_HD_Logo.svg/725px-Das_Erste_HD_Logo.svg.png</thumbnail>
+</item>
+
+<item>
+<title>Das Erste (Link 2)</title>
+<link>rtmp://server15-yr.stream-company.org/live/ard</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Das_Erste_HD_Logo.svg/725px-Das_Erste_HD_Logo.svg.png</thumbnail>
+</item>
+
+<item>
+<title>Das Erste HD</title>
+<link>http://82.220.10.66/udp/239.3.0.1:1234</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Das_Erste_HD_Logo.svg/725px-Das_Erste_HD_Logo.svg.png</thumbnail>
+</item>
+
+<item>
 <title>ARTE HD  [COLOR=FFFF0000]Geo Blocked In Some Areas[/COLOR]</title>
-<link>rtmp://rm-edge-4.cdn2.streamago.tv:80/streamagoedge/1926?idutente=1926&idcanale=819&pwd= playpath=819 swfUrl=http://www.streamago.tv/app/StreamVideo.swf live=ture timeout=15 pageUrl=http://www.streamago.tv/iframe/1926/</link>
+<link>rtmp://rm-edge-4.cdn2.streamago.tv:80/streamagoedge/1926?idutente=1926&idcanale=819&pwd= playpath=819 swfUrl=http://www.streamago.tv/app/StreamVideo.swf live=true timeout=15 pageUrl=http://www.streamago.tv/iframe/1926/</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/arte_de_hd.jpg</thumbnail>
+</item>
+
+<item>
+<title>ARTE HD (Link 2)</title>
+<link>http://82.220.10.66/udp/239.3.0.22:1234</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/arte_de_hd.jpg</thumbnail>
+</item>
+
+<item>
+<title>ARTE HD (Link 3)</title>
+<link>http://82.220.10.66/udp/239.3.0.2:1234</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/arte_de_hd.jpg</thumbnail>
 </item>
 
@@ -113,8 +239,32 @@
 </item>
 
 <item>
+<title>SAT1 (Link 2)</title>
+<link>rtmp://server15-yr.stream-company.org/live/sat1</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/sat1.jpg</thumbnail>
+</item>
+
+<item>
+<title>SAT1 (Link 3)</title>
+<link>http://38.113.164.99:1935/toronto/sat1/stv39.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/sat1.jpg</thumbnail>
+</item>
+
+<item>
 <title>VOX</title>
 <link>http://38.113.164.99:1935/toronto/vox/SAT_TOTAL.m3u8</link>
+<thumbnail>http://4.bp.blogspot.com/-2_2zXUYZJHs/UW02asERLiI/AAAAAAAAAJM/GkUg6mll8X8/s1600/Vox.jpg</thumbnail>
+</item>
+
+<item>
+<title>VOX (Link 2)</title>
+<link>rtmp://server15-yr.stream-company.org/live/vox</link>
+<thumbnail>http://4.bp.blogspot.com/-2_2zXUYZJHs/UW02asERLiI/AAAAAAAAAJM/GkUg6mll8X8/s1600/Vox.jpg</thumbnail>
+</item>
+
+<item>
+<title>VOX (Link 3)</title>
+<link>http://38.113.164.99:1935/toronto/vox/stv39.m3u8</link>
 <thumbnail>http://4.bp.blogspot.com/-2_2zXUYZJHs/UW02asERLiI/AAAAAAAAAJM/GkUg6mll8X8/s1600/Vox.jpg</thumbnail>
 </item>
 
@@ -168,13 +318,7 @@
 
 <item>
 <title>TV Oberfranken 1</title>
-<link>http://tvoberfranken.iptv-playoutcenter.de:1935/tvoberfranken/tvoberfranken_1/hasbahca.m3u8</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/tt/tv_oberfranken.jpg</thumbnail>
-</item>
-
-<item>
-<title>TV Oberfranken (Link 2)</title>
-<link>http://tvoberfranken.iptv-playoutcenter.de:1935/tvoberfranken/tvoberfranken_2/hasbahca.m3u8</link>
+<link>http://tvoberfranken.iptv-playoutcenter.de:1935/tvoberfranken/tvoberfranken.stream_1/playlist.m3u8</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/tt/tv_oberfranken.jpg</thumbnail>
 </item>
 

@@ -24,7 +24,7 @@
 
 <item>
 <title>Dunya TV</title>
-<link>rtmp://50.117.24.90/live playpath=mp4:livestream_1.f4v swfUrl=http://dunyanews.tv/videoplayer/jwplayer.flash.swf live=true timeout=15 pageUrl=http://dunyanews.tv/livehd/</link>
+<link>rtmp://50.117.24.90/live playpath=mp4:livestream_1.f4v swfUrl=http://dunyanews.tv/videoplayer/jwplayer.flash.swf live=true timeout=15 pageUrl=http://dunyanews.tv/livehd/ swfVfy=true</link>
 <thumbnail>http://www.tv14.net/wp-content/uploads/2010/10/Dunya-TV.jpg</thumbnail>
 </item>
 

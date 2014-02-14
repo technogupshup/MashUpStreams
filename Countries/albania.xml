@@ -6,11 +6,94 @@
 
 
 <item>
-<title>Vizion Plus</title>
+<title>Vizion Plus (Link 3)</title>
 <link>rtmp://live.vizionplus.tv:1935/live playpath=livestream2 swfUrl=http://releases.flowplayer.org/swf/flowplayer-3.2.7.swf pageUrl=http://live.vizionplus.tv/IE/ timeout=15</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/vv/vizion_plus.jpg</thumbnail>
 </item>
 
 
+<item>
+<title>RTK 1</title>
+<link>rtmp://wowza.rtkit.com/live/livestream</link>
+<thumbnail>http://3.bp.blogspot.com/-oVbjrLEy9zw/T2yc4w_lkyI/AAAAAAAAAhs/QCTiijWL5Ks/s320/Rtklivestream.jpg</thumbnail>
+</item>
+
+<item>
+<title>RTV Jug</title>
+<link>rtmp://84.20.77.50/live//livestream2</link>
+<thumbnail>http://www.tvkosova.net/media/thumbs/4e8d89421ed033b386eb149593764898-1.png</thumbnail>
+</item>
+
+<item>
+<title>Vizion Plus</title>
+<link>rtmp://live.vizionplus.tv/live//livestream2</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/vv/vizion_plus.png</thumbnail>
+</item>
+
+<item>
+<title>Rokum TV</title>
+<link>rtmp://82.114.65.202/live/rrokumtv</link>
+<thumbnail>http://www.livetvradios.com/images/tv/rrkoma.jpg</thumbnail>
+</item>
+
+<item>
+<title>News 24</title>
+<link>rtmp://66.55.93.203/livepkgr/n24stream?adbe-live-event=news24</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/nn/news24_al.png</thumbnail>
+</item>
+
+<item>
+<title>Jug TV</title>
+<link>rtmp://84.20.77.50/live/livestream1</link>
+<thumbnail>http://www.giniko.com/logos/190x110/148.jpg</thumbnail>
+</item>
+
+<item>
+<title>Koha TV</title>
+<link>rtmp://37.235.56.30/live/koha/livestream</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/kk/koha_televizion.png</thumbnail>
+</item>
+
+<item>
+<title>Vizion Plus (Link 2)</title>
+<link>rtmp://slive.vizionplus.tv:1935/live/livestream1</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/vv/vizion_plus.png</thumbnail>
+</item>
+
+<item>
+<title>A1 Report</title>
+<link>rtmp://66.55.93.204/livepkgr/a1stream?adbe-live-event=a1report</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/a1_report_al.png</thumbnail>
+</item>
+
+<item>
+<title>Arta</title>
+<link>rtmp://84.22.33.24:1935/ingest/arta</link>
+<thumbnail>http://2.bp.blogspot.com/-6Woom1NDLQc/UOGDQLyqqII/AAAAAAAACsA/DB5kVDvsTJE/s320/Arta%2BKoha%2BTV.png</thumbnail>
+</item>
+
+<item>
+<title>UTV News</title>
+<link>rtmp://109.69.1.213:1935/live/mystream/utv2</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/uu/utv_news_al.png</thumbnail>
+</item>
+
+<item>
+<title>Ballkan TV</title>
+<link>rtmp://yayin.tvdunyasi.tv/live/balkanrtv</link>
+<thumbnail> </thumbnail>
+</item>
+
+<item>
+<title>ORA News</title>
+<link>rtmp://209.212.145.164/live/livestream1</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/oo/ora_news.png</thumbnail>
+</item>
+
+<item>
+<title>Zico TV</title>
+<link>rtmp://84.22.33.24:1935/ingest/zicotv</link>
+<thumbnail>http://www.tv14.net/wp-content/uploads/2010/09/Zico-TV1.jpg</thumbnail>
+</item>
 
 </channel>

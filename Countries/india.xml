@@ -5,54 +5,6 @@
 <thumbnail></thumbnail>
 
 <item>
-<title>Set Max</title>
-<link>rtmp://pakistani.mine.nu:1935/live/1.ch?u=FAISAL53:p=sajjadmalik</link>
-<thumbnail>http://static3.wikia.nocookie.net/__cb20110926112743/logopedia/images/e/ea/SET_Max_2011.png</thumbnail>
-</item>
-
-<item>
-<title>Rishtey</title>
-<link>rtmp://pakistani.mine.nu:1935/live/2.ch?u=FAISAL53:p=sajjadmalik</link>
-<thumbnail>http://upload.wikimedia.org/wikipedia/commons/f/f9/Rishtey.tv.jpg</thumbnail>
-</item>
-
-<item>
-<title>Colors</title>
-<link>rtmp://pakistani.mine.nu:1935/live/4.ch?u=FAISAL53:p=sajjadmalik</link>
-<thumbnail>http://static2.wikia.nocookie.net/__cb20111013225804/logopedia/images/3/33/Colors_TV.png</thumbnail>
-</item>
-
-<item>
-<title>ZEE TV</title>
-<link>rtmp://pakistani.mine.nu:1935/live/11.ch?u=FAISAL53:p=sajjadmalik</link>
-<thumbnail>http://cdn.urbanasian.com/wp-content/uploads/2012/03/Zee-tv-logo.png</thumbnail>
-</item>
-
-<item>
-<title>ZEE Cinema (LINK 2)</title>
-<link>rtmp://pakistani.mine.nu:1935/live/12.ch?u=FAISAL53:p=sajjadmalik</link>
-<thumbnail>http://images.wikia.com/logopedia/images/4/48/Zee_Cinema_2011.png</thumbnail>
-</item>
-
-<item>
-<title>Bollywood (Movies)</title>
-<link>rtmp://pakistani.mine.nu:1935/live/17.ch?u=FAISAL53:p=sajjadmalik</link>
-<thumbnail>http://blog.yamgo.com/wp-content/uploads/2013/06/BollywoodMoviesLogo.jpg</thumbnail>
-</item>
-
-<item>
-<title>Star Gold (Link 2)</title>
-<link>rtmp://pakistani.mine.nu:1935/live/8.ch?u=FAISAL53:p=sajjadmalik</link>
-</thumbnail>http://images.wikia.com/logopedia/images/f/f0/Star_Gold_2011.png</thumbnail>
-</item>
-
-<item>
-<title>Lamhe (Link 2)</title>
-<link>rtmp://pakistani.mine.nu:1935/live/13.ch?u=FAISAL53:p=sajjadmalik</link>
-<thumbnail>http://static.timefor.tv/imgs/epg/logos/lamhe_big.png</thumbnail>
-</item>
-
-<item>
 <title>ABP Ananda</title>
 <link>rtmp://54.251.165.11/live/unrestricted app=live/unrestricted playpath=463.sdp  swfUrl=http://abpananda.abplive.in/resources/flash/flowplayer-3.2.16.swf  pageUrl=http://abpananda.abplive.in/livetv/</link>
 <thumbnail>http://tv.onlinemoviesportsandtv.com/wp-content/uploads/2012/10/abp_ananda.jpg</thumbnail>

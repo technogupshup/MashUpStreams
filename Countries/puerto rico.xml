@@ -5,8 +5,15 @@
 <thumbnail></thumbnail>
 
 <item>
-<title>CDM</title> 
-<link>rtmp://cdne2.unored.com/unored_video/587 playpath=stream swfUrl=http://tvportal.unored.com/embed.swf live=true timeout=15 pageUrl=http://tvportal.unored.com/channel/view/pr-587</link>
+<title>CDN International</title>
+<link>rtmp://cdne2.unored.com/unored_video/9 app=unored_video/9 playpath=stream swfUrl=http://tvportal.unored.com/embed.swf pageUrl=http://tvportal.unored.com/embed/9/425/351/FALSE/false conn=S:9 conn=S: conn=S: conn=S:embed conn=S: conn=S:0 conn=S: conn=S:$doregex[id] swfVfy=true live=true timeout=15
+<regex>
+<name>id</name>
+<expres>uniqueId = '([^']*)</expres>
+<page>http://tvportal.unored.com/channel/view/cdm-internacional-9</page>
+<referer>http://tvportal.unored.com/embed/9/425/351/FALSE/false</referer>
+</regex>
+</link>
 <thumbnail>http://ing-sat.what.hu/images/logo-insert/satlogos/puerto-rico/106-CDM%5B6%5D.jpg</thumbnail>
 </item>
 

@@ -5,6 +5,18 @@
 <thumbnail></thumbnail>
 
 <item>
+<title>Hayat Plus</title>
+<link>http://146.255.59.3:8153</link>
+<thumbnail>http://www.teve.ba/img/articles/13454.jpg?Hayat_Plus_u_ponudi_DTV_HS</thumbnail>
+</item>
+
+<item>
+<title>Exyu</title>
+<link>plugin://plugin.video.jtv.archives/?mode=2&amp;name=exyutelevizija</link>
+<thumbnail>http://lh5.ggpht.com/RndDu3aATZPrrYbKjCg68CoO4Gzlj40Ld0aWMDZgCAx_1cyEmyY0uenVVaGhlEjVpQ</thumbnail>
+</item>
+
+<item>
 <title>HEMA</title>
 <link>mms://77.238.209.50:1234/</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/hh/hema_tv.jpg</thumbnail>

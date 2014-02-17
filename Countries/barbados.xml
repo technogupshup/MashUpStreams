@@ -6,8 +6,7 @@
 
 <item>
 <title>CBC TV 8</title>
-<link>rtmp://184.154.57.230/cbcvideo playpath=cbcstream 
-swfUrl=http://184.154.57.230/cbcvideo/Player_files/engine.swf</link>
+<link>rtmp://184.154.57.230/cbcvideo playpath=cbcstream live=true timeout=15 swfUrl=http://184.154.57.230/cbcvideo/Player_files/engine.swf</link>
 <thumbnail>http://cbc.bb/images/stories/cbctv8.png</thumbnail>
 </item>
 

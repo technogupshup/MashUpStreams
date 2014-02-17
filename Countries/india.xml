@@ -5,114 +5,6 @@
 <thumbnail></thumbnail>
 
 <item>
-<title>Gemini Comedy</title>
-<link>http://50.7.102.195:1935/httplayback/gcomedy/playlist.m3u8</link>
-<thumbnail>http://www.lyngsat-logo.com/hires/ss/sun_gemini_comedy.png</thumbnail>
-</item>
-
-<item>
-<title>UFX</title>
-<link>http://68.235.37.93:1935/chliveios/ufx/playlist.m3u8</link>
-<thumbnail>http://upload.wikimedia.org/wikipedia/en/0/07/Logo_of_Channel_UFX.jpg</thumbnail>
-</item>
-
-<item>
-<title>TV5</title>
-<link>http://50.7.102.195:1935/httplayback/tv5/playlist.m3u8</link>
-<thumbnail>http://tv.onlinemoviesportsandtv.com/wp-content/uploads/2012/10/Tv5.jpg</thumbnail>
-</item>
-
-<item>
-<title>Asia Net News</title>
-<link>http://50.7.102.195:1935/httplayback/asianetnews/playlist.m3u8</link>
-<thumbnail>http://www.turbotv.in/wp-content/uploads/2012/10/Asianet-News-242x300.jpg</thumbnail>
-</item>
-
-<item>
-<title>MNRMA</title>
-<link>http://50.7.102.195:1935/httplayback/mnrma/playlist.m3u8</link>
-<thumbnail>https://csa.dishnetwork.com/Images/logos/MNRMA.png</thumbnail>
-</item>
-
-<item>
-<title>Kiran</title>
-<link>http://50.7.102.195:1935/httplayback/kirantv/playlist.m3u8</link>
-<thumbnail>http://www.lyngsat-logo.com/hires/ss/sun_kiran.png</thumbnail>
-</item>
-
-<item>
-<title>ETV Tenglu</title>
-<link>http://50.7.102.195:1935/httplayback/etvtelugu/playlist.m3u8</link>
-<thumbnail>http://www.lyngsat-logo.com/hires/ee/etv_telugu.png</thumbnail>
-</item>
-
-<item>
-<title>Telugu 4U Movies</title>
-<link>http://50.7.102.195:1935/minnal2/telugu4umovies2/playlist.m3u8</link>
-<thumbnail>http://watchsuntv.com/channellogo/tel_tv.png</thumbnail>
-</item>
-
-<item>
-<title>Gemini Movies</title>
-<link>http://50.7.102.195:1935/httplayback/gmovies/playlist.m3u8</link>
-<thumbnail>http://www.yupptv.com/seo_img/gemini_movies_large.gif</thumbnail>
-</item>
-
-<item>
-<title>TV9</title>
-<link>http://50.7.102.195:1935/httplayback/tv9/playlist.m3u8</link>
-<thumbnail>http://upload.wikimedia.org/wikipedia/en/4/40/Tv9_Telugu.gif</thumbnail>
-</item>
-
-<item>
-<title>We TV</title>
-<link>http://68.235.37.93:1935/chliveios/we/playlist.m3u8</link>
-<thumbnail>http://2.bp.blogspot.com/-00Burxm30Ms/UAv5GbrhriI/AAAAAAAAAHg/YRgz19Q6Mig/s1600/We-TV-Logo.jpg</thumbnail>
-</item>
-
-<item>
-<title>Gemini TV</title>
-<link>http://50.7.102.195:1935/httplayback/geminitv/playlist.m3u8</link>
-<thumbnail>http://www.newtvworld.com/Images/gemini%20tv.jpg</thumbnail>
-</item>
-
-<item>
-<title>Surya TV</title>
-<link>http://50.7.102.195:1935/httplayback/suryatv/playlist.m3u8</link>
-<thumbnail>http://www.lyngsat-logo.com/hires/ss/sun_surya_tv.png</thumbnail>
-</item>
-
-<item>
-<title>Amarita TV</title>
-<link>http://50.7.102.195:1935/httplayback/amritatv/playlist.m3u8</link>
-<thumbnail>http://1.bp.blogspot.com/-CDQXmX3zTxM/Uml-isKlOEI/AAAAAAAAAks/nX2E6PedH7w/s1600/amrita_tv.png</thumbnail>
-</item>
-
-<item>
-<title>Asianet Plus</title>
-<link>http://50.7.102.195:1935/httplayback/aplus11/playlist.m3u8</link>
-<thumbnail>http://static3.wikia.nocookie.net/__cb20110929161260/logopedia/images/4/49/Asianet_Plus.png</thumbnail>
-</item>
-
-<item>
-<title>Asianet</title>
-<link>http://50.7.102.195:1935/httplayback/asianet11/playlist.m3u8</link>
-<thumbnail>http://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Asianet_Logo.svg/298px-Asianet_Logo.svg.png</thumbnail>
-</item>
-
-<item>
-<title>Zee Marthi</title>
-<link>http://50.7.102.195:1935/httplayback/zeemarathi/playlist.m3u8</link>
-<thumbnail>http://www.lyngsat-logo.com/hires/zz/zee_marathi.png</thumbnail>
-</item>
-
-<item>
-<title>ETV Marthi</title>
-<link>http://50.7.102.195:1935/httplayback/emarathi/playlist.m3u8</link>
-<thumbnail>http://www.bestmediainfo.com/wp-content/uploads/2013/09/etv-marathi.jpg</thumbnail>
-</item>
-
-<item>
 <title>ABP Ananda</title>
 <link>rtmp://54.251.165.11/live/unrestricted app=live/unrestricted playpath=463.sdp  swfUrl=http://abpananda.abplive.in/resources/flash/flowplayer-3.2.16.swf  pageUrl=http://abpananda.abplive.in/livetv/</link>
 <thumbnail>http://tv.onlinemoviesportsandtv.com/wp-content/uploads/2012/10/abp_ananda.jpg</thumbnail>
@@ -140,12 +32,6 @@
 <title>ETV Kannada</title>
 <link>http://etv_kannada-lh.akamaihd.net/i/etv_kannada_1@84610/index_3_av-b.m3u8?sd=10&amp;rebase=on</link>
 <thumbnail>http://2.bp.blogspot.com/--p49uV_BLR4/TYLW2sPV7wI/AAAAAAAADUg/clsJ_OB_YYo/s1600/etv_kannada.jpg</thumbnail>
-</item>
-
-<item>
-<title>CNBC TV 18</title>
-<link>http://cnbc_tv18_hls-lh.akamaihd.net/i/cnbc_tv18_HLS_1@174868/index_3_av-p.m3u8?sd=10&amp;rebase=on</link>
-<thumbnail>https://pbs.twimg.com/profile_images/420081780318679040/J0PPNeJ3.png</thumbnail>
 </item>
 
 <item>

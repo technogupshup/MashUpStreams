@@ -12,7 +12,7 @@
 
 <item>
 <title>Star Plus</title>
-<link>rtmpe://strm.ukcast.tv/redirect playpath=stpluss swfUrl=http://ukcast.tv/player/player.swf pageUrl=http://www.ukcast.tv live=true swfVfy=true timeout=15</link>
+<link>rtmpe://strm.ukcast.tv/redirect playpath=stpluss&vw=600&vh=430 swfUrl=http://ukcast.tv/player/player.swf pageUrl=http://www.ukcast.tv live=true swfVfy=true timeout=15</link>
 <thumbnail>http://static2.wikia.nocookie.net/__cb20100619101411/logopedia/images/f/fc/StarPlus_2010.png</thumbnail>
 </item>
 

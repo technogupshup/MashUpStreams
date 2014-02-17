@@ -241,11 +241,11 @@ http://www.iconspedia.com/icon/
 
 <name>Bahamas TV Channels</name>
 <link>https://github.com/mash2k3/MashUpStreams/raw/master/Countries/bahamas.xml</link>
-<thumbnail>https://github.com/mash2k3/MashUpStreams/raw/master/Countries/flags/bahamas.png</thumbnail>
+<thumbnail>https://raw.github.com/mash2k3/MashUpStreams/master/Countries/flags/bahamas.png</thumbnail>
 
 <name>Honduras TV Channels</name>
 <link>https://github.com/mash2k3/MashUpStreams/raw/master/Countries/honduras.xml</link>
-<thumbnail>https://github.com/mash2k3/MashUpStreams/raw/master/Countries/flags/Honduras.jpg</thumbnail>
+<thumbnail>https://raw.github.com/mash2k3/MashUpStreams/master/Countries/flags/Honduras.jpg</thumbnail>
 
 <name>Portugal TV Channels</name>
 <link>https://github.com/mash2k3/MashUpStreams/raw/master/Countries/portugal.xml</link>

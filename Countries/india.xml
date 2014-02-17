@@ -5,6 +5,24 @@
 <thumbnail></thumbnail>
 
 <item>
+<title>Kasthuri</title>
+<link>rtmp://50.7.175.252:1940/base2/maha3.stream swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://www.turbotv.in/kasthuri-tv-live/ live=true timeout=15 token=Vu4KaBzaxa</link>
+<thumbnail>http://www.turbotv.in/wp-content/uploads/2012/10/kasthuri-tv.jpg</thumbnail>
+</item>
+
+<item>
+<title>Suvarna</title>
+<link>rtmp://50.7.175.253:1939/base2/asia3.stream swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://www.turbotv.in/suvarna-plus-live/ live=true timeout=15 token=Vu4KaBzaxa</link>
+<thumbnail>http://4.bp.blogspot.com/-5DTzhxSdyi4/TSGts3UDGxI/AAAAAAAADGE/w2nUGut2OuI/s1600/suvarna_logo.jpg</thumbnail>
+</item>
+ 
+<item>
+<title>Public</title>
+<link>rtmp://50.7.175.252:1940/base2/tamil24.stream swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://www.turbotv.in/public-tv-live/ live=true timeout=15 token=Vu4KaBzaxa</link>
+<thumbnail>http://cdn2.supergoodmovies.com/FilesFive/another-television-channel-public-tv-6ed325e2.jpg</thumbnail>
+</item>
+
+<item>
 <title>ABP Ananda</title>
 <link>rtmp://54.251.165.11/live/unrestricted app=live/unrestricted playpath=463.sdp  swfUrl=http://abpananda.abplive.in/resources/flash/flowplayer-3.2.16.swf  pageUrl=http://abpananda.abplive.in/livetv/</link>
 <thumbnail>http://tv.onlinemoviesportsandtv.com/wp-content/uploads/2012/10/abp_ananda.jpg</thumbnail>

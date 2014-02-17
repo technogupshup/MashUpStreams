@@ -1,3 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<channel>
+<name>Cuban TV Channels</name>
+<thumbnail></thumbnail>
+
 <item>
 <title>CETV</title>
 <link>http://213.81.153.221:8080/cetv</link>
@@ -57,3 +63,5 @@
 <link>http://213.81.153.221:8080/zstv</link>
 <thumbnail> </thumbnail>
 </item>
+
+</channel>

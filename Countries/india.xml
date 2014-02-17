@@ -12,7 +12,7 @@
 
 <item>
 <title>Star Plus</title>
-<link>rtmp://77.81.98.130/hot/ playpath=starplushd?v=8c2afad7e6574d5cd145ced50fabfa7a swfUrl=http://www.castok.com/jwplayer/jwplayer.flash.swf pageUrl=http://www.castok.com/embed.php?v=starplushd&vw=600&vh=450&typeplayer=0&domain=pogotv.eu</link>
+<link>rtmp://77.81.98.130/hot/ playpath=starplushd?v=8c2afad7e6574d5cd145ced50fabfa7a swfUrl=http://www.castok.com/jwplayer/jwplayer.flash.swf live=true timeout=15 pageUrl=http://www.castok.com/embed.php?v=starplushd&vw=600&vh=450&typeplayer=0&domain=pogotv.eu</link>
 <thumbnail>http://static2.wikia.nocookie.net/__cb20100619101411/logopedia/images/f/fc/StarPlus_2010.png</thumbnail>
 </item>
 

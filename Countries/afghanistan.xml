@@ -119,12 +119,6 @@
 </item>
 
 <item>
-<title>Tamadon</title>
-<link>rtmp://tamadonlive.nanocdn.com:1935/live playpath=tamadon256 swfUrl=http://www.nanocdn.net/modules/lives/js/jwplayer/player.swf live=ture timeout=60 pageUrl=http://www.nanocdn.net/modules/lives/index.php?id=4&channel=tamadon&op=fph</link>
-<thumbnail>http://www.lyngsat-logo.com/hires/tt/tamadon_tv.png</thumbnail>
-</item>
-
-<item>
 <title>VOA</title>
 <link>rtmp://iriptv.com/iriptvserver3 playpath=32.stream swfUrl=http://iriptv.com/player/player.swf live=ture timeout=15 pageUrl=http://iriptv.com/web/index.php</link>
 <thumbnail>http://www.engineeringradio.us/blog/wp-content/uploads/2011/06/Voice_of_America_Logo.png</thumbnail>

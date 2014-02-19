@@ -7,7 +7,7 @@
 
 
 <info>
-<message>[COLOR=FFFF0000]Announcement(s): Updated Al Kass[/COLOR]</message>
+<message>[COLOR=FFFF0000]Announcement(s): Added Bein USA, Updated Al Kass[/COLOR]</message>
 <thumbnail>http://upload.wikimedia.org/wikipedia/commons/3/32/The_flag_of_Syrian_Arab_Republic_Damascus%2C_Syria.jpg</thumbnail>
 </info>
 
@@ -20,6 +20,20 @@
 <message>[COLOR=FF00FF00]Important: For Support Or Requests Please Visit (XBMC TALK) http://www.xunitytalk.com/showthread.php?3768-Crusader88-s-XMLs-NOT-FOR-REQUESTS-ONLY-HELP&p=18826#post18826[/COLOR]</message>
 <thumbnail>http://upload.wikimedia.org/wikipedia/commons/3/32/The_flag_of_Syrian_Arab_Republic_Damascus%2C_Syria.jpg</thumbnail>
 </info>
+
+
+<item>
+<title>Bein USA</title>
+<link>rtmp://173.193.46.109/live playpath=$doregex[file] swfUrl=http://static.castalba.tv/player5.9.swf live=true timeout=15 pageUrl=http://castalba.tv/embed.php?cid=15495&wh=650&ht=480&r=www.stream2watch.me
+<regex>
+<name>file</name>
+<expres>'file': '([^']*)</expres>
+<page>http://castalba.tv/embed.php?cid=15495&wh=650&ht=480&r=www.stream2watch.me</page>
+<referer>http://www.stream2watch.me/showstream.php?id=42520&stream=1</referer>
+</regex>
+</link>
+<thumbnail>http://media.meltybuzz.fr/article-1013280-ajust_930/bein-sport.jpg</thumbnail>
+</item>
 
 <item>
 <title>Bein 9  [COLOR=FFFF0000]Updated Daily[/COLOR]</title>

@@ -8,16 +8,32 @@
 
 <item>
 <title>ITN</title>
-<link>rtmp://mediacp.comcities.com:1935/itn-cdn playpath=default.stream swfUrl=http://cdn.itnlanka.com/itn.swf live=true timeout=15
-pageUrl=http://wwitv.com/tv_channels/b2130.htm</link>
+<link>rtmp://mediacp.comcities.com:1935/itn-cdn playpath=default.stream swfUrl=http://cdn.itnlanka.com/itn.swf live=true timeout=15 pageUrl=http://wwitv.com/tv_channels/b2130.htm</link>
 <thumbnail>http://www.livetvstreamingfree.com/wp-content/uploads/2012/11/ITN-TV-Channel-Sri-Lanka-Lo.png</thumbnail>
 </item>
 
 <item>
-<title>Derana TV</title>
-<link>rtmp://cp1.serverse.com/deranalive playpath=deranalive swfUrl=http://wwitv.com/player/player15.swf live=true timeout=15
-pageUrl=http://wwitv.com/tv_channels/b1565.htm</link>
-<thumbnail>http://www.livetvstreamingfree.com/wp-content/uploads/2012/11/derana-tv-live-online-srilanka-logo.jpg</thumbnail>
+<title>Swaranavahini</title>
+<link>rtsp://wowza.eapdns.com/live/swrlive</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/en/3/32/Swarnavahini_logo.png</thumbnail>
+</item>
+
+<item>
+<title>Rupavahini</title>
+<link>rtsp://dammika.flashwebtown.com:1935/slrc/myStream.sdp</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/en/8/8e/Sri_Lanka_Rupavahini_Corporation-Logo.png</thumbnail>
+</item>
+
+<item>
+<title>NTV</title>
+<link>http://dammika.flashwebtown.com:1935/slrc-eye/myStream.sdp/playlist.m3u8</link>
+<thumbnail>http://www.ntv.lk/wp-content/uploads/2013/11/logo1.png</thumbnail>
+</item>
+
+<item>
+<title>Hiru TV</title>
+<link>rtsp://cp1.serverse.com/8012/8012</link>
+<thumbnail>http://www.hirutv.lk/images/logo.png</thumbnail>
 </item>
 
 

@@ -5,6 +5,12 @@
 <thumbnail></thumbnail>
 
 <item>
+<title>ABC TV</title>
+<link>rtsp://202.52.237.122/abctv</link>
+<thumbnail>http://allnepalimedia.com/wp-content/uploads/2013/11/abc-television-nepal-logo1.jpg</thumbnail>
+</item>
+
+<item>
 <title>Nepal TV</title>
 <link>rtmp://nepal.pointcdn.com/live playpath=ntvchannel2 swfUrl=http://www.npvideo.com/config-js/player.swf?&amp;streamer=rtmp://nepal.pointcdn.com/live&amp;file=ntvchannel2&amp;autostart=true&amp;skin=skin.swf&amp;logo=&amp;stretching=exactfit&amp;logo.file=http://www.nepalie.com/wp-content/uploads/2012/07/logo.png&logo.link=http://www.nepalie.com/&logo.linktarget=_blank&logo.hide=false&logo.position=right&logo.margin=10&stretching=exactfit live=true timeout=15 pageUrl=http://www.npvideo.com/config-js/player.swf?&amp;streamer=rtmp://nepal.pointcdn.com/live&amp;file=ntvchannel2&amp;autostart=true&amp;skin=skin.swf&amp;logo=&samp;tretching=exactfit&amp;logo.file=http://www.nepalie.com/wp-content/uploads/2012/07/logo.png&amp;logo.link=http://www.nepalie.com/&amp;logo.linktarget=_blank&amp;logo.hide=false&amp;logo.position=right&amp;logo.margin=10&amp;stretching=exactfit</link>
 <thumbnail>http://i0.wp.com/www.onlynepali.com/wp-content/uploads/2011/10/NTV-Live.png?resize=260%2C150</thumbnail>

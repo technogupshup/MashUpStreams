@@ -36,10 +36,18 @@
 </item>
 
 <item>
-<title>Bein 9  [COLOR=FFFF0000]Updated Daily[/COLOR]</title>
-<link>rtmpe://cdn.hdcast.org:1935/redirect/ playpath=BST9 swfUrl=http://77231864591d8245d027-dbd663cdd4719bbeb13e13f9ee6e6f1f.r39.cf5.rackcdn.com/bba.swf live=1 pageUrl=http://www.hdcast.org/</link>
+<title>Bein 9 [COLOR=FFFF0000]Updated Daily[/COLOR]</title>
+<link>rtmpe://cdn.hdcast.org:1935/redirect/ playpath=BST9 swfUrl=$doregex[swf] pageUrl=http://www.hdcast.org/  live=true timeout=15
+<regex>
+<name>swf</name>
+<expres>flashplayer: '([^']*)</expres>
+<page>http://www.hdcast.org/embedlive2.php?u=BST9&amp;vw=640&amp;vh=460&amp;domain=hdfoots.com</page>
+<referer>http://hdfoots.com/watch/beinsports-9-live-stream.php</referer>
+</regex>
+</link>
 <thumbnail>http://nowwatchtvlive.com/wp-content/uploads/2014/01/beinsport_9hd.jpg</thumbnail>
 </item>
+
 
 <item>
 <title>Bein 10  [COLOR=FFFF0000]Updated Daily[/COLOR]</title>

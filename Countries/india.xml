@@ -42,7 +42,7 @@
 
 <item>
 <title>Star Plus</title>
-<link>rtmp://198.105.219.132/live playpath=starplushd?id=6129 swfUrl=http://www.janjua.tv/resources/scripts/eplayer.swf live=true timeout=15 pageUrl=http://www.janjua.tv/embedplayer/starplushd/1/600/450</link>
+<link>rtmp://146.185.25.154/live playpath=starplushdnowwatchtvlive?id=2736 swfUrl=http://www.ezcast.tv/static/scripts/eplayer.swf live=true timeout=15 pageUrl=http://www.ezcast.tv/embedded/starplushdnowwatchtvlive/1/600/460</link>
 <thumbnail>http://static2.wikia.nocookie.net/__cb20100619101411/logopedia/images/f/fc/StarPlus_2010.png</thumbnail>
 </item>
 

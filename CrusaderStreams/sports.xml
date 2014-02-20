@@ -59,7 +59,7 @@
 </regex>
 <regex>
 <name>path</name>
-<expres>.*file: "([^."]*)</expres>
+<expres>.*file: "([^."]*).flv</expres>
 <page>http://www.ilive.to/view/46461</page>
 <referer> </referer>
 </regex>

@@ -29,20 +29,8 @@
 </item>
 
 <item>
-<title>test</title>
-<link>rtmp://188.0.226.106/ playpath=starplushd?v=$doregex[app] swfUrl=http://www.castok.com/jwplayer/jwplayer.flash.swf pageUrl=http://www.castok.com/embed.php?v=starplushd&amp;vw=600&amp;vh=450&amp;typeplayer=0&amp;domain=pogotv.eu‏ live=true timeout=15</link>
-<thumbnail>http://static2.wikia.nocookie.net/__cb20100619101411/logopedia/images/f/fc/StarPlus_2010.png</thumbnail>
-<regex>
-<name>app</name>
-<expres>v=([^"]*)</expres>
-<page>http://www.castok.com/embed.php?v=starplushd&amp;vw=600&amp;vh=450&amp;typeplayer=0&amp;domain=pogotv.eu</page>
-<referer>http://pogotv.eu/star-plusindia.php</referer>
-</regex>
-</item>
-
-<item>
 <title>Star Plus</title>
-<link>rtmp://146.185.25.154/live playpath=starplushdnowwatchtvlive?id=2736 swfUrl=http://www.ezcast.tv/static/scripts/eplayer.swf live=true timeout=15 pageUrl=http://www.ezcast.tv/embedded/starplushdnowwatchtvlive/1/600/460</link>
+<link>rtmp://46.28.53.18/live playpath=starplushd?id=6129 conn=S:OK swfUrl=http://www.janjua.tv/resources/scripts/eplayer.swf live=true timeout=15 pageUrl=http://www.janjua.tv/embedplayer/starplushd/1/600/450</link>
 <thumbnail>http://static2.wikia.nocookie.net/__cb20100619101411/logopedia/images/f/fc/StarPlus_2010.png</thumbnail>
 </item>
 

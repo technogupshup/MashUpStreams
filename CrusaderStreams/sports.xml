@@ -145,11 +145,11 @@
 
 <item>
 <title>Bein 12 (Link 2) [COLOR=FFFF0000]Updated Daily[/COLOR]</title>
-<link>rtmpe://cdn.hdcast.org:1935/redirect/ playpath=bein12 swfUrl=$doregex[swf] pageUrl=http://www.hdcast.org/embedlive2.php?u=bein12&vw=620&vh=490&domain=cricfree.tv  live=true timeout=15
+<link>rtmpe://cdn.hdcast.org:1935/redirect/ playpath=bein12 swfUrl=$doregex[swf] pageUrl=http://www.hdcast.org/embedlive2.php?u=bein12&amp;vw=620&amp;vh=490&amp;domain=cricfree.tv  live=true timeout=15
 <regex>
 <name>swf</name>
 <expres>flashplayer: '([^']*)</expres>
-<page>http://www.hdcast.org/embedlive2.php?u=bein12&vw=620&vh=490&domain=cricfree.tv</page>
+<page>http://www.hdcast.org/embedlive2.php?u=bein12&amp;vw=620&amp;vh=490&amp;domain=cricfree.tv</page>
 <referer>http://cricfree.tv/update/jsc10.php</referer>
 </regex>
 </link>

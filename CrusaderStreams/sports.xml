@@ -48,6 +48,28 @@
 <thumbnail>http://nowwatchtvlive.com/wp-content/uploads/2014/01/beinsport_9hd.jpg</thumbnail>
 </item>
 
+<item>
+<title>Fox</title>
+<link>rtmp://watch.ilive.to:1935/edge/_definst_/ app=edge/_definst_/?xs=$doregex[appid] playpath=$doregex[path] token=$doregex[tok] swfUrl=http://cdn.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to
+<regex>
+<name>appid</name>
+<expres>\?xs=([^"]*)</expres>
+<page>http://www.ilive.to/view/46465</page>
+</regex>
+<regex>
+<name>path</name>
+<expres>.*file: "([^."]*)</expres>
+<page>http://www.ilive.to/view/46465</page> 
+</regex>
+<regex>
+<name>tok</name>
+<expres>t....":"([^."]*)</expres>
+<page>http://www.ilive.to/server.php</page>
+<referer>http://www.ilive.to</referer>
+</regex>
+</link>
+<thumbnail> </thumbnail>
+</item>
 
 <item>
 <title>Bein 10  [COLOR=FFFF0000]Updated Daily[/COLOR]</title>

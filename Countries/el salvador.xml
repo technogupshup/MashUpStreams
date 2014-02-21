@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<channel>
+<name>El Salvadorian TV Channels</name>
+<thumbnail></thumbnail>
+
+
+<item>
+<title>Telemundo</title>
+<link>rtmp://demo.iblups.com/demo playpath=uv5MQaVwjc swfUrl=http://iblups.com/playertvlive123456789.swf?autostart=true&amp;config=configplayer.php?id=12321 live=1 pageUrl=http://iblups.com/e_karipu-650-400</link>
+<thumbnail>http://tvbythenumbers.zap2it.com/wp-content/uploads/2012/02/Telemundo_Logo-big.jpg</thumbnail>
+</item>
+
+</channel>

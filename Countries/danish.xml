@@ -6,27 +6,86 @@
 
 <item>
 <title>DR1</title>
-<link>rtmp://flash0.11003-live0.dna.qbrick.com:1935/11003-live4 playpath=livedr01astream1 swfUrl=http://www.dr.dk/assets/swf/program-player.swf?cachekill=20131003 live=true timeout=15 pageUrl=http://www.dr.dk/TV/live/dr1</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/dd/dr_1.jpg</thumbnail>
+<link>http://195.250.60.41:9987/udp/239.100.202.6:3001</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/dd/dr_1.png</thumbnail>
 </item>
-
 
 <item>
 <title>DR2</title>
-<link>rtmp://livetv.gss.dr.dk:80/live playpath=livedr02astream1 swfUrl=http://www.dr.dk/assets/swf/program-player.swf?cachekill=20131003 live=true timeout=15 pageUrl=http://www.dr.dk/TV/live/dr2</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/dd/dr_2.jpg</thumbnail>
+<link>http://195.250.60.41:9987/udp/239.100.202.7:3001</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/dd/dr_2.png</thumbnail>
 </item>
 
 <item>
-<title>DR3</title>
-<link>rtmp://livetv.gss.dr.dk:1935/live playpath=livedr06astream1 swfUrl=http://www.dr.dk/assets/swf/program-player.swf?cachekill=20131003 live=true timeout=15 pageUrl=http://www.dr.dk/TV/live/dr3</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/dd/dr_3.jpg</thumbnail>
+<title>DR K</title>
+<link>http://195.250.60.41:9987/udp/239.100.0.24:3001</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/dd/dr_k.png</thumbnail>
 </item>
 
 <item>
-<title>DR Ultra</title>
-<link>rtmp://livetv.gss.dr.dk:1935/live playpath=livedr03astream1 swfUrl=http://www.dr.dk/assets/swf/program-player.swf?cachekill=20131003 live=true timeout=15 pageUrl=http://www.dr.dk/tv/live/dr-ultra/</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/dd/dr_ultra_dk.jpg</thumbnail>
+<title>DR Ramasjang</title>
+<link>http://195.250.60.41:9987/udp/239.100.202.15:3001</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/dd/dr_ramasjang.png</thumbnail>
+</item>
+
+<item>
+<title>TV2</title>
+<link>http://195.250.60.41:9987/udp/239.100.202.1:3001</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/tt/tv2_dk.png</thumbnail>
+</item>
+
+<item>
+<title>TV2 Zulu</title>
+<link>http://195.250.60.41:9987/udp/239.100.202.12:3001</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/tt/tv2_zulu_denmark.png</thumbnail>
+</item>
+
+<item>
+<title>TV2 Film</title>
+<link>http://195.250.60.41:9987/udp/239.100.202.16:3001</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/tt/tv2_film.png</thumbnail>
+</item>
+
+<item>
+<title>TV2 Charlie (Denmark)</title>
+<link>http://195.250.60.41:9987/udp/239.100.202.14:3001</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/tt/tv2_charlie.png</thumbnail>
+</item>
+
+<item>
+<title>TV2 News</title>
+<link>http://195.250.60.41:9987/udp/239.100.202.3:3001</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/tt/tv2_news.png</thumbnail>
+</item>
+
+<item>
+<title>TV3</title>
+<link>http://195.250.60.41:9987/udp/239.100.202.10:3001</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/vv/viasat_tv3_dk.png</thumbnail>
+</item>
+
+<item>
+<title>TV3 Puls</title>
+<link>http://195.250.60.41:9987/udp/239.100.202.33:3001</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/vv/viasat_tv3_puls_dk.png</thumbnail>
+</item>
+
+<item>
+<title>TV3+</title>
+<link>http://195.250.60.41:9987/udp/239.100.202.13:3001</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/vv/viasat_tv3_plus_dk.png</thumbnail>
+</item>
+
+<item>
+<title>Canal 9</title>
+<link>http://195.250.60.41:9987/udp/239.100.202.4:3001</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/cc/canal9_dk.png</thumbnail>
+</item>
+
+<item>
+<title>Eurosport</title>
+<link>http://195.250.60.41:9987/udp/239.100.202.36:3001</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ee/eurosport.png</thumbnail>
 </item>
 
 

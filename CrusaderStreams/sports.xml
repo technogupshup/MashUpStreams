@@ -50,25 +50,25 @@
 
 <item>
 <title>Bein 10  [COLOR=FFFF0000]Updated Daily[/COLOR]</title>
-<link>rtmpe://46.246.124.15:1935/redirect playpath=BST10 swfUrl=http://www.hdcast.org/aplayer/jwplayer.flash.swf live=1 pageUrl=http://www.hdcast.org/</link>
+<link>=rtmpe://46.246.124.7:1935/redirect playpath=BST10 swfUrl=http://www.hdcast.org/aplayer/jwplayer.flash.swf live=1 pageUrl=http://www.hdcast.org/</link>
 <thumbnail>http://nowwatchtvlive.com/wp-content/uploads/2014/01/bein-sport-10HD.png</thumbnail>
 </item>
 
 <item>
 <title>Bein 13  [COLOR=FFFF0000]Updated Daily[/COLOR]</title>
-<link>rtmpe://46.246.124.15:1935/redirect playpath=BST13 swfUrl=http://www.hdcast.org/aplayer/jwplayer.flash.swf live=1 pageUrl=http://www.hdcast.org/</link>
+<link>rtmpe://46.246.124.7:1935/redirect playpath=BST13 swfUrl=http://www.hdcast.org/aplayer/jwplayer.flash.swf live=1 pageUrl=http://www.hdcast.org/</link>
 <thumbnail>http://nowwatchtvlive.com/wp-content/uploads/2014/01/bein-sport-13HD.png</thumbnail>
 </item>
 
 <item>
 <title>Bein 14  [COLOR=FFFF0000]Updated Daily[/COLOR]</title>
-<link>rtmpe://46.246.124.15:1935/redirect playpath=BST14 swfUrl=http://www.hdcast.org/aplayer/jwplayer.flash.swf live=1 pageUrl=http://www.hdcast.org/</link>
+<link>rtmpe://46.246.124.7:1935/redirect playpath=BST14 swfUrl=http://www.hdcast.org/aplayer/jwplayer.flash.swf live=1 pageUrl=http://www.hdcast.org/</link>
 <thumbnail>http://nowwatchtvlive.com/wp-content/uploads/2014/01/bein-sport-14HD.png</thumbnail>
 </item>
 
 <item>
 <title>Bein 15  [COLOR=FFFF0000]Updated Daily[/COLOR]</title>
-<link>rtmpe://cdn.hdcast.org:1935/redirect/ playpath=BST15 pageurl=http://www.hdcast.org/embedlive2.php?u=BST15&vw=640&vh=460&domain=hdfoots.com</link>
+<link>rtmpe://46.246.124.7:1935/redirect playpath=BST15 swfUrl=http://www.hdcast.org/aplayer/jwplayer.flash.swf live=1 pageUrl=http://www.hdcast.org/</link>
 <thumbnail>http://nowwatchtvlive.com/wp-content/uploads/2014/01/bein-sport-15HD.jpg</thumbnail>
 </item>
 
@@ -84,7 +84,7 @@
 <item>
 <title>Bein 7  [COLOR=FFFF0000]Updated Daily[/COLOR]</title>
 <link>
-<sublink>rtmpe://strm.ukcast.tv/redirect playpath=bein7desii swfUrl=http://ukcast.tv/player/player.swf pageUrl=http://www.ukcast.tv live=true swfVfy=true timeout=15</link></sublink>
+<sublink>rtmpe://46.246.124.7:1935/redirect playpath=BST7 swfUrl=http://www.hdcast.org/aplayer/jwplayer.flash.swf live=1 pageUrl=http://www.hdcast.org/</sublink>
 <sublink>rtmp://31.220.0.134:1935/live playpath=bein7 swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf live=true timeout=15 pageUrl=http://www.eucast.tv/embed.php?live=bein7&vw=600&vh=450</sublink>
 </link>
 <thumbnail>http://i.imgur.com/cHNlLaQ.jpg</thumbnail>
@@ -102,8 +102,8 @@
 <item>
 <title>Bein 6  [COLOR=FFFF0000]Updated Daily[/COLOR]</title>
 <link>
-<sublink>rtmpe://strm.ukcast.tv/redirect playpath=bein6desii swfUrl=http://ukcast.tv/player/player.swf pageUrl=http://www.ukcast.tv live=true swfVfy=true timeout=15</sublink>
-<sublink>rtmpe://watch.playfooty.tv/live playpath=beinsport66 swfUrl=http://www.playfooty.tv/play/player/player.swf live=true timeout=15 pageUrl=http://www.playfooty.tv/</sublink>
+<sublink>rtmpe://46.246.124.7:1935/redirect playpath=BST6 swfUrl=http://www.hdcast.org/aplayer/jwplayer.flash.swf live=1 pageUrl=http://www.hdcast.org/</sublink>
+<sublink>rtmp://31.220.0.133:1935/live playpath=bein6 swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf live=true timeout=15 pageUrl=http://www.eucast.tv/embed.php?COLLCC=1396963940&live=bein6&vw=600&vh=450</sublink>
 </link>
 <thumbnail>http://i.imgur.com/by9j5N2.jpg</thumbnail>
 </item>

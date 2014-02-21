@@ -258,3 +258,11 @@ http://www.iconspedia.com/icon/
 <name>Czechoslovakian TV Channels</name>
 <link>https://raw.github.com/mash2k3/MashUpStreams/master/Countries/czechoslovakia.xml</link>
 <thumbnail>https://raw2.github.com/mash2k3/MashUpStreams/master/Countries/flags/Czech-Republic-Flag.PNG</thumbnail>
+
+<name>Mexican TV Channels</name>
+<link>https://raw2.github.com/mash2k3/MashUpStreams/master/Countries/mexico.xml</link>
+<thumbnail>https://raw2.github.com/mash2k3/MashUpStreams/master/Countries/flags/mexico.png</thumbnail>
+
+<name>El Salvadorian Channels</name>
+<link>https://raw2.github.com/mash2k3/MashUpStreams/master/Countries/el%20salvador.xml</link>
+<thumbnail>https://raw2.github.com/mash2k3/MashUpStreams/master/Countries/flags/El%20Salvador.png</thumbnail>

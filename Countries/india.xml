@@ -30,7 +30,7 @@
 
 <item>
 <title>Star Plus</title>
-<link>rtmp://46.28.53.18/live playpath=starplushd?id=6129 conn=S:OK swfUrl=http://www.janjua.tv/resources/scripts/eplayer.swf live=true timeout=15 pageUrl=http://www.janjua.tv/embedplayer/starplushd/1/600/450</link>
+<link>rtmp://46.28.53.38/live playpath=starplushd?id=6129 conn=S:OK swfUrl=http://www.janjua.tv/resources/scripts/eplayer.swf live=true timeout=15 pageUrl=http://www.janjua.tv/embedplayer/starplushd/1/600/450</link>
 <thumbnail>http://static2.wikia.nocookie.net/__cb20100619101411/logopedia/images/f/fc/StarPlus_2010.png</thumbnail>
 </item>
 

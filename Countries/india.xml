@@ -30,7 +30,7 @@
 
 <item>
 <title>Star Plus</title>
-<link>rtmp://50.7.175.252:1940/base2 playpath=dd25.stream swfUrl=http://desilivetv.net/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=true timeout=15 pageUrl=http://desilivetv.net/</link>
+<link>rtmp://50.7.175.252:1940/base2 playpath=dd25.stream token=Vu4KaBzaxa swfUrl=http://desilivetv.net/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=true timeout=15 pageUrl=http://desilivetv.net/</link>
 <thumbnail>http://static2.wikia.nocookie.net/__cb20100619101411/logopedia/images/f/fc/StarPlus_2010.png</thumbnail>
 </item>
 

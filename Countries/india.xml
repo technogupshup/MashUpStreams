@@ -4,6 +4,29 @@
 <name>Indian TV Channels</name>
 <thumbnail></thumbnail>
 
+<title>UFX</title>
+<link>http://68.235.37.93:1935/chliveios/ufx/playlist.m3u8</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/en/0/07/Logo_of_Channel_UFX.jpg</thumbnail>
+</item>
+
+<item>
+<title>TV5</title>
+<link>http://50.7.102.195:1935/httplayback/tv5/playlist.m3u8</link>
+<thumbnail>http://tv.onlinemoviesportsandtv.com/wp-content/uploads/2012/10/Tv5.jpg</thumbnail>
+</item>
+
+<item>
+<title>Asia Net News</title>
+<link>http://50.7.102.195:1935/httplayback/asianetnews/playlist.m3u8</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/commons/c/c4/Asianet_News_Logo.png</thumbnail>
+</item>
+
+<item>
+<title>MNRMA</title>
+<link>http://50.7.102.195:1935/httplayback/mnrma/playlist.m3u8</link>
+<thumbnail>https://csa.dishnetwork.com/images/logos/mnrma.png</thumbnail>
+</item>
+
 <item>
 <title>Gemini Comedy</title>
 <link>http://50.7.102.195:1935/httplayback/gcomedy/playlist.m3u8</link>

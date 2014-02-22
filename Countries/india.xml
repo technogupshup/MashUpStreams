@@ -5,6 +5,12 @@
 <thumbnail></thumbnail>
 
 <item>
+<title>Gemini Comedy</title>
+<link>http://50.7.102.195:1935/httplayback/gcomedy/playlist.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/ss/sun_gemini_comedy.png</thumbnail>
+</item>
+
+<item>
 <title>Kasthuri</title>
 <link>rtmp://50.7.175.252:1940/base2/maha3.stream swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://www.turbotv.in/kasthuri-tv-live/ live=true timeout=15 token=Vu4KaBzaxa</link>
 <thumbnail>http://www.turbotv.in/wp-content/uploads/2012/10/kasthuri-tv.jpg</thumbnail>

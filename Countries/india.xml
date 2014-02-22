@@ -10,15 +10,21 @@
 </item>
 
 <item>
-<title>TV5</title>
-<link>http://50.7.102.195:1935/httplayback/tv5/playlist.m3u8</link>
-<thumbnail>http://tv.onlinemoviesportsandtv.com/wp-content/uploads/2012/10/Tv5.jpg</thumbnail>
+<title>Kiran</title>
+<link>http://50.7.102.195:1935/httplayback/kirantv/playlist.m3u8</link>
+<thumbnail>http://newskerala.com/files/2013/07/Kiran-TV-Newskerala.jpg</thumbnail>
 </item>
 
 <item>
-<title>Asia Net News</title>
-<link>http://50.7.102.195:1935/httplayback/asianetnews/playlist.m3u8</link>
-<thumbnail>http://upload.wikimedia.org/wikipedia/commons/c/c4/Asianet_News_Logo.png</thumbnail>
+<title>ETV Tenglu</title>
+<link>http://50.7.102.195:1935/httplayback/etvtelugu/playlist.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/ee/etv_telugu.png</thumbnail>
+</item>
+
+<item>
+<title>Telugu 4U Movies</title>
+<link>http://50.7.102.195:1935/minnal2/telugu4umovies2/playlist.m3u8</link>
+<thumbnail>http://watchsuntv.com/channellogo/tel_tv.png</thumbnail>
 </item>
 
 <item>

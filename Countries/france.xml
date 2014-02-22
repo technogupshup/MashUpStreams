@@ -21,7 +21,115 @@ http://database.freetuxtv.net/WebStreamExport/index?format=xml&type=1&status=2&l
 <item>
 <title>Air TV</title>
 <link>rtmp://stream.air-tv.tv:1935/live/web2.stream</link>
-<thumbnail>http://www.lyngsat-logo.com/hires/aa/airtv.png</thumbnail>
+<thumbnail>http://www.air-tv.tv/images/Logo-AIR-2013.png</thumbnail>
+</item>
+
+<item>
+<title>Air TV (Link 2)</title>
+<link>rtmp://stream.air-tv.tv:1935/live/ playpath=web2.stream swfUrl=http://cdn.livetvu.com/player-tv/web-stream/reader/jwplayer/6/6/jwplayer.flash.swf live=true timeout=15 pageUrl=http://cdn.livetvu.com/embed/2994</link>
+<thumbnail>http://www.air-tv.tv/images/Logo-AIR-2013.png</thumbnail>
+</item>
+
+<item>
+<title>No Tele</title>
+<link>rtsp://streaming06.axeweb.be:1935/live/direct.stream</link>
+<thumbnail>http://www.notele.be/templates/emissionorange/images/logo.png</thumbnail>
+</item>
+
+<item>
+<title>La Tele</title>
+<link>rtsp://rtmp.infomaniak.ch:1935/livecast/latele</link>
+<thumbnail> </thumbnail>
+</item>
+
+<item>
+<title>Grandlillie</title>
+<link>rtsp://str81.creacast.com:1935/grandlilletv/high</link>
+<thumbnail>http://www.grandlille.tv/images/stories/header_logo_grandlilletv.png</thumbnail>
+</item>
+
+<item>
+<title>BFM Business</title>
+<link>mms://vipmms.yacast.net/bfm_bfmbiz</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/bb/bfm_business.png</thumbnail>
+</item>
+
+<item>
+<title>BFM TV</title>
+<link>mms://vipmms9.yacast.net/bfm_bfmtv</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/bb/bfm_tv.png</thumbnail>
+</item>
+
+<item>
+<title>France 3</title>
+<link>http://91.197.165.4/bouygues/all/channel2.wmv</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ff/france3.png</thumbnail>
+</item>
+
+<item>
+<title>France 4</title>
+<link>mms://91.197.165.4/bouygues/all/channel3.wmv</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ff/france4.png</thumbnail>
+</item>
+
+<item>
+<title>France 5</title>
+<link>mms://91.197.165.4/bouygues/all/channel4.wmv</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ff/france5.png</thumbnail>
+</item>
+
+<item>
+<title>France O</title>
+<link>mms://91.197.165.4/bouygues/all/channel5.wmv</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ff/france_o.png</thumbnail>
+</item>
+
+<item>
+<title>LCP</title>
+<link>mms://91.197.165.4/bouygues/all/channel6.wmv</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ll/lcp_an_fr.png</thumbnail>
+</item>
+
+<item>
+<title>MONT BLANC</title>
+<link>mms://91.197.165.4/bouygues/all/channel7.wmv</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/num/8_mont_blanc_fr.png</thumbnail>
+</item>
+
+<item>
+<title>KTO</title>
+<link>mms://91.197.165.4/bouygues/all/channel8.wmv</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/kk/kto.png</thumbnail>
+</item>
+
+<item>
+<title>Direct Star</title>
+<link>mms://91.197.165.4/bouygues/all/channel9.wmv</link>
+<thumbnail>http://www.worldtvpc.com/onlinevideosites/img/directstar.jpg</thumbnail>
+</item>
+
+<item>
+<title>ACTU</title>
+<link>mms://91.197.165.4/bouygues/all/channel11.wmv</link>
+<thumbnail> </thumbnail>
+</item>
+
+<item>
+<title>Test TV (Audio)</title>
+<link>mms://91.197.165.4/bouygues/all/channel13.wmv</link>
+<thumbnail> </thumbnail>
+</item>
+
+<item>
+<title>Gulli TV</title>
+<link>rtmp://vipwowza.yacast.net/gulli_live/_definst_/ playpath=gulli_500.stream swfUrl=http://cdn.livetvu.com/player-tv/web-stream/reader/jwplayer/6/6/jwplayer.flash.swf live=true timeout=15 pageUrl=http://cdn.livetvu.com/embed/2986</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/gg/gulli.png</thumbnail>
+</item>
+
+<item>
+<title>Direct 8</title>
+<link>mms://91.197.165.4/bouygues/all/channel16.wmv</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/dd/direct8.png</thumbnail>
 </item>
 
 <item>

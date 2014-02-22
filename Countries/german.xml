@@ -7,24 +7,18 @@
 <item>
 <title>SKY BUNDESLIGA HD1</title>
 <link>http://tinyurl.com/pzh5pes</link>
-<thumbnail></thumbnail>
+<thumbnail> </thumbnail>
 </item>
 
 <item>
 <title>SKY SPORT HD2</title>
 <link>http://tinyurl.com/n2j4ngd</link>
-<thumbnail></thumbnail>
+<thumbnail> </thumbnail>
 </item>
 
 <item>
 <title>ORF 1</title>
 <link>http://tinyurl.com/mzowzhy</link>
-<thumbnail>http://megatv.to/wp-content/uploads/2013/11/orf1-225x158.png</thumbnail>
-</item>
-
-<item>
-<title>ORF 1 (Link 2)</title>
-<link>rtmp://server15-yr.stream-company.org/live/orf1</link>
 <thumbnail>http://megatv.to/wp-content/uploads/2013/11/orf1-225x158.png</thumbnail>
 </item>
 
@@ -43,12 +37,6 @@
 <item>
 <title>KIKA  [COLOR=FFFF0000]Geo Blocked In Some Areas[/COLOR]</title>
 <link>rtmp://85.239.122.162/live playpath=mk3w-csa4-18ew-encw-kika swfUrl=http://kikaplus.net/clients/kika/player/public/player/KIKALivePlayer.swf live=true timeout=15 pageUrl=http://kikaplus.net/clients/kika/player/tvplayer.php</link>
-<thumbnail>http://file1.npage.de/009857/81/bilder/logo_kika.gif</thumbnail>
-</item>
-
-<item>
-<title>KIKA HD</title>
-<link>http://is.gd/Cpt08x/udp/239.3.0.9:5000</link>
 <thumbnail>http://file1.npage.de/009857/81/bilder/logo_kika.gif</thumbnail>
 </item>
 
@@ -83,18 +71,6 @@
 </item>
 
 <item>
-<title>ZDF (Link 3)</title>
-<link>http://is.gd/J5wqGR/udp/239.3.0.15:5000</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/zz/zdf_de_hd.jpg</thumbnail>
-</item>
-
-<item>
-<title>ZDF HD</title>
-<link>http://is.gd/odSdmX/udp/239.3.0.5:5000</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/zz/zdf_de_hd.jpg</thumbnail>
-</item>
-
-<item>
 <title>ORF 3</title>
 <link>rtsp://apasfwl.apa.at:80/orf3_q6a/orf.sdp</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/oo/orf3.jpg</thumbnail>
@@ -113,27 +89,9 @@
 </item>
 
 <item>
-<title>RTL (Link 2)</title>
-<link>http://is.gd/iJDike/udp/239.3.0.98:5000</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/rr/rtl_at.jpg</thumbnail>
-</item>
-
-<item>
 <title>ARD Das Erste</title>
 <link>rtsp://daserste.edges.wowza.gl-systemhaus.de/live/mp4:daserste_int_1600</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/ard_das_erste.jpg</thumbnail>
-</item>
-
-<item>
-<title>SWR HD</title>
-<link>http://is.gd/SWRHD</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/swr_fernsehen_hd.png</thumbnail>
-</item>
-
-<item>
-<title>Das Erste HD (Link 2)</title>
-<link>http://is.gd/pQOabO/udp/239.3.0.1:5000</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/ard_das_erste_hd.png</thumbnail>
 </item>
 
 <item>

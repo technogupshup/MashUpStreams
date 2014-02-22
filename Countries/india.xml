@@ -28,13 +28,7 @@
 <thumbnail>http://tv.onlinemoviesportsandtv.com/wp-content/uploads/2012/10/abp_ananda.jpg</thumbnail>
 </item>
 
-<item>
-<title>Star Plus</title>
-<link>rtmp://50.7.175.252:1940/base2 playpath=dd25.stream token=Vu4KaBzaxa swfUrl=http://desilivetv.net/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=true timeout=15 pageUrl=http://desilivetv.net/</link>
-<thumbnail>http://static2.wikia.nocookie.net/__cb20100619101411/logopedia/images/f/fc/StarPlus_2010.png</thumbnail>
-</item>
-
-<title>Star Plus 2</title> 
+<title>Star Plus</title> 
 <link>rtmpe://watch.playfooty.tv/live playpath=starplus99 swfUrl=http://www.playfooty.tv/play/player/player.swf swfVfy=true live=true timeout=15 pageUrl=http://www.playfooty.tv/</link>
 <thumbnail>http://static2.wikia.nocookie.net/__cb20100619101411/logopedia/images/f/fc/StarPlus_2010.png</thumbnail>
 </item>

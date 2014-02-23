@@ -165,9 +165,19 @@
 
 <item>
 <title>Bein 1  [COLOR=FFFF0000]Updated Daily[/COLOR]</title>
-<link>
-<sublink>rtmp://31.220.0.104:1935/live playpath=bein1 swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf live=true timeout=15 pageUrl=http://www.eucast.tv/embed.php?live=bein1&vw=600&vh=450</sublink>
-<sublink>rtmpe://strm.ukcast.tv/redirect playpath=bein1desii swfUrl=http://ukcast.tv/player/player.swf pageUrl=http://www.ukcast.tv live=true swfVfy=true timeout=15</sublink>
+<link>rtmpe://strm.ukcast.tv/redirect playpath=bein1desii swfUrl=http://ukcast.tv/player/player.swf pageUrl=http://www.ukcast.tv live=true swfVfy=true timeout=15</link>
+<thumbnail>http://i.imgur.com/r3A1LIO.jpg</thumbnail>
+</item>
+
+<item>
+<title>Bein 1 (Link 2) [COLOR=FFFF0000]Updated Daily[/COLOR]</title>
+<link>$doregex[file] swfUrl=http://www.castok.com/jwplayer/jwplayer.flash.swf live=true timeout=15 pageUrl=http://www.castok.com/embed.php?v=papa1&vw=600&vh=450&typeplayer=0&domain=hdembed.com
+<regex>
+<name>file</name>
+<expres>file: "([^"]*)</expres>
+<page>http://www.castok.com/embed.php?v=papa1&vw=600&vh=450&typeplayer=0&domain=hdembed.com</page>
+<referer>http://hdembed.com/bein-sports1.php</referer>
+</regex>
 </link>
 <thumbnail>http://i.imgur.com/r3A1LIO.jpg</thumbnail>
 </item>

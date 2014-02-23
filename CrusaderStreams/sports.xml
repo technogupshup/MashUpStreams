@@ -74,9 +74,19 @@
 
 <item>
 <title>Bein 11 [COLOR=FFFF0000]Updated Daily[/COLOR]</title>
-<link>
-<sublink>rtmpe://strm.ukcast.tv/redirect playpath=bein11desii swfUrl=http://ukcast.tv/player/player.swf pageUrl=http://www.ukcast.tv live=true swfVfy=true timeout=15</sublink>
-<sublink>rtmp://31.220.0.103:1935/live playpath=bein11 swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf live=true timeout=15 pageUrl=http://www.eucast.tv/embed.php?live=bein11&vw=620&vh=490</sublink>
+<link>rtmpe://strm.ukcast.tv/redirect playpath=bein11desii swfUrl=http://ukcast.tv/player/player.swf pageUrl=http://www.ukcast.tv live=true swfVfy=true timeout=15</link>
+<thumbnail>http://i.imgur.com/yuzQdoY.jpg</thumbnail>
+</item>
+
+<item>
+<title>Bein 11 (Link 2) [COLOR=FFFF0000]Updated Daily[/COLOR]</title>
+<link>$doregex[file] swfUrl=http://www.castok.com/jwplayer/jwplayer.flash.swf live=true timeout=15 pageUrl=http://www.castok.com/
+<regex>
+<name>file</name>
+<expres>file: "([^"]*)</expres>
+<page>http://www.castok.com/embed.php?v=papa9&vw=600&vh=450&typeplayer=0&domain=hdembed.com</page>
+<referer>http://hdembed.com/bein-sports11.php</referer>
+</regex>
 </link>
 <thumbnail>http://i.imgur.com/yuzQdoY.jpg</thumbnail>
 </item>

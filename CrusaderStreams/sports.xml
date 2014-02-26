@@ -110,10 +110,7 @@
 
 <item>
 <title>Bein 3  [COLOR=FFFF0000]Updated Daily[/COLOR]</title>
-<link>
-<sublink>rtmpe://strm.ukcast.tv/redirect playpath=bein3desii swfUrl=http://ukcast.tv/player/player.swf pageUrl=http://www.ukcast.tv live=true swfVfy=true timeout=15</sublink>
-<sublink>rtmp://31.220.0.103:1935/live playpath=bein3 swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf live=true timeout=15 pageUrl=http://www.eucast.tv/embed.php?live=bein3&vw=600&vh=450</sublink>
-</link>
+<link>rtmpe://strm.ukcast.tv/redirect playpath=bein3desi swfUrl=http://ukcast.tv/player/player.swf pageUrl=http://www.ukcast.tv live=true swfVfy=true timeout=15</link>
 <thumbnail>http://i.imgur.com/LaMq1FJ.jpg</thumbnail>
 </item>
 
@@ -162,12 +159,12 @@
 
 <item>
 <title>Bein 1 (Link 2) [COLOR=FFFF0000]Updated Daily[/COLOR]</title>
-<link>$doregex[file] swfUrl=http://www.castok.com/jwplayer/jwplayer.flash.swf live=true timeout=15 pageUrl=http://www.castok.com/embed.php?v=papa1&vw=600&vh=450&typeplayer=0&domain=hdembed.com
+<link>rtmp://173.193.233.148/live playpath=$doregex[file] swfUrl=http://static.castalba.tv/player5.9.swf pageUrl=http://castalba.tv/ live=true timeout=15
 <regex>
 <name>file</name>
-<expres>file: "([^"]*)</expres>
-<page>http://www.castok.com/embed.php?v=papa1&vw=600&vh=450&typeplayer=0&domain=hdembed.com</page>
-<referer>http://hdembed.com/bein-sports1.php</referer>
+<expres>'file': '([^']*)</expres>
+<page>http://castalba.tv/embed.php?cid=15495&wh=650&ht=480&r=www.stream2watch.me</page>
+<referer>http://www.stream2watch.me/showstream.php?id=42520&stream=1</referer>
 </regex>
 </link>
 <thumbnail>http://i.imgur.com/r3A1LIO.jpg</thumbnail>

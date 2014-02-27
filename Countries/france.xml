@@ -14,7 +14,7 @@ http://database.freetuxtv.net/WebStreamExport/index?format=xml&type=1&status=2&l
 
 <item>
 <title>TV5MONDE</title>
-<link>rtmp://ca-edge-2.cdn2.streamago.tv:80/streamagoedge/1924?idutente=1924&idcanale=817&pwd=<playpath>817 <swfUrl>http://www.streamago.tv/inc/app/StreamVideo.swf <pageUrl>http://www.streamago.tv/channel/817/default/iframe/</link>
+<link>rtsp://178.238.86.23/Oh-Africa?sid=EFFDD1CBADB62531D95A52D38103BDB2F37D0C49105D334B02B0B277BD35A811</link>
 <thumbnail>http://durban2012.fipf.org/sites/durban2012.fipf.org/files/tv5monde_logo_rvb_blanc.jpg</thumbnail>
 </item>
 
@@ -141,13 +141,31 @@ http://database.freetuxtv.net/WebStreamExport/index?format=xml&type=1&status=2&l
 <item>
 <title>Boardriders TV</title>
 <link>rtsp://live240.impek.com/brtvhd</link>
-<thumbnail>http://www.tv14.net/wp-content/uploads/2010/06/boardriders-tv.jpg</thumbnail>
+<thumbnail>http://www.lyngsat-logo.com/hires/bb/boardriders_tv.png</thumbnail>
+</item>
+
+<item>
+<title>Calais TV</title>
+<link>mms://91.121.2.60/calaistv</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/cc/calaistv.png</thumbnail>
 </item>
 
 <item>
 <title>Canal 3 Monde Tv</title>
 <link>rtsp://wmp.zonepro.com/canal3monde</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/cc/canal3_monde.png</thumbnail>
+<thumbnail>http://www.lyngsat-logo.com/hires/cc/canal3.png</thumbnail>
+</item>
+
+<item>
+<title>Canal savoir (Audio)</title>
+<link>mms://stream2.canal.qc.ca/enOndes_audio</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/cc/canalsavoir.png</thumbnail>
+</item>
+
+<item>
+<title>Canal savoir (Bas dÃ©bit)</title>
+<link>mms://stream2.canal.qc.ca/enOndes_bas_debit</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/cc/canalsavoir.png</thumbnail>
 </item>
 
 <item>
@@ -187,7 +205,7 @@ http://database.freetuxtv.net/WebStreamExport/index?format=xml&type=1&status=2&l
 </item>
 
 <item>
-<title>M6 Boutique</title>
+<title>M6 boutique</title>
 <link>rtsp://flash3.ipercast.net/m6boutique.com-live/m6boutiquecom.stream_high</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/mm/m6boutique.png</thumbnail>
 </item>
@@ -199,19 +217,13 @@ http://database.freetuxtv.net/WebStreamExport/index?format=xml&type=1&status=2&l
 </item>
 
 <item>
-<title>Mirabelle TV</title>
+<title>mirabelle tv</title>
 <link>rtsp://str81.creacast.com/mirabelletv/medium</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/mm/mirabelle_tv.png</thumbnail>
+<thumbnail>http://www.lyngsat-logo.com/hires/mm/mirabelletv.png</thumbnail>
 </item>
 
 <item>
-<title>Mirabelle TV (Link 2)</title>
-<link>rtsp://str81.creacast.com:1935/mirabelletv/medium</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/mm/mirabelle_tv.png</thumbnail>
-</item>
-
-<item>
-<title>Mag</title>
+<title>Night-mag.com</title>
 <link>http://stream.night-mag.com:8002/listen.pls</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/nn/night-mag.com.png</thumbnail>
 </item>
@@ -229,6 +241,12 @@ http://database.freetuxtv.net/WebStreamExport/index?format=xml&type=1&status=2&l
 </item>
 
 <item>
+<title>renault TV</title>
+<link>rtsp://rtv.fms6.visionip.tv/live/renault_tv-french-live-25f-16x9_3</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/rr/renaulttv.png</thumbnail>
+</item>
+
+<item>
 <title>Rouge TV</title>
 <link>rtsp://rtmp.infomaniak.ch/livecast/rougetv</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/rr/rougetv.png</thumbnail>
@@ -239,6 +257,7 @@ http://database.freetuxtv.net/WebStreamExport/index?format=xml&type=1&status=2&l
 <link>rtsp://tebeo.e-declic.tv:1935/tebeo_live/myStream.sdp</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/tt/tebeo.png</thumbnail>
 </item>
+
 
 <item>
 <title>TÃ©lÃ© Bruxelles</title>
@@ -253,9 +272,27 @@ http://database.freetuxtv.net/WebStreamExport/index?format=xml&type=1&status=2&l
 </item>
 
 <item>
+<title>TV, FR, CA EnOndes Canal QC CA</title>
+<link>http://stream2.canal.qc.ca/enOndes_bas_debit</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/tt/tv,fr,caenondescanalqcca.png</thumbnail>
+</item>
+
+<item>
+<title>Tvcaraibe (Soleil TV)</title>
+<link>mms://soleiltv.impek.tv/soleiltv</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/tt/tvcaraibe(soleiltv).png</thumbnail>
+</item>
+
+<item>
 <title>TVM Est Parisien</title>
 <link>rtmp://rtmp.infomaniak.ch/livecast/cineplume</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/tt/tvmestparisien.png</thumbnail>
+</item>
+
+<item>
+<title>TVSF</title>
+<link>mms://stream.tvsf.fr/live</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/tt/tvsf.png</thumbnail>
 </item>
 
 <item>

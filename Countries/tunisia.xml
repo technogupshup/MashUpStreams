@@ -5,10 +5,21 @@
 <thumbnail></thumbnail>
 
 <item>
-<title>Nessma</title>  
-<link>rtmp://75.126.203.130/live playpath=mips1301?id=185563 conn=S:OK swfUrl=http://mips.tv/content/scripts/eplayer.swf live=true timeout=15 pageUrl=http://mips.tv/embedplayer/mips1301/1/500/400
-</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/nn/nessma_tv.jpg</thumbnail>
+<title>Telvza TV</title>
+<link>rtmp://193.95.68.133:8888/thd/ playpath=telvza swfUrl=http://streaminghd.tn/video/player.swf?random=225788337 pageUrl=http://streaminghd.tn/index.php/telvza-tv.html live=true timeout=15</link>
+<thumbnail>http://www.madwatch.net/wp-content/uploads/2013/12/LOGO-telvza1.jpg</thumbnail>
+</item>
+
+<item>
+<title>Al Hiwar Tv</title>
+<link>rtmp://193.95.68.133:8888/thd playpath=hiwar swfUrl=http://streaminghd.tn/video/player.swf?random=101361166 pageUrl=http://streaminghd.tn/index.php/el-hiwar-ettounsi.html live=true timeout=15</link>
+<thumbnail>http://www.tunisvista.com/medias/el-hiwar-ettounsi-b.jpg</thumbnail>
+</item>
+
+<item>
+<title>Nessma TV</title>
+<link>rtmp://193.95.68.133:8888/thd/ playpath=nessma swfUrl=http://streaminghd.tn/video/player.swf?random=635055804 pageUrl=http://streaminghd.tn/index.php/nessma-tv.htmllive=true timeout=15</link>
+<thumbnail>http://alhamra.nessma.tv/nessma_al_hamra.jpg</thumbnail>
 </item>
 
 <item>

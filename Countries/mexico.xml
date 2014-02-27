@@ -28,4 +28,16 @@
 <thumbnail>http://www.tv14.net/wp-content/themes/bluze/images/post-default.jpg</thumbnail>
 </item>
 
+<item>
+<title>Telemundo</title>
+<link>rtmp://173.193.32.166/live playpath=$doregex[file] swfUrl=http://static.castalba.tv/player5.9.swf pageUrl=http://castalba.tv/channel/20639 live=true timeout=15
+<regex>
+<name>file</name>
+<expres>'file': '([^']*)</expres>
+<page>http://castalba.tv/channel/20639</page>
+</regex>
+</link>
+<thumbnail>http://influentialaccess.files.wordpress.com/2012/03/telemundo.jpg</thumbnail>
+</item>
+
 </channel>

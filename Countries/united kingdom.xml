@@ -17,8 +17,15 @@
 </item>
 
 <item>
-<title>Sky Sports 1 HD</title>
-<link>rtmp://37.220.36.71:443/liverepeater playpath=23699 swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf live=1 pageUrl=http://filotv.pw/ token=#atd%#$ZH</link>
+<title>Sky 1 HD</title>
+<link>$doregex[file] swfUrl=http://www.castok.com/jwplayer/jwplayer.flash.swf live=true timeout=15 pageUrl=http://www.castok.com/
+<regex>
+<name>file</name>
+<expres>file: "([^"]*)</expres>
+<page>http://www.castok.com/embed.php?v=pa1&vw=600&vh=450&typeplayer=0&domain=hdembed.com</page>
+<referer>http://hdembed.com/sky-sports1.php</referer>
+</regex>
+</link>
 <thumbnail>http://3.bp.blogspot.com/-b3q2g-UxZwI/UVWzFcsgA_I/AAAAAAAAFY8/nmBHsWYdLCM/s1600/sky_sports1.png</thumbnail>
 </item>
 

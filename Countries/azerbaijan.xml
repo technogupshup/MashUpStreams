@@ -10,7 +10,6 @@
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/azad_tv_az.jpg</thumbnail>
 </item>
 
-
 <item>
 <title>GunAz TV</title>
 <link>http://gtv.live.cdn.bitgravity.com/gtv/live/feed01</link>
@@ -18,15 +17,69 @@
 </item>
 
 <item>
-<title>Ictimai TV</title>
-<link>rtmp://85.132.71.4:1935/bakutv playpath=itv.sdp swfUrl=http://www.livetv.az/static/player/player.swf pageUrl=http://www.livetv.az/itv-wt-ads/</link>
+<title>Ictimai TV  [COLOR=FFFF0000]Try Twice For Video[/COLOR]</title>
+<link>rtmp://85.132.44.99:80/bakutv playpath=itv.sdp swfUrl=http://www.livetv.az/static/player/player.swf live=true timeout=15 pageUrl=http://www.livetv.az/itv-wt-ads/</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/ii/ictimai_tv.jpg</thumbnail>
 </item>
 
 <item>
 <title>Yurd TV</title>
-<link>rtmp://85.132.71.4:1935/webtv playpath=yurdtv.sdp swfUrl=http://www.livetv.az/static/player/player.swf pageUrl=http://www.livetv.az/yurdtv/</link>
+<link>rtmp://85.132.44.99:1935/webtv playpath=yurdtv.sdp swfUrl=http://www.livetv.az/static/player/player.swf live=true timeout=15 pageUrl=http://www.livetv.az/yurdtv/</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/yy/yurd_tv_az.jpg</thumbnail>
+</item>
+
+<item>
+<title>Az TV</title>
+<link>rtmp://live.mediabay.tv/live//mpegtsAZTV_750.stream</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/azerbaycan_tv.png</thumbnail>
+</item>
+
+<item>
+<title>Ictimai TV (Link 2)</title>
+<link>rtmp://live.mediabay.tv/live//mpegtsIctimai_750.stream</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ii/ictimai_tv.png</thumbnail>
+</item>
+
+<item>
+<title>Idman Azerbaycan</title>
+<link>rtmp://live.mediabay.tv/live//mpegtsIdman_1500.stream</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ii/idman_azerbaycan.png</thumbnail>
+</item>
+
+<item>
+<title>Medeniyyet</title>
+<link>rtmp://live.mediabay.tv/live//mpegtsMedaniyat_1500.stream</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/mm/medeniyyet_tv.png</thumbnail>
+</item>
+
+<item>
+<title>InterAz</title>
+<link>rtmp://live.mediabay.tv/live//mpegtsInterAz_512.stream</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ii/inter_az.png</thumbnail>
+</item>
+
+<item>
+<title>Lider TV</title>
+<link>rtmp://live.mediabay.tv/live//mpegtsLider_750.stream</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ll/lider_tv.png</thumbnail>
+</item>
+
+<item>
+<title>Space TV</title>
+<link>rtmp://live.mediabay.tv/live//mpegtsSpace_750.stream</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/space_tv_az.png</thumbnail>
+</item>
+
+<item>
+<title>Xezer</title>
+<link>rtmp://live.mediabay.tv/live//mpegtsHazar_750.stream</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/xx/xezer_tv_az.png</thumbnail>
+</item>
+
+<item>
+<title>CBC</title>
+<link>rtmp://live.mediabay.tv/live//mpegtsCBC_Az_512.stream</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/cc/cbc_tv_az.png</thumbnail>
 </item>
 
 

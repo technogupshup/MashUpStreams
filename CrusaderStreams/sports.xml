@@ -74,9 +74,13 @@
 
 <item>
 <title>Bein 11 [COLOR=FFFF0000]Updated Daily[/COLOR]</title>
-<link>
-<sublink>rtmpe://strm.ukcast.tv/redirect playpath=bein11desii swfUrl=http://ukcast.tv/player/player.swf pageUrl=http://www.ukcast.tv live=true swfVfy=true timeout=15</sublink>
-<sublink>rtmp://31.220.0.134:1935/live playpath=bein11 swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf live=true timeout=15 pageUrl=http://www.eucast.tv/embed.php?live=bein11&vw=620&vh=490</sublink>
+<link>$doregex[file] swfUrl=http://www.castok.com/jwplayer/jwplayer.flash.swf live=true timeout=15 pageUrl=http://www.castok.com/
+<regex>
+<name>file</name>
+<expres>file: "([^"]*)</expres>
+<page>http://www.castok.com/embed.php?v=papa9&vw=800&vh=500&typeplayer=0&domain=hdfooty.tv</page>
+<referer>http://hdfooty.tv/live/ch9.php</referer>
+</regex>
 </link>
 <thumbnail>http://i.imgur.com/yuzQdoY.jpg</thumbnail>
 </item>
@@ -127,7 +131,7 @@
 <title>Bein 4  [COLOR=FFFF0000]Updated Daily[/COLOR]</title>
 <link>
 <sublink>rtmp://31.220.0.103:1935/live playpath=bein4 swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf live=true timeout=15 pageUrl=http://www.eucast.tv/embed.php?live=bein4&vw=600&vh=450</sublink>
-<sublink>rtmpe://watch.playfooty.tv/live playpath=beinsport44 swfUrl=http://www.playfooty.tv/play/player/player.swf live=true timeout=15 pageUrl=http://www.playfooty.tv/</sublink>
+<sublink>rtmpe://strm.ukcast.tv/redirect playpath=bein4desi swfUrl=http://ukcast.tv/player/player.swf pageUrl=http://www.ukcast.tv live=true swfVfy=true timeout=15</sublink>
 </link>
 <thumbnail>http://i.imgur.com/MCi8WTD.jpg</thumbnail>
 </item>
@@ -135,18 +139,21 @@
 <item>
 <title>Bein 8  [COLOR=FFFF0000]Updated Daily[/COLOR]</title>
 <link>
-<sublink>rtmpe://strm.ukcast.tv/redirect playpath=bein8desii swfUrl=http://ukcast.tv/player/player.swf pageUrl=http://www.ukcast.tv live=true swfVfy=true timeout=15</sublink>
+<sublink>rtmpe://strm.ukcast.tv/redirect playpath=bein8desi swfUrl=http://ukcast.tv/player/player.swf pageUrl=http://www.ukcast.tv live=true swfVfy=true timeout=15</sublink>
 <sublink>rtmp://31.220.0.134:1935/live playpath=bein8 swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf live=true timeout=15 pageUrl=http://www.eucast.tv/embed.php?live=bein8&vw=600&vh=450</sublink>
 </link>
 <thumbnail>http://i.imgur.com/cEpkyFy.jpg</thumbnail>
 </item>
 
-
 <item>
 <title>Bein 12 [COLOR=FFFF0000]Updated Daily[/COLOR]</title>
-<link>
-<sublink>rtmp://37.187.11.210:80/liverepeater playpath=140376 swfUrl=http://cdn.goodcast.pw/players.swf live=true timeout=15 pageUrl=http://goodcast.pw/stream.php?id=140376&width=580&height=400&stretching=</sublink>
-<sublink>rtmpe://strm.ukcast.tv/redirect playpath=bein12desii swfUrl=http://ukcast.tv/player/player.swf pageUrl=http://www.ukcast.tv live=true swfVfy=true timeout=15</sublink>
+<link>$doregex[file] swfUrl=http://www.castok.com/jwplayer/jwplayer.flash.swf live=true timeout=15 pageUrl=http://www.castok.com/
+<regex>
+<name>file</name>
+<expres>file: "([^"]*)</expres>
+<page>http://www.castok.com/embed.php?v=papa10&vw=800&vh=500&typeplayer=0&domain=hdfooty.tv</page>
+<referer>http://hdfooty.tv/live/ch10.php</referer>
+</regex>
 </link>
 <thumbnail>http://i.imgur.com/bT87VMx.jpg</thumbnail>
 </item>

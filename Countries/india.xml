@@ -130,7 +130,14 @@
 
 <item>
 <title>Star Movies</title>
-<link>http://213.254.202.18/flv/530d359352bec/testat123?0.5255238995887339</link>
+<link>$doregex[url]
+<regex>
+<name>url</name>
+<expres>"payload":"(.*)","isLive"</expres>
+<page>http://veetle.com/index.php/channel/ajaxStreamLocation/530a6d02546b0/flash</page>
+<referer>http://veetle.com</referer>
+</regex>
+</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ss/star_movies_tw_hd.png</thumbnail>
 </item>
 

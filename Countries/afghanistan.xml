@@ -66,7 +66,7 @@
 
 <item>
 <title>Nour TV</title>
-<link>rtmp://nourtv.net:1935/nourtv_web playpath=livestream swfUrl=http://www.nourtv.net/swfs/StrobeMediaPlayback.swf live=true timeout=15 pageUrl=http://www.nourtv.net/</link>
+<link>rtmp://nourtv.net:1935/nourtv_web playpath=livestream swfUrl=http://www.nourtv.net/swfs/StrobeMediaPlayback.swf live=true timeout=60 pageUrl=http://www.nourtv.net/</link>
 <thumbnail>https://lh3.ggpht.com/S1BrZFJw5CcbFS_f8dCrameC5X5fcZqAwqaT8KCUZbTZJ4oTz1j40rsBRt3keNiZIDI=w170</thumbnail>
 </item>
 
@@ -96,7 +96,7 @@
 
 <item>
 <title>Arezu TV</title>
-<link>rtmp://arezutv-live.cdn.ngenix.net/live/Stream playpath=arezutv_default.stream swfUrl=http://arezuonlinetv.com/js/flowplayer-3.2.11.swf live=true timeout=15 pageUrl=http://arezuonlinetv.com/</link>
+<link>rtmp://arezutv-live.cdn.ngenix.net/live/Stream playpath=arezutv_default.stream swfUrl=http://arezuonlinetv.com/js/flowplayer-3.2.11.swf live=true timeout=60 pageUrl=http://arezuonlinetv.com/</link>
 <thumbnail>http://4.bp.blogspot.com/-eL7Bm0B_Fck/Uc7E-utmNCI/AAAAAAAABFA/jc6auT6d5PU/s269/205451_471051409641907_837049089_n.png</thumbnail>
 </item>
 
@@ -108,13 +108,13 @@
 
 <item>
 <title>Shamshad</title>
-<link>rtmp://media.streamingpulse.biz/8068 playpath=8068 swfUrl=http://media.streamingpulse.biz:2000/system/misc/flvplayer/FLVplayer_Custom.swf pageUrl=http://shamshadtv.tv/live/index.php?option=com_content&view=article&id=144&Itemid=94</link>
+<link>rtmp://media.streamingpulse.biz/8068 playpath=8068 swfUrl=http://media.streamingpulse.biz:2000/system/misc/flvplayer/FLVplayer_Custom.swf live=ture timeout=15 pageUrl=http://shamshadtv.tv/live/index.php?option=com_content&view=article&id=144&Itemid=94</link>
 <thumbnail>http://cricket.tolafghan.com/assets/posts/18057/medium/SHAMSHAD_TV.jpg?1273990160</thumbnail>
 </item>
 
 <item>
 <title>VOA</title>
-<link>rtmp://iriptv.com/iriptvserver3 playpath=32.stream swfUrl=http://iriptv.com/player/player.swf live=ture timeout=15 pageUrl=http://iriptv.com/web/index.php</link>
+<link>rtmp://iriptv.com/iriptvserver3 playpath=32.stream swfUrl=http://iriptv.com/player/player.swf live=ture timeout=60 pageUrl=http://iriptv.com/web/index.php</link>
 <thumbnail>http://www.engineeringradio.us/blog/wp-content/uploads/2011/06/Voice_of_America_Logo.png</thumbnail>
 </item>
 

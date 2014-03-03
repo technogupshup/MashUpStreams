@@ -108,7 +108,7 @@
 
 <item>
 <title>Shamshad</title>
-<link>rtmp://media.streamingpulse.biz/8068 playpath=8068 swfUrl=http://media.streamingpulse.biz:2000/system/misc/flvplayer/FLVplayer_Custom.swf live=true timeout=60 pageUrl=http://shamshadtv.tv/live/</link>
+<link>rtmp://media.streamingpulse.biz/8068 playpath=8068 swfUrl=http://media.streamingpulse.biz:2000/system/misc/flvplayer/FLVplayer_Custom.swf live=true timeout=60 pageUrl=http://shamshadtv.tv/live/index.php?option=com_content&view=article&id=144&Itemid=94</link>
 <thumbnail>http://cricket.tolafghan.com/assets/posts/18057/medium/SHAMSHAD_TV.jpg?1273990160</thumbnail>
 </item>
 

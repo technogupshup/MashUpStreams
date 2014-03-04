@@ -130,11 +130,11 @@
 
 <item>
 <title>Star Movies</title>
-<link>http://89.149.156.211/flv/53106fabdd5e1/testat123?0.7067327010445297<link>
-<item>
+<link>$doregex[url]
+<regex>
 <name>url</name>
 <expres>"payload":"(.*)","isLive"</expres>
-<page>http://veetle.com/index.php/channel/ajaxStreamLocation/530a6d02546b0/flash</page>
+<page>http://veetle.com/index.php/channel/ajaxStreamLocation/7067327010445297/flash</page>
 <referer>http://veetle.com</referer>
 </regex>
 </link>
@@ -335,7 +335,7 @@
 
 <item>
 <title>Zee Cinema</title>
-<link>http://46.249.213.87/iPhone/broadcast/bollywoodcinema1-tablet.3gp/bollywoodcinema1-tablet.3gp-mr397k.m3u8?trackingid=3831600000&os=desktop</link>
+<link>http://46.249.213.87/iPhone/broadcast/bollywoodmovies-tablet.3gp/bollywoodmovies-tablet.3gp-mr647k.m3u8?trackingid=3310010000&os=desktop</link>
 <thumbnail>http://images.wikia.com/logopedia/images/4/48/Zee_Cinema_2011.png</thumbnail>
 </item>
 

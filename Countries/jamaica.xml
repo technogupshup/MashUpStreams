@@ -8,6 +8,10 @@
 <thumbnail>http://www.lyngsat-logo.com/hires/rr/reggae_entertainment_tv.png</thumbnail>
 </item>
 
-
+<item>
+<title>TV Jamaica</title>
+<link>rtmp://cp239956.live.edgefcs.net/live/ playpath=RJR_TVJ@176703 swfUrl=http://vjs.zencdn.net/4.2/video-js.swf live=true timeout=15 pageUrl=http://www.televisionjamaica.com/LiveTV.aspx</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/tt/tv_jamaica.png</thumbnail>
+</item>
 
 </channel>

@@ -12,7 +12,7 @@
 
 <item>
 <title>Tolo [COLOR=FFFF0000]Link 2[/COLOR]</title>
-<link>rtmp://50.23.113.212/zenex playpath=6tol5tv1?id=2030 swfUrl=http://www.zenex.tv/data/scripts/eplayer.swf live=true timeout=60 pageUrl=http://www.zenex.tv/embedplayer/6tol5tv1/1/670/410</link>
+<link>rtmp://50.23.113.212/zenex playpath=6tol5tv1?id=2030 swfUrl=http://www.zenex.tv/data/scripts/eplayer.swf pageUrl=http://www.zenex.tv/embedplayer/6tol5tv1/1/670/410</link>
 <thumbnail>http://upload.wikimedia.org/wikipedia/en/0/01/Tolo.jpg</thumbnail>
 </item>
 

@@ -13,7 +13,7 @@
 <item>
 <title>MBN</title>
 <link>rtmp://119.59.82.214:1935/live playpath=mp4:livestream.f4v swfUrl=http://mbn.af/swfs/StrobeMediaPlayback.swf live=true timeout=60 pageUrl=http://mbn.af/livetv.php</link>
-<thumbnail>https://yt3.ggpht.com/-bn1yErkuAgU/AAAAAAAAAAI/AAAAAAAAAAA/M7TMGUrGVBk/s900-c-k-no/photo.jpg</thumbnail>
+<thumbnail>http://mbn.af/images/logo/gif.gif</thumbnail>
 </item>
 
 <item>

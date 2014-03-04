@@ -130,8 +130,8 @@
 
 <item>
 <title>Star Movies</title>
-<link>$doregex[url]
-<regex>
+<link>http://89.149.156.211/flv/53106fabdd5e1/testat123?0.7067327010445297<link>
+<item>
 <name>url</name>
 <expres>"payload":"(.*)","isLive"</expres>
 <page>http://veetle.com/index.php/channel/ajaxStreamLocation/530a6d02546b0/flash</page>

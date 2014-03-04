@@ -113,12 +113,6 @@
 </item>
 
 <item>
-<title>Shamshad</title>
-<link>rtmp://media.streamingpulse.biz/8068 playpath=8068 swfUrl=http://media.streamingpulse.biz:2000/system/misc/flvplayer/FLVplayer_Custom.swf live=ture timeout=15 pageUrl=http://shamshadtv.tv/live/index.php?option=com_content&view=article&id=144&Itemid=94</link>
-<thumbnail>http://cricket.tolafghan.com/assets/posts/18057/medium/SHAMSHAD_TV.jpg?1273990160</thumbnail>
-</item>
-
-<item>
 <title>VOA</title>
 <link>rtmp://iriptv.com/iriptvserver3 playpath=32.stream swfUrl=http://iriptv.com/player/player.swf live=ture timeout=60 pageUrl=http://iriptv.com/web/index.php</link>
 <thumbnail>http://www.engineeringradio.us/blog/wp-content/uploads/2011/06/Voice_of_America_Logo.png</thumbnail>

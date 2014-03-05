@@ -11,7 +11,7 @@
 <name>url</name>
 <expres>file: "([^"]*)<expres>
 <page>http://www.castok.com/embed.php?v=starplushd&vw=600&vh=450&typeplayer=0&domain=pogotv.eu</page>
-<referer>http://pogotv.eu/star-plusindia.php</referer>
+<referer>http://www.castok.com/channel.php?live=starplushd</referer>
 </regex>
 <thumbnail>http://images.wikia.com/logopedia/images/f/f0/Star_Gold_2011.png</thumbnail>
 </item>

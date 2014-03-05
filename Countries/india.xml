@@ -4,18 +4,6 @@
 <name>Indian TV Channels</name>
 <thumbnail></thumbnail>
 
-<item>
-<title>STAR TV</title>
-<link>$doregex[url] app=hot/ swfUrl=http://www.castok.com/jwplayer/jwplayer.flash.swf pageUrl=http://www.castok.com/embed.php?v=starplushd&vw=600&vh=450&typeplayer=0&domain=pogotv.eu live=ture timeout=60</link>
-<regex>
-<name>url</name>
-<expres>file: "([^"]*)<expres>
-<page>http://www.castok.com/embed.php?v=starplushd&vw=600&vh=450&typeplayer=0&domain=pogotv.eu</page>
-<referer>http://www.castok.com/channel.php?live=starplushd</referer>
-</regex>
-<thumbnail>http://images.wikia.com/logopedia/images/f/f0/Star_Gold_2011.png</thumbnail>
-</item>
-
 <title>UFX</title>
 <link>http://68.235.37.93:1935/chliveios/ufx/playlist.m3u8</link>
 <thumbnail>http://upload.wikimedia.org/wikipedia/en/0/07/Logo_of_Channel_UFX.jpg</thumbnail>
@@ -114,12 +102,6 @@
 <title>Zing</title>
 <link>http://46.249.213.87/iPhone/broadcast/zing-tablet.3gp/zing-tablet.3gp-mr648k.m3u8?trackingid=3171370000&os=desktop</link>
 <thumbnail>http://cdn.urbanasian.com/wp-content/uploads/2013/05/zing.png</thumbnail>
-</item>
-
-<item>
-<title>Lamhe</title>
-<link>http://46.249.213.93/iPhone/broadcast/zeecafe-tablet.3gp/zeecafe-tablet.3gp-mr648k.m3u8?trackingid=4441370000&os=desktop</link>
-<thumbnail>http://static.timefor.tv/imgs/epg/logos/lamhe_big.png</thumbnail>
 </item>
 
 <item>

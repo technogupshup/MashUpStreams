@@ -105,7 +105,7 @@
 </item>
 
 <item>
-<title>Sony Sab</title>
+<title>Sony Sab [COLOR=FFFF0000]Working[/COLOR]</title>
 <link>$doregex[file] swfUrl=http://www.castok.com/jwplayer/jwplayer.flash.swf live=true timeout=15 pageUrl=http://www.castok.com/
 <regex>
 <name>file</name>

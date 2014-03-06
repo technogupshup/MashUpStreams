@@ -41,13 +41,6 @@
 </item>
 
 <item>
-<title>NTV Sport Plus</title>
-<link>http://91.240.87.34:4000/udp/224.200.202.71:1234</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/nn/ntv_plus_sport_plus.png</thumbnail>
-</item>
-
-
-<item>
 <title>NTV Sport Hit  [COLOR=FFFF0000]Geo Blocked In Some Areas[/COLOR]</title>
 <link>http://193.232.151.130/hls-live/livepkgr/_1060_/1060/1060-40.m3u8</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/nn/ntv_plus_sport_hit.png</thumbnail>
@@ -68,12 +61,6 @@
 <item>
 <title>Россия 24 [COLOR=FFFF0000]Channel Will Start On Second Attempt[/COLOR]</title>
 <link>http://live.rfn.ru/r24_hq</link>
-<thumbnail>http://toplogos.ru/images/logo-rossiya-24.png</thumbnail>
-</item>
-
-<item>
-<title>Россия 24 (Link 2)</title>
-<link>http://91.240.87.34:4000/udp/224.200.202.7:1234</link>
 <thumbnail>http://toplogos.ru/images/logo-rossiya-24.png</thumbnail>
 </item>
 
@@ -114,12 +101,6 @@
 </item>
 
 <item>
-<title>RBC (Link 2)</title>
-<link>http://91.240.87.34:4000/udp/224.200.202.27:1234</link>
-<thumbnail>http://freestreamtv.ucoz.net/TVLOGOS/rbc.jpg</thumbnail>
-</item>
-
-<item>
 <title>THB</title>
 <link>rtmp://tbn.cdnvideo.ru/rr playpath=tbn.stream swfUrl=http://tbn-tv.ru/player.swf live=true timeout=15 pageUrl=http://tbn-tv.ru/online/</link>
 <thumbnail>http://tbn-tv.ru/wp-content/uploads/2013/09/tv3.png</thumbnail>
@@ -132,20 +113,8 @@
 </item>
 
 <item>
-<title>TVC (Link 2)</title>
-<link>http://91.240.87.34:4000/udp/224.200.202.72:1234</link>
-<thumbnail>http://thewatchtv.com/wp-content/uploads/2013/05/Watch-TVC-Moscow-Live-TV-from-Russia.jpg</thumbnail>
-</item>
-
-<item>
 <title>World Fashion</title>
 <link>rtmp://n3.mos.cdn.online.ru/live-r playpath=udp://0.0.0.0:3098 swfUrl=http://www.corbina.tv/flash/swf/player.swf live=true timeout=15 pageUrl=http://www.corbina.tv/tv/wfc</link>
-<thumbnail>http://www.lyngsat-logo.com/hires/ww/world_fashion_channel_int.png</thumbnail>
-</item>
-
-<item>
-<title>World Fashion (Link 2)</title>
-<link>http://91.240.87.34:4000/udp/224.200.202.10:1234</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ww/world_fashion_channel_int.png</thumbnail>
 </item>
 
@@ -169,7 +138,7 @@
 
 <item>
 <title>Podmoskove</title>
-<link>rtmp://cdn.mosobltv.ru:1935/rtp-stream playpath=mosobltv.stream swfUrl= live=true timeout=15 pageUrl=</link>
+<link>rtmp://cdn.mosobltv.ru:1935/rtp-stream playpath=mosobltv.stream live=true timeout=15</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/pp/podmoskove_tv.png</thumbnail>
 </item>
 
@@ -180,21 +149,15 @@
 </item>
 
 <item>
-<title>1TV (Link 2)</title>
-<link>http://91.240.87.34:4000/udp/224.200.202.1:1234</link>
-<thumbnail>http://img2.1tv.ru/images/one/logo_txt.jpg</thumbnail>
-</item>
-
-<item>
 <title>Россия 1 (Link 2)</title>
 <link>http://hls.novotelecom.ru/streaming/rossija/tvrec/playlist.m3u8</link>
-<thumbnail></thumbnail>
+<thumbnail>http://toplogos.ru/images/logo-rossiya-1.png</thumbnail>
 </item>
 
 <item>
-<title>HTB (Link 2)</title>
+<title>HTB</title>
 <link>http://hls.novotelecom.ru/streaming/ntv/tvrec/playlist.m3u8</link>
-<thumbnail></thumbnail>
+<thumbnail>http://www.dp.ru/images/article/2011/06/28/61a55d2a-4e7b-4ab6-9b61-d631a649d855.jpg</thumbnail>
 </item>
 
 <item>
@@ -222,12 +185,6 @@
 </item>
 
 <item>
-<title>Investigation Discovery (Link 2)</title>
-<link>http://91.240.87.34:4000/udp/224.200.202.46:1234</link>
-<thumbnail>http://upload.wikimedia.org/wikipedia/en/6/6d/Investigation-Discovery.png</thumbnail>
-</item>
-
-<item>
 <title>2x2</title>
 <link>http://hls.novotelecom.ru/streaming/2x2tv/tvrec/playlist.m3u8</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/tt/telekanal_2x2_moskva.png</thumbnail>
@@ -240,20 +197,8 @@
 </item>
 
 <item>
-<title>Star (Link 2)</title>
-<link>http://91.240.87.34:4000/udp/224.200.202.9:1234</link>
-<thumbnail>http://www.satellitetveurope.co.uk/IMAGES/sirius4/star_tv_ua.jpg</thumbnail>
-</item>
-
-<item>
 <title>Россия 2</title>
 <link>http://hls.novotelecom.ru/streaming/sport/tvrec/playlist.m3u8</link>
-<thumbnail>http://www.mir-la.com/uploads/posts/2012-06/1340696068_1281725928_rossia_2.jpg</thumbnail>
-</item>
-
-<item>
-<title>Россия 2 (Link 2)</title>
-<link>http://91.240.87.34:4000/udp/224.200.202.176:1234</link>
 <thumbnail>http://www.mir-la.com/uploads/posts/2012-06/1340696068_1281725928_rossia_2.jpg</thumbnail>
 </item>
 
@@ -264,34 +209,15 @@
 </item>
 
 <item>
-<title>Eurosport 1 (Link 2)</title>
-<link>http://91.240.87.34:4000/udp/224.200.202.20:1234</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/ee/eurosport.png</thumbnail>
-</item>
-
-<item>
 <title>Eurosport 2</title>
 <link>http://hls.novotelecom.ru/streaming/eurosport2/tvrec/playlist.m3u8</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/ee/eurosport2.png</thumbnail>
 </item>
 
 <item>
-<title>Eurosport 2 (Link 2)</title>
-<link>http://91.240.87.34:4000/udp/224.200.202.24:1234</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/ee/eurosport2.png</thumbnail>
-</item>
-
-
-<item>
 <title>Muz TV</title>
 <link>http://hls.novotelecom.ru/streaming/muz_tvnew/tvrec/playlist.m3u8</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/mm/muz_tv.png</thumbnail>
-</item>
-
-<item>
-<title>Mezzo Live HD</title>
-<link>http://91.240.87.34:4000/udp/224.200.202.223:1234</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/mm/mezzo_live_hd.png</thumbnail>
 </item>
 
 <item>
@@ -301,20 +227,8 @@
 </item>
 
 <item>
-<title>Mezzo (Link 2)</title>
-<link>http://91.240.87.34:4000/udp/224.200.202.18:1234</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/mm/mezzo.png</thumbnail>
-</item>
-
-<item>
 <title>A Minor</title>
 <link>http://hls.novotelecom.ru/streaming/la_minor/tvrec/playlist.m3u8</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/tt/telekanal_la_minor.png</thumbnail>
-</item>
-
-<item>
-<title>A Minor (Link 2)</title>
-<link>http://91.240.87.34:4000/udp/224.200.202.53:1234</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/tt/telekanal_la_minor.png</thumbnail>
 </item>
 
@@ -331,20 +245,8 @@
 </item>
 
 <item>
-<title>Bridge TV (Link 2)</title>
-<link>http://91.240.87.34:4000/udp/224.200.202.82:1234</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/bb/bridge_tv_ru.png</thumbnail>
-</item>
-
-<item>
 <title>MCM Top</title>
 <link>http://hls.novotelecom.ru/streaming/mcmtop/tvrec/playlist.m3u8</link>
-<thumbnail>http://televizijainternete.lt/wp-content/uploads/2013/12/mcm_kanalbuyuk-120x120.jpg</thumbnail>
-</item>
-
-<item>
-<title>MCM Top (Link 2)</title>
-<link>http://91.240.87.34:4000/udp/224.200.202.106:1234</link>
 <thumbnail>http://televizijainternete.lt/wp-content/uploads/2013/12/mcm_kanalbuyuk-120x120.jpg</thumbnail>
 </item>
 

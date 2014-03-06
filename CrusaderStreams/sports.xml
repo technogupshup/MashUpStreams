@@ -16,11 +16,17 @@
 <thumbnail>http://upload.wikimedia.org/wikipedia/commons/3/32/The_flag_of_Syrian_Arab_Republic_Damascus%2C_Syria.jpg</thumbnail>
 </info>
 
-<info>
-<message>[COLOR=FF00FF00]Important: For Support Or Requests Please Visit (XBMC TALK) http://www.xunitytalk.com/showthread.php?3768-Crusader88-s-XMLs-NOT-FOR-REQUESTS-ONLY-HELP&p=18826#post18826[/COLOR]</message>
-<thumbnail>http://upload.wikimedia.org/wikipedia/commons/3/32/The_flag_of_Syrian_Arab_Republic_Damascus%2C_Syria.jpg</thumbnail>
-</info>
+<item>
+<title>Bein Sports Spanish</title>
+<link>rtmp://beinsportgeolivefs.fplive.net:1935/beinsportgeolive-live playpath=beinsport_spa_4 swfurl=http://sportsinfonet.info/player/Player.swf live=true timeout=15 pageurl=http://sportsinfonet.info/beinsports.php?n=beinsport_spa_4&vw=650&vh=450</link>
+<thumbnail>http://www.tv-envivo.com.ar/wp-content/uploads/2013/10/bein-sport.png</thumbnail>
+</item>
 
+<item>
+<title>Bein Sports USA (Link 2)</title>
+<link>rtmp://beinsportgeolivefs.fplive.net:1935/beinsportgeolive-live playpath=beinsport_eng_4 swfurl=http://sportsinfonet.info/player/Player.swf live=true timeout=15 pageurl=http://sportsinfonet.info/beinsports.php?n=beinsport_eng_4&vw=650&vh=450</link>
+<thumbnail>http://www.tv-envivo.com.ar/wp-content/uploads/2013/10/bein-sport.png</thumbnail>
+</item>
 
 <item>
 <title>Bein USA</title>

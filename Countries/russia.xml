@@ -126,13 +126,13 @@
 
 <item>
 <title>Inva Media TV</title>
-<link>rtmp://invatv.cdnvideo.ru:1935/invatv-live playpath=invatv.sdp swfUrl= live=true timeout=15 pageUrl=</link>
+<link>rtmp://invatv.cdnvideo.ru:1935/invatv-live playpath=invatv.sdp live=true timeout=15</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/ii/inva_media_tv_ru.jpg</thumbnail>
 </item>
 
 <item>
 <title>Mir TV</title>
-<link>rtmp://mirtv.cdnvideo.ru:1935/mirtv-live playpath=mir3tv600.sdp swfUrl= live=true timeout=15 pageUrl=</link>
+<link>rtmp://mirtv.cdnvideo.ru:1935/mirtv-live playpath=mir3tv600.sdp live=true timeout=15</link>
 <thumbnail>http://thewatchtv.com/wp-content/uploads/2013/01/mir-24-tv.jpg</thumbnail>
 </item>
 
@@ -262,5 +262,196 @@
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/rr/russian_musicbox.png</thumbnail>
 </item>
 
+<item>
+<title>Domashniy Telekanal</title>
+<link>http://hls.novotelecom.ru/streaming/domashny/tvrec/playlist.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/dd/domashniy.png</thumbnail>
+</item>
+
+<item>
+<title>TV 3</title>
+<link>http://hls.novotelecom.ru/streaming/tv3/tvrec/playlist.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/tt/tv3_ru.png</thumbnail>
+</item>
+
+<item>
+<title>Novosibirsk</title>
+<link>http://hls.novotelecom.ru/streaming/49kanal/tvrec/playlist.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>Rossiya K</title>
+<link>http://hls.novotelecom.ru/streaming/kultura/tvrec/playlist.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/rr/rossiya_kultura.png</thumbnail>
+</item>
+
+<item>
+<title>TVC</title>
+<link>http://hls.novotelecom.ru/streaming/tvc/tvrec/playlist.m3u8</link>
+<thumbnail>http://old.lgz.ru/userfiles/image/logo/partners/tvc.jpg</thumbnail>
+</item>
+
+<item>
+<title>Pepper</title>
+<link>http://hls.novotelecom.ru/streaming/perec/tvrec/playlist.m3u8</link>
+<thumbnail>http://4.bp.blogspot.com/-ckYUwg7Xmc8/TnSc1-fyYZI/AAAAAAAAAuI/4CpnnZxm4_o/s1600/57e85517ee2cde287b4a82694ba43164.png</thumbnail>
+</item>
+
+<item>
+<title>Disney</title>
+<link>http://hls.novotelecom.ru/streaming/disney/tvrec/playlist.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/dd/disney_channel_ru.png</thumbnail>
+</item>
+
+<item>
+<title>Union</title>
+<link>http://hls.novotelecom.ru/streaming/soyuz/tvrec/playlist.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>Mir (Link 2)</title>
+<link>http://hls.novotelecom.ru/streaming/mir/tvrec/playlist.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/mm/mir_ru.png</thumbnail>
+</item>
+
+<item>
+<title>OTV</title>
+<link>http://hls.novotelecom.ru/streaming/otvrus/tvrec/playlist.m3u8</link>
+<thumbnail>http://www.censorwatch.co.uk/images/logo_otp_russia_tv.jpg</thumbnail>
+</item>
+
+<item>
+<title>Carousel</title>
+<link>http://hls.novotelecom.ru/streaming/karusel/tvrec/playlist.m3u8</link>
+<thumbnail>http://b.vimeocdn.com/ts/303/220/303220263_640.jpg</thumbnail>
+</item>
+
+<item>
+<title>STS</title>
+<link>http://hls.novotelecom.ru/streaming/sts/tvrec/playlist.m3u8</link>
+<thumbnail>http://1.bp.blogspot.com/-uN72WSgbl2I/Ua0UQ3PLQ-I/AAAAAAAABoU/CnvwsgHKAwo/s1600/%D0%A1%D0%A2%D0%A1_7.png</thumbnail>
+</item>
+
+<item>
+<title>Children</title>
+<link>http://hls.novotelecom.ru/streaming/forkids/tvrec/playlist.m3u8</link>
+<thumbnail>http://2.bp.blogspot.com/-bre1UipaYzE/TvfvumrzDtI/AAAAAAAADfE/XwSvWMN8HOY/s184/Detskiy+logo+2011.png</thumbnail>
+</item>
+
+<item>
+<title>Children's World</title>
+<link>http://hls.novotelecom.ru/streaming/detskij_mir/tvrec/playlist.m3u8</link>
+<thumbnail> </thumbnail>
+</item>
+
+<item>
+<title>Nick</title>
+<link>http://hls.novotelecom.ru/streaming/nickelodeon/tvrec/playlist.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/nn/nickelodeon_us.png</thumbnail>
+</item>
+
+<item>
+<title>Tiji</title>
+<link>http://hls.novotelecom.ru/streaming/tiji/tvrec/playlist.m3u8</link>
+<thumbnail>http://1.bp.blogspot.com/-8HYmk_RiJMg/T3IzTaSvHpI/AAAAAAAAEtQ/A7Pcc2PAdq4/s500/Tiji+ID+2012.jpg</thumbnail>
+</item>
+
+<item>
+<title>Jimjam</title>
+<link>http://hls.novotelecom.ru/streaming/jim_jam/tvrec/playlist.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/jj/jim_jam_ru.png</thumbnail>
+</item>
+
+<item>
+<title>Mother & Child</title>
+<link>http://hls.novotelecom.ru/streaming/motherchi/tvrec/playlist.m3u8</link>
+<thumbnail> </thumbnail>
+</item>
+
+<item>
+<title>TLC</title>
+<link>http://hls.novotelecom.ru/streaming/tlc/tvrec/playlist.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/tt/tlc_ru.png</thumbnail>
+</item>
+
+<item>
+<title>World Fashion (Link 2)</title>
+<link>http://hls.novotelecom.ru/streaming/fashion/tvrec/playlist.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ww/world_fashion_channel_ru.png</thumbnail>
+</item>
+
+<item>
+<title>Comedy</title>
+<link>http://hls.novotelecom.ru/streaming/comedytv/tvrec/playlist.m3u8</link>
+<thumbnail>http://www.ntkm.tv/files/img/ac8562e235592382bdd27bfe01ecef7f.jpg</thumbnail>
+</item>
+
+<item>
+<title>TV 1000</title>
+<link>http://hls.novotelecom.ru/streaming/tv1000/tvrec/playlist.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/vv/viasat_tv1000_megahit.png</thumbnail>
+</item>
+
+<item>
+<title>TV 1000 Action</title>
+<link>http://hls.novotelecom.ru/streaming/tv1000_action/tvrec/playlist.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/vv/viasat_tv1000_action_east.png</thumbnail>
+</item>
+
+<item>
+<title>1000 Russian Film</title>
+<link>http://hls.novotelecom.ru/streaming/tv_1000_rus_kino/tvrec/playlist.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/vv/viasat_tv1000_russkoe_kino.png</thumbnail>
+</item>
+
+<item>
+<title>Russian Illusion</title>
+<link>http://hls.novotelecom.ru/streaming/russian_illusion/tvrec/playlist.m3u8</link>
+<thumbnail>http://2.bp.blogspot.com/-Kzy3yVdjMQU/UEcPFAuEmXI/AAAAAAAAMpA/Z15TYcOnYxg/s1600/Russkiy+Illusion+logo+2012.png</thumbnail>
+</item>
+
+<item>
+<title>Cinema House</title>
+<link>http://hls.novotelecom.ru/streaming/dom_kino/tvrec/playlist.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>Sony</title>
+<link>http://hls.novotelecom.ru/streaming/sonyscifi/tvrec/playlist.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/ss/sony_scifi_ru.png</thumbnail>
+</item>
+
+<item>
+<title>Set</title>
+<link>http://hls.novotelecom.ru/streaming/set/tvrec/playlist.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/set_eastern_europe.png</thumbnail>
+</item>
+
+<item>
+<title>Universal</title>
+<link>http://hls.novotelecom.ru/streaming/universal_channel/tvrec/playlist.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/uu/universal_channel_ru.png</thumbnail>
+</item>
+
+<item>
+<title>Kinolyuks</title>
+<link>http://hls.novotelecom.ru/streaming/kinolux/tvrec/playlist.m3u8</link>
+<thumbnail>http://portal.2kom.ru/tvchannel_logo/220/kinolyuks.jpeg</thumbnail>
+</item>
+
+<item>
+<title>Россия 24</title>
+<link>http://hls.novotelecom.ru/streaming/vesti/tvrec/playlist.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/rr/rossiya_24.png</thumbnail>
+</item>
+
+<item>
+<title>Rain</title>
+<link>http://hls.novotelecom.ru/streaming/rain/tvrec/playlist.m3u8</link>
+<thumbnail>http://www.censorwatch.co.uk/images/logo_tv_rain_russia.jpg</thumbnail>
+</item>
 
 </channel>

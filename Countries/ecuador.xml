@@ -4,4 +4,30 @@
 <name>Ecuadorian TV Channels</name>
 <thumbnail></thumbnail>
 
+<item>
+<title>Ecuavisa</title>
+<link>rtmp://173.193.233.148/live playpath=$doregex[file] swfUrl=http://static.castalba.tv/player5.9.swf pageUrl=http://castalba.tv/ live=true timeout=15
+<regex>
+<name>file</name>
+<expres>'file': '([^']*)</expres>
+<page>http://castalba.tv/embed.php?cid=13685&wh=600&ht=400&r=primiux.com</page>
+<referer>http://primiux.com/tvec/ecuavisa.htm</referer>
+</regex>
+</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ee/ecuavisa.png</thumbnail>
+</item>
+
+<item>
+<title>Teleamazonas</title>
+<link>rtmp://50.7.28.194/flash playpath=16295 swfUrl=http://static2.sawlive.tv/player.swf live=true timeout=15 pageUrl=http://sawlive.tv</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/tt/teleamazonas.png</thumbnail>
+</item>
+
+<item>
+<title>ECTV</title>
+<link>rtmp://38.96.148.216:1935/live/ playpath=ecuadortvn3 swfUrl=http://www.ecuadortv.ec/mod_video/player.swf live=true timeout=15 pageUrl=http://getwealthyschool.com/pop/ecuatvpop.html</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ee/ecuador_tv.png</thumbnail>
+</item>
+
+
 </channel>

@@ -344,7 +344,14 @@
 
 <item>
 <title>Zee Cinema</title>
-<link>http://46.249.213.87/iPhone/broadcast/bollywoodmovies-tablet.3gp/bollywoodmovies-tablet.3gp-mr647k.m3u8?trackingid=3310010000&os=desktop</link>
+<link>$doregex[url]
+<regex>
+<name>url</name>
+<expres>"payload":"(.*)","isLive"</expres>
+<page>http://veetle.com/index.php/channel/ajaxStreamLocation/4dd469a36a357/flash</page>
+<referer>http://veetle.com</referer>
+</regex>
+</link>
 <thumbnail>http://images.wikia.com/logopedia/images/4/48/Zee_Cinema_2011.png</thumbnail>
 </item>
 

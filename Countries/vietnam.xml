@@ -14,7 +14,7 @@
 
 <item>
 <title>Vietface TV</title>
-<link>rtmp://50.7.104.133/airChannels playpath=vface_1 swfUrl=http://player.longtailvideo.com/player.swf live=true timeout=15 pageUrl=http://nguoiviet.tv/vietface-tv/</link>
+<link>rtmp://50.7.104.130/airChannels playpath=vface_1 swfUrl=http://player.longtailvideo.com/player.swf live=true timeout=15 pageUrl=http://thuyngatv.com/vietfacetv572.html</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/vv/vietface_tv_us.png</thumbnail>
 </item>
 
@@ -32,7 +32,7 @@
 
 <item>
 <title>SET TV</title>
-<link>rtmp://50.7.104.133/airChannels/ playpath=set_1 swfUrl=http://thvl.vn/vplayer.swf live=true timeout=15 pageUrl=http://set574.com/</link>
+<link>rtmp://50.7.104.130/airChannels/ playpath=set_1 swfUrl=http://thvl.vn/vplayer.swf live=true timeout=15 pageUrl=http://set574.com/</link>
 <thumbnail>http://set574.com/setbanner971x150.jpg</thumbnail>
 </item>
 

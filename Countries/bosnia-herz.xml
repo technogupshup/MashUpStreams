@@ -76,5 +76,29 @@
 <thumbnail>http://4.bp.blogspot.com/_xVOK0KdYqJw/TLL20Vdj19I/AAAAAAAAAoo/kVL-ICiF4hw/s1600/SPORT+TV+1+ONLINE..png</thumbnail>
 </item>
 
+<item>
+<title>RTV 1</title>
+<link>rtsp://212.200.191.85/rtv1</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>Hema TV</title>
+<link>rtsp://212.200.191.85/rtv1</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/hh/hema_tv.png</thumbnail>
+</item>
+
+<item>
+<title>RTS</title>
+<link>http://rts.videostreaming.rs/rts</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>Novi Pazar</title>
+<link>http://iphone-streaming.ustream.tv/ustreamVideo/9748537/streams/live/playlist.m3u8</link>
+<thumbnail>http://www.tv14.net/wp-content/uploads/2010/10/RTV-Novi-Pazar.jpeg</thumbnail>
+</item>
+
 
 </channel>

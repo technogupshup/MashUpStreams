@@ -30,7 +30,7 @@
 
 <item>
 <title>ORF 2 (Link 2)</title>
-<link>rtmp://server23-ytto.stream-company.org/live/orf2</link>
+<link>rtmp://server15-yr.stream-company.org/live/ playpath=orf2 pageUrl=http://www.yourtv.to swfUrl=http://www.yourtv.to/js/jwplayer.flash.swf</link>
 <thumbnail>http://megatv.to/wp-content/uploads/2013/11/orf2-225x158.png</thumbnail>
 </item>
 
@@ -48,7 +48,7 @@
 
 <item>
 <title>KIKA (Link 2)</title>
-<link>rtmp://server23-ytto.stream-company.org/live/kika</link>
+<link>rtmp://server15-yr.stream-company.org/live/ playpath=kika pageUrl=http://www.yourtv.to swfUrl=http://www.yourtv.to/js/jwplayer.flash.swf</link>
 <thumbnail>http://file1.npage.de/009857/81/bilder/logo_kika.gif</thumbnail>
 </item>
 
@@ -84,7 +84,7 @@
 
 <item>
 <title>ZDF</title>
-<link>rtmp://server23-ytto.stream-company.org/live/zdf</link>
+<link>rtmp://server15-yr.stream-company.org/live/ playpath=zdf pageUrl=http://www.yourtv.to swfUrl=http://www.yourtv.to/js/jwplayer.flash.swf</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/zz/zdf_de_hd.jpg</thumbnail>
 </item>
 
@@ -120,121 +120,121 @@
 
 <item>
 <title>Das Erste</title>
-<link>rtmp://server23-ytto.stream-company.org/live/ard</link>
+<link>rtmp://server15-yr.stream-company.org/live/ playpath=ard pageUrl=http://www.yourtv.to swfUrl=http://www.yourtv.to/js/jwplayer.flash.swf</link>
 <thumbnail>http://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Das_Erste_HD_Logo.svg/725px-Das_Erste_HD_Logo.svg.png</thumbnail>
 </item>
 
 <item>
 <title>3 Sat</title>
-<link>rtmp://server23-ytto.stream-company.org/live/3sat</link>
+<link>rtmp://server15-yr.stream-company.org/live/ playpath=3sat pageUrl=http://www.yourtv.to swfUrl=http://www.yourtv.to/js/jwplayer.flash.swf</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/num/3sat.png</thumbnail>
 </item>
 
 <item>
 <title>ATV</title>
-<link>rtmp://server23-ytto.stream-company.org/live/atv</link>
+<link>rtmp://server15-yr.stream-company.org/live/ playpath=atv pageUrl=http://www.yourtv.to swfUrl=http://www.yourtv.to/js/jwplayer.flash.swf</link>
 <thumbnail>http://www.tv14.net/wp-content/uploads/2010/10/ATV1.jpeg</thumbnail>
 </item>
 
 <item>
 <title>Disney Channel</title>
-<link>rtmp://server23-ytto.stream-company.org/live/disneychannel</link>
+<link>rtmp://server15-yr.stream-company.org/live/ playpath=disneychannel pageUrl=http://www.yourtv.to swfUrl=http://www.yourtv.to/js/jwplayer.flash.swf</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/dd/disney_junior_de.png</thumbnail>
 </item>
 
 <item>
 <title>Nick</title>
-<link>http://server23-ytto.stream-company.org/live/nickcc/playlist.m3u8</link>
+<link>rtmp://server15-yr.stream-company.org/live/ playpath=nickcc pageUrl=http://www.yourtv.to swfUrl=http://www.yourtv.to/js/jwplayer.flash.swf</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/nn/nickelodeon_us.png</thumbnail>
 </item>
 
 <item>
 <title>Dmax</title>
-<link>http://server23-ytto.stream-company.org/live/dmax/playlist.m3u8</link>
+<link>rtmp://server15-yr.stream-company.org/live/ playpath=dmax pageUrl=http://www.yourtv.to swfUrl=http://www.yourtv.to/js/jwplayer.flash.swf</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/dd/dmax_de.png</thumbnail>
 </item>
 
 <item>
 <title>Eurosport</title>
-<link>rtmp://server23-ytto.stream-company.org/live/eurosport</link>
+<link>rtmp://server15-yr.stream-company.org/live/ playpath=eurosport pageUrl=http://www.yourtv.to swfUrl=http://www.yourtv.to/js/jwplayer.flash.swf</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/ee/eurosport.png</thumbnail>
 </item>
 
 <item>
 <title>Kabel 1</title>
-<link>rtmp://server23-ytto.stream-company.org/live/kabel1</link>
+<link>rtmp://server15-yr.stream-company.org/live/ playpath=kabel1 pageUrl=http://www.yourtv.to swfUrl=http://www.yourtv.to/js/jwplayer.flash.swf</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/kk/kabel_eins.png</thumbnail>
 </item>
 
 <item>
 <title>N24</title>
-<link>rtmp://server23-ytto.stream-company.org/live/n24</link>
+<link>rtmp://server15-yr.stream-company.org/live/ playpath=n24 pageUrl=http://www.yourtv.to swfUrl=http://www.yourtv.to/js/jwplayer.flash.swf</link>
 <thumbnail>https://www.triple-it.nl/resources/files/images/n24.jpg</thumbnail>
 </item>
 
 <item>
 <title>Pro 7</title>
-<link>rtmp://server23-ytto.stream-company.org/live/pro7</link>
+<link>rtmp://server15-yr.stream-company.org/live/ playpath=pro7 pageUrl=http://www.yourtv.to swfUrl=http://www.yourtv.to/js/jwplayer.flash.swf</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/pp/pro_sieben_ch.png</thumbnail>
 </item>
 
 <item>
 <title>Pro 7 Max</title>
-<link>rtmp://server23-ytto.stream-company.org/live/pro7maxx</link>
+<link>rtmp://server15-yr.stream-company.org/live/ playpath=pro7maxx pageUrl=http://www.yourtv.to swfUrl=http://www.yourtv.to/js/jwplayer.flash.swf</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/pp/pro_sieben_maxx_de.png</thumbnail>
 </item>
 
 <item>
 <title>RTL 2</title>
-<link>rtmp://server23-ytto.stream-company.org/live/rtl2</link>
+<link>rtmp://server15-yr.stream-company.org/live/ playpath=rtl2 pageUrl=http://www.yourtv.to swfUrl=http://www.yourtv.to/js/jwplayer.flash.swf</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/rr/rtl2_at.png</thumbnail>
 </item>
 
 <item>
 <title>RTL Nitro</title>
-<link>rtmp://server23-ytto.stream-company.org/live/rtlnitro</link>
+<link>rtmp://server15-yr.stream-company.org/live/ playpath=rtlnitro pageUrl=http://www.yourtv.to swfUrl=http://www.yourtv.to/js/jwplayer.flash.swf</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/rr/rtl_nitro_de.png</thumbnail>
 </item>
 
 <item>
 <title>Super RTL (Link 2)</title>
-<link>rtmp://server23-ytto.stream-company.org/live/superrtl</link>
+<link>rtmp://server15-yr.stream-company.org/live/ playpath=superrtl pageUrl=http://www.yourtv.to swfUrl=http://www.yourtv.to/js/jwplayer.flash.swf</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/super_rtl_at.png</thumbnail>
 </item>
 
 <item>
 <title>SRF 1</title>
-<link>rtmp://server23-ytto.stream-company.org/live/sf1</link>
+<link>rtmp://server15-yr.stream-company.org/live/ playpath=sf1 pageUrl=http://www.yourtv.to swfUrl=http://www.yourtv.to/js/jwplayer.flash.swf</link>
 <thumbnail>http://upload.wikimedia.org/wikipedia/en/2/27/SF_1_logo.png</thumbnail>
 </item>
 
 <item>
 <title>SRF Sport</title>
-<link>rtmp://server23-ytto.stream-company.org/live/sf2</link>
+<link>rtmp://server15-yr.stream-company.org/live/ playpath=sf2 pageUrl=http://www.yourtv.to swfUrl=http://www.yourtv.to/js/jwplayer.flash.swf</link>
 <thumbnail>http://www.srf.ch/medien/wp-content/uploads/2012/12/468669-767x553.jpg</thumbnail>
 </item>
 
 <item>
 <title>Sixx</title>
-<link>rtmp://server23-ytto.stream-company.org/live/sixx</link>
+<link>rtmp://server15-yr.stream-company.org/live/ playpath=sixx pageUrl=http://www.yourtv.to swfUrl=http://www.yourtv.to/js/jwplayer.flash.swf</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/sixx.png</thumbnail>
 </item>
 
 <item>
 <title>Sport 1</title>
-<link>rtmp://server23-ytto.stream-company.org/live/sport1</link>
+<link>rtmp://server15-yr.stream-company.org/live/ playpath=sport1 pageUrl=http://www.yourtv.to swfUrl=http://www.yourtv.to/js/jwplayer.flash.swf</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/sport1_de.png</thumbnail>
 </item>
 
 <item>
 <title>Viva</title>
-<link>rtmp://server23-ytto.stream-company.org/live/viva</link>
+<link>rtmp://server15-yr.stream-company.org/live/ playpath=viva pageUrl=http://www.yourtv.to swfUrl=http://www.yourtv.to/js/jwplayer.flash.swf</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/vv/viva_de.png</thumbnail>
 </item>
 
 <item>
 <title>Tele 5</title>
-<link>http://server23-ytto.stream-company.org/live/tele5/playlist.m3u8</link>
+<link>rtmp://server15-yr.stream-company.org/live/ playpath=tele5 pageUrl=http://www.yourtv.to swfUrl=http://www.yourtv.to/js/jwplayer.flash.swf</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/tt/tele5_de.png</thumbnail>
 </item>
 
@@ -246,13 +246,13 @@
 
 <item>
 <title>SAT1</title>
-<link>rtmp://server23-ytto.stream-company.org/live/sat1</link>
+<link>rtmp://server15-yr.stream-company.org/live/ playpath=sat1 pageUrl=http://www.yourtv.to swfUrl=http://www.yourtv.to/js/jwplayer.flash.swf</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/sat1.jpg</thumbnail>
 </item>
 
 <item>
 <title>VOX</title>
-<link>rtmp://server23-ytto.stream-company.org/live/vox</link>
+<link>rtmp://server15-yr.stream-company.org/live/ playpath=vox pageUrl=http://www.yourtv.to swfUrl=http://www.yourtv.to/js/jwplayer.flash.swf</link>
 <thumbnail>http://4.bp.blogspot.com/-2_2zXUYZJHs/UW02asERLiI/AAAAAAAAAJM/GkUg6mll8X8/s1600/Vox.jpg</thumbnail>
 </item>
 

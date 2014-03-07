@@ -38,7 +38,7 @@
 
 <item>
 <title>VPop</title>
-<link>rtmp://50.7.104.133/liveStream playpath=vpoptv_1 swfUrl=http://player.longtailvideo.com/player.swf live=true timeout=15 pageUrl=http://tv-online.in/vpop-tv-live</link>
+<link>http://50.7.104.130:1935/liveStream/vpoptv_1/playlist.m3u8</link>
 <thumbnail>http://tv-online.in/wp-content/uploads/2013/04/Vpop-TV-live.jpg</thumbnail>
 </item>
 

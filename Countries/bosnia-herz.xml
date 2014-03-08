@@ -79,7 +79,7 @@
 <item>
 <title>RTV 1</title>
 <link>rtsp://212.200.191.85/rtv1</link>
-<thumbnail></thumbnail>
+<thumbnail> </thumbnail>
 </item>
 
 <item>
@@ -91,7 +91,7 @@
 <item>
 <title>RTS</title>
 <link>http://rts.videostreaming.rs/rts</link>
-<thumbnail></thumbnail>
+<thumbnail> </thumbnail>
 </item>
 
 <item>

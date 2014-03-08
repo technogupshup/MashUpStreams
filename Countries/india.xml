@@ -361,4 +361,10 @@
 <thumbnail>http://www.idubba.com/img/channel/zee-news/zee-news.png</thumbnail>
 </item>
 
+<item>
+<title>Zee salaam</title>
+<link>rtmp://live.wmncdn.net/livestream/ playpath=cb582cc2f3b08e0bbd1c9f3d23541e26.sdp swfUrl=http://player-emea-uk.webmobilive.com/jw/player.swf live=true timeout=15 pageUrl=http://zeesalaam.com/live/</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/zz/zee_salaam.png</thumbnail>
+</item>
+
 </channel>

@@ -7,7 +7,7 @@
 
 
 <info>
-<message>[COLOR=FFFF0000]Announcement(s): Added Channel[/COLOR]</message>
+<message>[COLOR=FFFF0000]Announcement(s): Added Channels[/COLOR]</message>
 <thumbnail>http://upload.wikimedia.org/wikipedia/commons/3/32/The_flag_of_Syrian_Arab_Republic_Damascus%2C_Syria.jpg</thumbnail>
 </info>
 
@@ -71,6 +71,94 @@
 </item>
 
 <item>
+<title>LBC  [COLOR=FFFF0000]Try 3 Times To Get Picture Working, 1st Two Times Will Give Only Audio[/COLOR]</title>
+<link>rtmp://tdsiptv.ddns.me/live playpath=ch28?code=$doregex[url] swfUrl=http://www.livetv.tn/flowplayer-3.2.7.swf pageUrl=http://www.livetv.tn live=true timeout=15
+<regex>
+<name>url</name>
+<expres>code=([^']*)</expres>
+<page>http://www.livetv.tn/index.php</page>
+</regex>
+</link>
+<thumbnail>http://fikrconferences.org/sites/default/files/lbc-logo.jpg?1352659193</thumbnail>
+</item>
+
+<item>
+<title>Aljadeed (Link 3)  [COLOR=FFFF0000]Try 3 Times To Get Picture Working, 1st Two Times Will Give Only Audio[/COLOR]</title>
+<link>rtmp://tdsiptv.ddns.me/live playpath=ch99?code=$doregex[url] swfUrl=http://www.livetv.tn/flowplayer-3.2.7.swf pageUrl=http://www.livetv.tn live=true timeout=15
+<name>url</name>
+<expres>code=([^']*)</expres>
+<page>http://www.livetv.tn/index.php</page>
+</regex>
+</link>
+<thumbnail>http://1.bp.blogspot.com/-W1Ry_s_c5-k/UAw9jeMFGoI/AAAAAAAANlY/SJ_JbZV8W5E/s400/aljadeed%2Btv.jpeg</thumbnail>
+</item>
+
+<item>
+<title>NBN  [COLOR=FFFF0000]Try 3 Times To Get Picture Working, 1st Two Times Will Give Only Audio[/COLOR]</title>
+<link>rtmp://tdsiptv.ddns.me/live playpath=ch146?code=$doregex[url] swfUrl=http://www.livetv.tn/flowplayer-3.2.7.swf pageUrl=http://www.livetv.tn live=true timeout=15
+<regex>
+<name>url</name>
+<expres>code=([^']*)</expres>
+<page>http://www.livetv.tn/index.php</page>
+</regex>
+</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/en/1/14/Nbn_lebanon.png</thumbnail>
+</item>
+
+<item>
+<title>Art Aflam  [COLOR=FFFF0000]Try 3 Times To Get Picture Working, 1st Two Times Will Give Only Audio[/COLOR]</title>
+<link>rtmp://tdsiptv.ddns.me/live playpath=ch40?code=$doregex[url] swfUrl=http://www.livetv.tn/flowplayer-3.2.7.swf pageUrl=http://www.livetv.tn live=true timeout=15
+<regex>
+<name>url</name>
+<expres>code=([^']*)</expres>
+<page>http://www.livetv.tn/index.php</page>
+</regex>
+</link>
+<thumbnail>http://images1.wikia.nocookie.net/__cb20100312152517/logopedia/images/thumb/6/69/ART_logo.png/150px-ART_logo.png</thumbnail>
+</item>
+
+<item>
+<title>Art Aflam 2  [COLOR=FFFF0000]Try 3 Times To Get Picture Working, 1st Two Times Will Give Only Audio[/COLOR]</title>
+<link>rtmp://tdsiptv.ddns.me/live playpath=ch41?code=$doregex[url] swfUrl=http://www.livetv.tn/flowplayer-3.2.7.swf pageUrl=http://www.livetv.tn live=true timeout=15
+<regex>
+<name>url</name>
+<expres>code=([^']*)</expres>
+<page>http://www.livetv.tn/index.php</page>
+</regex>
+</link>
+<thumbnail>http://www.ariase.com/media/television/logo-132x99/art_aflam2.jpg</thumbnail>
+</item>
+
+<item>
+<title>MTV (Link 2)  [COLOR=FFFF0000]Try 3 Times To Get Picture Working, 1st Two Times Will Give Only Audio[/COLOR]</title>
+<link>rtmp://tdsiptv.ddns.me/live playpath=ch145?code=$doregex[url] swfUrl=http://www.livetv.tn/flowplayer-3.2.7.swf pageUrl=http://www.livetv.tn live=true timeout=15
+<regex>
+<name>url</name>
+<expres>code=([^']*)</expres>
+<page>http://www.livetv.tn/index.php</page>
+</regex>
+</link>
+<thumbnail>http://4.bp.blogspot.com/-v7Q1icQUJD0/Tm5vrpPY1gI/AAAAAAAAAGs/640s_zySbsQ/s200/MTV+1.png</thumbnail>
+</item>
+
+<item>
+<title>MBC  [COLOR=FFFF0000]Geo Blocked In Some Areas[/COLOR]</title>
+<link>rtmp://$doregex[url] app=live/$doregex[key] playpath=367.high.stream swfUrl=http://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf pageUrl=http://www.filmon.com live=true timeout=15
+<regex>
+<name>url</name>
+<expres>rtmp:....([^\\]*)</expres>
+<page>http://www.filmon.com/tv/channel/export?channel_id=367</page>
+</regex>
+<regex>
+<name>key</name>
+<expres>rtmp[^?]*(\?id=[^"]*)</expres>
+<page>http://www.filmon.com/tv/channel/export?channel_id=367</page>
+</regex>
+</link>
+<thumbnail>http://www.ilcode.com/photos/www.ilcode.com-mdubdqlswkxrchiaarxirdk-mbc.jpg</thumbnail>
+</item>
+
+<item>
 <title>MTV Lebanon  [COLOR=FFFF0000]Geo Blocked In Some Areas[/COLOR]</title>
 <link>rtmp://livestreaming1.itworkscdn.net/mtvlive playpath=murrtelevision_360p swfUrl=http://mtv.com.lb/Player/451/jwplayer.flash.swf pageUrl=http://mtv.com.lb/Player/654/451 live=1 swfVfy=1 timeout=15</link>
 <thumbnail>http://4.bp.blogspot.com/-v7Q1icQUJD0/Tm5vrpPY1gI/AAAAAAAAAGs/640s_zySbsQ/s200/MTV+1.png</thumbnail>
@@ -107,13 +195,7 @@
 </item>
 
 <item>
-<title>MBC 2</title>
-<link>rtmp://173.193.46.104/live playpath=aflam4youfff?id=152673 conn:S=OK swfUrl=http://mips.tv/content/scripts/eplayer.swf live=true timeout=15 pageUrl=http://mips.tv/embedplayer/aflam4youfff/1/600/380</link>
-<thumbnail>http://www.lyngsat-logo.com/hires/mm/mbc2_ae.png</thumbnail>
-</item>
-
-<item>
-<title>MBC 2 (Link 2)</title> 
+<title>MBC 2</title> 
 <link>http://static.innovid.com/assets/8504/1256/encoded/media-1.flv</link> 
 <thumbnail>http://www.lyngsat-logo.com/hires/mm/mbc2_ae.png</thumbnail>
 </item>
@@ -127,12 +209,6 @@
 <item>
 <title>MBC 4</title>
 <link>rtmp://95.211.148.203/live playpath=trhtgfjhgjhg?id=147478 conn=S:OK swfUrl=http://mips.tv/content/scripts/eplayer.swf live=true timeout=15 pageUrl=http://mips.tv/embedplayer/trhtgfjhgjhg/1/600/380</link>
-<thumbnail>https://si0.twimg.com/profile_images/1133002857/mbc4.jpg</thumbnail>
-</item>
-
-<item>
-<title>MBC 4 (Link 2)</title>
-<link>http://174.142.39.25:9983/udp/239.210.10.44:1234</link>
 <thumbnail>https://si0.twimg.com/profile_images/1133002857/mbc4.jpg</thumbnail>
 </item>
 
@@ -200,4 +276,111 @@
 <title>MBC Bollywood</title>
 <link>rtmp://46.165.210.32/live playpath=aflam4youddd?id=152675 conn=S:OK swfUrl=http://mips.tv/content/scripts/eplayer.swf live=true timeout=15 pageUrl=http://mips.tv/embedplayer/aflam4youddd/1/600/380</link>
 <thumbnail>http://www.waleg.com/images/mbc-bollywood.jpg</thumbnail>
+</item>
+
+<item>
+<title>MBC (Link 2) [COLOR=FFFF0000]Try 3 Times To Get Picture Working, 1st Two Times Will Give Only Audio[/COLOR]</title>
+<link>rtmp://tdsiptv.ddns.me/live playpath=ch30?code=$doregex[url] swfUrl=http://www.livetv.tn/flowplayer-3.2.7.swf pageUrl=http://www.livetv.tn live=true timeout=15
+<regex>
+<name>url</name>
+<expres>code=([^']*)</expres>
+<page>http://www.livetv.tn/index.php</page>
+</regex>
+</link>
+<thumbnail>http://www.ilcode.com/photos/www.ilcode.com-mdubdqlswkxrchiaarxirdk-mbc.jpg</thumbnail>
+</item>
+
+<item>
+<title>MBC Action (Link 2)  [COLOR=FFFF0000]Try 3 Times To Get Picture Working, 1st Two Times Will Give Only Audio[/COLOR]</title>
+<link>rtmp://tdsiptv.ddns.me/live playpath=ch34?code=$doregex[url] swfUrl=http://www.livetv.tn/flowplayer-3.2.7.swf pageUrl=http://www.livetv.tn live=true timeout=15
+<regex>
+<name>url</name>
+<expres>code=([^']*)</expres>
+<page>http://www.livetv.tn/index.php</page>
+</regex>
+</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/ar/3/37/MBC-Action.jpg</thumbnail>
+</item>
+
+<item>
+<title>MBC Drama [COLOR=FFFF0000]Try 3 Times To Get Picture Working, 1st Two Times Will Give Only Audio[/COLOR]</title>
+<link>rtmp://tdsiptv.ddns.me/live playpath=ch36?code=$doregex[url] swfUrl=http://www.livetv.tn/flowplayer-3.2.7.swf pageUrl=http://www.livetv.tn live=true timeout=15
+<regex>
+<name>url</name>
+<expres>code=([^']*)</expres>
+<page>http://www.livetv.tn/index.php</page>
+</regex>
+</link>
+<thumbnail>http://www.tv-arab.net/Logos/logo_tv_mm_mbc_drama_ae.jpg</thumbnail>
+</item>
+
+<item>
+<title>MBC 2 (Link 2)  [COLOR=FFFF0000]Try 3 Times To Get Picture Working, 1st Two Times Will Give Only Audio[/COLOR]</title>
+<link>rtmp://tdsiptv.ddns.me/live playpath=ch31?code=$doregex[url] swfUrl=http://www.livetv.tn/flowplayer-3.2.7.swf pageUrl=http://www.livetv.tn live=true timeout=15
+<regex>
+<name>url</name>
+<expres>code=([^']*)</expres>
+<page>http://www.livetv.tn/index.php</page>
+</regex>
+<thumbnail>http://www.lyngsat-logo.com/hires/mm/mbc2_ae.png</thumbnail>
+</item>
+
+<item>
+<title>MBC 3 (Link 2)  [COLOR=FFFF0000]Try 3 Times To Get Picture Working, 1st Two Times Will Give Only Audio[/COLOR]</title>
+<link>rtmp://tdsiptv.ddns.me/live playpath=ch32?code=$doregex[url] swfUrl=http://www.livetv.tn/flowplayer-3.2.7.swf pageUrl=http://www.livetv.tn live=true timeout=15
+<regex>
+<name>url</name>
+<expres>code=([^']*)</expres>
+<page>http://www.livetv.tn/index.php</page>
+</regex>
+</link>
+<thumbnail>http://www.watchtv.co/wp-content/themes/broadcast/thumb.php?src=http://www.watchtv.co/wp-content/uploads/2012/07/mbc3-channel-streaming1.jpg&w=581&h=252&zc=1&q=100</thumbnail>
+</item>
+
+<item>
+<title>MBC 4 (Link 2)  [COLOR=FFFF0000]Try 3 Times To Get Picture Working, 1st Two Times Will Give Only Audio[/COLOR]</title>
+<link>rtmp://tdsiptv.ddns.me/live playpath=ch33?code=$doregex[url] swfUrl=http://www.livetv.tn/flowplayer-3.2.7.swf pageUrl=http://www.livetv.tn live=true timeout=15
+<regex>
+<name>url</name>
+<expres>code=([^']*)</expres>
+<page>http://www.livetv.tn/index.php</page>
+</regex>
+</link>
+<thumbnail>https://si0.twimg.com/profile_images/1133002857/mbc4.jpg</thumbnail>
+</item>
+
+<item>
+<title>MBC Bollywood (Link 2)  [COLOR=FFFF0000]Try 3 Times To Get Picture Working, 1st Two Times Will Give Only Audio[/COLOR]</title>
+<link>rtmp://tdsiptv.ddns.me/live playpath=ch35?code=$doregex[url] swfUrl=http://www.livetv.tn/flowplayer-3.2.7.swf pageUrl=http://www.livetv.tn live=true timeout=15
+<regex>
+<name>url</name>
+<expres>code=([^']*)</expres>
+<page>http://www.livetv.tn/index.php</page>
+</regex>
+</link>
+<thumbnail>http://www.waleg.com/images/mbc-bollywood.jpg</thumbnail>
+</item>
+
+<item>
+<title>MBC MAX  [COLOR=FFFF0000]Try 3 Times To Get Picture Working, 1st Two Times Will Give Only Audio[/COLOR]</title>
+<link>rtmp://tdsiptv.ddns.me/live playpath=ch38?code=$doregex[url] swfUrl=http://www.livetv.tn/flowplayer-3.2.7.swf pageUrl=http://www.livetv.tn live=true timeout=15
+<regex>
+<name>url</name>
+<expres>code=([^']*)</expres>
+<page>http://www.livetv.tn/index.php</page>
+</regex>
+</link>
+<thumbnail>http://alghaslan.net/wp-content/uploads/MBC-MAX-300x115.jpg</thumbnail>
+</item>
+
+<item>
+<title>MBC Maser  [COLOR=FFFF0000]Try 3 Times To Get Picture Working, 1st Two Times Will Give Only Audio[/COLOR]</title>
+<link>rtmp://tdsiptv.ddns.me/live playpath=ch37?code=$doregex[url] swfUrl=http://www.livetv.tn/flowplayer-3.2.7.swf pageUrl=http://www.livetv.tn live=true timeout=15
+<regex>
+<name>url</name>
+<expres>code=([^']*)</expres>
+<page>http://www.livetv.tn/index.php</page>
+</regex>
+</link>
+<thumbnail>http://jazarah.net/ar/wp-content/uploads/2012/10/MBC-MASR-logo.jpg</thumbnail>
 </item>

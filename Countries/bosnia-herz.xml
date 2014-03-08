@@ -100,5 +100,34 @@
 <thumbnail>http://www.tv14.net/wp-content/uploads/2010/10/RTV-Novi-Pazar.jpeg</thumbnail>
 </item>
 
+<item>
+<title>BHT 1</title>
+<link>http://sultan:pasa@f293.fuchsia.fastwebserver.de:6001</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/bb/bht1.png</thumbnail>
+</item>
+
+<item>
+<title>FTV</title>
+<link>http://sultan:pasa@f293.fuchsia.fastwebserver.de:6000</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ff/ftv_ba.png</thumbnail>
+</item>
+
+<item>
+<title>Nova HR</title>
+<link>http://sultan:pasa@f293.fuchsia.fastwebserver.de:6002</link>
+<thumbnail>https://i-m.ch/wordpress/wp-content/uploads/Logos/Croatia/Nova_TV.jpg</thumbnail>
+</item>
+
+<item>
+<title>Pink</title>
+<link>http://sultan:pasa@f293.fuchsia.fastwebserver.de:6004</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/pp/pink_bh.jpg</thumbnail>
+</item>
+
+<item>
+<title>RTL</title>
+<link>http://sultan:pasa@f293.fuchsia.fastwebserver.de:6003</link>
+<thumbnail>http://www.filmneweurope.com/media/k2/items/cache/b32130c44c90ca5882698e192a58203c_XL.jpg</thumbnail>
+</item>
 
 </channel>

@@ -27,6 +27,13 @@ http://www.iconspedia.com/icon/
 <link>https://github.com/mash2k3/MashUpStreams/raw/master/Countries/ethiopian.xml</link>
 <thumbnail>https://github.com/mash2k3/MashUpStreams/raw/master/Countries/flags/Ethiopia.png</thumbnail>
 
+<<<<<<< HEAD
+=======
+<name>UAE TV Channels</name>
+<link>https://github.com/mash2k3/MashUpStreams/raw/master/Countries/uae.xml</link>
+<thumbnail>https://github.com/mash2k3/MashUpStreams/raw/master/Countries/flags/uae.png</thumbnail>
+
+>>>>>>> parent of 3fed7fc... Purposely Broke Code
 <name>Afghanistan TV Channels</name>
 <link>https://github.com/mash2k3/MashUpStreams/raw/master/Countries/afghanistan.xml</link>
 <thumbnail>https://github.com/mash2k3/MashUpStreams/raw/master/Countries/flags/afghanistan.png</thumbnail>
@@ -63,6 +70,21 @@ http://www.iconspedia.com/icon/
 <link>https://github.com/mash2k3/MashUpStreams/raw/master/Countries/turkish.xml</link>
 <thumbnail>https://github.com/mash2k3/MashUpStreams/raw/master/Countries/flags/Turkey.png</thumbnail>
 
+<<<<<<< HEAD
+=======
+<name>Lebanon TV Channels</name>
+<link>https://github.com/mash2k3/MashUpStreams/raw/master/Countries/lebanon.xml</link>
+<thumbnail>https://github.com/mash2k3/MashUpStreams/raw/master/Countries/flags/lebanon.png</thumbnail>
+
+<name>Syrian TV Channels</name>
+<link>https://github.com/mash2k3/MashUpStreams/raw/master/Countries/syrian.xml</link>
+<thumbnail>https://github.com/mash2k3/MashUpStreams/raw/master/Countries/flags/syria.png</thumbnail>
+
+<name>Egyptian TV Channels</name>
+<link>https://github.com/mash2k3/MashUpStreams/raw/master/Countries/egypt.xml</link>
+<thumbnail>https://github.com/mash2k3/MashUpStreams/raw/master/Countries/flags/Egypt.png</thumbnail>
+
+>>>>>>> parent of 3fed7fc... Purposely Broke Code
 <name>Iranian TV Channels</name>
 <link>https://github.com/mash2k3/MashUpStreams/raw/master/Countries/iran.xml</link>
 <thumbnail>https://github.com/mash2k3/MashUpStreams/raw/master/Countries/flags/iran.png</thumbnail>

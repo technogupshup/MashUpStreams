@@ -4,7 +4,35 @@
 <name>Vietnam TV Channels</name>
 <thumbnail></thumbnail>
 
+<item>
+<title>Hai</title>
+<link>http://50.7.104.130:1935/liveStream/hai_1/playlist.m3u8</link>
+<thumbnail>http://www.viettv24.com/main/images/Hai%2024-7.jpg</thumbnail>
+</item>
 
+<item>
+<title>San Khau</title>
+<link>http://50.7.104.130:1935/liveStream/cailuong_1/playlist.m3u8</link>
+<thumbnail>http://www.viettv24.com/main/images/skcd.jpg</thumbnail>
+</item>
+
+<item>
+<title>Am Thuc</title>
+<link>http://50.7.104.130:1935/airChannels/vnatv_1/playlist.m3u8</link>
+<thumbnail>http://www.viettv24.com/main/images/Am%20Thuc.jpg</thumbnail>
+</item>
+
+<item>
+<title>Phat Tu Bi</title>
+<link>http://50.7.104.130:1935/liveStream/ptb_1/playlist.m3u8</link>
+<thumbnail>http://www.viettv24.com/main/images/Phat%20Tu%20Bi.jpg</thumbnail>
+</item>
+
+<item>
+<title>VNA 57.3</title>
+<link>http://50.7.104.130:1935/airChannels/vnatv_1/playlist.m3u8</link>
+<thumbnail>http://www.viettv24.com/main/product_thumb.php?img=images/vna.jpg&w=81&h=54</thumbnail>
+</item>
 
 <item>
 <title>Saigon TV</title>

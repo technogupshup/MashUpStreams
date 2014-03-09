@@ -213,4 +213,214 @@
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/dd/digi_24_ro.png</link>
 </item> 
 
+<item>
+<title>NOVA RO</title> 
+<link>rtmp://86.123.165.135:1935/live/myStream</link> 
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/nn/nova_tv_ro.png</thumbnail> 
+</item>
+
+<item>
+<title>Muscel Live</title> 
+<link>mms://musceltvlive.muscel.ro:8080</link> 
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/mm/muscel_tv_ro.png</thumbnail> 
+</item>
+
+<item>
+<title>TVM Piatra Neamt</title> 
+<link>http://tvm.ambra.ro/</link> 
+<thumbnail>http://tv-m.ro/wp-content/uploads/2013/12/sigla-decupat-11-png-300x140.png</thumbnail> 
+</item>
+
+<item>
+<title>1TV BACAU</title> 
+<link>http://1tv.ambra.ro/</link> 
+<thumbnail>http://www.frocus.net/images/logotv/1tv-bacau.jpg</thumbnail> 
+</item>
+ 
+<item>
+<title>6TV</title> 
+<link>http://89.149.7.178:8800/flv-audio-video/</link> 
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/tt/tv6_ro.png</thumbnail> 
+</item>
+
+<item>
+<title>eMM</title> 
+<link>http://195.28.2.42:8083/stream.flv</link> 
+<thumbnail>http://e-vibe.net/images/Radimg10095/ro_emm.gif</thumbnail> 
+</item>
+
+<item>
+<title>Salajeanul</title> 
+<link>http://94.52.213.67:8084/stream.flv</link> 
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/salajeanul_tv_ro.png</thumbnail> 
+</item>
+
+<item>
+<title>BANAT TV</title> 
+<link>rtmp://81.18.66.155/live/banat-tv</link> 
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/bb/banat_tv_ro.png</thumbnail> 
+</item>
+
+<item>
+<title>Digi24 Timisoara</title> 
+<link>http://82.76.249.77:80/digi24edge/digi24timislivehls/index.m3u8</link> 
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/dd/digi_24_ro.png</thumbnail> 
+</item>
+
+<item>
+<title>Digi24 Oradea</title> 
+<link>http://82.76.249.77:80/digi24edge/digi24oradealivehls/index.m3u8</link> 
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/dd/digi_24_ro.png</thumbnail> 
+</item>
+
+<item>
+<title>Digi24 Iasi</title> 
+<link>http://82.76.249.77:80/digi24edge/digi24iasilivehls/index.m3u8</link> 
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/dd/digi_24_ro.png</thumbnail> 
+</item>
+
+<item>
+<title>Digi24 Constanta</title> 
+<link>http://82.76.249.77:80/digi24edge/digi24constantalivehls/index.m3u8</link> 
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/dd/digi_24_ro.png</thumbnail> 
+</item>
+
+<item>
+<title>Digi24 Craiova</title> 
+<link>http://82.76.249.77:80/digi24edge/digi24craiovalive/index.m3u8</link> 
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/dd/digi_24_ro.png</thumbnail> 
+</item>
+
+<item>
+<title>Digi24</title> 
+<link>http://82.76.249.77:80/digi24edge/digi24hdhqhls/index.m3u8</link> 
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/dd/digi_24_ro.png</thumbnail> 
+</item>
+
+<item>
+<title>Noroc TV</title> 
+<link>http://live.noroc.tv/live.m3u8</link> 
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/nn/noroc_tv.png</thumbnail> 
+</item>
+
+<item>
+<title>Transilvania (Link 2)</title> 
+<link>rtmp://193.239.252.30:1935/live/tlive3</link> 
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/tt/transilvania_live.png</thumbnail> 
+</item>
+
+<item>
+<title>LOOK TV  (Link 2)</title> 
+<link>rtmp://193.239.252.30/LookTV/ll3</link> 
+<thumbnail>http://salontresor.ro/wp-content/uploads/2013/10/Logo-Look-TV.png</thumbnail> 
+</item>
+
+<item>
+<title>IASI TV</title> 
+<link>http://82.208.151.248:8989/1.flv</link> 
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ii/iasi_tv_life_ro.png</thumbnail> 
+</item>
+
+<item>
+<title>BARICADA TV</title> 
+<link>rtmp://82.79.28.67/oflaDemo/livestream</link> 
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/bb/baricada_tv_ro.png</thumbnail> 
+</item>
+
+<item>
+<title>Valcea 1</title> 
+<link>http://www.valcea1.ro/wp-content/uploads/2012/01/RAURENI.flv</link> 
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/vv/valcea_1_ro.png</thumbnail> 
+</item>  
+ 
+<item>
+<title>TVH</title> 
+<link>http://tvhflash.smcmobile.ro:8011/tvh20.flv</link> 
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/tt/tvh_ro.png</thumbnail>
+</item>
+
+<item>
+<title>Prahova TV</title> 
+<link>rtmp://89.45.186.26:1935/live/prahovatv</link> 
+<thumbnail>http://www.roomy-tv.com/images/2253.png</thumbnail>
+</item>
+
+<item>
+<title>Romania TV</title> 
+<link>http://91.232.210.155:8020/rtv.flv?file=rtv.flv&start=0</link> 
+<thumbnail>http://www.radardemedia.ro/wp-content/uploads/2013/11/romania-tv.jpg</thumbnail>
+</item>
+
+<item>
+<title>NEPTUN TV</title> 
+<link>rtmp://93.114.77.11:1935/live/livestream.stream</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/nn/neptun_tv.png</thumbnail>
+</item>
+
+<item>
+<title>Kanal D (Link 2)</title> 
+<link>http://80.86.107.169:8100/stream.flv</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/kk/kanal_d_tr.png</thumbnail>
+</item>
+
+<item>
+<title>The Money Channel</title> 
+<link>rtmp://46.108.13.158:1935/tmctv/myStream</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/tt/the_money_channel_ro.png</thumbnail>
+</item>
+
+<item>
+<title>GIGA TV</title> 
+<link>rtmp://83.166.207.86:1935/live/gigatv</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/gg/giga_tv_ro.png</thumbnail>
+</item>
+
+<item>
+<title>OLTENIA 3TV</title> 
+<link>http://89.40.165.4:8080/O3TV.flv</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/oo/oltenia_3_tv_ro.png</thumbnail>
+</item>
+
+<item>
+<title>SOMES TV</title> 
+<link>http://s1.streamnet.ro:8047/stream.flv</link>
+<thumbnail>http://www.radiofir.ro/images/galerii-foto/parteneri/somestv.jpg</thumbnail>
+</item>
+
+<item>
+<title>Speranta TV</title> 
+<link>rtmp://amsix3.streamkit.tv:80/edge/_definst_/sperantatv_500</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/ss/speranta_tv.png</thumbnail>
+</item>
+
+<item>
+<title>TV SIBIU</title> 
+<link>mms://82.77.200.188:8080</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/tt/tv_sibiu_ro.png</thumbnail>
+</item>
+
+<item>
+<title>TELESTAR</title> 
+<link>http://94.61.244.34:8081/stream.flv</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/flag/az/ro.png</thumbnail>
+</item>
+
+<item>
+<title>VEST RESITA</title> 
+<link>http://89.35.144.234/live.flv</link>
+<thumbnail>http://vesttv-resita.ro/wp-content/uploads/2012/10/sigla-optimizata-TASTA.png</thumbnail>
+</item>
+
+<item>
+<title>APOLLONIA TV</title> 
+<link>rtmp://virgil4.srfms.com:1997/live/livestream</link>
+<thumbnail>http://www.apolloniatv.ro/wp-content/uploads/2013/09/logo-3.png</thumbnail>
+</item>
+
+<item>
+<title>n-sat TV</title> 
+<link>http://188.173.24.5:8081/emisie.flv</link>
+<thumbnail>http://4.bp.blogspot.com/-pTLxVDN8iAU/UfEL6Sg21rI/AAAAAAAADiE/caVVzj4N-2M/s1600/nsat.PNG</thumbnail>
+</item>
+
 </channel>

@@ -66,7 +66,7 @@
 <item>
 <title>TV M</title>
 <link>http://tvm.ambra.ro</link>
-<thumbnail>NO PIC?! NOT FOUND ONE</thumbnail>
+<thumbnail> </thumbnail>
 </item>
 
 <item>
@@ -153,5 +153,64 @@
 <thumbnail>http://tv-live.tv/wp-content/uploads/2013/09/Dolce-Sport-live.png</thumbnail>
 </item>
 
+<item>
+<title>NOVA RO</title>
+<link>rtmp://86.123.165.135:1935/live/myStream</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/nn/nova_tv_ro.png</link>
+</item>
+
+<item>
+<title>Muscel TV</title>
+<link>mms://musceltvlive.muscel.ro:8080</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/mm/muscel_tv_ro.png</link>
+</item>
+
+<item>
+<title>TV AMBRA</title>
+<link>http://tvm.ambra.ro/</link>
+<thumbnail></link>
+</item>
+
+<item>
+<title>West TV</title>
+<link>rtmp://86.106.82.47/westtv_live playpath=livestream swfUrl=http://www.westtv.ro/jwplayer/player.swf live=1 pageUrl=http://www.westtv.ro/live.html</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ww/west_television.png</link>
+</item>
+
+<item>
+<title>Valcea 1</title>
+<link>mmsh://82.137.6.58:1234/</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/vv/valcea_1_ro.png</link>
+</item>
+
+<item>
+<title>Tirgu Mures</title>
+<link>rtmp://streaming.tvmures.ro:1935/live/ttm</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/tt/tv_tirgu_mures_ro.png</link>
+</item>
+
+<item>
+<title>eMM</title>
+<link>http://195.28.2.42:8083/stream.flv</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/tt/tv_emaramures_ro.png</link>
+</item>
+
+<item>
+<title>Salajeanul</title>
+<link>http://94.52.213.67:8084/stream.flv</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/salajeanul_tv_ro.png</link>
+</item>
+
+<item>
+<title>Litoral TV</title>
+<link>rtmp://direct.multimedianet.ro:1935/live/livestream</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ll/litoral_tv_ro.png</link>
+</item>
+
+<item>
+<title>DIGI24 CT</title>
+<link>http://82.76.249.77:80/digi24edge/digi24constantalivehls/index.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/dd/digi_24_ro.png</link>
+</item> 
 
 </channel>

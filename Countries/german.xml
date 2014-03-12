@@ -42,7 +42,7 @@
 
 <item>
 <title>KIKA  [COLOR=FFFF0000]Geo Blocked In Some Areas[/COLOR]</title>
-<link>rtmp://85.239.122.162/live playpath=mk3w-csa4-18ew-encw-kika swfUrl=http://kikaplus.net/clients/kika/player/public/player/KIKALivePlayer.swf live=true timeout=15 pageUrl=http://kikaplus.net/clients/kika/player/tvplayer.php</link>
+<link>rtmp://85.239.122.162/live playpath=mk3w-3faw-3rqf-enc0-kika swfUrl=http://kikaplus.net/clients/kika/player/public/player/KIKALivePlayer.swf live=true timeout=15 pageUrl=http://kikaplus.net/clients/kika/player/tvplayer.php</link>
 <thumbnail>http://file1.npage.de/009857/81/bilder/logo_kika.gif</thumbnail>
 </item>
 

@@ -5,6 +5,19 @@
 <thumbnail></thumbnail>
 
 
+
+<item>
+<title>Al Manar HD</title>
+<link>rtmp://72.55.164.21/live playpath=livestream swfUrl=http://www.almanar.com.lb/style/player/4.2.90/mediaplayer.swf live=true timeout=15 pageUrl=http://www.almanar.com.lb/manarlive.php</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/al_manar_tv.jpg</thumbnail>
+</item>
+
+<item>
+<title>Al Manar HD</title>
+<link>rtmp://38.96.148.200/live/ playpath=livestream swfUrl=http://cinema.rotana.net/it-works/jwplayer.flash.swf live=true timeout=15 pageUrl=http://www.arabichannels.com/manar.html</link>
+<thumbnail>http://blog.camera.org/archives/al%20Manar%20logo.jpg</thumbnail>
+</item>
+
 <item>
 <title>Al Mayadeen</title>
 <link>rtmp://hd2.lsops.net/live/ playpath=almayade_ar_485 swfUrl=http://static.ls-cdn.com/player/5.10/livestation-player.swf?1377945036 live=true timeout=15 pageUrl=http://www.livestation.com/en/almayadeen/popout</link>

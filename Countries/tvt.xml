@@ -4,7 +4,6 @@
 <name>Tamil TV Channels</name>
 <thumbnail></thumbnail>
 
-
 <item>
 <title>Puthuyugam</title>
 <link>http://d2949g19l28x5t.cloudfront.net/livecf/puthuyugam/playlist_b407336.m3u8</link>
@@ -24,7 +23,7 @@
 </item>
 
 <item>
-<title>Kalaignar Seithigal TV</title>
+<title>Kalaignar</title>
 <link>http://mayatv.in:1935/Seithigal/_definst_/livestream1/playlist.m3u8?wowzasessionid=1378505331</link>
 <thumbnail>http://www.dramaonlinetv.com/wp-content/uploads/2013/02/Kalaignar-Seithigal-TV-Logo1.jpg</thumbnail>
 </item>
@@ -42,21 +41,9 @@
 </item>
 
 <item>
-<title>Sun Music</title>
-<link>rtmp://94.242.228.36:1935/live2 playpath=sunm.stream swfUrl=http://zonytvcom.info/saki2/player/player-licensed.swf live=true timeout=15 pageUrl=http://zonytvcom.info/saki/embed.php?live=sunm.stream&vw=600&vh=430</link>
-<thumbnail>http://www.dramaonlinetv.com/wp-content/uploads/2013/02/Sun-Music-Tamil-Logo.jpg</thumbnail>
-</item>
-
-<item>
 <title>Sathiyam TV</title>
 <link>rtmp://semc.live.fmp.firesky.tv/20075E/ playpath=sathiyamnews swfUrl=http://player.longtailvideo.com/player5.9.swf live=true timeout=15 pageUrl=http://livetvchannelsfree.com/sathiyamtv.html</link>
 <thumbnail>http://4.bp.blogspot.com/_0g3ZvMt146w/TCHIJxKRVYI/AAAAAAAAA0c/jc8LoCiM8po/s320/Sathiyam-TV-Sathiyam+Tamil+Channel.JPG</thumbnail>
-</item>
-
-<item>
-<title>Minnal TV Movies</title>
-<link>rtmp://94.242.228.36:1935/live2 playpath=sunm.stream swfUrl=http://zonytvcom.info/saki2/player/player-licensed.swf live=true timeout=15 pageUrl=http://zonytvcom.info/saki/embed.php?live=sunm.stream&vw=600&vh=430</link>
-<thumbnail>http://www.dramaonlinetv.com/wp-content/uploads/2013/02/Minnal-TV-Logo.png</thumbnail>
 </item>
 
 <item>
@@ -103,19 +90,19 @@
 
 <item>
 <title>Captain TV News</title>
-<link>rtmp://50.7.175.253:1939/base2 playpath=tamil1.stream token=Vu4KaBzaxa swfUrl=http://tamiltv.tv/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=true timeout=15 pageUrl=http://tamiltv.tv/captain-tv-news/</link>
+<link>rtmp://50.7.175.252:1940/base2 playpath=tamil1.stream swfUrl=http://tamiltv.tv/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://tamiltv.tv/captain-tv-news/</link>
 <thumbnail>http://3.bp.blogspot.com/-09TDYL4LvtU/UD3thWbGVtI/AAAAAAAAKL4/8rK4lWdqCfA/s1600/Captain-news-Source.png</thumbnail>
 </item>
 
 <item>
 <title>Puthiya Thalaimurai TV (Link 2)</title>
-<link>rtmp://50.7.175.253:1939/base2 playpath=tamil22.stream token=Vu4KaBzaxa swfUrl=http://tamiltv.tv/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=true timeout=15 pageUrl=http://tamiltv.tv/puthiya-thalaimurai-live/</link>
+<link>rtmp://50.7.175.252:1940/base2 playpath=tamil22.stream swfUrl=http://tamiltv.tv/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://tamiltv.tv/puthiya-thalaimurai-live/</link>
 <thumbnail>http://www.watchtv.co/wp-content/themes/broadcast/thumb.php?src=http://www.watchtv.co/wp-content/uploads/2012/05/Puthiya-Thalaimurai-TV.jpg&w=581&h=252&zc=1&q=100</thumbnail>
 </item>
 
 <item>
 <title>GTV SPV</title>
-<link>rtmp://50.7.175.253:1939/base2 playpath=tamil21.stream token=Vu4KaBzaxa swfUrl=http://tamiltv.tv/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=true timeout=15 pageUrl=http://tamiltv.tv/gtv-spv-live/</link>
+<link>rtmp://50.7.175.252:1940/base2 playpath=tamil21.stream swfUrl=http://tamiltv.tv/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://tamiltv.tv/gtv-spv-live/</link>
 <thumbnail>http://www.dramaonlinetv.com/wp-content/uploads/2013/02/Gtv-Spv-TV-Logo.jpg</thumbnail>
 </item>
 
@@ -193,7 +180,7 @@
 
 <item>
 <title>Isai Aruvi</title>
-<link>rtmp://50.7.175.253:1939/base2 playpath=kalai2.stream token=Vu4KaBzaxa swfUrl=http://tamiltv.tv/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://tamiltv.tv/isai-aruvi-live/</link>
+<link>http://mayatv.in:1935/IsaiAruvi/_definst_/livestream1/playlist.m3u8?wowzasessionid=1851489676</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/kk/kalaignar_isai_aruvi.jpg</thumbnail>
 </item>
 

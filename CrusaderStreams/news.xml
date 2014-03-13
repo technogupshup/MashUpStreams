@@ -6,7 +6,7 @@
 ##############################################################################################################################
 
 <info>
-<message>[COLOR=FFFF0000]Announcement(s): Updated Alalam [/COLOR]</message>
+<message>[COLOR=FFFF0000]Announcement(s):  [/COLOR]</message>
 <thumbnail>http://upload.wikimedia.org/wikipedia/commons/3/32/The_flag_of_Syrian_Arab_Republic_Damascus%2C_Syria.jpg</thumbnail>
 </info>
 
@@ -31,12 +31,6 @@
 <title>Press TV English</title>
 <link>rtmp://mtv.fms-01.visionip.tv/live playpath=mtv-ptv-live-25f-16x9-SDh?ref=www.presstv.ir&USER=MTV+-+PTV+Stream swfUrl=http://embeddedplayer.visionip.tv/data/swf/1f92659aabbee91b48fdc3022f92d553964/player.swf live=true timeout=15 pageUrl=http://www.presstv.ir/live.html</link>
 <thumbnail>http://www.thebureauinvestigates.com/wp-content/uploads/2012/01/press_tv.png</thumbnail>
-</item>
-
-<item>
-<title>RT Arabic HD</title>
-<link>rtmp://rt.fms-04.visionip.tv/live/ playpath=rt-rusiyaalyaum-live-HD swfUrl=http://arabic.rt.com/design/players/jwplayer/jwplayer.flash.swf live=true timeout=15 pageUrl=http://arabic.rt.com/live/hd/</link>
-<thumbnail>http://www.lyngsat-logo.com/hires/rr/rt_arabic.png</thumbnail>
 </item>
 
 <item>

@@ -29,12 +29,6 @@
 </item>
 
 <item>
-<title>Vasantham TV</title>
-<link>rtmp://mediacp2.comcities.com:1935/itn-vasantham playpath=itn-vasantham swfUrl=http://cdn.itnlanka.com/vasanthamtv.swf live=true timeout=15 pageUrl=http://livetvchannelsfree.com/vasanthamtv.html</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/vv/vasantham_tv.jpg</thumbnail>
-</item>
-
-<item>
 <title>Star Vijay</title>
 <link>rtmp://141.8.244.56/live playpath=star_vijay_hd swfUrl=http://141.8.244.56/player/player-licensed55.swf live=true timeout=15 pageUrl=http://sportsembed.com/embed.php?v=star_vijay_hd&vw=600&vh=450&typeplayer=0&domain=pogotv.eu</link>
 <thumbnail>http://tv.onlinemoviesportsandtv.com/wp-content/uploads/2012/10/Star-Vijay.jpg</thumbnail>
@@ -42,7 +36,7 @@
 
 <item>
 <title>Sathiyam TV</title>
-<link>rtmp://semc.live.fmp.firesky.tv/20075E/ playpath=sathiyamnews swfUrl=http://player.longtailvideo.com/player5.9.swf live=true timeout=15 pageUrl=http://livetvchannelsfree.com/sathiyamtv.html</link>
+<link>rtmp://50.7.175.252:1940/base2 playpath=asia12.stream token=Vu4KaBzaxa swfUrl=http://tamiltv.tv/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=true timeout=15 pageUrl=http://tamiltv.tv/sathiyam-tv-live/</link>
 <thumbnail>http://4.bp.blogspot.com/_0g3ZvMt146w/TCHIJxKRVYI/AAAAAAAAA0c/jc8LoCiM8po/s320/Sathiyam-TV-Sathiyam+Tamil+Channel.JPG</thumbnail>
 </item>
 
@@ -65,27 +59,9 @@
 </item>
 
 <item>
-<title>Lotus News</title>
-<link>rtmp://live.wmncdn.net/lotus/ playpath=25526e8cfa035fc30910e40b3f2e4348.sdp swfUrl=http://player-emea-uk.webmobilive.com/player/liveplayer.swf live=true timeout=15 pageUrl=http://livetvchannelsfree.com/lotusnews.html</link>
-<thumbnail>http://www.lyngsat-logo.com/hires/ll/lotus_news_in.png</thumbnail>
-</item>
-
-<item>
 <title>Rainbow TV</title>
 <link>http://mms1.rrsat-internet.tv:8088/rainbow_high</link>
 <thumbnail>http://www.worldscreen.com/img/worldscreenings/videos/rainbow_logo.jpg</thumbnail>
-</item>
-
-<item>
-<title>Murasu TV</title>
-<link>http://captain-f.akamaihd.net/captaintv1_1_1@s80532?primaryToken=1357128101_8a743ca3f91597f2620e85961c27b1e3&v&fp&r&g</link>
-<thumbnail>http://2.bp.blogspot.com/-ejSaJ3ua-Ow/T-aK0jpvgfI/AAAAAAAACzg/IqxO3wAZ1e0/s1600/murasu+tv+logo.jpg</thumbnail>
-</item>
-
-<item>
-<title>Max Vision</title>
-<link>rtmp://live.wmncdn.net/maxvisiontv/ playpath=0436bc9f1f7f12102a0beab2111cc846.sdp swfUrl=http://player.longtailvideo.com/player.swf live=true timeout=15 pageUrl=http://livetvchannelsfree.com/maxvision.html</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/mm/max_vision.jpg</thumbnail>
 </item>
 
 <item>
@@ -126,7 +102,7 @@
 
 <item>
 <title>Murasu TV</title>
-<link>rtmp://50.7.175.252:1940/base2 playpath=kalai5.stream token=Vu4KaBzaxa swfUrl=http://tamiltv.tv/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=true timeout=15 pageUrl=http://tamiltv.tv/murasu-tv-live/</link>
+<link>rtmp://50.7.175.253:1939/base2 playpath=kalai5.stream token=Vu4KaBzaxa swfUrl=http://tamiltv.tv/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=true timeout=15 pageUrl=http://tamiltv.tv/murasu-tv-live/</link>
 <thumbnail>http://2.bp.blogspot.com/-ejSaJ3ua-Ow/T-aK0jpvgfI/AAAAAAAACzg/IqxO3wAZ1e0/s1600/murasu+tv+logo.jpg</thumbnail>
 </item>
 
@@ -161,14 +137,14 @@
 </item>
 
 <item>
-<title>Kalaignar TV</title>
-<link>rtmp://50.7.175.252:1940/base2 playpath=kalai0.stream token=Vu4KaBzaxa swfUrl=http://tamiltv.tv/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=true timeout=15 pageUrl=http://tamiltv.tv/kalaignar-tv-live/</link>
+<title>Kalaignar (Link 2)</title>
+<link>rtmp://50.7.175.253:1939/base2 playpath=kalai0.stream token=Vu4KaBzaxa swfUrl=http://tamiltv.tv/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=true timeout=15 pageUrl=http://tamiltv.tv/kalaignar-tv-live/</link>
 <thumbnail>http://sinthupuram.com/blog/livetamiltvs_files/kalaignartvew1.png</thumbnail>
 </item>
 
 <item>
 <title>Sirippoli</title>
-<link>rtmp://50.7.175.252:1940/base2 playpath=kalai3.stream token=Vu4KaBzaxa swfUrl=http://tamiltv.tv/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=true timeout=15 pageUrl=http://tamiltv.tv/sirippoli-tv/</link>
+<link>rtmp://50.7.175.253:1939/base2 playpath=kalai3.stream token=Vu4KaBzaxa swfUrl=http://tamiltv.tv/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=true timeout=15 pageUrl=http://tamiltv.tv/sirippoli-tv/</link>
 <thumbnail>http://www.watchlivetvstreaming.com/wp-content/uploads/2012/02/Sirippoli-TV-Watch-Online.jpg</thumbnail>
 </item>
 
@@ -203,18 +179,6 @@
 </item>
 
 <item>
-<title>Makkal TV</title>
-<link>rtmp://50.7.175.252:1940/base2 playpath=tamil20.stream token=Vu4KaBzaxa swfUrl=http://tamiltv.tv/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=true timeout=15 pageUrl=http://tamiltv.tv/makkal-live/</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/mm/makkal_tv.jpg</thumbnail>
-</item>
-
-<item>
-<title>Mega Musiq</title>
-<link>rtmp://50.7.175.252:1940/base2 playpath=kalai8.stream token=Vu4KaBzaxa swfUrl=http://tamiltv.tv/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=true timeout=15 pageUrl=http://tamiltv.tv/mega-musiq-live/</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/mm/mega_musiq_in.jpg</thumbnail>
-</item>
-
-<item>
 <title>Polimer News</title>
 <link>rtmp://50.7.175.252:1940/base2 playpath=tamil21.stream token=Vu4KaBzaxa swfUrl=http://tamiltv.tv/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=true timeout=15 pageUrl=http://tamiltv.tv/gtv-spv-live/</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/pp/polimer_news.png</thumbnail>
@@ -234,7 +198,7 @@
 
 <item>
 <title>Moon TV</title>
-<link>rtmp://mstream.mslive.co.in/live playpath=kaga swfUrl=http://player.longtailvideo.com/player.swf live=true timeout=15 pageUrl=http://livetvchannelsin.net/moontv.html</link>
+<link>rtmp://stream.mslive.co.in/live/ playpath=gmoon1 swfUrl=http://mslive.co.in/jw/player.swf live=true timeout=15 pageUrl=http://livetvchannelsfree.com/moontv.html</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/mm/moon_tv_in.jpg</thumbnail>
 </item>
 

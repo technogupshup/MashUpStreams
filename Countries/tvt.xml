@@ -108,13 +108,19 @@
 
 <item>
 <title>Seithigal</title>
-<link>rtmp://50.7.175.253:1939/base2 playpath=kalai1.stream token=Vu4KaBzaxa swfUrl=http://tamiltv.tv/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=true timeout=15 pageUrl=http://tamiltv.tv/seithigal-live/</link>
+<link>rtsp://cdn.m.yuppcdn.net/liveorigin/kalaignarlive1</link>
 <thumbnail>http://www.dramaonlinetv.com/wp-content/uploads/2013/02/Kalaignar-Seithigal-TV-Logo1.jpg</thumbnail>
 </item>
 
 <item>
+<title>Jaya Plus</title>
+<link>rtsp://cdn.m.yuppcdn.net/liveorigin/jayaplus1</link>
+<thumbnail>http://www.indiandth.in/wiki/sundirect/jaya_plus.jpg</thumbnail>
+</item>
+
+<item>
 <title>Polimer TV</title>
-<link>rtmp://50.7.175.253:1939/base2 playpath=tamil23.stream token=Vu4KaBzaxa swfUrl=http://tamiltv.tv/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=true timeout=15 pageUrl=http://tamiltv.tv/polimer-tv-live/</link>
+<link>rtmp://50.7.175.252:1940/base2 playpath=tamil23.stream swfUrl=http://tamiltv.tv/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=true timeout=15 pageUrl=http://tamiltv.tv/polimer-tv-live/ token=Vu4KaBzaxa</link>
 <thumbnail>http://www.mysixer.com/wp-content/uploads/2011/12/polimer-tv.jpg</thumbnail>
 </item>
 

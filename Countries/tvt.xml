@@ -48,7 +48,7 @@
 
 <item>
 <title>Angel TV</title>
-<link>rtmp://stream.sin1.swiftserve.com/live/angeltv playpath=atvarchive swfUrl=http://edge.sin1.swiftserve.com/angeltv/angeltvlfd/flowplayer/flowplayer-3.2.7.swf live=true timeout=15 pageUrl=http://edge.sin1.swiftserve.com/angeltv/angeltvlfd/flowplayer/bwcheckangeltv-mid.html</link>
+<link>http://purplestream.streamguys.com/live/angeltv_india_600/master.m3u8</link>
 <thumbnail>http://www.ranklogos.com/wp-content/uploads/2012/04/angel-tv-logo-1.jpg</thumbnail>
 </item>
 
@@ -90,19 +90,19 @@
 
 <item>
 <title>Captain TV News</title>
-<link>rtmp://50.7.175.252:1940/base2 playpath=tamil1.stream swfUrl=http://tamiltv.tv/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://tamiltv.tv/captain-tv-news/</link>
+<link>rtmp://50.7.175.252:1940/base2 playpath=tamil1.stream token=Vu4KaBzaxa swfUrl=http://tamiltv.tv/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://tamiltv.tv/captain-tv-news/</link>
 <thumbnail>http://3.bp.blogspot.com/-09TDYL4LvtU/UD3thWbGVtI/AAAAAAAAKL4/8rK4lWdqCfA/s1600/Captain-news-Source.png</thumbnail>
 </item>
 
 <item>
 <title>Puthiya Thalaimurai TV (Link 2)</title>
-<link>rtmp://50.7.175.252:1940/base2 playpath=tamil22.stream swfUrl=http://tamiltv.tv/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://tamiltv.tv/puthiya-thalaimurai-live/</link>
+<link>rtmp://50.7.175.252:1940/base2 playpath=tamil22.stream token=Vu4KaBzaxa swfUrl=http://tamiltv.tv/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://tamiltv.tv/puthiya-thalaimurai-live/</link>
 <thumbnail>http://www.watchtv.co/wp-content/themes/broadcast/thumb.php?src=http://www.watchtv.co/wp-content/uploads/2012/05/Puthiya-Thalaimurai-TV.jpg&w=581&h=252&zc=1&q=100</thumbnail>
 </item>
 
 <item>
 <title>GTV SPV</title>
-<link>rtmp://50.7.175.252:1940/base2 playpath=tamil21.stream swfUrl=http://tamiltv.tv/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://tamiltv.tv/gtv-spv-live/</link>
+<link>rtmp://50.7.175.252:1940/base2 playpath=tamil21.stream token=Vu4KaBzaxa swfUrl=http://tamiltv.tv/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://tamiltv.tv/gtv-spv-live/</link>
 <thumbnail>http://www.dramaonlinetv.com/wp-content/uploads/2013/02/Gtv-Spv-TV-Logo.jpg</thumbnail>
 </item>
 
@@ -132,7 +132,7 @@
 
 <item>
 <title>Captain TV</title>
-<link>rtmp://50.7.175.253:1939/base2 playpath=tamil0.stream token=Vu4KaBzaxa swfUrl=http://tamiltv.tv/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=true timeout=15 pageUrl=http://tamiltv.tv/captain-tv-live/</link>
+<link>rtmp://50.7.175.252:1940/base2 playpath=tamil1.stream token=Vu4KaBzaxa swfUrl=http://tamiltv.tv/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=true timeout=15 pageUrl=http://tamiltv.tv/captain-tv-live/</link>
 <thumbnail>http://www.ranklogos.com/wp-content/uploads/2012/04/captain-tv-logo-1.jpg</thumbnail>
 </item>
 
@@ -150,7 +150,7 @@
 
 <item>
 <title>Sri Sankara TV</title>
-<link>rtmp://50.7.175.253:1939/base2 playpath=tamil27.stream swfUrl=http://tamiltv.tv/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=true timeout=15 pageUrl=http://tamiltv.tv/sri-sankara-tv/</link>
+<link>rtmp://50.7.175.253:1939/base2 playpath=tamil27.stream token=Vu4KaBzaxa swfUrl=http://tamiltv.tv/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=true timeout=15 pageUrl=http://tamiltv.tv/sri-sankara-tv/</link>
 <thumbnail>http://www.dramaonlinetv.com/wp-content/uploads/2012/09/SRI-SANKARA-TV.jpg</thumbnail>
 </item>
 
@@ -197,27 +197,9 @@
 </item>
 
 <item>
-<title>Channel UFX</title>
-<link>rtmp://50.7.175.253:1939/base2 playpath=tamil6.stream token=Vu4KaBzaxa swfUrl=http://tamiltv.tv/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf  pageUrl=http://tamiltv.tv/channel-ufx-live/</link>
-<thumbnail>http://upload.wikimedia.org/wikipedia/ms/0/07/Logo_of_Channel_UFX.jpg</thumbnail>
-</item>
-
-<item>
-<title>7s Music Live (Link 2)</title>
+<title>7s Music Live</title>
 <link>rtmp://50.7.175.253:1939/base2 playpath=hmtv5.stream token=Vu4KaBzaxa swfUrl=http://tamiltv.tv/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf  pageUrl=http://tamiltv.tv/7s-music-live/</link>
 <thumbnail>http://www.dramaonlinetv.com/wp-content/uploads/2013/02/7-S-music-TV-Tamil-Logo1.jpg</thumbnail>
-</item>
-
-<item>
-<title>Mega 24</title>
-<link>rtmp://50.7.175.252:1940/base2 playpath=kalai7.stream token=Vu4KaBzaxa swfUrl=http://tamiltv.tv/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=true timeout=15 pageUrl=http://tamiltv.tv/mega-24-live/</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/mm/mega_24_in.jpg</thumbnail>
-</item>
-
-<item>
-<title>Mega TV</title>
-<link>rtmp://50.7.175.252:1940/base2 playpath=kalai6.stream token=Vu4KaBzaxa swfUrl=http://tamiltv.tv/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=true timeout=15 pageUrl=http://tamiltv.tv/mega-tv-live/ timeout=15</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/mm/mega_tv_in.jpg</thumbnail>
 </item>
 
 <item>

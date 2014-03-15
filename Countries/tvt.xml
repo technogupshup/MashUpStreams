@@ -29,12 +29,6 @@
 </item>
 
 <item>
-<title>Star Vijay</title>
-<link>rtmp://141.8.244.56/live playpath=star_vijay_hd swfUrl=http://141.8.244.56/player/player-licensed55.swf live=true timeout=15 pageUrl=http://sportsembed.com/embed.php?v=star_vijay_hd&vw=600&vh=450&typeplayer=0&domain=pogotv.eu</link>
-<thumbnail>http://tv.onlinemoviesportsandtv.com/wp-content/uploads/2012/10/Star-Vijay.jpg</thumbnail>
-</item>
-
-<item>
 <title>Sathiyam TV</title>
 <link>rtmp://50.7.175.252:1940/base2 playpath=asia12.stream token=Vu4KaBzaxa swfUrl=http://tamiltv.tv/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=true timeout=15 pageUrl=http://tamiltv.tv/sathiyam-tv-live/</link>
 <thumbnail>http://4.bp.blogspot.com/_0g3ZvMt146w/TCHIJxKRVYI/AAAAAAAAA0c/jc8LoCiM8po/s320/Sathiyam-TV-Sathiyam+Tamil+Channel.JPG</thumbnail>
@@ -44,12 +38,6 @@
 <title>Angel TV</title>
 <link>http://purplestream.streamguys.com/live/angeltv_india_600/master.m3u8</link>
 <thumbnail>http://www.ranklogos.com/wp-content/uploads/2012/04/angel-tv-logo-1.jpg</thumbnail>
-</item>
-
-<item>
-<title>KTV</title>
-<link>rtmp://141.8.244.56/live playpath=k_tv_hd swfUrl=http://141.8.244.56/player/player-licensed55.swf live=true timeout=15 pageUrl=http://sportsembed.com/embed.php?v=k_tv_hd&vw=600&vh=450&typeplayer=0&domain=pogotv.eu</link>
-<thumbnail>http://www.dramaonlinetv.com/wp-content/uploads/2013/02/KTV-Tamil-India-Logo.jpg</thumbnail>
 </item>
 
 <item>

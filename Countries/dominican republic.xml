@@ -7,19 +7,13 @@
 <item>
 <title>Teleuniverso Canal 29</title>
 <link>http://ss4.domint.net:1942/tu_str/universo/chunklist_w1063263370.m3u8</link>
-<thumbnail>http://teleuniversotv.com/images/orgullo.png</thumbnail>
+<thumbnail>http://emisoradominicana.net/television/logos/Teleuniverso-Canal-29.jpg</thumbnail>
 </item>
 
 <item>
 <title>ColorVision Canal 9</title>
-<link>http://198.100.146.31:1935/rtplive/colorvision.sdp/playlist.m3u8?wowzasessionid=2029114220</link>
+<link>http://198.27.81.114:1935/rtplive/colorvision.sdp/playlist.m3u8?wowzasessionid=1811741867</link>
 <thumbnail>http://www.esacademic.com/pictures/eswiki/67/Colorvisionlogo.jpg</thumbnail>
-</item>
-
-<item>
-<title>Xtremo Vision Canal 22</title>
-<link>http://ss4.domint.net:1970/x_str/x-stremo/chunklist_w640754725.m3u8</link>
-<thumbnail>http://static-cdn2.ustream.tv/i/channel/picture/2/0/2/0/2020547/2020547_logo_1259252485,640x360,r:1.jpg</thumbnail>
 </item>
 
 <item>
@@ -35,23 +29,22 @@
 </item>
 
 <item>
-<title>Digital 15</title>
-<link>rtmp://67.212.234.140:1935/live/ playpath=digital152014 swfUrl=http://actualrd.com/www/components/com_jomwebplayer/player.swf?r=736185419 live=true timeout=15 pageUrl=http://emisoradominicana.net/html5/iframes/digital15.php</link>
+<title>Digital 15  [COLOR=FFFF0000]Geo Blocked In Some Areas[/COLOR]</title>
+<link>rtmp://67.212.234.140:9095/live playpath=telemicro15 swfUrl=http://releases.flowplayer.org/swf/flowplayer-3.2.18.swf live=true timeout=15 pageUrl=http://telemicro.com.do/envivo/index.php?option=com_content&view=article&id=3&Itemid=5</link>
 <thumbnail>http://www.cirqueros.com/web/images/stories/digital%2015%20logo.jpg</thumbnail>
 </item>
 
 <item>
 <title>Telecontacto 57</title>
 <link>rtmp://stream.prostudionetwork.com:1957/telecontacto/ playpath=TC swfUrl=http://yucatv.com/jwplayer/jwplayer.flash.swf live=true timeout=15 pageUrl=http://emisoradominicana.net/html5/iframes/telecontacto.html</link>
-<thumbnail>http://pegate.tv/wp-content/uploads/2011/04/Telecontactotv-300x160.jpg</thumbnail>
+<thumbnail>http://emisoradominicana.net/television/logos/Telecontacto-Canal-57.jpg</thumbnail>
 </item>
 
 <item>
-<title>Telemicro</title>
-<link>rtmp://67.212.234.140:1935/live/ playpath=telemicro52014 swfUrl=http://actualrd.com/www/components/com_jomwebplayer/player.swf?r=938205406 live=true timeout=15 pageUrl=http://emisoradominicana.net/html5/iframes/telemicro.php</link>
+<title>Telemicro 5</title>
+<link>rtmp://67.212.234.140:9095/live playpath=telemicro5 swfUrl=http://releases.flowplayer.org/swf/flowplayer-3.2.18.swf live=true timeout=15 pageUrl=http://telemicro.com.do/envivo/index.php?option=com_content&view=article&id=5&Itemid=6</link>
 <thumbnail>http://radioteve.com/tele/caribe/stdomingo/logo/telemic.jpg</thumbnail>
 </item>
-
 
 <item>
 <title>Aguilas Cibaenas</title>
@@ -73,16 +66,15 @@
 
 <item>
 <title>Telemedios Canal 25</title>
-<link>rtmp://198.100.146.31:1935/rtplive/ playpath=canal25.sdp swfUrl=http://192.254.234.245/~orosario/tv/flvplayer.swf live=true timeout=15 pageUrl=http://192.254.234.245/~orosario/tv/index.html</link>
+<link>http://198.27.81.114:1935/rtplive/canal25.sdp/playlist.m3u8?wowzasessionid=1067725354</link>
 <thumbnail>http://www.canalesdominicano.com/wp-content/uploads/2013/10/Telemedios-Canal-25.jpg</thumbnail>
 </item>
 
 <item>
 <title>Bajo Techo TV</title>
-<link>rtmp://173.244.205.76/ app=live playpath=ALOJADO_TECHO token=5b1bz33zPNkzrMdiNLXWGNnuO4l9eLxy swfUrl=http://p.jwpcdn.com/6/6/jwplayer.flash.swf live=true timeout=15 pageUrl=http://streema.com/tv/Bajo_Techo_TV</link>
+<link>rtmp://69.175.12.34/live playpath=ALOJADO_TECHO swfUrl=http://emisoradominicana.net/html5/iframes/player.swf live=true timeout=15 pageUrl=http://emisoradominicana.net/html5/iframes/bajotecho.php</link>
 <thumbnail>http://upload.wikimedia.org/wikipedia/commons/d/d0/Logo_Bajo_Techo_Tv.jpg</thumbnail>
 </item>
-
 
 <item>
 <title>CANAL 4</title>

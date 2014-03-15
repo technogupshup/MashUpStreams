@@ -7,7 +7,7 @@
 
 
 <info>
-<message>[COLOR=FFFF0000]Announcement(s): Fixed Bein Again[/COLOR]</message>
+<message>[COLOR=FFFF0000]Announcement(s): Fixed Bein & Al Kass[/COLOR]</message>
 <thumbnail>http://upload.wikimedia.org/wikipedia/commons/3/32/The_flag_of_Syrian_Arab_Republic_Damascus%2C_Syria.jpg</thumbnail>
 </info>
 
@@ -81,8 +81,8 @@
 <item>
 <title>Bein 11 [COLOR=FFFF0000]Updated Daily[/COLOR]</title>
 <link>
-<sublink></sublink>
-<sublink>http://62.63.207.51:4242/udp/239.193.255.203:3301?auth=yes?</sublink>
+<sublink>rtmpe://cdn.hdcast.org:1935/redirect/ playpath=BST1 swfUrl=http://77231864591d8245d027-dbd663cdd4719bbeb13e13f9ee6e6f1f.r39.cf5.rackcdn.com/bba.swf live=1 pageUrl=http://www.hdcast.org/</sublink>
+<sublink>rtmp://31.220.0.103:1935/live playpath=beinxx11 swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf live=true timeout=15 pageUrl=http://www.eucast.tv/embed.php?live=beinxx11&vw=620&vh=490</sublink>
 </link>
 <thumbnail>http://i.imgur.com/yuzQdoY.jpg</thumbnail>
 </item>
@@ -90,7 +90,7 @@
 <item>
 <title>Bein 7  [COLOR=FFFF0000]Updated Daily[/COLOR]</title>
 <link>
-<sublink>http://62.63.207.51:4242/udp/239.193.48.9:3301?auth=yes?</sublink>
+<sublink>rtmpe://cdn.hdcast.org:1935/redirect/ playpath=BST7 swfUrl=http://77231864591d8245d027-dbd663cdd4719bbeb13e13f9ee6e6f1f.r39.cf5.rackcdn.com/bba.swf live=1 pageUrl=http://www.hdcast.org/</sublink>
 <sublink>rtmp://31.220.0.134:1935/live playpath=bnxx7 swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf live=true timeout=15 pageUrl=http://www.eucast.tv/embed.php?live=bein7&vw=600&vh=450</sublink>
 </link>
 <thumbnail>http://i.imgur.com/cHNlLaQ.jpg</thumbnail>
@@ -108,7 +108,7 @@
 <item>
 <title>Bein 6  [COLOR=FFFF0000]Updated Daily[/COLOR]</title>
 <link>
-<sublink>http://62.63.207.51:4242/udp/239.193.48.8:3301?auth=yes?</sublink>
+<sublink>rtmpe://cdn.hdcast.org:1935/redirect/ playpath=BST6 swfUrl=http://77231864591d8245d027-dbd663cdd4719bbeb13e13f9ee6e6f1f.r39.cf5.rackcdn.com/bba.swf live=1 pageUrl=http://www.hdcast.org/</sublink>
 <sublink>rtmp://31.220.0.133:1935/live playpath=bnxx6 swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf live=true timeout=15 pageUrl=http://www.eucast.tv/embed.php?COLLCC=1396963940&live=bein6&vw=600&vh=450</sublink>
 </link>
 <thumbnail>http://i.imgur.com/by9j5N2.jpg</thumbnail>
@@ -118,7 +118,7 @@
 <title>Bein 3  [COLOR=FFFF0000]Updated Daily[/COLOR]</title>
 <link>
 <sublink>rtmpe://strm.ukcast.tv/redirect playpath=bein3desi swfUrl=http://ukcast.tv/player/player.swf pageUrl=http://www.ukcast.tv live=true swfVfy=true timeout=15</sublink>
-<sublink>http://62.63.207.51:4242/udp/239.193.48.23:3301?auth=yes?</sublink>
+<sublink>rtmpe://cdn.hdcast.org:1935/redirect/ playpath=BST3 swfUrl=http://77231864591d8245d027-dbd663cdd4719bbeb13e13f9ee6e6f1f.r39.cf5.rackcdn.com/bba.swf live=1 pageUrl=http://www.hdcast.org/</sublink>
 </link>
 <thumbnail>http://i.imgur.com/LaMq1FJ.jpg</thumbnail>
 </item>
@@ -126,7 +126,7 @@
 <item>
 <title>Bein 2  [COLOR=FFFF0000]Updated Daily[/COLOR]</title>
 <link>
-<sublink>http://62.63.207.51:4242/udp/239.193.48.24:3301?auth=yes?</sublink>
+<sublink>rtmpe://cdn.hdcast.org:1935/redirect/ playpath=BST2 swfUrl=http://77231864591d8245d027-dbd663cdd4719bbeb13e13f9ee6e6f1f.r39.cf5.rackcdn.com/bba.swf live=1 pageUrl=http://www.hdcast.org/</sublink>
 <sublink>rtmpe://strm.ukcast.tv/redirect playpath=bein2desii swfUrl=http://ukcast.tv/player/player.swf pageUrl=http://www.ukcast.tv live=true swfVfy=true timeout=15</sublink>
 </link>
 <thumbnail>http://i.imgur.com/G8aSwIJ.jpg</thumbnail>
@@ -135,7 +135,7 @@
 <item>
 <title>Bein 4  [COLOR=FFFF0000]Updated Daily[/COLOR]</title>
 <link>
-<sublink>http://62.63.207.51:4242/udp/239.193.48.22:3301?auth=yes?</sublink>
+<sublink>rtmpe://cdn.hdcast.org:1935/redirect/ playpath=BST4 swfUrl=http://77231864591d8245d027-dbd663cdd4719bbeb13e13f9ee6e6f1f.r39.cf5.rackcdn.com/bba.swf live=1 pageUrl=http://www.hdcast.org/</sublink>
 <sublink>rtmpe://strm.ukcast.tv/redirect playpath=bein4desi swfUrl=http://ukcast.tv/player/player.swf pageUrl=http://www.ukcast.tv live=true swfVfy=true timeout=15</sublink>
 </link>
 <thumbnail>http://i.imgur.com/MCi8WTD.jpg</thumbnail>
@@ -152,14 +152,14 @@
 
 <item>
 <title>Bein 12 [COLOR=FFFF0000]Updated Daily[/COLOR]</title>
-<link>http://62.63.207.51:4242/udp/239.193.48.12:3301?auth=yes?</link>
+<link>rtmpe://cdn.hdcast.org:1935/redirect/ playpath=BST12 swfUrl=http://77231864591d8245d027-dbd663cdd4719bbeb13e13f9ee6e6f1f.r39.cf5.rackcdn.com/bba.swf live=1 pageUrl=http://www.hdcast.org/</link>
 <thumbnail>http://i.imgur.com/bT87VMx.jpg</thumbnail>
 </item>
 
 <item>
 <title>Bein 1  [COLOR=FFFF0000]Updated Daily[/COLOR]</title>
 <link>
-<sublink>http://62.63.207.51:4242/udp/239.193.48.25:3301?auth=yes?</sublink>
+<sublink>rtmpe://cdn.hdcast.org:1935/redirect/ playpath=BST1 swfUrl=http://77231864591d8245d027-dbd663cdd4719bbeb13e13f9ee6e6f1f.r39.cf5.rackcdn.com/bba.swf live=1 pageUrl=http://www.hdcast.org/</sublink>
 <sublink>rtmpe://strm.ukcast.tv/redirect playpath=bein1desii swfUrl=http://ukcast.tv/player/player.swf pageUrl=http://www.ukcast.tv live=true swfVfy=true timeout=15</sublink>
 </link>
 <thumbnail>http://i.imgur.com/r3A1LIO.jpg</thumbnail>
@@ -203,7 +203,7 @@
 
 <item>
 <title>Al Kass HD</title>
-<link>http://alkass-i.akamaihd.net/hls/live/205534/kassHD/af_99s20.m3u8</link>
+<link>http://alkass-i.akamaihd.net/hls/live/205534/kassHD/af_125s20.m3u8</link>
 <thumbnail>http://d2htvlive.in/wp-content/uploads/2013/03/Watch-AL-Kass-Plus-Channel-Live.jpg</thumbnail>
 </item>
 

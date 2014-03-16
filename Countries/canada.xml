@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<channel>
+<name>Canadian TV Channels</name>
+<thumbnail></thumbnail>
+
+<item>
+<title>The Shopping Channel</title>
+<link>http://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8</link>
+<thumbnail>http://www.theshoppingchannel.com/Content/en_CA/Assets/images/logo-tsc02.png</thumbnail>
+</item>
+
+</channel>

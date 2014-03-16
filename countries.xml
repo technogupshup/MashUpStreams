@@ -254,3 +254,7 @@ http://www.iconspedia.com/icon/
 <name>Ecuadorian TV Channels</name>
 <link>https://raw.github.com/mash2k3/MashUpStreams/master/Countries/ecuador.xml</link>
 <thumbnail>https://raw.github.com/mash2k3/MashUpStreams/master/Countries/flags/ecuador.png</thumbnail>
+
+<name>Canadian TV Channels</name>
+<link>https://raw.github.com/mash2k3/MashUpStreams/master/Countries/canada.xml</link>
+<thumbnail>https://raw.github.com/mash2k3/MashUpStreams/master/Countries/flags/Canada-Hymnes-nationaux-2562233066.jpg</thumbnail>

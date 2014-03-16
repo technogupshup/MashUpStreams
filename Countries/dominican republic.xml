@@ -30,7 +30,7 @@
 
 <item>
 <title>Digital 15  [COLOR=FFFF0000]Geo Blocked In Some Areas[/COLOR]</title>
-<link>rtmp://67.212.234.140:9095/live playpath=telemicro15 swfUrl=http://releases.flowplayer.org/swf/flowplayer-3.2.18.swf live=true timeout=15 pageUrl=http://telemicro.com.do/envivo/index.php?option=com_content&view=article&id=3&Itemid=5</link>
+<link>rtmp://67.212.234.140:9095/live playpath=telemicro15 token=9cf004951cc00f85 swfUrl=http://releases.flowplayer.org/swf/flowplayer-3.2.18.swf live=true timeout=15 pageUrl=http://telemicro.com.do/envivo/index.php?option=com_content&view=article&id=3&Itemid=5</link>
 <thumbnail>http://www.cirqueros.com/web/images/stories/digital%2015%20logo.jpg</thumbnail>
 </item>
 
@@ -42,7 +42,7 @@
 
 <item>
 <title>Telemicro 5</title>
-<link>rtmp://67.212.234.140:9095/live playpath=telemicro5 swfUrl=http://releases.flowplayer.org/swf/flowplayer-3.2.18.swf live=true timeout=15 pageUrl=http://telemicro.com.do/envivo/index.php?option=com_content&view=article&id=5&Itemid=6</link>
+<link>rtmp://67.212.234.140:9095/live playpath=telemicro5 token=9cf004951cc00f85 swfUrl=http://releases.flowplayer.org/swf/flowplayer-3.2.18.swf live=true timeout=15 pageUrl=http://telemicro.com.do/envivo/index.php?option=com_content&view=article&id=5&Itemid=6</link>
 <thumbnail>http://radioteve.com/tele/caribe/stdomingo/logo/telemic.jpg</thumbnail>
 </item>
 

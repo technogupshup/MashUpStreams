@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<channel>
+<name>Armenian TV Channels</name>
+<thumbnail></thumbnail>
+
+<item>
+<title>Shant TV</title>
+<link>rtmp://shanttv.cdnvideo.ru/shanttv-live<playpath>shanttv.sdp <swfUrl>http://www.haykakantv.com/rad/player.swf <pageUrl>http://www.haykakantv.com/page/shant-tv-online-live</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/shant_tv.png</thumbnail>
+</item>
+
+<item>
+<title>H1</title>
+<link>http://38.117.88.77/Armenia1?baseURLs=http://www.afnl.com/FirefoxHTMLShellOpenCommand&MSWMExt=.asf</link>
+<thumbnail>http://www.hayastantv.com/images/h1-armenia.jpg.pagespeed.ce.Zwayq6H9SO.jpg</thumbnail>
+</item>
+
+<item>
+<title>Haylur</title>
+<link>http://sarinfo.org/tv/tv-h1/1.wmv</link>
+<thumbnail>http://www.haykakantv.com/img/haylur.jpg</thumbnail>
+</item>
+
+<item>
+<title>Armenia VS</title>
+<link>http://38.117.88.77/EUArmenia?baseURLs=http://www.afnl.com/FirefoxHTMLShellOpenCommand&MSWMExt=.asf</link>
+<thumbnail> </thumbnail>
+</item>
+
+<item>
+<title>ARTN Shant</title>
+<link>http://204.174.105.58/wmtencoder/artn.wmv</link>
+<thumbnail>http://www.hayastantv.com/images/artn.jpg.pagespeed.ce.praLzfIAuu.jpg</thumbnail>
+</item>
+
+<item>
+<title>Armenia TV</title>
+<link>http://38.117.88.77/EUArmenia?baseURLs=http://www.afnl.com/FirefoxHTMLShellOpenCommand&MSWMExt=.asf</link>
+<thumbnail>http://www.hayastantv.com/images/armeniatv.jpg.pagespeed.ce.UzdeCNT3NN.jpg</thumbnail>
+</item>
+
+<item>
+<title>Kentron TV</title>
+<link>http://38.117.88.77/KentronTV?baseURLs=http://www.afnl.com/FirefoxHTMLShellOpenCommand&MSWMExt=.asf</link>
+<thumbnail>http://www.hayastantv.com/images/kentrontv.jpg.pagespeed.ce.3pfOzPzhTn.jpg</thumbnail>
+</item>
+
+<item>
+<title>Yerevan TV</title>
+<link>rtmp://93.94.223.26/livepkgr/ playpath=yerevantelevision363 swfUrl=http://www.haykakantv.com/rad/player.swf live=true timeout=15 pageUrl=http://www.haykakantv.com/rad/yerevan-tv/</link>
+<thumbnail>http://1.bp.blogspot.com/-gT1okFgNuec/UpyXQBxg0rI/AAAAAAAAEJs/vGyBzbgwQ4s/s1600/TVAR.jpg</thumbnail>
+</item>
+
+<item>
+<title>AMGA</title>
+<link>http://204.174.105.58/wmtencoder/amga.wmv</link>
+<thumbnail>http://www.hayastantv.com/images/amgatv.jpg.pagespeed.ce.QvS3oi2j8U.jpg</thumbnail>
+</item>
+
+<item>
+<title>USArmenia</title>
+<link>$doregex[url]
+<regex>
+<name>url</name>
+<expres>file: "([^"]+)</expres>
+<page>http://www.giniko.com/watch.php?id=60</page>
+<referer>http://www.haykakantv.com/rad/usarmenia/popup.html</referer>
+</regex>
+</link>
+<thumbnail>http://www.hayastantv.com/images/usarmeniatv.jpg.pagespeed.ce.xFCK0wli2y.jpg</thumbnail>
+</item>
+
+<item>
+<title>Arm TV</title>
+<link>rtmp://www.tvarm.ru/live playpath=myStream1.sdp swfUrl=[http://www.haykakantv.com/rad/player.swf live=true timeout=15 pageUrl=http://www.haykakantv.com/rad/tv-arm-ru/</link>
+<thumbnail>http://1.bp.blogspot.com/-v0tRMDi1jBM/UBfqKGP3l8I/AAAAAAAAhNU/RQZ3yJd_Avs/s300/tv-arm.jpg</thumbnail>
+</item>
+
+</channel>

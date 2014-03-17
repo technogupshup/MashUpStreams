@@ -6,7 +6,7 @@
 
 <item>
 <title>Shant TV</title>
-<link>rtmp://shanttv.cdnvideo.ru/shanttv-live<playpath>shanttv.sdp <swfUrl>http://www.haykakantv.com/rad/player.swf <pageUrl>http://www.haykakantv.com/page/shant-tv-online-live</link>
+<link>rtmp://shanttv.cdnvideo.ru/shanttv-live playpath=shanttv.sdp swfUrl=http://www.haykakantv.com/rad/player.swf live=true timeout=15 pageUrl=http://www.haykakantv.com/page/shant-tv-online-live</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/shant_tv.png</thumbnail>
 </item>
 

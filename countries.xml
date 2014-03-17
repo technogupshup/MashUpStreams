@@ -258,3 +258,7 @@ http://www.iconspedia.com/icon/
 <name>Canadian TV Channels</name>
 <link>https://raw.github.com/mash2k3/MashUpStreams/master/Countries/canada.xml</link>
 <thumbnail>https://raw.github.com/mash2k3/MashUpStreams/master/Countries/flags/Canada-Hymnes-nationaux-2562233066.jpg</thumbnail>
+
+<name>Armenian TV Channels</name>
+<link>https://raw.github.com/mash2k3/MashUpStreams/master/Countries/armenia.xml</link>
+<thumbnail>https://raw.github.com/mash2k3/MashUpStreams/master/Countries/flags/armenian_flag.png</thumbnail>

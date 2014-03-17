@@ -5,6 +5,102 @@
 <thumbnail></thumbnail>
 
 <item>
+<title>Fox Life</title>
+<link>http://hls.novotelecom.ru/streaming/foxlife/tvrec/playlist.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ff/fox_life_ru.png</thumbnail>
+</item>
+
+<item>
+<title>Diva Universal</title>
+<link>http://hls.novotelecom.ru/streaming/diva_universal/tvrec/playlist.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/dd/diva_universal_ru.png</thumbnail>
+</item>
+
+<item>
+<title>Russian Novel</title>
+<link>http://hls.novotelecom.ru/streaming/russian_roman/tvrec/playlist.m3u8</link>
+<thumbnail> </thumbnail>
+</item>
+
+<item>
+<title>Discovery Russia</title>
+<link>http://hls.novotelecom.ru/streaming/discovery/tvrec/playlist.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/dd/discovery_international.png</thumbnail>
+</item>
+
+<item>
+<title>Discovery World</title>
+<link>http://hls.novotelecom.ru/streaming/discoveryworld/tvrec/playlist.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/dd/discovery_world.jpg</thumbnail>
+</item>
+
+<item>
+<title>Discovery Science</title>
+<link>http://hls.novotelecom.ru/streaming/discoveryscience/tvrec/playlist.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/dd/discovery_science_international.png</thumbnail>
+</item>
+
+<item>
+<title>Animal Planet</title>
+<link>http://hls.novotelecom.ru/streaming/animalplanet/tvrec/playlist.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/animal_planet_us.png</thumbnail>
+</item>
+
+<item>
+<title>National Geographic</title>
+<link>http://hls.novotelecom.ru/streaming/natgeo/tvrec/playlist.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/nn/nat_geo_us.png</thumbnail>
+</item>
+
+<item>
+<title>Nat Wild</title>
+<link>http://hls.novotelecom.ru/streaming/nat_geo_wild/tvrec/playlist.m3u8</link>
+<thumbnail>http://en.glaz.tv/images/logos/tv/big/nat-geo-wild.jpg</thumbnail>
+</item>
+
+<item>
+<title>Viasat Nature</title>
+<link>http://hls.novotelecom.ru/streaming/viasat_nature/tvrec/playlist.m3u8</link>
+<thumbnail>http://www.tv-logo.com/pt-data/uploads/images/logo/viasat_nature.jpg</thumbnail>
+</item>
+
+<item>
+<title>Viasat History</title>
+<link>http://hls.novotelecom.ru/streaming/viasat_history/tvrec/playlist.m3u8</link>
+<thumbnail>http://www.digitaltveurope.net/wp-content/uploads/2013/12/viasat-history-logo-rgb.jpg</thumbnail>
+</item>
+
+<item>
+<title>Viasat Explorer</title>
+<link>http://hls.novotelecom.ru/streaming/viasat_explorer/tvrec/playlist.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/vv/viasat_explorer_ru.png</thumbnail>
+</item>
+
+<item>
+<title>Teleputeshestviya</title>
+<link>http://hls.novotelecom.ru/streaming/rustravel/tvrec/playlist.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/rr/rtg_russian_travel_guide.png</thumbnail>
+</item>
+
+<item>
+<title>My Planet</title>
+<link>http://hls.novotelecom.ru/streaming/my_planet/tvrec/playlist.m3u8</link>
+<thumbnail>http://en.bigdigit.ru/upload/2012/11/my-planet.png</thumbnail>
+</item>
+
+<item>
+<title>Travel + Adventure</title>
+<link>http://hls.novotelecom.ru/streaming/traveladventure/tvrec/playlist.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/tt/travel_adventure_channel_ru.png</thumbnail>
+</item>
+
+<item>
+<title>Da Vinci Learning</title>
+<link>http://hls.novotelecom.ru/streaming/da_vinci/tvrec/playlist.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/dd/da_vinci_learning.png</thumbnail>
+</item>
+
+<item>
 <title>NTV Sport Union  [COLOR=FFFF0000]Geo Blocked In Some Areas[/COLOR]</title>
 <link>http://193.232.151.130/hls-live/livepkgr/_1014_/1014/1014-40.m3u8</link>
 <thumbnail> </thumbnail>

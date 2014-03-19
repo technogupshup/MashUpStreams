@@ -40,4 +40,10 @@
 <thumbnail>http://influentialaccess.files.wordpress.com/2012/03/telemundo.jpg</thumbnail>
 </item>
 
+<item>
+<title>Univision</title>
+<link>rtmp://edge3.video.vaughnsoft.net:443/ app=live?undefined playpath=live_univision_hd12 swfUrl=http://vaughnlive.tv/800021294/swf/VaughnSoftPlayer.swf pageUrl=http://vaughnlive.tv/univision_hd12 token=30dabc4871922a1314192e925ab7961dtsg3 live=true timeout=15</link>
+<thumbnail>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQW70cx-uJo3CBjJQ-K6d0vESjwL1R10Ql-0QTUNFveGoKJyhfr</thumbnail>
+</item>
+
 </channel>

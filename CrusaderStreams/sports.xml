@@ -43,11 +43,23 @@
 
 <item>
 <title>Bein 9 [COLOR=FFFF0000]Updated Daily[/COLOR]</title>
-<link>rtmpe://cdn.hdcast.org:1935/redirect/ playpath=BST9 token=#yw%tt#w@kku swfUrl=$doregex[swf] pageUrl=http://www.hdcast.org/  live=true timeout=15
+<link>$doregex[url] playpath=$doregex[file] token=#yw%tt#w@kku swfUrl=$doregex[swf] live=true timeout=15 pageUrl=http://www.hdcast.org/
+<regex>
+<name>url</name>
+<expres>streamer: '([^']*)</expres>
+<page>http://www.hdcast.org/embedlive2.php?u=BST9&vw=640&vh=460&domain=hdfoots.com</page>
+<referer>http://hdfoots.com/watch/beinsports-9-live-stream.php</referer>
+</regex>
+<regex>
+<name>file</name>
+<expres>file: '([^']*)</expres>
+<page>http://www.hdcast.org/embedlive2.php?u=BST9&vw=640&vh=460&domain=hdfoots.com</page>
+<referer>http://hdfoots.com/watch/beinsports-9-live-stream.php</referer>
+</regex>
 <regex>
 <name>swf</name>
 <expres>flashplayer: '([^']*)</expres>
-<page>http://www.hdcast.org/embedlive2.php?u=BST9&amp;vw=640&amp;vh=460&amp;domain=hdfoots.com</page>
+<page>http://www.hdcast.org/embedlive2.php?u=BST9&vw=640&vh=460&domain=hdfoots.com</page>
 <referer>http://hdfoots.com/watch/beinsports-9-live-stream.php</referer>
 </regex>
 </link>
@@ -55,121 +67,355 @@
 </item>
 
 <item>
-<title>Bein 9 (Link 2) [COLOR=FFFF0000]Updated Daily[/COLOR]</title>
-<link>http://62.210.151.70:8000/27.ch?u=sajjadmalik:p=FAISAL53</link>
-<thumbnail>http://nowwatchtvlive.com/wp-content/uploads/2014/01/beinsport_9hd.jpg</thumbnail>
-</item>
-
-<item>
 <title>Bein 10  [COLOR=FFFF0000]Updated Daily[/COLOR]</title>
-<link>http://62.210.151.70:8000/28.ch?u=sajjadmalik:p=FAISAL53</link>
+<link>$doregex[url] playpath=$doregex[file] token=#yw%tt#w@kku swfUrl=$doregex[swf] live=true timeout=15 pageUrl=http://www.hdcast.org/
+<regex>
+<name>url</name>
+<expres>streamer: '([^']*)</expres>
+<page>http://www.hdcast.org/embedlive6.php?u=BST10&vw=640&vh=460&domain=hdfoots.com</page>
+<referer>http://hdfoots.com/watch/beinsports-10-live-stream.php</referer>
+</regex>
+<regex>
+<name>file</name>
+<expres>file: '([^']*)</expres>
+<page>http://www.hdcast.org/embedlive6.php?u=BST10&vw=640&vh=460&domain=hdfoots.com</page>
+<referer>http://hdfoots.com/watch/beinsports-10-live-stream.php</referer>
+</regex>
+<regex>
+<name>swf</name>
+<expres>flashplayer: '([^']*)</expres>
+<page>http://www.hdcast.org/embedlive6.php?u=BST10&vw=640&vh=460&domain=hdfoots.com</page>
+<referer>http://hdfoots.com/watch/beinsports-10-live-stream.php</referer>
+</regex>
+</link>
 <thumbnail>http://nowwatchtvlive.com/wp-content/uploads/2014/01/bein-sport-10HD.png</thumbnail>
 </item>
 
 <item>
 <title>Bein 13  [COLOR=FFFF0000]Updated Daily[/COLOR]</title>
-<link>rtmpe://cdn.hdcast.org:1935/redirect/ playpath=BST13 live=1 pageUrl=http://www.hdcast.org/</link>
+<link>$doregex[url] playpath=$doregex[file] token=#yw%tt#w@kku swfUrl=$doregex[swf] live=true timeout=15 pageUrl=http://www.hdcast.org/
+<regex>
+<name>url</name>
+<expres>streamer: '([^']*)</expres>
+<page>http://www.hdcast.org/embedlive6.php?u=BST13&vw=640&vh=460&domain=hdfoots.com</page>
+<referer>http://hdfoots.com/watch/beinsports-13-live-stream.php</referer>
+</regex>
+<regex>
+<name>file</name>
+<expres>file: '([^']*)</expres>
+<page>http://www.hdcast.org/embedlive6.php?u=BST13&vw=640&vh=460&domain=hdfoots.com</page>
+<referer>http://hdfoots.com/watch/beinsports-13-live-stream.php</referer>
+</regex>
+<regex>
+<name>swf</name>
+<expres>flashplayer: '([^']*)</expres>
+<page>http://www.hdcast.org/embedlive6.php?u=BST13&vw=640&vh=460&domain=hdfoots.com</page>
+<referer>http://hdfoots.com/watch/beinsports-13-live-stream.php</referer>
+</regex>
+</link>
 <thumbnail>http://nowwatchtvlive.com/wp-content/uploads/2014/01/bein-sport-13HD.png</thumbnail>
 </item>
 
 <item>
 <title>Bein 14  [COLOR=FFFF0000]Updated Daily[/COLOR]</title>
-<link>rtmpe://cdn.hdcast.org:1935/redirect/ playpath=BST14  live=1 pageUrl=http://www.hdcast.org/</link>
-<thumbnail>http://nowwatchtvlive.com/wp-content/uploads/2014/01/bein-sport-14HD.png</thumbnail>
+<link>$doregex[url] playpath=$doregex[file] token=#yw%tt#w@kku swfUrl=$doregex[swf] live=true timeout=15 pageUrl=http://www.hdcast.org/
+<regex>
+<name>url</name>
+<expres>streamer: '([^']*)</expres>
+<page>http://www.hdcast.org/embedlive6.php?u=BST14&vw=640&vh=460&domain=hdfoots.com</page>
+<referer>http://hdfoots.com/watch/beinsports-14-live-stream.php</referer>
+</regex>
+<regex>
+<name>file</name>
+<expres>file: '([^']*)</expres>
+<page>http://www.hdcast.org/embedlive6.php?u=BST14&vw=640&vh=460&domain=hdfoots.com</page>
+<referer>http://hdfoots.com/watch/beinsports-14-live-stream.php</referer>
+</regex>
+<regex>
+<name>swf</name>
+<expres>flashplayer: '([^']*)</expres>
+<page>http://www.hdcast.org/embedlive6.php?u=BST14&vw=640&vh=460&domain=hdfoots.com</page>
+<referer>http://hdfoots.com/watch/beinsports-14-live-stream.php</referer>
+</regex>
+</link>
+<thumbnail>http://cdn.livesoccertv.com/images/channels/thumbnails/bein-sports-arabia-14-hd.gif</thumbnail>
 </item>
 
 <item>
 <title>Bein 15  [COLOR=FFFF0000]Updated Daily[/COLOR]</title>
-<link>rtmpe://cdn.hdcast.org:1935/redirect/ playpath=BST15 live=1 pageUrl=http://www.hdcast.org/</link>
+<link>$doregex[url] playpath=$doregex[file] token=#yw%tt#w@kku swfUrl=$doregex[swf] live=true timeout=15 pageUrl=http://www.hdcast.org/
+<regex>
+<name>url</name>
+<expres>streamer: '([^']*)</expres>
+<page>http://www.hdcast.org/embedlive6.php?u=BST15&vw=640&vh=460&domain=hdfoots.com</page>
+<referer>http://hdfoots.com/watch/beinsports-15-live-stream.php</referer>
+</regex>
+<regex>
+<name>file</name>
+<expres>file: '([^']*)</expres>
+<page>http://www.hdcast.org/embedlive6.php?u=BST15&vw=640&vh=460&domain=hdfoots.com</page>
+<referer>http://hdfoots.com/watch/beinsports-15-live-stream.php</referer>
+</regex>
+<regex>
+<name>swf</name>
+<expres>flashplayer: '([^']*)</expres>
+<page>http://www.hdcast.org/embedlive6.php?u=BST15&vw=640&vh=460&domain=hdfoots.com</page>
+<referer>http://hdfoots.com/watch/beinsports-15-live-stream.php</referer>
+</regex>
+</link>
 <thumbnail>http://nowwatchtvlive.com/wp-content/uploads/2014/01/bein-sport-15HD.jpg</thumbnail>
 </item>
 
 <item>
 <title>Bein 11 [COLOR=FFFF0000]Updated Daily[/COLOR]</title>
-<link>
-<sublink>rtmpe://cdn.hdcast.org:1935/redirect/ playpath=BST1 live=1 pageUrl=http://www.hdcast.org/</sublink>
-<sublink>rtmp://31.220.0.103:1935/live playpath=beinxx11 swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf live=true timeout=15 pageUrl=http://www.eucast.tv/embed.php?live=beinxx11&vw=620&vh=490</sublink>
+<link>$doregex[url] playpath=$doregex[file] token=#yw%tt#w@kku swfUrl=$doregex[swf] live=true timeout=15 pageUrl=http://www.hdcast.org/
+<regex>
+<name>url</name>
+<expres>streamer: '([^']*)</expres>
+<page>http://www.hdcast.org/embedlive6.php?u=BST11&vw=640&vh=460&domain=hdfoots.com</page>
+<referer>http://hdfoots.com/watch/beinsports-11-live-stream.php</referer>
+</regex>
+<regex>
+<name>file</name>
+<expres>file: '([^']*)</expres>
+<page>http://www.hdcast.org/embedlive6.php?u=BST11&vw=640&vh=460&domain=hdfoots.com</page>
+<referer>http://hdfoots.com/watch/beinsports-11-live-stream.php</referer>
+</regex>
+<regex>
+<name>swf</name>
+<expres>flashplayer: '([^']*)</expres>
+<page>http://www.hdcast.org/embedlive6.php?u=BST11&vw=640&vh=460&domain=hdfoots.com</page>
+<referer>http://hdfoots.com/watch/beinsports-11-live-stream.php</referer>
+</regex>
 </link>
 <thumbnail>http://i.imgur.com/yuzQdoY.jpg</thumbnail>
 </item>
 
 <item>
 <title>Bein 7  [COLOR=FFFF0000]Updated Daily[/COLOR]</title>
-<link>
-<sublink>rtmpe://cdn.hdcast.org:1935/redirect/ playpath=BST7 live=1 pageUrl=http://www.hdcast.org/</sublink>
-<sublink>http://62.210.151.70:8000/25.ch?u=sajjadmalik:p=FAISAL53</sublink>
+<link>$doregex[url] playpath=$doregex[file] token=#yw%tt#w@kku swfUrl=$doregex[swf] live=true timeout=15 pageUrl=http://www.hdcast.org/
+<regex>
+<name>url</name>
+<expres>streamer: '([^']*)</expres>
+<page>http://www.hdcast.org/embedlive6.php?u=BST7&vw=640&vh=460&domain=hdfoots.com</page>
+<referer>http://hdfoots.com/watch/beinsports-7-live-stream.php</referer>
+</regex>
+<regex>
+<name>file</name>
+<expres>file: '([^']*)</expres>
+<page>http://www.hdcast.org/embedlive6.php?u=BST7&vw=640&vh=460&domain=hdfoots.com</page>
+<referer>http://hdfoots.com/watch/beinsports-7-live-stream.php</referer>
+</regex>
+<regex>
+<name>swf</name>
+<expres>flashplayer: '([^']*)</expres>
+<page>http://www.hdcast.org/embedlive6.php?u=BST7&vw=640&vh=460&domain=hdfoots.com</page>
+<referer>http://hdfoots.com/watch/beinsports-7-live-stream.php</referer>
+</regex>
 </link>
 <thumbnail>http://i.imgur.com/cHNlLaQ.jpg</thumbnail>
 </item>
 
 <item>
 <title>Bein 5  [COLOR=FFFF0000]Updated Daily[/COLOR]</title>
-<link>
-<sublink>rtmp://31.220.0.104:1935/live playpath=b5 swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf live=true timeout=15 pageUrl=http://www.eucast.tv/embed.php?live=bein5&vw=600&vh=450</sublink>
-<sublink>rtmpe://strm.ukcast.tv/redirect playpath=bein5desii swfUrl=http://ukcast.tv/player/player.swf pageUrl=http://www.ukcast.tv live=true swfVfy=true timeout=15</sublink>
+<link>$doregex[url] playpath=$doregex[file] token=#yw%tt#w@kku swfUrl=$doregex[swf] live=true timeout=15 pageUrl=http://www.hdcast.org/
+<regex>
+<name>url</name>
+<expres>streamer: '([^']*)</expres>
+<page>http://www.hdcast.org/embedlive6.php?u=BST5&vw=640&vh=460&domain=hdfoots.com</page>
+<referer>http://hdfoots.com/watch/beinsports-5-live-stream.php</referer>
+</regex>
+<regex>
+<name>file</name>
+<expres>file: '([^']*)</expres>
+<page>http://www.hdcast.org/embedlive6.php?u=BST5&vw=640&vh=460&domain=hdfoots.com</page>
+<referer>http://hdfoots.com/watch/beinsports-5-live-stream.php</referer>
+</regex>
+<regex>
+<name>swf</name>
+<expres>flashplayer: '([^']*)</expres>
+<page>http://www.hdcast.org/embedlive6.php?u=BST5&vw=640&vh=460&domain=hdfoots.com</page>
+<referer>http://hdfoots.com/watch/beinsports-5-live-stream.php</referer>
+</regex>
 </link>
 <thumbnail>http://i.imgur.com/eKtzUc4.jpg</thumbnail>
 </item>
 
 <item>
 <title>Bein 6  [COLOR=FFFF0000]Updated Daily[/COLOR]</title>
-<link>
-<sublink>rtmpe://cdn.hdcast.org:1935/redirect/ playpath=BST6 live=1 pageUrl=http://www.hdcast.org/</sublink>
-<sublink>http://62.210.151.70:8000/24.ch?u=sajjadmalik:p=FAISAL53</sublink>
+<link>$doregex[url] playpath=$doregex[file] token=#yw%tt#w@kku swfUrl=$doregex[swf] live=true timeout=15 pageUrl=http://www.hdcast.org/
+<regex>
+<name>url</name>
+<expres>streamer: '([^']*)</expres>
+<page>http://www.hdcast.org/embedlive6.php?u=BST6&vw=640&vh=460&domain=hdfoots.com</page>
+<referer>http://hdfoots.com/watch/beinsports-6-live-stream.php</referer>
+</regex>
+<regex>
+<name>file</name>
+<expres>file: '([^']*)</expres>
+<page>http://www.hdcast.org/embedlive6.php?u=BST6&vw=640&vh=460&domain=hdfoots.com</page>
+<referer>http://hdfoots.com/watch/beinsports-6-live-stream.php</referer>
+</regex>
+<regex>
+<name>swf</name>
+<expres>flashplayer: '([^']*)</expres>
+<page>http://www.hdcast.org/embedlive6.php?u=BST6&vw=640&vh=460&domain=hdfoots.com</page>
+<referer>http://hdfoots.com/watch/beinsports-6-live-stream.php</referer>
+</regex>
 </link>
 <thumbnail>http://i.imgur.com/by9j5N2.jpg</thumbnail>
 </item>
 
 <item>
 <title>Bein 3  [COLOR=FFFF0000]Updated Daily[/COLOR]</title>
-<link>
-<sublink>rtmpe://strm.ukcast.tv/redirect playpath=bein3desi swfUrl=http://ukcast.tv/player/player.swf pageUrl=http://www.ukcast.tv live=true swfVfy=true timeout=15</sublink>
-<sublink>rtmpe://cdn.hdcast.org:1935/redirect/ playpath=BST3 live=1 pageUrl=http://www.hdcast.org/</sublink>
+<link>$doregex[url] playpath=$doregex[file] token=#yw%tt#w@kku swfUrl=$doregex[swf] live=true timeout=15 pageUrl=http://www.hdcast.org/
+<regex>
+<name>url</name>
+<expres>streamer: '([^']*)</expres>
+<page>http://www.hdcast.org/embedlive3.php?u=BST3&vw=640&vh=460&domain=hdfoots.com</page>
+<referer>http://hdfoots.com/watch/beinsports-3-live-stream.php</referer>
+</regex>
+<regex>
+<name>file</name>
+<expres>file: '([^']*)</expres>
+<page>http://www.hdcast.org/embedlive3.php?u=BST3&vw=640&vh=460&domain=hdfoots.com</page>
+<referer>http://hdfoots.com/watch/beinsports-3-live-stream.php</referer>
+</regex>
+<regex>
+<name>swf</name>
+<expres>flashplayer: '([^']*)</expres>
+<page>http://www.hdcast.org/embedlive3.php?u=BST3&vw=640&vh=460&domain=hdfoots.com</page>
+<referer>http://hdfoots.com/watch/beinsports-3-live-stream.php</referer>
+</regex>
 </link>
 <thumbnail>http://i.imgur.com/LaMq1FJ.jpg</thumbnail>
 </item>
 
 <item>
 <title>Bein 2  [COLOR=FFFF0000]Updated Daily[/COLOR]</title>
-<link>
-<sublink>rtmpe://cdn.hdcast.org:1935/redirect/ playpath=BST2 live=1 pageUrl=http://www.hdcast.org/</sublink>
-<sublink>rtmpe://strm.ukcast.tv/redirect playpath=bein2desii swfUrl=http://ukcast.tv/player/player.swf pageUrl=http://www.ukcast.tv live=true swfVfy=true timeout=15</sublink>
+<link>$doregex[url] playpath=$doregex[file] token=#yw%tt#w@kku swfUrl=$doregex[swf] live=true timeout=15 pageUrl=http://www.hdcast.org/
+<regex>
+<name>url</name>
+<expres>streamer: '([^']*)</expres>
+<page>http://www.hdcast.org/embedlive2.php?u=BST2&vw=640&vh=460&domain=hdfoots.com</page>
+<referer>http://hdfoots.com/watch/beinsports-2-live-stream.php</referer>
+</regex>
+<regex>
+<name>file</name>
+<expres>file: '([^']*)</expres>
+<page>http://www.hdcast.org/embedlive2.php?u=BST2&vw=640&vh=460&domain=hdfoots.com</page>
+<referer>http://hdfoots.com/watch/beinsports-2-live-stream.php</referer>
+</regex>
+<regex>
+<name>swf</name>
+<expres>flashplayer: '([^']*)</expres>
+<page>http://www.hdcast.org/embedlive2.php?u=BST2&vw=640&vh=460&domain=hdfoots.com</page>
+<referer>http://hdfoots.com/watch/beinsports-2-live-stream.php</referer>
+</regex>
 </link>
 <thumbnail>http://i.imgur.com/G8aSwIJ.jpg</thumbnail>
 </item>
 
 <item>
 <title>Bein 4  [COLOR=FFFF0000]Updated Daily[/COLOR]</title>
-<link>
-<sublink>rtmpe://cdn.hdcast.org:1935/redirect/ playpath=BST4 live=1 pageUrl=http://www.hdcast.org/</sublink>
-<sublink>rtmpe://strm.ukcast.tv/redirect playpath=bein4desi swfUrl=http://ukcast.tv/player/player.swf pageUrl=http://www.ukcast.tv live=true swfVfy=true timeout=15</sublink>
+<link>$doregex[url] playpath=$doregex[file] token=#yw%tt#w@kku swfUrl=$doregex[swf] live=true timeout=15 pageUrl=http://www.hdcast.org/
+<regex>
+<name>url</name>
+<expres>streamer: '([^']*)</expres>
+<page>http://www.hdcast.org/embedlive2.php?u=BST4&vw=640&vh=460&domain=hdfoots.com</page>
+<referer>http://hdfoots.com/watch/beinsports-4-live-stream.php</referer>
+</regex>
+<regex>
+<name>file</name>
+<expres>file: '([^']*)</expres>
+<page>http://www.hdcast.org/embedlive2.php?u=BST4&vw=640&vh=460&domain=hdfoots.com</page>
+<referer>http://hdfoots.com/watch/beinsports-4-live-stream.php</referer>
+</regex>
+<regex>
+<name>swf</name>
+<expres>flashplayer: '([^']*)</expres>
+<page>http://www.hdcast.org/embedlive2.php?u=BST4&vw=640&vh=460&domain=hdfoots.com</page>
+<referer>http://hdfoots.com/watch/beinsports-4-live-stream.php</referer>
+</regex>
 </link>
 <thumbnail>http://i.imgur.com/MCi8WTD.jpg</thumbnail>
 </item>
 
 <item>
 <title>Bein 8  [COLOR=FFFF0000]Updated Daily[/COLOR]</title>
-<link>
-<sublink>rtmpe://strm.ukcast.tv/redirect playpath=bein8desi swfUrl=http://ukcast.tv/player/player.swf pageUrl=http://www.ukcast.tv live=true swfVfy=true timeout=15</sublink>
-<sublink>http://62.210.151.70:8000/26.ch?u=sajjadmalik:p=FAISAL53</sublink>
+<link>$doregex[url] playpath=$doregex[file] token=#yw%tt#w@kku swfUrl=$doregex[swf] live=true timeout=15 pageUrl=http://www.hdcast.org/
+<regex>
+<name>url</name>
+<expres>streamer: '([^']*)</expres>
+<page>http://www.hdcast.org/embedlive2.php?u=BST8&vw=640&vh=460&domain=hdfoots.com</page>
+<referer>http://hdfoots.com/watch/beinsports-8-live-stream.php</referer>
+</regex>
+<regex>
+<name>file</name>
+<expres>file: '([^']*)</expres>
+<page>http://www.hdcast.org/embedlive2.php?u=BST8&vw=640&vh=460&domain=hdfoots.com</page>
+<referer>http://hdfoots.com/watch/beinsports-8-live-stream.php</referer>
+</regex>
+<regex>
+<name>swf</name>
+<expres>flashplayer: '([^']*)</expres>
+<page>http://www.hdcast.org/embedlive2.php?u=BST8&vw=640&vh=460&domain=hdfoots.com</page>
+<referer>http://hdfoots.com/watch/beinsports-8-live-stream.php</referer>
+</regex>
 </link>
 <thumbnail>http://i.imgur.com/cEpkyFy.jpg</thumbnail>
 </item>
 
+
 <item>
 <title>Bein 12 [COLOR=FFFF0000]Updated Daily[/COLOR]</title>
-<link>rtmpe://cdn.hdcast.org:1935/redirect/ playpath=BST12 live=1 pageUrl=http://www.hdcast.org/</link>
+<link>$doregex[url] playpath=$doregex[file] token=#yw%tt#w@kku swfUrl=$doregex[swf] live=true timeout=125 pageUrl=http://www.hdcast.org/
+<regex>
+<name>url</name>
+<expres>streamer: '([^']*)</expres>
+<page>http://www.hdcast.org/embedlive2.php?u=BST12&vw=640&vh=460&domain=hdfoots.com</page>
+<referer>http://hdfoots.com/watch/beinsports-12-live-stream.php</referer>
+</regex>
+<regex>
+<name>file</name>
+<expres>file: '([^']*)</expres>
+<page>http://www.hdcast.org/embedlive2.php?u=BST12&vw=640&vh=460&domain=hdfoots.com</page>
+<referer>http://hdfoots.com/watch/beinsports-12-live-stream.php</referer>
+</regex>
+<regex>
+<name>swf</name>
+<expres>flashplayer: '([^']*)</expres>
+<page>http://www.hdcast.org/embedlive2.php?u=BST12&vw=640&vh=460&domain=hdfoots.com</page>
+<referer>http://hdfoots.com/watch/beinsports-12-live-stream.php</referer>
+</regex>
+</link>
 <thumbnail>http://i.imgur.com/bT87VMx.jpg</thumbnail>
 </item>
 
 <item>
 <title>Bein 1  [COLOR=FFFF0000]Updated Daily[/COLOR]</title>
-<link>
-<sublink>rtmpe://cdn.hdcast.org:1935/redirect/ playpath=BST1 live=1 pageUrl=http://www.hdcast.org/</sublink>
-<sublink>rtmpe://strm.ukcast.tv/redirect playpath=bein1desii swfUrl=http://ukcast.tv/player/player.swf pageUrl=http://www.ukcast.tv live=true swfVfy=true timeout=15</sublink>
-</link>
+<link>$doregex[url] playpath=$doregex[file] token=#yw%tt#w@kku swfUrl=$doregex[swf] live=true timeout=15 pageUrl=http://www.hdcast.org/
+<regex>
+<name>url</name>
+<expres>streamer: '([^']*)</expres>
+<page>http://www.hdcast.org/embedlive2.php?u=BST1&vw=640&vh=460&domain=hdfoots.com</page>
+<referer>http://hdfoots.com/watch/beinsports-1-live-stream.php</referer>
+</regex>
+<regex>
+<name>file</name>
+<expres>file: '([^']*)</expres>
+<page>http://www.hdcast.org/embedlive2.php?u=BST1&vw=640&vh=460&domain=hdfoots.com</page>
+<referer>http://hdfoots.com/watch/beinsports-1-live-stream.php</referer>
+</regex>
+<regex>
+<name>swf</name>
+<expres>flashplayer: '([^']*)</expres>
+<page>http://www.hdcast.org/embedlive2.php?u=BST1&vw=640&vh=460&domain=hdfoots.com</page>
+<referer>http://hdfoots.com/watch/beinsports-1-live-stream.php</referer>
+</regex>
 <thumbnail>http://i.imgur.com/r3A1LIO.jpg</thumbnail>
 </item>
+
 
 <item>
 <title>Bahrain Sports</title>

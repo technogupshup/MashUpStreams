@@ -43,7 +43,7 @@
 
 <item>
 <title>Bein 9 [COLOR=FFFF0000]Updated Daily[/COLOR]</title>
-<link>rtmpe://46.246.124.39:1935/redirect playpath=BST9 token=#yw%tt#w@kku swfUrl=$doregex[swf] pageUrl=http://www.hdcast.org/  live=true timeout=15
+<link>rtmpe://cdn.hdcast.org:1935/redirect/ playpath=BST9 token=#yw%tt#w@kku swfUrl=$doregex[swf] pageUrl=http://www.hdcast.org/  live=true timeout=15
 <regex>
 <name>swf</name>
 <expres>flashplayer: '([^']*)</expres>
@@ -68,26 +68,26 @@
 
 <item>
 <title>Bein 13  [COLOR=FFFF0000]Updated Daily[/COLOR]</title>
-<link>rtmpe://46.246.124.39:1935/redirect playpath=BST13 live=1 pageUrl=http://www.hdcast.org/</link>
+<link>rtmpe://cdn.hdcast.org:1935/redirect/ playpath=BST13 live=1 pageUrl=http://www.hdcast.org/</link>
 <thumbnail>http://nowwatchtvlive.com/wp-content/uploads/2014/01/bein-sport-13HD.png</thumbnail>
 </item>
 
 <item>
 <title>Bein 14  [COLOR=FFFF0000]Updated Daily[/COLOR]</title>
-<link>rtmpe://46.246.124.39:1935/redirect playpath=BST14  live=1 pageUrl=http://www.hdcast.org/</link>
+<link>rtmpe://cdn.hdcast.org:1935/redirect/ playpath=BST14  live=1 pageUrl=http://www.hdcast.org/</link>
 <thumbnail>http://nowwatchtvlive.com/wp-content/uploads/2014/01/bein-sport-14HD.png</thumbnail>
 </item>
 
 <item>
 <title>Bein 15  [COLOR=FFFF0000]Updated Daily[/COLOR]</title>
-<link>rtmpe://46.246.124.39:1935/redirect playpath=BST15 live=1 pageUrl=http://www.hdcast.org/</link>
+<link>rtmpe://cdn.hdcast.org:1935/redirect/ playpath=BST15 live=1 pageUrl=http://www.hdcast.org/</link>
 <thumbnail>http://nowwatchtvlive.com/wp-content/uploads/2014/01/bein-sport-15HD.jpg</thumbnail>
 </item>
 
 <item>
 <title>Bein 11 [COLOR=FFFF0000]Updated Daily[/COLOR]</title>
 <link>
-<sublink>rtmpe://46.246.124.39:1935/redirect playpath=BST1 live=1 pageUrl=http://www.hdcast.org/</sublink>
+<sublink>rtmpe://cdn.hdcast.org:1935/redirect/ playpath=BST1 live=1 pageUrl=http://www.hdcast.org/</sublink>
 <sublink>rtmp://31.220.0.103:1935/live playpath=beinxx11 swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf live=true timeout=15 pageUrl=http://www.eucast.tv/embed.php?live=beinxx11&vw=620&vh=490</sublink>
 </link>
 <thumbnail>http://i.imgur.com/yuzQdoY.jpg</thumbnail>
@@ -96,7 +96,7 @@
 <item>
 <title>Bein 7  [COLOR=FFFF0000]Updated Daily[/COLOR]</title>
 <link>
-<sublink>rtmpe://46.246.124.39:1935/redirect playpath=BST7 live=1 pageUrl=http://www.hdcast.org/</sublink>
+<sublink>rtmpe://cdn.hdcast.org:1935/redirect/ playpath=BST7 live=1 pageUrl=http://www.hdcast.org/</sublink>
 <sublink>http://62.210.151.70:8000/25.ch?u=sajjadmalik:p=FAISAL53</sublink>
 </link>
 <thumbnail>http://i.imgur.com/cHNlLaQ.jpg</thumbnail>
@@ -114,7 +114,7 @@
 <item>
 <title>Bein 6  [COLOR=FFFF0000]Updated Daily[/COLOR]</title>
 <link>
-<sublink>rtmpe://46.246.124.39:1935/redirect playpath=BST6 live=1 pageUrl=http://www.hdcast.org/</sublink>
+<sublink>rtmpe://cdn.hdcast.org:1935/redirect/ playpath=BST6 live=1 pageUrl=http://www.hdcast.org/</sublink>
 <sublink>http://62.210.151.70:8000/24.ch?u=sajjadmalik:p=FAISAL53</sublink>
 </link>
 <thumbnail>http://i.imgur.com/by9j5N2.jpg</thumbnail>
@@ -124,7 +124,7 @@
 <title>Bein 3  [COLOR=FFFF0000]Updated Daily[/COLOR]</title>
 <link>
 <sublink>rtmpe://strm.ukcast.tv/redirect playpath=bein3desi swfUrl=http://ukcast.tv/player/player.swf pageUrl=http://www.ukcast.tv live=true swfVfy=true timeout=15</sublink>
-<sublink>rtmpe://46.246.124.39:1935/redirect playpath=BST3 live=1 pageUrl=http://www.hdcast.org/</sublink>
+<sublink>rtmpe://cdn.hdcast.org:1935/redirect/ playpath=BST3 live=1 pageUrl=http://www.hdcast.org/</sublink>
 </link>
 <thumbnail>http://i.imgur.com/LaMq1FJ.jpg</thumbnail>
 </item>
@@ -132,7 +132,7 @@
 <item>
 <title>Bein 2  [COLOR=FFFF0000]Updated Daily[/COLOR]</title>
 <link>
-<sublink>rtmpe://46.246.124.39:1935/redirect playpath=BST2 live=1 pageUrl=http://www.hdcast.org/</sublink>
+<sublink>rtmpe://cdn.hdcast.org:1935/redirect/ playpath=BST2 live=1 pageUrl=http://www.hdcast.org/</sublink>
 <sublink>rtmpe://strm.ukcast.tv/redirect playpath=bein2desii swfUrl=http://ukcast.tv/player/player.swf pageUrl=http://www.ukcast.tv live=true swfVfy=true timeout=15</sublink>
 </link>
 <thumbnail>http://i.imgur.com/G8aSwIJ.jpg</thumbnail>
@@ -141,7 +141,7 @@
 <item>
 <title>Bein 4  [COLOR=FFFF0000]Updated Daily[/COLOR]</title>
 <link>
-<sublink>rtmpe://46.246.124.39:1935/redirect playpath=BST4 live=1 pageUrl=http://www.hdcast.org/</sublink>
+<sublink>rtmpe://cdn.hdcast.org:1935/redirect/ playpath=BST4 live=1 pageUrl=http://www.hdcast.org/</sublink>
 <sublink>rtmpe://strm.ukcast.tv/redirect playpath=bein4desi swfUrl=http://ukcast.tv/player/player.swf pageUrl=http://www.ukcast.tv live=true swfVfy=true timeout=15</sublink>
 </link>
 <thumbnail>http://i.imgur.com/MCi8WTD.jpg</thumbnail>
@@ -158,14 +158,14 @@
 
 <item>
 <title>Bein 12 [COLOR=FFFF0000]Updated Daily[/COLOR]</title>
-<link>rtmpe://46.246.124.39:1935/redirect playpath=BST12 live=1 pageUrl=http://www.hdcast.org/</link>
+<link>rtmpe://cdn.hdcast.org:1935/redirect/ playpath=BST12 live=1 pageUrl=http://www.hdcast.org/</link>
 <thumbnail>http://i.imgur.com/bT87VMx.jpg</thumbnail>
 </item>
 
 <item>
 <title>Bein 1  [COLOR=FFFF0000]Updated Daily[/COLOR]</title>
 <link>
-<sublink>rtmpe://46.246.124.39:1935/redirect playpath=BST1 live=1 pageUrl=http://www.hdcast.org/</sublink>
+<sublink>rtmpe://cdn.hdcast.org:1935/redirect/ playpath=BST1 live=1 pageUrl=http://www.hdcast.org/</sublink>
 <sublink>rtmpe://strm.ukcast.tv/redirect playpath=bein1desii swfUrl=http://ukcast.tv/player/player.swf pageUrl=http://www.ukcast.tv live=true swfVfy=true timeout=15</sublink>
 </link>
 <thumbnail>http://i.imgur.com/r3A1LIO.jpg</thumbnail>

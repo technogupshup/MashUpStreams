@@ -5,6 +5,12 @@
 <thumbnail></thumbnail>
 
 <item>
+<title>PhoViet HD</title>
+<link>rtmp://unirtmp.tulix.tv:1935/globaltv9 playpath=myStream.sdp swfUrl=http://www.streamwebtown.com/mediaplayer/player.swf live=true timeout=15 pageUrl=http://phoviet.tv/</link>
+<thumbnail>http://phoviet.tv/images/vietnamesehead.jpg</thumbnail>
+</item>
+
+<item>
 <title>Hai</title>
 <link>http://206.190.150.132:1935/liveStream/hai_1/playlist.m3u8</link>
 <thumbnail>http://www.viettv24.com/main/images/Hai%2024-7.jpg</thumbnail>

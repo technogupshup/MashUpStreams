@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<channel>
+<name>Kurdish TV Channels</name>
+<thumbnail></thumbnail>
+
+
+<item>
+<title>Ronahi TV</title>
+<link>http://ronahitv.karwan.tv:1936/14/stream/playlist.m3u8?wowzasessionid=1231882666</link>
+<thumbnail>http://karwan.tv/images/KURDISH_TV_LOGO/RONAHI_TV.jpg</thumbnail>
+</item>
+
+<item>
+<title>Kurd TV</title>
+<link>http://karwan.tv/player_file/kurdistantv.m3u8</link>
+<thumbnail>http://www.karwan.tv/images/KURDISH_TV_LOGO/kurd_channel.jpg</thumbnail>
+</item>
+
+<item>
+<title>Kurd Sat</title>
+<link>http://kurdsat_hls-lh.akamaihd.net/i/kurdsat_ku@121288/master.m3u8</link>
+<thumbnail>http://karwan.tv/images/KURDISH_TV_LOGO/kurdsat.jpg</thumbnail>
+</item>
+
+<item>
+<title>Med Nuce TV</title>
+<link>http://mednucetv.karwan.tv:1936/13/stream/playlist.m3u8</link>
+<thumbnail>http://karwan.tv/images/KURDISH_TV_LOGO/MED_NUCE_TV.jpg</thumbnail>
+</item>
+
+<item>
+<title>Newroz</title>
+<link>http://kurdishlivetv.karwan.tv/Newroz?TICKET/path/to/media.file</link>
+<thumbnail>http://karwan.tv/images/KURDISH_TV_LOGO/Newroz_tv.jpg</thumbnail>
+</item>
+
+<item>
+<title>KNN</title>
+<link>http://knntv.karwan.tv:1935/live/livestream/playlist.m3u8</link>
+<thumbnail>http://karwan.tv/images/KURDISH_TV_LOGO/knn-tv.jpg</thumbnail>
+</item>
+
+<item>
+<title>Rudaw TV</title>
+<link>rtmp://livestreaming.itworkscdn.net/rudawlive playpath=rudawtv swfUrl=http://rudaw.net/player/jwplayer.flash.swf live=true timeout=15 pageUrl=http://rudaw.net/english/onair/tv/live</link>
+<thumbnail>http://karwan.tv/images/KURDISH_TV_LOGO/rudaw.png</thumbnail>
+</item>
+
+<item>
+<title>Zagros</title>
+<link>http://zagrostv.karwan.tv/live</link>
+<thumbnail>http://karwan.tv/images/KURDISH_TV_LOGO/zagros-tv.jpg</thumbnail>
+</item>
+
+<item>
+<title>Geli Kurdistan TV</title>
+<link>http://karwan.tv/player_file/m3u8/gelikurdistantv.m3u8</link>
+<thumbnail>http://karwan.tv//images/tv_logo/gkurdistantv1.gif</thumbnail>
+</item>
+
+<item>
+<title>Geli Kurdistan Silemani</title>
+<link>http://karwan.tv/player_file/Geli_Kurdistan_Silemani_TV.m3u8</link>
+<thumbnail>http://karwan.tv//images/KURDISH_TV_LOGO/GK%20Silemani%20TV.jpg</thumbnail>
+</item>
+
+<item>
+<title>Med Muzik</title>
+<link>http://karwan.tv/player_file/medmusiktv.m3u8</link>
+<thumbnail>http://karwan.tv/images/KURDISH_TV_LOGO/Med%20Muzik.JPG</thumbnail>
+</item>
+
+<item>
+<title>Tishk</title>
+<link>http://kurdishlivetv.karwan.tv/Tishk?TICKET/path/to/media.file</link>
+<thumbnail>http://karwan.tv/images/KURDISH_TV_LOGO/tishktv.jpg</thumbnail>
+</item>
+
+<item>
+<title>Rojhelat</title>
+<link>http://kurdishlivetv.karwan.tv/Rojhelat?TICKET/path/to/media.file</link>
+<thumbnail>http://karwan.tv/images/KURDISH_TV_LOGO/rojhalat.jpg</thumbnail>
+</item>
+
+<item>
+<title>Komala</title>
+<link>http://194.237.202.7:8081/edw_tvkomala.flv</link>
+<thumbnail>http://www.karwan.tv/images/tv_logo/komalatv.jpg</thumbnail>
+</item>
+
+<item>
+<title>Nalia TV</title>
+<link>rtmp://naliatv.karwan.tv/live/ playpath=livestream swfUrl=http://p.jwpcdn.com/6/7/jwplayer.flash.swf live=true timeout=15 pageUrl=http://karwan.tv/nalia-tv.html</link>
+<thumbnail>http://karwan.tv//images/KURDISH_RADIO_LOGO/Nalia%20Radio.jpg</thumbnail>
+</item>
+
+<item>
+<title>KurdMAX</title>
+<link>http://kurdmaxtv.karwan.tv:1935/live/kurdmax/playlist.m3u8</link>
+<thumbnail>http://karwan.tv//images/KURDISH_TV_LOGO/KURDMAX_TV.jpg</thumbnail>
+</item>
+
+<item>
+<title>Sterk TV</title>
+<link>http://karwan.tv/player_file/sterktv.m3u8</link>
+<thumbnail>http://karwan.tv/images/KURDISH_TV_LOGO/sterk-tv.jpg</thumbnail>
+</item>
+
+<item>
+<title>Speda</title>
+<link>http://spedatv.karwan.tv:1935/live/sepideh256/playlist.m3u8</link>
+<thumbnail>http://karwan.tv/images/KURDISH_TV_LOGO/Speda_TV.png</thumbnail>
+</item>
+
+<item>
+<title>Payam</title>
+<link>http://payamtv.karwan.tv:1935/live/payam256/playlist.m3u8</link>
+<thumbnail>http://karwan.tv/images/tv_logo/payamtv.jpg</thumbnail>
+</item>
+
+<item>
+<title>Yol</title>
+<link>rtmp://yol.dyndns.tv:2100/yol/ playpath=yolstream swfUrl=http://p.jwpcdn.com/6/7/jwplayer.flash.swf live=true timeout=15 pageUrl=http://karwan.tv/yol-tv.html</link>
+<thumbnail>http://karwan.tv/images/KURDISH_TV_LOGO/Yoltv.jpg</thumbnail>
+</item>
+
+<item>
+<title>KM</title>
+<link>http://kurdishlivetv.karwan.tv/KurdChannel?TICKET/path/to/media.file</link>
+<thumbnail>http://www.karwan.tv/images/KURDISH_TV_LOGO/K_TV.png</thumbnail>
+</item>
+
+<item>
+<title>Kirkuk</title>
+<link>rtmp://38.96.148.5/live/ playpath=livestream swfUrl=http://p.jwpcdn.com/6/7/jwplayer.flash.swf live=true timeout=15 pageUrl=http://karwan.tv/kirkuk-tv.html</link>
+<thumbnail>http://karwan.tv/images/tv_logo/kirkuk_tv.jpg</thumbnail>
+</item>
+
+<item>
+<title>Cira</title>
+<link>http://kurdishlivetv.karwan.tv/Newroz?TICKET/path/to/media.file</link>
+<thumbnail>http://karwan.tv/images/KURDISH_TV_LOGO/ciratv.jpg</thumbnail>
+</item>
+
+<item>
+<title>Kanal4</title>
+<link>http://kurdishlivetv.karwan.tv/Kanal4?TICKET/path/to/media.file</link>
+<thumbnail>http://karwan.tv/images/KURDISH_TV_LOGO/kanal4.jpg</thumbnail>
+</item>
+
+<item>
+<title>Korek</title>
+<link>http://kurdishlivetv.karwan.tv/KorekTV?TICKET/path/to/media.file</link>
+<thumbnail>http://karwan.tv/images/KURDISH_TV_LOGO/korek_tv.jpg</thumbnail>
+</item>
+
+<item>
+<title>Jamawar</title>
+<link>http://kurdishlivetv.karwan.tv/Jamawar?TICKET/path/to/media.file</link>
+<thumbnail>http://karwan.tv/images/KURDISH_TV_LOGO/Jamawar%20TV.jpg</thumbnail>
+</item>
+
+<item>
+<title>Nalina 2 TV</title>
+<link>http://karwan.tv/player_file/m3u8/nalinatv2.m3u8</link>
+<thumbnail>http://karwan.tv//images/KURDISH_TV_LOGO/Nalia%202%20TV.png</thumbnail>
+</item>
+
+<item>
+<title>Komar</title>
+<link>http://kurdishlivetv.karwan.tv/KurdChannel?TICKET/path/to/media.file</link>
+<thumbnail>http://www.karwan.tv/images/KURDISH_TV_LOGO/komar_tv.jpg</thumbnail>
+</item>
+
+<item>
+<title>Kurd TV</title>
+<link>http://kurdishlivetv.karwan.tv/KurdChannel?TICKET/path/to/media.file</link>
+<thumbnail>http://www.karwan.tv/images/KURDISH_TV_LOGO/kurd_channel.jpg</thumbnail>
+</item>
+
+<item>
+<title>Hawler</title>
+<link>http://kurdishlivetv.karwan.tv/HawlerTV?TICKET/path/to/media.file</link>
+<thumbnail>http://www.karwan.tv/images/KURDISH_TV_LOGO/HawlerTV.jpg</thumbnail>
+</item>
+
+<item>
+<title>Pelistank</title>
+<link>http://kurdishlivetv.karwan.tv/Pelistank?TICKET/path/to/media.file</link>
+<thumbnail>http://karwan.tv/images/KURDISH_TV_LOGO/PELISTANK%20TV.JPG</thumbnail>
+</item>
+
+<item>
+<title>Imc</title>
+<link>http://imctv.karwan.tv:1935/imcTv/imcTv/playlist.m3u8</link>
+<thumbnail>http://karwan.tv/images/KURDISH_TV_LOGO/imc_tv.jpg</thumbnail>
+</item>
+
+<item>
+<title>Kurdino</title>
+<link>http://kurdishlivetv.karwan.tv/GemKurdino?TICKET/path/to/media.file</link>
+<thumbnail>http://karwan.tv/images/KURDISH_TV_LOGO/Kurdino%20TV.jpg</thumbnail>
+</item>
+
+<item>
+<title>GK Ayinde TV</title>
+<link>http://iphone-streaming.ustream.tv/ustreamVideo/45039161/streams/live/playlist.m3u8</link>
+<thumbnail>http://karwan.tv/images/KURDISH_TV_LOGO/GL%20AyindeTv.jpg</thumbnail>
+</item>
+
+<item>
+<title>Karwan TV</title>
+<link>http://radio.karwan.tv:8000/;stream.mp3</link>
+<thumbnail>http://karwan.tv/images/KURDISH_RADIO_LOGO/karwan_music_radio.png</thumbnail>
+</item>
+
+<item>
+<title>Biaban</title>
+<link>rtmp://46.165.196.36/live playpath=BiabanHDTV?id=186581 conn=S:OK swfUrl=http://mips.tv/content/scripts/eplayer.swf live=true timeout=15 pageUrl=http://mips.tv/embedplayer/biabanhdtv/2/751/500</link>
+<thumbnail>http://karwan.tv/images/KURDISH_TV_LOGO/Biaban%20TV.png</thumbnail>
+</item>
+
+<item>
+<title>Denge TV</title>
+<link>http://dengetv.karwan.tv:1935/live/dengetv/chunklist_w141231579.m3u8</link>
+<thumbnail>http://karwan.tv/images/KURDISH_TV_LOGO/denge-tv.jpg</thumbnail>
+</item>
+
+<item>
+<title>TV 10</title>
+<link>rtmp://5.135.142.60/tv10/ playpath=xetero swfUrl=http://p.jwpcdn.com/6/7/jwplayer.flash.swf live=true timeout=15 pageUrl=http://karwan.tv/tv-10.html</link>
+<thumbnail>http://karwan.tv/images/KURDISH_TV_LOGO/TV%2010.jpg</thumbnail>
+</item>
+
+<item>
+<title>Waar</title>
+<link>http://kurdishlivetv.karwan.tv/Waar?TICKET/path/to/media.file</link>
+<thumbnail>http://karwan.tv/images/KURDISH_TV_LOGO/WAAR_TV.jpg</thumbnail>
+</item>
+
+</channel>

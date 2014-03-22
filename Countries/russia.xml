@@ -4,6 +4,146 @@
 <name>Russian TV Channels</name>
 <thumbnail></thumbnail>
 
+
+<item>
+<title>24 Techno</title>
+<link>http://hls.novotelecom.ru/streaming/24techno/tvrec/playlist.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/num/24_techno.png</thumbnail>
+</item>
+
+<item>
+<title>Science</title>
+<link>http://hls.novotelecom.ru/streaming/nauka_20/tvrec/playlist.m3u8</link>
+<thumbnail> </thumbnail>
+</item>
+
+<item>
+<title>Time</title>
+<link>http://hls.novotelecom.ru/streaming/time/tvrec/playlist.m3u8</link>
+<thumbnail> </thumbnail>
+</item>
+
+<item>
+<title>1st Education</title>
+<link>http://hls.novotelecom.ru/streaming/1_obraz/tvrec/playlist.m3u8</link>
+<thumbnail> </thumbnail>
+</item>
+
+<item>
+<title>Amazing Life</title>
+<link>http://hls.novotelecom.ru/streaming/amazing_life/tvrec/playlist.m3u8</link>
+<thumbnail>http://live-tv-channels.net/pt-data/uploads/logo/amazing_life.jpg</thumbnail>
+</item>
+
+<item>
+<title>365 Dnei</title>
+<link>http://hls.novotelecom.ru/streaming/365_days/tvrec/playlist.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/num/365_dnei_tv.png</thumbnail>
+</item>
+
+<item>
+<title>TV Browse</title>
+<link>http://hls.novotelecom.ru/streaming/interesnoe_tv/tvrec/playlist.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>Fox</title>
+<link>http://hls.novotelecom.ru/streaming/fox/tvrec/playlist.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ff/fox_ru.png</thumbnail>
+</item>
+
+<item>
+<title>GTRK Volgograd</title>
+<link>http://hls.novotelecom.ru/streaming/russia_best/tvrec/playlist.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/gg/gtrk_volgograd.png</thumbnail>
+</item>
+
+
+<item>
+<title>RBK</title>
+<link>http://hls.novotelecom.ru/streaming/rbk/tvrec/playlist.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/rr/rbk_tv_ru.png</thumbnail>
+</item>
+
+<item>
+<title>Mir 24</title>
+<link>http://hls.novotelecom.ru/streaming/mir24/tvrec/playlist.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/mm/mir_24_ru.png</thumbnail>
+</item>
+
+<item>
+<title>Strana</title>
+<link>http://hls.novotelecom.ru/streaming/strana/tvrec/playlist.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/strana_tv.png</thumbnail>
+</item>
+
+<item>
+<title>RT</title>
+<link>http://hls.novotelecom.ru/streaming/russiatoday/tvrec/playlist.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/rr/rt_english.png</thumbnail>
+</item>
+
+<item>
+<title>U</title>
+<link>http://hls.novotelecom.ru/streaming/utv/tvrec/playlist.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/uu/u_tv_ru.png</thumbnail>
+</item>
+
+<item>
+<title>Friday</title>
+<link>http://hls.novotelecom.ru/streaming/friday/tvrec/playlist.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>Live</title>
+<link>http://hls.novotelecom.ru/streaming/jv/tvrec/playlist.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>Domashnie Zhivotnye</title>
+<link>http://hls.novotelecom.ru/streaming/drive/tvrec/playlist.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/dd/domashnie_zhivotnye.png</thumbnail>
+</item>
+
+<item>
+<title>Hunting & Fishing</title>
+<link>http://hls.novotelecom.ru/streaming/hafi/tvrec/playlist.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/dd/domashnie_zhivotnye.png</thumbnail>
+</item>
+
+<item>
+<title>Homestead</title>
+<link>http://hls.novotelecom.ru/streaming/usadba/tvrec/playlist.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/dd/domashnie_zhivotnye.png</thumbnail>
+</item>
+
+<item>
+<title>Nostalgia</title>
+<link>http://hls.novotelecom.ru/streaming/nostalgy/tvrec/playlist.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/nn/nostalgia.jpg</thumbnail>
+</item>
+
+<item>
+<title>Autoplus</title>
+<link>http://hls.novotelecom.ru/streaming/auto_plus/tvrec/playlist.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/auto_plus.png</thumbnail>
+</item>
+
+<item>
+<title>Oruzhie</title>
+<link>http://hls.novotelecom.ru/streaming/oruzhie/tvrec/playlist.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/oo/oruzhie_telekanal.png</thumbnail>
+</item>
+
+<item>
+<title>Sundress</title>
+<link>http://hls.novotelecom.ru/streaming/sarafan/tvrec/playlist.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+
 <item>
 <title>Fox Life</title>
 <link>http://hls.novotelecom.ru/streaming/foxlife/tvrec/playlist.m3u8</link>

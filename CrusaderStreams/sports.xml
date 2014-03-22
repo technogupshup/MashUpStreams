@@ -30,12 +30,12 @@
 
 <item>
 <title>Bein USA</title>
-<link>rtmp://173.193.46.109/live playpath=$doregex[file] swfUrl=http://static.castalba.tv/player5.9.swf live=true timeout=15 pageUrl=http://castalba.tv/embed.php?cid=15495&wh=650&ht=480&r=www.stream2watch.me
+<link>rtmp://173.193.46.109/live playpath=$doregex[file] swfUrl=http://static.castalba.tv/player5.9.swf live=true timeout=15 pageUrl=http://castalba.tv/embed.php?cid=15495&amp;wh=650&amp;ht=480&amp;r=www.stream2watch.me
 <regex>
 <name>file</name>
 <expres>'file': '([^']*)</expres>
-<page>http://castalba.tv/embed.php?cid=15495&wh=650&ht=480&r=www.stream2watch.me</page>
-<referer>http://www.stream2watch.me/showstream.php?id=42520&stream=1</referer>
+<page>http://castalba.tv/embed.php?cid=15495&amp;wh=650&amp;ht=480&amp;r=www.stream2watch.me</page>
+<referer>http://www.stream2watch.me/showstream.php?id=42520&amp;stream=1</referer>
 </regex>
 </link>
 <thumbnail>http://media.meltybuzz.fr/article-1013280-ajust_930/bein-sport.jpg</thumbnail>
@@ -47,19 +47,19 @@
 <regex>
 <name>url</name>
 <expres>streamer: '([^']*)</expres>
-<page>http://www.hdcast.org/embedlive2.php?u=BST9&vw=640&vh=460&domain=hdfoots.com</page>
+<page>http://www.hdcast.org/embedlive2.php?u=BST9&amp;vw=640&amp;vh=460&amp;domain=hdfoots.com</page>
 <referer>http://hdfoots.com/watch/beinsports-9-live-stream.php</referer>
 </regex>
 <regex>
 <name>file</name>
 <expres>file: '([^']*)</expres>
-<page>http://www.hdcast.org/embedlive2.php?u=BST9&vw=640&vh=460&domain=hdfoots.com</page>
+<page>http://www.hdcast.org/embedlive2.php?u=BST9&amp;vw=640&amp;vh=460&amp;domain=hdfoots.com</page>
 <referer>http://hdfoots.com/watch/beinsports-9-live-stream.php</referer>
 </regex>
 <regex>
 <name>swf</name>
 <expres>flashplayer: '([^']*)</expres>
-<page>http://www.hdcast.org/embedlive2.php?u=BST9&vw=640&vh=460&domain=hdfoots.com</page>
+<page>http://www.hdcast.org/embedlive2.php?u=BST9&amp;vw=640&amp;vh=460&amp;domain=hdfoots.com</page>
 <referer>http://hdfoots.com/watch/beinsports-9-live-stream.php</referer>
 </regex>
 </link>
@@ -72,19 +72,19 @@
 <regex>
 <name>url</name>
 <expres>streamer: '([^']*)</expres>
-<page>http://www.hdcast.org/embedlive2.php?u=BST10&vw=640&vh=460&domain=hdfoots.com</page>
+<page>http://www.hdcast.org/embedlive2.php?u=BST10&amp;vw=640&amp;vh=460&amp;domain=hdfoots.com</page>
 <referer>http://hdfoots.com/watch/beinsports-10-live-stream.php</referer>
 </regex>
 <regex>
 <name>file</name>
 <expres>file: '([^']*)</expres>
-<page>http://www.hdcast.org/embedlive2.php?u=BST10&vw=640&vh=460&domain=hdfoots.com</page>
+<page>http://www.hdcast.org/embedlive2.php?u=BST10&amp;vw=640&amp;vh=460&amp;domain=hdfoots.com</page>
 <referer>http://hdfoots.com/watch/beinsports-10-live-stream.php</referer>
 </regex>
 <regex>
 <name>swf</name>
 <expres>flashplayer: '([^']*)</expres>
-<page>http://www.hdcast.org/embedlive2.php?u=BST10&vw=640&vh=460&domain=hdfoots.com</page>
+<page>http://www.hdcast.org/embedlive2.php?u=BST10&amp;vw=640&amp;vh=460&amp;domain=hdfoots.com</page>
 <referer>http://hdfoots.com/watch/beinsports-10-live-stream.php</referer>
 </regex>
 </link>
@@ -97,19 +97,19 @@
 <regex>
 <name>url</name>
 <expres>streamer: '([^']*)</expres>
-<page>http://www.hdcast.org/embedlive2.php?u=BST13&vw=640&vh=460&domain=hdfoots.com</page>
+<page>http://www.hdcast.org/embedlive2.php?u=BST13&amp;vw=640&amp;vh=460&amp;domain=hdfoots.com</page>
 <referer>http://hdfoots.com/watch/beinsports-13-live-stream.php</referer>
 </regex>
 <regex>
 <name>file</name>
 <expres>file: '([^']*)</expres>
-<page>http://www.hdcast.org/embedlive2.php?u=BST13&vw=640&vh=460&domain=hdfoots.com</page>
+<page>http://www.hdcast.org/embedlive2.php?u=BST13&amp;vw=640&amp;vh=460&amp;domain=hdfoots.com</page>
 <referer>http://hdfoots.com/watch/beinsports-13-live-stream.php</referer>
 </regex>
 <regex>
 <name>swf</name>
 <expres>flashplayer: '([^']*)</expres>
-<page>http://www.hdcast.org/embedlive2.php?u=BST13&vw=640&vh=460&domain=hdfoots.com</page>
+<page>http://www.hdcast.org/embedlive2.php?u=BST13&amp;vw=640&amp;vh=460&amp;domain=hdfoots.com</page>
 <referer>http://hdfoots.com/watch/beinsports-13-live-stream.php</referer>
 </regex>
 </link>
@@ -122,19 +122,19 @@
 <regex>
 <name>url</name>
 <expres>streamer: '([^']*)</expres>
-<page>http://www.hdcast.org/embedlive2.php?u=BST14&vw=640&vh=460&domain=hdfoots.com</page>
+<page>http://www.hdcast.org/embedlive2.php?u=BST14&amp;vw=640&amp;vh=460&amp;domain=hdfoots.com</page>
 <referer>http://hdfoots.com/watch/beinsports-14-live-stream.php</referer>
 </regex>
 <regex>
 <name>file</name>
 <expres>file: '([^']*)</expres>
-<page>http://www.hdcast.org/embedlive2.php?u=BST14&vw=640&vh=460&domain=hdfoots.com</page>
+<page>http://www.hdcast.org/embedlive2.php?u=BST14&amp;vw=640&amp;vh=460&amp;domain=hdfoots.com</page>
 <referer>http://hdfoots.com/watch/beinsports-14-live-stream.php</referer>
 </regex>
 <regex>
 <name>swf</name>
 <expres>flashplayer: '([^']*)</expres>
-<page>http://www.hdcast.org/embedlive2.php?u=BST14&vw=640&vh=460&domain=hdfoots.com</page>
+<page>http://www.hdcast.org/embedlive2.php?u=BST14&amp;vw=640&amp;vh=460&amp;domain=hdfoots.com</page>
 <referer>http://hdfoots.com/watch/beinsports-14-live-stream.php</referer>
 </regex>
 </link>
@@ -147,19 +147,19 @@
 <regex>
 <name>url</name>
 <expres>streamer: '([^']*)</expres>
-<page>http://www.hdcast.org/embedlive2.php?u=BST15&vw=640&vh=460&domain=hdfoots.com</page>
+<page>http://www.hdcast.org/embedlive2.php?u=BST15&amp;vw=640&amp;vh=460&amp;domain=hdfoots.com</page>
 <referer>http://hdfoots.com/watch/beinsports-15-live-stream.php</referer>
 </regex>
 <regex>
 <name>file</name>
 <expres>file: '([^']*)</expres>
-<page>http://www.hdcast.org/embedlive2.php?u=BST15&vw=640&vh=460&domain=hdfoots.com</page>
+<page>http://www.hdcast.org/embedlive2.php?u=BST15&amp;vw=640&amp;vh=460&amp;domain=hdfoots.com</page>
 <referer>http://hdfoots.com/watch/beinsports-15-live-stream.php</referer>
 </regex>
 <regex>
 <name>swf</name>
 <expres>flashplayer: '([^']*)</expres>
-<page>http://www.hdcast.org/embedlive2.php?u=BST15&vw=640&vh=460&domain=hdfoots.com</page>
+<page>http://www.hdcast.org/embedlive2.php?u=BST15&amp;vw=640&amp;vh=460&amp;domain=hdfoots.com</page>
 <referer>http://hdfoots.com/watch/beinsports-15-live-stream.php</referer>
 </regex>
 </link>
@@ -172,19 +172,19 @@
 <regex>
 <name>url</name>
 <expres>streamer: '([^']*)</expres>
-<page>http://www.hdcast.org/embedlive2.php?u=BST11&vw=640&vh=460&domain=hdfoots.com</page>
+<page>http://www.hdcast.org/embedlive2.php?u=BST11&amp;vw=640&amp;vh=460&amp;domain=hdfoots.com</page>
 <referer>http://hdfoots.com/watch/beinsports-11-live-stream.php</referer>
 </regex>
 <regex>
 <name>file</name>
 <expres>file: '([^']*)</expres>
-<page>http://www.hdcast.org/embedlive2.php?u=BST11&vw=640&vh=460&domain=hdfoots.com</page>
+<page>http://www.hdcast.org/embedlive2.php?u=BST11&amp;vw=640&amp;vh=460&amp;domain=hdfoots.com</page>
 <referer>http://hdfoots.com/watch/beinsports-11-live-stream.php</referer>
 </regex>
 <regex>
 <name>swf</name>
 <expres>flashplayer: '([^']*)</expres>
-<page>http://www.hdcast.org/embedlive2.php?u=BST11&vw=640&vh=460&domain=hdfoots.com</page>
+<page>http://www.hdcast.org/embedlive2.php?u=BST11&amp;vw=640&amp;vh=460&amp;domain=hdfoots.com</page>
 <referer>http://hdfoots.com/watch/beinsports-11-live-stream.php</referer>
 </regex>
 </link>
@@ -197,19 +197,19 @@
 <regex>
 <name>url</name>
 <expres>streamer: '([^']*)</expres>
-<page>http://www.hdcast.org/embedlive2.php?u=BST7&vw=640&vh=460&domain=hdfoots.com</page>
+<page>http://www.hdcast.org/embedlive2.php?u=BST7&amp;vw=640&amp;vh=460&amp;domain=hdfoots.com</page>
 <referer>http://hdfoots.com/watch/beinsports-7-live-stream.php</referer>
 </regex>
 <regex>
 <name>file</name>
 <expres>file: '([^']*)</expres>
-<page>http://www.hdcast.org/embedlive2.php?u=BST7&vw=640&vh=460&domain=hdfoots.com</page>
+<page>http://www.hdcast.org/embedlive2.php?u=BST7&amp;vw=640&amp;vh=460&amp;domain=hdfoots.com</page>
 <referer>http://hdfoots.com/watch/beinsports-7-live-stream.php</referer>
 </regex>
 <regex>
 <name>swf</name>
 <expres>flashplayer: '([^']*)</expres>
-<page>http://www.hdcast.org/embedlive2.php?u=BST7&vw=640&vh=460&domain=hdfoots.com</page>
+<page>http://www.hdcast.org/embedlive2.php?u=BST7&amp;vw=640&amp;vh=460&amp;domain=hdfoots.com</page>
 <referer>http://hdfoots.com/watch/beinsports-7-live-stream.php</referer>
 </regex>
 </link>
@@ -222,19 +222,19 @@
 <regex>
 <name>url</name>
 <expres>streamer: '([^']*)</expres>
-<page>http://www.hdcast.org/embedlive2.php?u=BST5&vw=640&vh=460&domain=hdfoots.com</page>
+<page>http://www.hdcast.org/embedlive2.php?u=BST5&amp;vw=640&amp;vh=460&amp;domain=hdfoots.com</page>
 <referer>http://hdfoots.com/watch/beinsports-5-live-stream.php</referer>
 </regex>
 <regex>
 <name>file</name>
 <expres>file: '([^']*)</expres>
-<page>http://www.hdcast.org/embedlive2.php?u=BST5&vw=640&vh=460&domain=hdfoots.com</page>
+<page>http://www.hdcast.org/embedlive2.php?u=BST5&amp;vw=640&amp;vh=460&amp;domain=hdfoots.com</page>
 <referer>http://hdfoots.com/watch/beinsports-5-live-stream.php</referer>
 </regex>
 <regex>
 <name>swf</name>
 <expres>flashplayer: '([^']*)</expres>
-<page>http://www.hdcast.org/embedlive2.php?u=BST5&vw=640&vh=460&domain=hdfoots.com</page>
+<page>http://www.hdcast.org/embedlive2.php?u=BST5&amp;vw=640&amp;vh=460&amp;domain=hdfoots.com</page>
 <referer>http://hdfoots.com/watch/beinsports-5-live-stream.php</referer>
 </regex>
 </link>
@@ -247,19 +247,19 @@
 <regex>
 <name>url</name>
 <expres>streamer: '([^']*)</expres>
-<page>http://www.hdcast.org/embedlive2.php?u=BST6&vw=640&vh=460&domain=hdfoots.com</page>
+<page>http://www.hdcast.org/embedlive2.php?u=BST6&amp;vw=640&amp;vh=460&amp;domain=hdfoots.com</page>
 <referer>http://hdfoots.com/watch/beinsports-6-live-stream.php</referer>
 </regex>
 <regex>
 <name>file</name>
 <expres>file: '([^']*)</expres>
-<page>http://www.hdcast.org/embedlive2.php?u=BST6&vw=640&vh=460&domain=hdfoots.com</page>
+<page>http://www.hdcast.org/embedlive2.php?u=BST6&amp;vw=640&amp;vh=460&amp;domain=hdfoots.com</page>
 <referer>http://hdfoots.com/watch/beinsports-6-live-stream.php</referer>
 </regex>
 <regex>
 <name>swf</name>
 <expres>flashplayer: '([^']*)</expres>
-<page>http://www.hdcast.org/embedlive2.php?u=BST6&vw=640&vh=460&domain=hdfoots.com</page>
+<page>http://www.hdcast.org/embedlive2.php?u=BST6&amp;vw=640&amp;vh=460&amp;domain=hdfoots.com</page>
 <referer>http://hdfoots.com/watch/beinsports-6-live-stream.php</referer>
 </regex>
 </link>
@@ -272,19 +272,19 @@
 <regex>
 <name>url</name>
 <expres>streamer: '([^']*)</expres>
-<page>http://www.hdcast.org/embedlive3.php?u=BST3&vw=640&vh=460&domain=hdfoots.com</page>
+<page>http://www.hdcast.org/embedlive3.php?u=BST3&amp;vw=640&amp;vh=460&amp;domain=hdfoots.com</page>
 <referer>http://hdfoots.com/watch/beinsports-3-live-stream.php</referer>
 </regex>
 <regex>
 <name>file</name>
 <expres>file: '([^']*)</expres>
-<page>http://www.hdcast.org/embedlive3.php?u=BST3&vw=640&vh=460&domain=hdfoots.com</page>
+<page>http://www.hdcast.org/embedlive3.php?u=BST3&amp;vw=640&amp;vh=460&amp;domain=hdfoots.com</page>
 <referer>http://hdfoots.com/watch/beinsports-3-live-stream.php</referer>
 </regex>
 <regex>
 <name>swf</name>
 <expres>flashplayer: '([^']*)</expres>
-<page>http://www.hdcast.org/embedlive3.php?u=BST3&vw=640&vh=460&domain=hdfoots.com</page>
+<page>http://www.hdcast.org/embedlive3.php?u=BST3&amp;vw=640&amp;vh=460&amp;domain=hdfoots.com</page>
 <referer>http://hdfoots.com/watch/beinsports-3-live-stream.php</referer>
 </regex>
 </link>
@@ -297,19 +297,19 @@
 <regex>
 <name>url</name>
 <expres>streamer: '([^']*)</expres>
-<page>http://www.hdcast.org/embedlive2.php?u=BST2&vw=640&vh=460&domain=hdfoots.com</page>
+<page>http://www.hdcast.org/embedlive2.php?u=BST2&amp;vw=640&amp;vh=460&amp;domain=hdfoots.com</page>
 <referer>http://hdfoots.com/watch/beinsports-2-live-stream.php</referer>
 </regex>
 <regex>
 <name>file</name>
 <expres>file: '([^']*)</expres>
-<page>http://www.hdcast.org/embedlive2.php?u=BST2&vw=640&vh=460&domain=hdfoots.com</page>
+<page>http://www.hdcast.org/embedlive2.php?u=BST2&amp;vw=640&amp;vh=460&amp;domain=hdfoots.com</page>
 <referer>http://hdfoots.com/watch/beinsports-2-live-stream.php</referer>
 </regex>
 <regex>
 <name>swf</name>
 <expres>flashplayer: '([^']*)</expres>
-<page>http://www.hdcast.org/embedlive2.php?u=BST2&vw=640&vh=460&domain=hdfoots.com</page>
+<page>http://www.hdcast.org/embedlive2.php?u=BST2&amp;vw=640&amp;vh=460&amp;domain=hdfoots.com</page>
 <referer>http://hdfoots.com/watch/beinsports-2-live-stream.php</referer>
 </regex>
 </link>
@@ -322,19 +322,19 @@
 <regex>
 <name>url</name>
 <expres>streamer: '([^']*)</expres>
-<page>http://www.hdcast.org/embedlive2.php?u=BST4&vw=640&vh=460&domain=hdfoots.com</page>
+<page>http://www.hdcast.org/embedlive2.php?u=BST4&amp;vw=640&amp;vh=460&amp;domain=hdfoots.com</page>
 <referer>http://hdfoots.com/watch/beinsports-4-live-stream.php</referer>
 </regex>
 <regex>
 <name>file</name>
 <expres>file: '([^']*)</expres>
-<page>http://www.hdcast.org/embedlive2.php?u=BST4&vw=640&vh=460&domain=hdfoots.com</page>
+<page>http://www.hdcast.org/embedlive2.php?u=BST4&amp;vw=640&amp;vh=460&amp;domain=hdfoots.com</page>
 <referer>http://hdfoots.com/watch/beinsports-4-live-stream.php</referer>
 </regex>
 <regex>
 <name>swf</name>
 <expres>flashplayer: '([^']*)</expres>
-<page>http://www.hdcast.org/embedlive2.php?u=BST4&vw=640&vh=460&domain=hdfoots.com</page>
+<page>http://www.hdcast.org/embedlive2.php?u=BST4&amp;vw=640&amp;vh=460&amp;domain=hdfoots.com</page>
 <referer>http://hdfoots.com/watch/beinsports-4-live-stream.php</referer>
 </regex>
 </link>
@@ -347,19 +347,19 @@
 <regex>
 <name>url</name>
 <expres>streamer: '([^']*)</expres>
-<page>http://www.hdcast.org/embedlive2.php?u=BST8&vw=640&vh=460&domain=hdfoots.com</page>
+<page>http://www.hdcast.org/embedlive2.php?u=BST8&amp;vw=640&amp;vh=460&amp;domain=hdfoots.com</page>
 <referer>http://hdfoots.com/watch/beinsports-8-live-stream.php</referer>
 </regex>
 <regex>
 <name>file</name>
 <expres>file: '([^']*)</expres>
-<page>http://www.hdcast.org/embedlive2.php?u=BST8&vw=640&vh=460&domain=hdfoots.com</page>
+<page>http://www.hdcast.org/embedlive2.php?u=BST8&amp;vw=640&amp;vh=460&amp;domain=hdfoots.com</page>
 <referer>http://hdfoots.com/watch/beinsports-8-live-stream.php</referer>
 </regex>
 <regex>
 <name>swf</name>
 <expres>flashplayer: '([^']*)</expres>
-<page>http://www.hdcast.org/embedlive2.php?u=BST8&vw=640&vh=460&domain=hdfoots.com</page>
+<page>http://www.hdcast.org/embedlive2.php?u=BST8&amp;vw=640&amp;vh=460&amp;domain=hdfoots.com</page>
 <referer>http://hdfoots.com/watch/beinsports-8-live-stream.php</referer>
 </regex>
 </link>
@@ -372,19 +372,19 @@
 <regex>
 <name>url</name>
 <expres>streamer: '([^']*)</expres>
-<page>http://www.hdcast.org/embedlive2.php?u=BST12&vw=640&vh=460&domain=hdfoots.com</page>
+<page>http://www.hdcast.org/embedlive2.php?u=BST12&amp;vw=640&amp;vh=460&amp;domain=hdfoots.com</page>
 <referer>http://hdfoots.com/watch/beinsports-12-live-stream.php</referer>
 </regex>
 <regex>
 <name>file</name>
 <expres>file: '([^']*)</expres>
-<page>http://www.hdcast.org/embedlive2.php?u=BST12&vw=640&vh=460&domain=hdfoots.com</page>
+<page>http://www.hdcast.org/embedlive2.php?u=BST12&amp;vw=640&amp;vh=460&amp;domain=hdfoots.com</page>
 <referer>http://hdfoots.com/watch/beinsports-12-live-stream.php</referer>
 </regex>
 <regex>
 <name>swf</name>
 <expres>flashplayer: '([^']*)</expres>
-<page>http://www.hdcast.org/embedlive2.php?u=BST12&vw=640&vh=460&domain=hdfoots.com</page>
+<page>http://www.hdcast.org/embedlive2.php?u=BST12&amp;vw=640&amp;vh=460&amp;domain=hdfoots.com</page>
 <referer>http://hdfoots.com/watch/beinsports-12-live-stream.php</referer>
 </regex>
 </link>
@@ -397,19 +397,19 @@
 <regex>
 <name>url</name>
 <expres>streamer: '([^']*)</expres>
-<page>http://www.hdcast.org/embedlive2.php?u=BST1&vw=640&vh=460&domain=hdfoots.com</page>
+<page>http://www.hdcast.org/embedlive2.php?u=BST1&amp;vw=640&amp;vh=460&amp;domain=hdfoots.com</page>
 <referer>http://hdfoots.com/watch/beinsports-1-live-stream.php</referer>
 </regex>
 <regex>
 <name>file</name>
 <expres>file: '([^']*)</expres>
-<page>http://www.hdcast.org/embedlive2.php?u=BST1&vw=640&vh=460&domain=hdfoots.com</page>
+<page>http://www.hdcast.org/embedlive2.php?u=BST1&amp;vw=640&amp;vh=460&amp;domain=hdfoots.com</page>
 <referer>http://hdfoots.com/watch/beinsports-1-live-stream.php</referer>
 </regex>
 <regex>
 <name>swf</name>
 <expres>flashplayer: '([^']*)</expres>
-<page>http://www.hdcast.org/embedlive2.php?u=BST1&vw=640&vh=460&domain=hdfoots.com</page>
+<page>http://www.hdcast.org/embedlive2.php?u=BST1&amp;vw=640&amp;vh=460&amp;domain=hdfoots.com</page>
 <referer>http://hdfoots.com/watch/beinsports-1-live-stream.php</referer>
 </regex>
 </link>

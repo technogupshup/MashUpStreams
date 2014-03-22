@@ -6,67 +6,67 @@
 
 <item>
 <title>Hai</title>
-<link>http://50.7.104.130:1935/liveStream/hai_1/playlist.m3u8</link>
+<link>http://206.190.150.132:1935/liveStream/hai_1/playlist.m3u8</link>
 <thumbnail>http://www.viettv24.com/main/images/Hai%2024-7.jpg</thumbnail>
 </item>
 
 <item>
 <title>San Khau</title>
-<link>http://50.7.104.130:1935/liveStream/cailuong_1/playlist.m3u8</link>
+<link>http://206.190.150.132:1935/liveStream/cailuong_1/playlist.m3u8</link>
 <thumbnail>http://www.viettv24.com/main/images/skcd.jpg</thumbnail>
 </item>
 
 <item>
 <title>Am Thuc</title>
-<link>http://50.7.104.130:1935/airChannels/vnatv_1/playlist.m3u8</link>
+<link>http://206.190.150.132:1935/liveStream/vnatv_1/playlist.m3u8</link>
 <thumbnail>http://www.viettv24.com/main/images/Am%20Thuc.jpg</thumbnail>
 </item>
 
 <item>
 <title>Phat Tu Bi</title>
-<link>http://50.7.104.130:1935/liveStream/ptb_1/playlist.m3u8</link>
+<link>http://206.190.150.132:1935/liveStream/ptb_1/playlist.m3u8</link>
 <thumbnail>http://www.viettv24.com/main/images/Phat%20Tu%20Bi.jpg</thumbnail>
 </item>
 
 <item>
 <title>VNA 57.3</title>
-<link>http://50.7.104.130:1935/airChannels/vnatv_1/playlist.m3u8</link>
+<link>http://206.190.150.132:1935/liveStream/vnatv_1/playlist.m3u8</link>
 <thumbnail>http://www.viettv24.com/main/product_thumb.php?img=images/vna.jpg&w=81&h=54</thumbnail>
 </item>
 
 <item>
 <title>Saigon TV</title>
-<link>rtmp://74.63.219.99:1935/sgvp playpath=myStream.sdp swfUrl=http://saigontv.us/includes/flash/saigontv.swf live=true timeout=15 pageUrl=http://www.saigontv.us/</link>
+<link>http://206.190.150.132:1935/airChannels/set_1/playlist.m3u8</link>
 <thumbnail>http://adslvnpt.com.vn/images/article/Saigon-TV-2.png</thumbnail>
 </item>
 
 <item>
 <title>Vietface TV</title>
-<link>rtmp://50.7.104.130/airChannels playpath=vface_1 swfUrl=http://player.longtailvideo.com/player.swf live=true timeout=15 pageUrl=http://thuyngatv.com/vietfacetv572.html</link>
+<link>http://bichthuvan.com:1935/liveStream/viettv24_1/playlist.m3u8</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/vv/vietface_tv_us.png</thumbnail>
 </item>
 
 <item>
 <title>VBS TV</title>
-<link>rtmp://74.63.219.99:1935/vbsvp playpath=myStream.sdp swfUrl=http://vbstelevision.com/ext/js/vbstv.swf live=true timeout=15 pageUrl=http://www.vbstelevision.com/</link>
+<link>http://74.63.219.99:1935/vbsvp/myStream.sdp/playlist.m3u8</link>
 <thumbnail>http://www.tv14.net/wp-content/uploads/2010/10/vbs.gif</thumbnail>
 </item>
 
 <item>
 <title>Little Saigon TV</title>
-<link>rtmp://stream.s15.cpanelservices.com/lstvlive/ playpath=livestream swfUrl=http://lstv.mediaserve.tv/player.swf live=true timeout=15 pageUrl=http://lstv.mediaserve.tv/sample_players/live.html/</link>
+<link>http://206.190.150.132:1935/airChannels/lstv_1/playlist.m3u8</link>
 <thumbnail>http://www.futureace.org/LittleSaigonTV.jpg</thumbnail>
 </item>
 
 <item>
 <title>SET TV</title>
-<link>rtmp://50.7.104.130/airChannels/ playpath=set_1 swfUrl=http://thvl.vn/vplayer.swf live=true timeout=15 pageUrl=http://set574.com/</link>
+<link>http://206.190.150.132:1935/airChannels/set_1/playlist.m3u8</link>
 <thumbnail>http://set574.com/setbanner971x150.jpg</thumbnail>
 </item>
 
 <item>
 <title>VPop</title>
-<link>http://50.7.104.130:1935/liveStream/vpoptv_1/playlist.m3u8</link>
+<link>http://206.190.150.132:1935/liveStream/vpoptv_1/playlist.m3u8</link>
 <thumbnail>http://tv-online.in/wp-content/uploads/2013/04/Vpop-TV-live.jpg</thumbnail>
 </item>
 

@@ -262,3 +262,7 @@ http://www.iconspedia.com/icon/
 <name>Armenian TV Channels</name>
 <link>https://raw.github.com/mash2k3/MashUpStreams/master/Countries/armenia.xml</link>
 <thumbnail>https://raw.github.com/mash2k3/MashUpStreams/master/Countries/flags/armenian_flag.png</thumbnail>
+
+<name>Kurdish TV Channels</name>
+<link>https://raw.githubusercontent.com/mash2k3/MashUpStreams/master/Countries/kurd.xml</link>
+<thumbnail>https://raw.githubusercontent.com/mash2k3/MashUpStreams/master/Countries/flags/unrec_kurdistan.png</thumbnail>

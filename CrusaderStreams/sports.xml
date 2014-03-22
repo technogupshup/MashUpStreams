@@ -43,7 +43,8 @@
 
 <item>
 <title>Bein 9 [COLOR=FFFF0000]Updated Daily[/COLOR]</title>
-<link>$doregex[url] playpath=$doregex[file] token=#yw%tt#w@kku swfUrl=$doregex[swf] live=true timeout=15 pageUrl=http://www.hdcast.org/
+<link>
+$doregex[url] playpath=$doregex[file] token=#yw%tt#w@kku swfUrl=$doregex[swf] live=true timeout=15 pageUrl=http://www.hdcast.org/
 <regex>
 <name>url</name>
 <expres>streamer: '([^']*)</expres>
@@ -68,7 +69,8 @@
 
 <item>
 <title>Bein 10  [COLOR=FFFF0000]Updated Daily[/COLOR]</title>
-<link>$doregex[url] playpath=$doregex[file] token=#yw%tt#w@kku swfUrl=$doregex[swf] live=true timeout=15 pageUrl=http://www.hdcast.org/
+<link>
+$doregex[url] playpath=$doregex[file] token=#yw%tt#w@kku swfUrl=$doregex[swf] live=true timeout=15 pageUrl=http://www.hdcast.org/
 <regex>
 <name>url</name>
 <expres>streamer: '([^']*)</expres>
@@ -93,7 +95,8 @@
 
 <item>
 <title>Bein 13  [COLOR=FFFF0000]Updated Daily[/COLOR]</title>
-<link>$doregex[url] playpath=$doregex[file] token=#yw%tt#w@kku swfUrl=$doregex[swf] live=true timeout=15 pageUrl=http://www.hdcast.org/
+<link>
+$doregex[url] playpath=$doregex[file] token=#yw%tt#w@kku swfUrl=$doregex[swf] live=true timeout=15 pageUrl=http://www.hdcast.org/
 <regex>
 <name>url</name>
 <expres>streamer: '([^']*)</expres>
@@ -118,7 +121,8 @@
 
 <item>
 <title>Bein 14  [COLOR=FFFF0000]Updated Daily[/COLOR]</title>
-<link>$doregex[url] playpath=$doregex[file] token=#yw%tt#w@kku swfUrl=$doregex[swf] live=true timeout=15 pageUrl=http://www.hdcast.org/
+<link>
+$doregex[url] playpath=$doregex[file] token=#yw%tt#w@kku swfUrl=$doregex[swf] live=true timeout=15 pageUrl=http://www.hdcast.org/
 <regex>
 <name>url</name>
 <expres>streamer: '([^']*)</expres>
@@ -143,7 +147,8 @@
 
 <item>
 <title>Bein 15  [COLOR=FFFF0000]Updated Daily[/COLOR]</title>
-<link>$doregex[url] playpath=$doregex[file] token=#yw%tt#w@kku swfUrl=$doregex[swf] live=true timeout=15 pageUrl=http://www.hdcast.org/
+<link>
+$doregex[url] playpath=$doregex[file] token=#yw%tt#w@kku swfUrl=$doregex[swf] live=true timeout=15 pageUrl=http://www.hdcast.org/
 <regex>
 <name>url</name>
 <expres>streamer: '([^']*)</expres>
@@ -168,7 +173,8 @@
 
 <item>
 <title>Bein 11 [COLOR=FFFF0000]Updated Daily[/COLOR]</title>
-<link>$doregex[url] playpath=$doregex[file] token=#yw%tt#w@kku swfUrl=$doregex[swf] live=true timeout=15 pageUrl=http://www.hdcast.org/
+<link>
+$doregex[url] playpath=$doregex[file] token=#yw%tt#w@kku swfUrl=$doregex[swf] live=true timeout=15 pageUrl=http://www.hdcast.org/
 <regex>
 <name>url</name>
 <expres>streamer: '([^']*)</expres>
@@ -193,7 +199,8 @@
 
 <item>
 <title>Bein 7  [COLOR=FFFF0000]Updated Daily[/COLOR]</title>
-<link>$doregex[url] playpath=$doregex[file] token=#yw%tt#w@kku swfUrl=$doregex[swf] live=true timeout=15 pageUrl=http://www.hdcast.org/
+<link>
+$doregex[url] playpath=$doregex[file] token=#yw%tt#w@kku swfUrl=$doregex[swf] live=true timeout=15 pageUrl=http://www.hdcast.org/
 <regex>
 <name>url</name>
 <expres>streamer: '([^']*)</expres>
@@ -218,7 +225,8 @@
 
 <item>
 <title>Bein 5  [COLOR=FFFF0000]Updated Daily[/COLOR]</title>
-<link>$doregex[url] playpath=$doregex[file] token=#yw%tt#w@kku swfUrl=$doregex[swf] live=true timeout=15 pageUrl=http://www.hdcast.org/
+<link>
+$doregex[url] playpath=$doregex[file] token=#yw%tt#w@kku swfUrl=$doregex[swf] live=true timeout=15 pageUrl=http://www.hdcast.org/
 <regex>
 <name>url</name>
 <expres>streamer: '([^']*)</expres>
@@ -243,7 +251,8 @@
 
 <item>
 <title>Bein 6  [COLOR=FFFF0000]Updated Daily[/COLOR]</title>
-<link>$doregex[url] playpath=$doregex[file] token=#yw%tt#w@kku swfUrl=$doregex[swf] live=true timeout=15 pageUrl=http://www.hdcast.org/
+<link>
+$doregex[url] playpath=$doregex[file] token=#yw%tt#w@kku swfUrl=$doregex[swf] live=true timeout=15 pageUrl=http://www.hdcast.org/
 <regex>
 <name>url</name>
 <expres>streamer: '([^']*)</expres>
@@ -268,7 +277,8 @@
 
 <item>
 <title>Bein 3  [COLOR=FFFF0000]Updated Daily[/COLOR]</title>
-<link>$doregex[url] playpath=$doregex[file] token=#yw%tt#w@kku swfUrl=$doregex[swf] live=true timeout=15 pageUrl=http://www.hdcast.org/
+<link>
+$doregex[url] playpath=$doregex[file] token=#yw%tt#w@kku swfUrl=$doregex[swf] live=true timeout=15 pageUrl=http://www.hdcast.org/
 <regex>
 <name>url</name>
 <expres>streamer: '([^']*)</expres>
@@ -293,7 +303,8 @@
 
 <item>
 <title>Bein 2  [COLOR=FFFF0000]Updated Daily[/COLOR]</title>
-<link>$doregex[url] playpath=$doregex[file] token=#yw%tt#w@kku swfUrl=$doregex[swf] live=true timeout=15 pageUrl=http://www.hdcast.org/
+<link>
+$doregex[url] playpath=$doregex[file] token=#yw%tt#w@kku swfUrl=$doregex[swf] live=true timeout=15 pageUrl=http://www.hdcast.org/
 <regex>
 <name>url</name>
 <expres>streamer: '([^']*)</expres>
@@ -318,7 +329,8 @@
 
 <item>
 <title>Bein 4  [COLOR=FFFF0000]Updated Daily[/COLOR]</title>
-<link>$doregex[url] playpath=$doregex[file] token=#yw%tt#w@kku swfUrl=$doregex[swf] live=true timeout=15 pageUrl=http://www.hdcast.org/
+<link>
+$doregex[url] playpath=$doregex[file] token=#yw%tt#w@kku swfUrl=$doregex[swf] live=true timeout=15 pageUrl=http://www.hdcast.org/
 <regex>
 <name>url</name>
 <expres>streamer: '([^']*)</expres>
@@ -343,7 +355,8 @@
 
 <item>
 <title>Bein 8  [COLOR=FFFF0000]Updated Daily[/COLOR]</title>
-<link>$doregex[url] playpath=$doregex[file] token=#yw%tt#w@kku swfUrl=$doregex[swf] live=true timeout=15 pageUrl=http://www.hdcast.org/
+<link>
+$doregex[url] playpath=$doregex[file] token=#yw%tt#w@kku swfUrl=$doregex[swf] live=true timeout=15 pageUrl=http://www.hdcast.org/
 <regex>
 <name>url</name>
 <expres>streamer: '([^']*)</expres>
@@ -368,7 +381,8 @@
 
 <item>
 <title>Bein 12 [COLOR=FFFF0000]Updated Daily[/COLOR]</title>
-<link>$doregex[url] playpath=$doregex[file] token=#yw%tt#w@kku swfUrl=$doregex[swf] live=true timeout=125 pageUrl=http://www.hdcast.org/
+<link>
+$doregex[url] playpath=$doregex[file] token=#yw%tt#w@kku swfUrl=$doregex[swf] live=true timeout=15 pageUrl=http://www.hdcast.org/
 <regex>
 <name>url</name>
 <expres>streamer: '([^']*)</expres>
@@ -393,7 +407,8 @@
 
 <item>
 <title>Bein 1  [COLOR=FFFF0000]Updated Daily[/COLOR]</title>
-<link>$doregex[url] playpath=$doregex[file] token=#yw%tt#w@kku swfUrl=$doregex[swf] live=true timeout=15 pageUrl=http://www.hdcast.org/
+<link>
+$doregex[url] playpath=$doregex[file] token=#yw%tt#w@kku swfUrl=$doregex[swf] live=true timeout=15 pageUrl=http://www.hdcast.org/
 <regex>
 <name>url</name>
 <expres>streamer: '([^']*)</expres>

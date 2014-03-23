@@ -24,7 +24,7 @@
 
 <item>
 <title>Tolo [COLOR=FFFF0000]Link 2[/COLOR]</title>
-<link>rtmp://50.23.113.212/zenex playpath=6tol5tv1?id=2030 conn=S:OK swfUrl=http://www.zenex.tv/data/scripts/eplayer.swf live=true timeout=15 pageUrl=http://www.zenex.tv/embedplayer/6tol5tv1/1/670/410</link>
+<link>rtmp://stream.ssh101.com/free playpath=tolo1221 swfUrl=http://www.boxelet.com/flow/flowplayer-3.2.18.swf pageUrl=http://www.boxelet.com/flow/tolo.php</link>
 <thumbnail>http://upload.wikimedia.org/wikipedia/en/0/01/Tolo.jpg</thumbnail>
 </item>
 

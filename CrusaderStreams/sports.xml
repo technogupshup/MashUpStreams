@@ -328,6 +328,20 @@ $doregex[url] playpath=$doregex[file] token=#yw%tt#w@kku swfUrl=$doregex[swf] li
 </item>
 
 <item>
+<title>Bein 2 (Link 2) [COLOR=FFFF0000]Updated Daily[/COLOR]</title>
+<link>
+$doregex[url]
+<regex>
+<name>url</name>
+<expres>file: "([^"]*)</expres>
+<page>http://www.indostreamix.com/2013/11/bein-sport-2-live-streaming.html</page>
+<referer>http://www.indostreamix.com/2014/01/bein-sport-1-arabic.html</referer>
+</regex>
+</link>
+<thumbnail>http://i.imgur.com/r3A1LIO.jpg</thumbnail>
+</item>
+
+<item>
 <title>Bein 4  [COLOR=FFFF0000]Updated Daily[/COLOR]</title>
 <link>
 $doregex[url] playpath=$doregex[file] token=#yw%tt#w@kku swfUrl=$doregex[swf] live=true timeout=15 pageUrl=http://www.hdcast.org/
@@ -426,6 +440,20 @@ $doregex[url] playpath=$doregex[file] token=#yw%tt#w@kku swfUrl=$doregex[swf] li
 <expres>flashplayer: '([^']*)</expres>
 <page>http://www.hdcast.org/embedlive2.php?u=BST1&amp;vw=640&amp;vh=460&amp;domain=hdfoots.com</page>
 <referer>http://hdfoots.com/watch/beinsports-1-live-stream.php</referer>
+</regex>
+</link>
+<thumbnail>http://i.imgur.com/r3A1LIO.jpg</thumbnail>
+</item>
+
+<item>
+<title>Bein 1 (Link 2) [COLOR=FFFF0000]Updated Daily[/COLOR]</title>
+<link>
+$doregex[url]
+<regex>
+<name>url</name>
+<expres>file: "([^"]*)</expres>
+<page>http://www.indostreamix.com/2013/07/bein-sport-1-live-streaming.html</page>
+<referer>http://www.indostreamix.com/2014/01/bein-sport-1-arabic.html</referer>
 </regex>
 </link>
 <thumbnail>http://i.imgur.com/r3A1LIO.jpg</thumbnail>

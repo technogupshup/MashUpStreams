@@ -112,19 +112,6 @@
 </item>
 
 <item>
-<title>Sony Sab [COLOR=FFFF0000]LINK 2[/COLOR]</title>
-<link>$doregex[file] swfUrl=http://www.castok.com/jwplayer/jwplayer.flash.swf live=true timeout=15 pageUrl=http://www.castok.com/
-<regex>
-<name>file</name>
-<expres>file: "([^"]*)</expres>
-<page>http://www.castok.com/embed.php?v=sabtvo&vw=600&vh=450&typeplayer=0&domain=pogotv.eu</page>
-<referer>http://pogotv.eu/sab-tv.php</referer>
-</regex>
-</link>
-<thumbnail>http://www.lyngsat-logo.com/hires/ss/sony_sab_tv_in.png</thumbnail>
-</item>
-
-<item>
 <title>Venus TV</title>
 <link>http://46.249.213.93/iPhone/broadcast/venustv-tablet.3gp/venustv-tablet.3gp-mr648k.m3u8?trackingid=3431500000&os=desktop</link>
 <thumbnail>http://564ccca6a641eac6e5b0-38e3bbf162f44470d3635a7244f7971b.r55.cf3.rackcdn.com/venus-tv-channel-images-logo-large.jpg?1360336888</thumbnail>
@@ -142,7 +129,7 @@
 <regex>
 <name>url</name>
 <expres>"payload":"(.*)","isLive"</expres>
-<page>http://veetle.com/index.php/channel/ajaxStreamLocation/52d8af0b180fe/flash</page>
+<page>http://veetle.com/index.php/channel/ajaxStreamLocation/504b043f4bf4e/flash</page>
 <referer>http://veetle.com</referer>
 </regex>
 </link>

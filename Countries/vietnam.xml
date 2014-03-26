@@ -42,31 +42,31 @@
 
 <item>
 <title>Saigon TV</title>
-<link>http://206.190.150.132:1935/airChannels/set_1/playlist.m3u8</link>
+<link>rtmp://74.63.219.99:1935/sgvp playpath=myStream.sdp swfUrl=http://saigontv.us/includes/flash/saigontv.swf pageUrl=http://www.saigontv.us/ live=true timeout=10</link>
 <thumbnail>http://adslvnpt.com.vn/images/article/Saigon-TV-2.png</thumbnail>
 </item>
 
 <item>
 <title>Vietface TV</title>
-<link>http://bichthuvan.com:1935/liveStream/viettv24_1/playlist.m3u8</link>
+<link>rtmp://50.7.104.132/airChannels playpath=vface_1 swfUrl=http://player.longtailvideo.com/player.swf pageUrl=http://thuyngatv.com/vietfacetvlocal.html live=true timeout=10</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/vv/vietface_tv_us.png</thumbnail>
 </item>
 
 <item>
 <title>VBS TV</title>
-<link>http://74.63.219.99:1935/vbsvp/myStream.sdp/playlist.m3u8</link>
+<link>rtmp://74.63.219.99:1935/vbsvp playpath=myStream.sdp swfUrl=http://vbstelevision.com/ext/js/vbstv.swf pageUrl=http://www.vbstelevision.com/ live=true timeout=10</link>
 <thumbnail>http://www.tv14.net/wp-content/uploads/2010/10/vbs.gif</thumbnail>
 </item>
 
 <item>
 <title>Little Saigon TV</title>
-<link>http://206.190.150.132:1935/airChannels/lstv_1/playlist.m3u8</link>
+<link>rtmp://stream.s15.cpanelservices.com/lstvlive/ playpath=livestream swfUrl=http://lstv.mediaserve.tv/player.swf pageUrl=http://lstv.mediaserve.tv/sample_players/live.html live=true timeout=10</link>
 <thumbnail>http://www.futureace.org/LittleSaigonTV.jpg</thumbnail>
 </item>
 
 <item>
 <title>SET TV</title>
-<link>http://206.190.150.132:1935/airChannels/set_1/playlist.m3u8</link>
+<link>rtmp://50.7.104.132/airChannels/ playpath=set_1 swfUrl=http://thvl.vn/vplayer.swf pageUrl=http://set574.com/ live=true timeout=10</link>
 <thumbnail>http://set574.com/setbanner971x150.jpg</thumbnail>
 </item>
 

@@ -17,13 +17,26 @@
 </info>
 
 <item>
-<title>Bein Sports Spanish</title>
+<title>Bein Sports Spanish HD</title>
 <link>rtmp://beinsportgeolivefs.fplive.net:1935/beinsportgeolive-live playpath=beinsport_spa_4 swfurl=http://sportsinfonet.info/player/Player.swf live=true timeout=15 pageurl=http://sportsinfonet.info/beinsports.php?n=beinsport_spa_4&vw=650&vh=450</link>
 <thumbnail>http://www.tv-envivo.com.ar/wp-content/uploads/2013/10/bein-sport.png</thumbnail>
 </item>
 
 <item>
-<title>Bein Sports USA (Link 2)</title>
+<title>Bein Sports Spanish</title>
+<link>rtmp://173.193.233.148/live playpath=$doregex[file] swfUrl=http://static.castalba.tv/player5.9.swf pageUrl=http://castalba.tv/ live=true timeout=15
+<regex>
+<name>file</name>
+<expres>'file': '([^']*)</expres>
+<page>http://castalba.tv/embed.php?cid=15754&wh=650&ht=450&r=tvyprogramas.bligoo.com.ve</page>
+<referer>http://tvyprogramas.bligoo.com.ve/canal-bien-sport</referer>
+</regex>
+</link>
+<thumbnail>http://www.tv-envivo.com.ar/wp-content/uploads/2013/10/bein-sport.png</thumbnail>
+</item>
+
+<item>
+<title>Bein Sports USA HD</title>
 <link>rtmp://beinsportgeolivefs.fplive.net:1935/beinsportgeolive-live playpath=beinsport_eng_4 swfurl=http://sportsinfonet.info/player/Player.swf live=true timeout=15 pageurl=http://sportsinfonet.info/beinsports.php?n=beinsport_eng_4&vw=650&vh=450</link>
 <thumbnail>http://www.tv-envivo.com.ar/wp-content/uploads/2013/10/bein-sport.png</thumbnail>
 </item>

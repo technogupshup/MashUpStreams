@@ -4,91 +4,136 @@
 <name>Danish TV Channels</name>
 <thumbnail></thumbnail>
 
-
 <item>
-<title>DR1</title>
-<link>http://195.250.60.41:9987/udp/239.100.202.6:3001</link>
+<title>DR1  [COLOR=FFFF0000]Geo Blocked In Some Areas[/COLOR]</title>
+<link>http://dr01-lh.akamaihd.net/i/dr01_0@147054/index_1700_av-b.m3u8</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/dd/dr_1.png</thumbnail>
 </item>
 
 <item>
-<title>DR2</title>
-<link>http://195.250.60.41:9987/udp/239.100.202.7:3001</link>
+<title>DR2  [COLOR=FFFF0000]Geo Blocked In Some Areas[/COLOR]</title>
+<link>http://dr02-lh.akamaihd.net/i/dr02_0@147055/index_1700_av-b.m3u8</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/dd/dr_2.png</thumbnail>
 </item>
 
 <item>
-<title>DR K</title>
-<link>http://195.250.60.41:9987/udp/239.100.0.24:3001</link>
+<title>DR 3  [COLOR=FFFF0000]Geo Blocked In Some Areas[/COLOR]</title>
+<link>http://dr03-lh.akamaihd.net/i/dr03_0@147056/index_1700_av-b.m3u8</link>
+<thumbnail>http://images.wikia.com/logopedia/images/d/d1/DR3_logo_2013.png</thumbnail>
+</item>
+
+<item>
+<title>DR K  [COLOR=FFFF0000]Geo Blocked In Some Areas[/COLOR]</title>
+<link>http://dr04-lh.akamaihd.net/i/dr04_0@147057/index_1700_av-b.m3u8</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/dd/dr_k.png</thumbnail>
 </item>
 
 <item>
-<title>DR Ramasjang</title>
-<link>http://195.250.60.41:9987/udp/239.100.202.15:3001</link>
+<title>DR Ramasjang  [COLOR=FFFF0000]Geo Blocked In Some Areas[/COLOR]</title>
+<link>http://dr05-lh.akamaihd.net/i/dr05_0@147058/index_1700_av-b.m3u8</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/dd/dr_ramasjang.png</thumbnail>
 </item>
 
 <item>
+<title>DR Ultra  [COLOR=FFFF0000]Geo Blocked In Some Areas[/COLOR]</title>
+<link>http://dr06-lh.akamaihd.net/i/dr06_0@147059/index_1700_av-b.m3u8</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/en/thumb/8/8f/DR_Ultra_Logo.png/220px-DR_Ultra_Logo.png</thumbnail>
+</item>
+
+<item>
+<title>DK 4</title>
+<link>http://ys-live.ds.cdn.yousee.tv/iPhone/rtpencoder/e35_wcif.sdp/e35_wcif.sdp-mr2548k.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/dd/dk_4.png</thumbnail>
+</item>
+
+<item>
 <title>TV2</title>
-<link>http://195.250.60.41:9987/udp/239.100.202.1:3001</link>
+<link>http://slt-cds-se2.se.ys-live.ds.cdn.yousee.tv/iPhone/rtpencoder/e22_wcif.sdp/e22_wcif.sdp-mr2548k.m3u8</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/tt/tv2_dk.png</thumbnail>
 </item>
 
 <item>
 <title>TV2 Zulu</title>
-<link>http://195.250.60.41:9987/udp/239.100.202.12:3001</link>
+<link>http://slt-cds-se2.se.ys-live.ds.cdn.yousee.tv/iPhone/rtpencoder/e24_wcif.sdp/e24_wcif.sdp-mr2548k.m3u8</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/tt/tv2_zulu_denmark.png</thumbnail>
 </item>
 
 <item>
-<title>TV2 Film</title>
-<link>http://195.250.60.41:9987/udp/239.100.202.16:3001</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/tt/tv2_film.png</thumbnail>
-</item>
-
-<item>
-<title>TV2 Charlie (Denmark)</title>
-<link>http://195.250.60.41:9987/udp/239.100.202.14:3001</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/tt/tv2_charlie.png</thumbnail>
-</item>
-
-<item>
 <title>TV2 News</title>
-<link>http://195.250.60.41:9987/udp/239.100.202.3:3001</link>
+<link>http://tv2dkidevta-i.akamaihd.net/hls/live/201838/TV2News/master_Layer6.m3u8</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/tt/tv2_news.png</thumbnail>
 </item>
 
 <item>
 <title>TV3</title>
-<link>http://195.250.60.41:9987/udp/239.100.202.10:3001</link>
+<link>http://ys-live.ds.cdn.yousee.tv/iPhone/rtpencoder/e39_wcif.sdp/e39_wcif.sdp-mr2548k.m3u8</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/vv/viasat_tv3_dk.png</thumbnail>
 </item>
 
 <item>
-<title>TV3 Puls</title>
-<link>http://195.250.60.41:9987/udp/239.100.202.33:3001</link>
+<title>TV3 Puls  [COLOR=FFFF0000]Geo Blocked In Some Areas[/COLOR]</title>
+<link>http://viasatlive1-i.akamaihd.net/hls/live/202795/tv3puls/wifi2000.m3u8</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/vv/viasat_tv3_puls_dk.png</thumbnail>
 </item>
 
 <item>
-<title>TV3+</title>
-<link>http://195.250.60.41:9987/udp/239.100.202.13:3001</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/vv/viasat_tv3_plus_dk.png</thumbnail>
+<title>TV3+ HD  [COLOR=FFFF0000]Geo Blocked In Some Areas[/COLOR]</title>
+<link>http://viasatlive2-i.akamaihd.net/hls/live/202775/tv3plus/master1faw.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/vv/viasat_tv3_plus_dk_hd.png</thumbnail>
 </item>
 
 <item>
-<title>Canal 9</title>
-<link>http://195.250.60.41:9987/udp/239.100.202.4:3001</link>
+<title>Kanal 9  [COLOR=FFFF0000]Geo Blocked In Some Areas[/COLOR]</title>
+<link>http://viasatlive3-i.akamaihd.net/hls/live/206923/canal9dkebs/4arp.m3u8</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/cc/canal9_dk.png</thumbnail>
 </item>
 
 <item>
 <title>Eurosport</title>
-<link>http://195.250.60.41:9987/udp/239.100.202.36:3001</link>
+<link>http://slt-cds-se1.se.ys-live.ds.cdn.yousee.tv:80/iPhone/rtpencoder/e36_wcif.sdp/e36_wcif.sdp-mr2548k.m3u8</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/ee/eurosport.png</thumbnail>
 </item>
 
+<item>
+<title>Eurosport 2</title>
+<link>http://slt-cds-se1.se.ys-live.ds.cdn.yousee.tv:80/iPhone/rtpencoder/e752_wcif.sdp/e752_wcif.sdp-mr2548k.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ee/eurosport2.png</thumbnail>
+</item>
 
+<item>
+<title>Kanal 5</title>
+<link>http://ys-live.ds.cdn.yousee.tv/iPhone/rtpencoder/e56_wcif.sdp/e56_wcif.sdp-mr2548k.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/kk/kanal5_dk.png</thumbnail>
+</item>
+
+<item>
+<title>Kanal 8 HD</title>
+<link>http://viasatlive1-i.akamaihd.net/hls/live/206922/canal8dkebs/4arp.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+ 
+<item>
+<title>Kanal 4</title>
+<link>http://ys-live.ds.cdn.yousee.tv/iPhone/rtpencoder/e58_wcif.sdp/e58_wcif.sdp-mr2548k.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/kk/kanal4_dk.png</thumbnail>
+</item>
+
+<item>
+<title>TV 3 SPORT 1 HD  [COLOR=FFFF0000]Geo Blocked In Some Areas[/COLOR]</title>
+<link>http://viasatlive1-i.akamaihd.net/hls/live/207015/tv3sport1HD/2faw.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/vv/viasat_tv3_sport1_dk_hd.png</thumbnail>
+</item>
+
+<item>
+<title>TV 3 SPORT 2 HD  [COLOR=FFFF0000]Geo Blocked In Some Areas[/COLOR]</title>
+<link>http://viasatlive5-i.akamaihd.net/hls/live/207018/tv3sport2HD/2liu.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/vv/viasat_tv3_sport2_dk_hd.png</thumbnail>
+</item>
+ 
+<item>
+<title>Cartoon Networks</title>
+<link>http://ys-live.ds.cdn.yousee.tv/iPhone/rtpencoder/e47_wcif.sdp/e47_wcif.sdp-mr2548k.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/cc/cartoon_network_nordic.png</thumbnail>
+</item>
 
 </channel>

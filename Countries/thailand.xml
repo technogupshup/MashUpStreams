@@ -1,45 +1,71 @@
  <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
+<channel>
 <name>Thailand TV Channels</name>
 <thumbnail></thumbnail>
 
 <item>
-<title>Thai PBS High Quality (1024K)</title>
-<link>rtmp://184.171.162.14:1935/cdnlive?INT=8958381=abb21929ec839c2843b1522c1ad94cb0 playpath=tpbspc2?INT=8958381=abb21929ec839c2843b1522c1ad94cb0 swfUrl=http://cache.101g.net/StrobeMediaPlayback.swf pageUrl=http://live.thaipbs.or.th/ live=true timeout=15</link>
+<title>Thai PBS HD</title>
+<link>rtmp://edge.geolb.101g.net/ app=cdnlive/ playpath=tpbspc2 live=true timeout=15</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/tt/thai_pbs.png</thumbnail>
 </item>
-
 
 <item>
-<title>Thai PBS Medium Quality (512K)</title>
-<link>rtmp://184.171.162.14:1935/cdnlive?INT=8958381=abb21929ec839c2843b1522c1ad94cb0 playpath=tpbspc1?INT=8958381=abb21929ec839c2843b1522c1ad94cb0 swfUrl=http://cache.101g.net/StrobeMediaPlayback.swf pageUrl=http://live.thaipbs.or.th/ live=true timeout=15</link>
+<title>Thai PBS HD (Link 2)</title>
+<link>rtmp://liveplay3.malimarcdn.com/ app=thliveedge01/_definst_/?token=$doregex[url] playpath=thaipbs.sdp swfUrl=http://www.malimar.tv/flowplayer/flowplayer.swf live=true timeout=15 pageUrl=http://www.malimar.tv/watch.php?vid=f666ffe0a
+<regex>
+<name>url</name>
+<expres>token=([^"]*)</expres>
+<page>http://www.malimar.tv/watch.php?vid=f666ffe0a</page>
+<referer>http://malimar.tv/</referer>
+</regex>
+</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/tt/thai_pbs.png</thumbnail>
 </item>
-
-
-<item>
-<title>Thai PBS Low Quality (256K)</title>
-<link>rtmp://184.171.162.14:1935/cdnlive?INT=2853227=abb21929ec839c2843b1522c1ad94cb0 playpath=tpbspc0?INT=2853227=abb21929ec839c2843b1522c1ad94cb0 swfUrl=http://cache.101g.net/StrobeMediaPlayback.swf pageUrl=http://live.thaipbs.or.th/ live=true timeout=15</link>
-<thumbnail>http://www.lyngsat-logo.com/hires/tt/thai_pbs.png</thumbnail>
-</item>
-
 
 <item>
 <title>TGN</title>
-<link>rtmp://APP.TV5.CO.TH:1935/live playpath=tgnlive swfUrl=http://www.tv5.co.th/webtv5_2556/player.swf pageUrl=http://www.tv5.co.th/webtv5_2556/tgn_56.php live=true timeout=15</link>
+<link>rtmp://liveplay3.malimarcdn.com/ app=ftaedge/_definst_/?token=$doregex[url] playpath=tgn.sdp swfUrl=http://www.malimar.tv/flowplayer/flowplayer.swf live=true timeout=15 pageUrl=http://www.malimar.tv/watch.php?vid=b37e668a4
+<regex>
+<name>url</name>
+<expres>token=([^"]*)</expres>
+<page>http://www.malimar.tv/watch.php?vid=b37e668a4</page>
+<referer>http://malimar.tv/</referer>
+</regex>
+</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/tt/tgn.jpg</thumbnail>
 </item>
 
 <item>
-<title>Thai TV 3</title>
-<link>rtmp://live4.seesantv.com/cs8/ playpath=ch3hd  swfUrl=http://aseaniptv.com/media/jwadvanced/player/6/jwplayer.flash.swf live=true timeout=15  pageUrl=http://aseaniptv.com/thaitv</link>
+<title>Thai TV 3 HD</title>
+<link>rtmp://liveplay3.malimarcdn.com/ app=thliveedge00/_definst_/?token=$doregex[url] playpath=ch3.sdp swfUrl=http://www.malimar.tv/flowplayer/flowplayer.swf live=true timeout=15 pageUrl=http://www.malimar.tv/watch.php?vid=8375a7fb9
+<regex>
+<name>url</name>
+<expres>token=([^"]*)</expres>
+<page>http://www.malimar.tv/watch.php?vid=8375a7fb9</page>
+<referer>http://malimar.tv/</referer>
+</regex>
+</link>
 <thumbnail>http://www.thaitvonline.tv/wp-content/uploads/2010/02/Channel-3-2.jpg</thumbnail>
 </item>
 
 <item>
-<title>Thai TV 5</title>
-<link>rtmp://app.tv5.co.th:1935/livestreamrecord playpath=videolive5 swfUrl=http://www.tv5.co.th/player.swf live=true timeout=15 pageUrl=http://www.thaitvonline.tv/asx/tv5.html</link>
+<title>Thai TV 5 HD</title>
+<link>rtmp://liveplay3.malimarcdn.com/ app=thliveedge01/_definst_/?token=$doregex[url] playpath=ch5.sdp swfUrl=http://www.malimar.tv/flowplayer/flowplayer.swf live=true timeout=15 pageUrl=http://www.malimar.tv/watch.php?vid=a3f3b7dd5
+<regex>
+<name>url</name>
+<expres>token=([^"]*)</expres>
+<page>http://www.malimar.tv/watch.php?vid=a3f3b7dd5</page>
+<referer>http://malimar.tv/</referer>
+</regex>
+</link>
 <thumbnail>http://www.thaitvonline.tv/wp-content/uploads/2010/02/Channel-5.jpg</thumbnail>
+</item>
+
+<item>
+<title>MCOT 1</title>
+<link>rtmp://mediaix.mcot.net:1935/mcot1/mcot1_800</link>
+<thumbnail>http://static.tlcdn1.com/data/11/pictures/0213/01-10-2014/p18dtdh0n5tmt3ah1vt3322j5.png</thumbnail>
 </item>
 
 <item>
@@ -48,16 +74,22 @@
 <thumbnail>http://www.thaitvonline.tv/wp-content/uploads/2010/02/thai-channel-11-NBT.jpg</thumbnail>
 </item>
 
-
 <item>
-<title>Channel 7 (Thailand Residents Only)</title>
+<title>Channel 7 [COLOR=FFFF0000]Geo Blocked In Some Areas[/COLOR]</title>
 <link>rtmp://stream3.bugaboo.tv/liveedgech7 playpath=livech71  swfUrl=http://bugaboo.tv/themes/third_party/mediaplayer/player.swf live=true timeout=15  pageUrl=http://www.ch7.com/player/iframe_livech7/25149/hd/13?w=640&h=360</link>
 <thumbnail>http://www.watchlivetvstreaming.com/wp-content/uploads/2012/04/BBTV-Channel-7-Thai-live-online.jpg</thumbnail>
 </item>
 
 <item>
-<title>Channel 7</title>
-<link>rtmp://stream3.bugaboo.tv/liveedgech7 playpath=livech71  swfUrl=http://bugaboo.tv/themes/third_party/mediaplayer/player.swf  pageUrl=http://www.ch7.com/player/iframe_livech7/25149/hd/13?w=640&h=360rtmp://live4.seesantv.com/cs7/ playpath=ch7hd  swfUrl=http://aseaniptv.com/media/jwadvanced/player/6/jwplayer.flash.swf live=true timeout=15  pageUrl=http://aseaniptv.com/thaitv</link>
+<title>Channel 7 HD</title>
+<link>rtmp://liveplay3.malimarcdn.com/ app=thliveedge00/_definst_/?token=$doregex[url] playpath=ch7.sdp swfUrl=http://www.malimar.tv/flowplayer/flowplayer.swf live=true timeout=15 pageUrl=http://www.malimar.tv/watch.php?vid=773367f09
+<regex>
+<name>url</name>
+<expres>token=([^"]*)</expres>
+<page>http://www.malimar.tv/watch.php?vid=773367f09</page>
+<referer>http://malimar.tv/</referer>
+</regex>
+</link>
 <thumbnail>http://www.watchlivetvstreaming.com/wp-content/uploads/2012/04/BBTV-Channel-7-Thai-live-online.jpg</thumbnail>
 </item>
 
@@ -69,8 +101,8 @@
 
 <item>
 <title>Blue Sky</title>
- <link>rtmp://live.blueskychannel.tv/bluesky_live app=bluesky_live playpath=myStream swfUrl=http://www.blueskychannel.tv/live/flowplayer-3.2.7.swf pageUrl=http://www.blueskychannel.tv/ live=1 timeout=10</link>
- <thumbnail>http://www.lyngsat-logo.com/hires/bb/blue_sky_channel.png</thumbnail>
- </item>
+<link>rtmp://live.blueskychannel.tv:1935/ app=bluesky_live playpath=myStream swfUrl=http://fpdownload.adobe.com/strobe/FlashMediaPlayback_101.swf?rnd=4%2F%5B%5BDYNAMIC%5D%5D%2F1&amp;autoplay=1&amp;wmode=opaque&amp;autoHideControlBar=true&amp;streamType=live&amp;autoPlay=true&amp;scaleMode=stretch&amp;allowfullscreen=true&amp;allowscriptaccess=always&amp;src=rtmp://live.blueskychannel.tv/bluesky_live/myStream/[[DYNAMIC]]/1 pageUrl=http://fpdownload.adobe.com/strobe/FlashMediaPlayback_101.swf?rnd=4%2F%5B%5BDYNAMIC%5D%5D%2F1&amp;autoplay=1&amp;wmode=opaque&amp;autoHideControlBar=true&amp;streamType=live&amp;autoPlay=true&amp;scaleMode=stretch&amp;allowfullscreen=true&amp;allowscriptaccess=always&amp;src=rtmp://live.blueskychannel.tv/bluesky_live/myStream live=true timeout=15</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/bb/blue_sky_channel.png</thumbnail>
+</item>
 
 </channel>

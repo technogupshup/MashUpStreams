@@ -7,14 +7,6 @@
 <thumbnail> </thumbnail>
 </info>
 
-<notify>
-<new>2</new>
-<message1>Please Click Bein Sports 3-5 Times To Get It Working</message1>
-<message2> </message2>
-<message3> </message3>
-<old>1</old>
-</notify>
-
 ##############################################################################################################################
 
 
@@ -31,7 +23,7 @@
 <name>Sports</name>
 <link>https://github.com/mash2k3/MashUpStreams/raw/master/CrusaderStreams/sports.xml</link>
 <thumbnail>https://github.com/mash2k3/MashUpStreams/raw/master/CrusaderStreams/icons/sports.png</thumbnail>
-<date>3/22/14</date>
+<date>3/26/14</date>
 
 <name>News</name>
 <link>https://github.com/mash2k3/MashUpStreams/raw/master/CrusaderStreams/news.xml</link>

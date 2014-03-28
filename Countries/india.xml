@@ -130,19 +130,6 @@
 </item>
 
 <item>
-<title>Star Movies</title>
-<link>$doregex[url]
-<regex>
-<name>url</name>
-<expres>"payload":"(.*)","isLive"</expres>
-<page>http://veetle.com/index.php/channel/ajaxStreamLocation/504b043f4bf4e/flash</page>
-<referer>http://veetle.com</referer>
-</regex>
-</link>
-<thumbnail>http://www.lyngsat-logo.com/hires/ss/star_movies_tw_hd.png</thumbnail>
-</item>
-
-<item>
 <title>DD NATIONAL</title>
 <link>http://d1vfuy3zwrxiut.cloudfront.net/live/_definst_/sweetbcha1novD99_W_150.sdp/playlist.m3u8</link>
 <thumbnail>http://www.livetvstreamingfree.com/wp-content/uploads/2012/12/DD-National-TV-Channel-Logo.jpg</thumbnail>
@@ -346,6 +333,19 @@
 </regex>
 </link>
 <thumbnail>http://images.wikia.com/logopedia/images/4/48/Zee_Cinema_2011.png</thumbnail>
+</item>
+
+<item>
+<title>Star Movies</title>
+<link>$doregex[url]
+<regex>
+<name>url</name>
+<expres>"payload":"(.*)","isLive"</expres>
+<page>http://veetle.com/index.php/channel/ajaxStreamLocation/504b043f4bf4e/flash</page>
+<referer>http://veetle.com</referer>
+</regex>
+</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/ss/star_movies_tw_hd.png</thumbnail>
 </item>
 
 <item>

@@ -135,7 +135,7 @@
 <regex>
 <name>url</name>
 <expres>"payload":"(.*)","isLive"</expres>
-<page>http://veetle.com/index.php/channel/ajaxStreamLocation/5315084816d34/flash</page>
+<page>http://veetle.com/index.php/channel/ajaxStreamLocation/504b043f4bf4e/flash</page>
 <referer>http://veetle.com</referer>
 </regex>
 </link>

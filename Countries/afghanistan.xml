@@ -24,7 +24,7 @@
 
 <item>
 <title>Tolo [COLOR=FFFF0000]Link 2[/COLOR]</title>
-<link>rtmp://stream.ssh101.com/free playpath=tolo1221 swfUrl=http://www.boxelet.com/flow/flowplayer-3.2.18.swf live=true timeout=60 pageUrl=http://www.boxelet.com/flow/tolo.php</link>
+<link>rtmp://stream.ssh101.com/f playpath=tolo1221 swfUrl=http://www.boxelet.com/flow/flowplayer-3.2.18.swf live=true timeout=60 pageUrl=http://www.boxelet.com/flow/tolo.php</link>
 <thumbnail>http://upload.wikimedia.org/wikipedia/en/0/01/Tolo.jpg</thumbnail>
 </item>
 

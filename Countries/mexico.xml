@@ -18,14 +18,32 @@
 
 <item>
 <title>Monte Maria TV</title>
-<link>plugin://plugin.video.jtv.archives/?mode=get_channel&amp;amp;name=montemariatv&amp;amp;play=true</link>
+<link>rtmp://50.7.98.234/montem playpath=videomontem swfUrl=http://conceptoweb-studio.com/radio/video/playerpro/player.swf live=true timeout=15 pageUrl=http://montemaria.org/envivo.html</link>
 <thumbnail>http://www.tv14.net/wp-content/uploads/2010/10/Monte-Maria.jpg</thumbnail>
 </item>
 
 <item>
 <title>NRM</title>
 <link>http://4303.live.streamtheworld.com/NRMWEBTV?streamtheworld_user=1&amp;amp;nobuf=1393001980089</link>
-<thumbnail>http://www.tv14.net/wp-content/themes/bluze/images/post-default.jpg</thumbnail>
+<thumbnail>http://www.crozcast.com/images/logos/1597.jpg</thumbnail>
+</item>
+
+<item>
+<title>OCHO</title>
+<link>http://201.130.193.150:1935/codecsys/smil:ocho.smil/master.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/oo/ocho_tv.png</thumbnail>
+</item>
+
+<item>
+<title>TV MAS</title>
+<link>rtmp://50.7.98.234/rtv playpath=videortv swfUrl=http://conceptoweb-studio.com/radio/video/player59/player.swf live=true timeout=15 pageUrl=http://conceptoweb-studio.com/radio/video/rtv/minisitio/tvstream.html</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/tt/tv_mas_mx.png</thumbnail>
+</item>
+
+<item>
+<title>Nuestravision</title>
+<link>http://video.stream.mx:1935/8060/8060/playlist.m3u8</link>
+<thumbnail>http://tvtvtv.ru/icons/logo_5751.png</thumbnail>
 </item>
 
 <item>

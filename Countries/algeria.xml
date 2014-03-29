@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<channel>
+<name>Algerian TV Channels</name>
+<thumbnail></thumbnail>
+
+<item>
+<title>Almagharibia TV</title>
+<link>rtmp://37.130.230.45/livepkgr/ playpath=livestream swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf live=true timeout=15 pageUrl=http://almagharibia.tv/livestream</link>
+<thumbnail>http://almagharibia.tv/neue/web/assets/almagharibia.png</thumbnail>
+</item>
+
+</channel>

@@ -71,14 +71,6 @@ http://www.iconspedia.com/icon/
 <link>https://github.com/mash2k3/MashUpStreams/raw/master/Countries/thailand.xml</link>
 <thumbnail>https://github.com/mash2k3/MashUpStreams/raw/master/Countries/flags/thailand.png</thumbnail>
 
-<name>Iraqian TV Channels</name>
-<link>https://github.com/mash2k3/MashUpStreams/raw/master/Countries/iraq.xml</link>
-<thumbnail>https://github.com/mash2k3/MashUpStreams/raw/master/Countries/flags/iraq.png</thumbnail>
-
-<name>Jordanian TV Channels</name>
-<link>https://github.com/mash2k3/MashUpStreams/raw/master/Countries/jordan.xml</link>
-<thumbnail>https://github.com/mash2k3/MashUpStreams/raw/master/Countries/flags/jordan.png</thumbnail>
-
 <name>Russian TV Channels</name>
 <link>https://github.com/mash2k3/MashUpStreams/raw/master/Countries/russia.xml</link>
 <thumbnail>https://github.com/mash2k3/MashUpStreams/raw/master/Countries/flags/Russia.png</thumbnail>
@@ -86,14 +78,6 @@ http://www.iconspedia.com/icon/
 <name>Tunisian TV Channels</name>
 <link>https://github.com/mash2k3/MashUpStreams/raw/master/Countries/tunisia.xml</link>
 <thumbnail>https://github.com/mash2k3/MashUpStreams/raw/master/Countries/flags/Tunisia.png</thumbnail>
-
-<name>Bahrianian TV Channels</name>
-<link>https://github.com/mash2k3/MashUpStreams/raw/master/Countries/bahrain.xml</link>
-<thumbnail>https://github.com/mash2k3/MashUpStreams/raw/master/Countries/flags/bahrain.png</thumbnail>
-
-<name>Kuwaitian TV Channels</name>
-<link>https://github.com/mash2k3/MashUpStreams/raw/master/Countries/kuwait.xml</link>
-<thumbnail>https://github.com/mash2k3/MashUpStreams/raw/master/Countries/flags/kuwait.png</thumbnail>
 
 <name>Palestinian TV Channels</name>
 <link>https://github.com/mash2k3/MashUpStreams/raw/master/Countries/palestine.xml</link>
@@ -106,10 +90,6 @@ http://www.iconspedia.com/icon/
 <name>Pakistani TV Channels</name>
 <link>https://github.com/mash2k3/MashUpStreams/raw/master/Countries/pakistan.xml</link>
 <thumbnail>https://github.com/mash2k3/MashUpStreams/raw/master/Countries/flags/pakistan.png</thumbnail>
-
-<name>Qatar TV Channels</name>
-<link>https://github.com/mash2k3/MashUpStreams/raw/master/Countries/qatar.xml</link>
-<thumbnail>https://github.com/mash2k3/MashUpStreams/raw/master/Countries/flags/qatar.png</thumbnail>
 
 <name>South Korean TV Channels</name>
 <link>https://github.com/mash2k3/MashUpStreams/raw/master/Countries/south%20korea.xml</link>
@@ -166,10 +146,6 @@ http://www.iconspedia.com/icon/
 <name>Puerto Rican TV Channels</name>
 <link>https://github.com/mash2k3/MashUpStreams/raw/master/Countries/puerto%20rico.xml</link>
 <thumbnail>https://github.com/mash2k3/MashUpStreams/raw/master/Countries/flags/PuertoRicoFlag.png</thumbnail>
-
-<name>Angolian TV Channels</name>
-<link>https://github.com/mash2k3/MashUpStreams/raw/master/Countries/angola.xml</link>
-<thumbnail>https://github.com/mash2k3/MashUpStreams/raw/master/Countries/flags/Angola.png</thumbnail>
 
 <name>Benin TV Channels</name>
 <link>https://github.com/mash2k3/MashUpStreams/raw/master/Countries/benin.xml</link>

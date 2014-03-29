@@ -7,14 +7,21 @@
 
 
 <info>
-<message>[COLOR=FFFF0000]Announcement(s): Fixed Script Error[/COLOR]</message>
+<message>[COLOR=FFFF0000]Announcement(s): Adding Channels[/COLOR]</message>
 <thumbnail>http://upload.wikimedia.org/wikipedia/commons/3/32/The_flag_of_Syrian_Arab_Republic_Damascus%2C_Syria.jpg</thumbnail>
 </info>
 
-<info>
-<message>[COLOR=FF00FF00]Important: For Support Or Requests Please Visit (XBMC TALK) http://www.xunitytalk.com/showthread.php?3768-Crusader88-s-XMLs-NOT-FOR-REQUESTS-ONLY-HELP&p=18826#post18826[/COLOR]</message>
-<thumbnail>http://upload.wikimedia.org/wikipedia/commons/3/32/The_flag_of_Syrian_Arab_Republic_Damascus%2C_Syria.jpg</thumbnail>
-</info>
+<item>
+<title>Abu Dubai  [COLOR=FFFF0000]Try 3 Times To Get Picture Working, 1st Two Times Will Give Only Audio[/COLOR]</title>
+<link>rtmp://tdsiptv.ddns.me/live playpath=ch80?code=$doregex[url] swfUrl=http://www.livetv.tn/flowplayer-3.2.7.swf pageUrl=http://www.livetv.tn live=true timeout=15
+<regex>
+<name>url</name>
+<expres>code=([^']*)</expres>
+<page>http://www.livetv.tn/index.php</page>
+</regex>
+</link>
+<thumbnail>http://www.livetv.tn/images/icons/80.gif</thumbnail>
+</item>
 
 <item>
 <title>Al Hayat Cinema</title>

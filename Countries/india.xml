@@ -10,6 +10,24 @@
 </item>
 
 <item>
+<title>India TV News</title>
+<link>http://ibn_lokmat_hls-lh.akamaihd.net/i/ibn_lokmat_hls_n_1@178974/index_3_av-p.m3u8?sd=10&play-only=primary&rebase=on</link>
+<thumbnail>http://www.indiatvnews.com/images/intv-logo.png</thumbnail>
+</item>
+
+<item>
+<title>IBN</title>
+<link>http://ibn_lokmat_hls-lh.akamaihd.net/i/ibn_lokmat_hls_n_1@178974/index_3_av-p.m3u8?sd=10&play-only=primary&rebase=on</link>
+<thumbnail>http://static.ibnlive.in.com/ibnlive/pix/ibnhome/ibnlokmat-logo.gif</thumbnail>
+</item>
+
+<item>
+<title>P7 News</title>
+<link>rtmp://edge-ind.inapcdn.in:1935/vivo playpath=semacb4.stream_aac swfUrl=http://smartstream.in/primusplayer/primus-3.2.12.swf live=true timeout=15 pageUrl=http://smartstream.in/p7news/</link>
+<thumbnail>http://www.p7news.tv/templates/news/images/P7_logo.png</thumbnail>
+</item>
+
+<item>
 <title>Kiran</title>
 <link>http://50.7.102.195:1935/httplayback/kirantv/playlist.m3u8</link>
 <thumbnail>http://newskerala.com/files/2013/07/Kiran-TV-Newskerala.jpg</thumbnail>

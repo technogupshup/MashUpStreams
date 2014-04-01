@@ -14,31 +14,31 @@
 <item>
 <title>OSN 2+</title>
 <link>http://80.252.165.106:8086/udp/239.100.2.107:1234</link>
-<thumbnail></thumbnail>
+<thumbnail> </thumbnail>
 </item>
 
 <item>
 <title>OSN Drama</title>
 <link>http://80.252.165.106:8086/udp/239.100.2.104:1234</link>
-<thumbnail></thumbnail>
+<thumbnail> </thumbnail>
 </item>
 
 <item>
 <title>OSN Comedy</title>
 <link>http://80.252.165.106:8086/udp/239.100.2.103:1234</link>
-<thumbnail></thumbnail>
+<thumbnail> </thumbnail>
 </item>
 
 <item>
 <title>OSN</title>
 <link>http://80.252.165.106:8086/udp/239.100.1.107:1234</link>
-<thumbnail></thumbnail>
+<thumbnail> </thumbnail>
 </item>
 
 <item>
 <title>OSN Movies Premiere</title>
 <link>http://80.252.165.106:8086/udp/239.100.1.100:1234</link>
-<thumbnail></thumbnail>
+<thumbnail> </thumbnail>
 </item>
 
 <item>

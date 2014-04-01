@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<channel>
+<name>Argentinian TV Channels</name>
+<thumbnail></thumbnail>
+
+<item>
+<title>Telefe</title>
+<link>rtmp://159.253.143.20/zenex playpath=telefe1234?id=3085 conn=S:OK swfUrl=http://www.zenex.tv/data/scripts/eplayer.swf live=true timeout=15 pageUrl=http://www.zenex.tv/embedplayer/telefe1234/1/530/380</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>Canal 13 HD</title>
+<link>http://prepublish.fibertel.qaotic.net/epa/ngrp:CMD-10003_all/media_u7wkfue3l_b496000.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>America TV</title>
+<link>http://iphone-streaming.ustream.tv/ustreamVideo/14031537/streams/live/playlist.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>Canal 9</title>
+<link>rtmp://174.37.252.220/zenex playpath=egtv102?id=3520 conn=S:OK swfUrl=http://www.zenex.tv/data/scripts/eplayer.swf live=true timeout=15 pageUrl=http://www.zenex.tv/embedplayer/egtv102/1/500/380</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>C5N</title>
+<link>rtmp://c5n.stweb.tv:1935/c5n playpath=live swfUrl=http://c5n.minutouno.com/js/c5n/jwplayer/player.swf??autostart=true&amp;file=live&amp;streamer=rtmp://c5n.stweb.tv:1935/c5n&amp;rtmp.subscribe=true&amp;autoplay=true&amp;autostart=true&amp;allowscriptaccess=always&amp;&amp;logo.linktarget=_blank&amp;logo.position=top-left&amp;logo.hide=false&amp;skin=nacht.zip&amp;autostart=true&amp;repeat=always&amp;stretching=exactfit&amp;volume=50 live=true timeout=15 pageUrl=http://c5n.minutouno.com/js/c5n/jwplayer/player.swf??autostart=true&amp;file=live&amp;streamer=rtmp://c5n.stweb.tv:1935/c5n&amp;rtmp.subscribe=true&amp;autoplay=true&amp;autostart=true&amp;allowscriptaccess=always&amp;&amp;logo.linktarget=_blank&amp;logo.position=top-left&amp;logo.hide=false&amp;skin=nacht.zip&amp;autostart=true&amp;repeat=always&amp;stretching=exactfit&amp;volume=50</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>TN Noticias</title>
+<link>http://stream.tn.com.ar/live/tnhd1/playlist.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>TYC Sports</title>
+<link>rtmpe://strm.ukcast.tv/redirect playpath=egt55 swfUrl=http://ukcast.tv/player/player.swf pageUrl=http://www.ukcast.tv live=true swfVfy=true timeout=15</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>Fox Sports</title>
+<link>rtmp://173.192.170.84/live playpath=a3asdfsdfasdf?id=198150 conn=S:OK swfUrl=http://www.mips.tv/content/scripts/eplayer.swf live=true timeout=15 pageUrl=http://www.mips.tv/embedplayer/a3asdfsdfasdf/1/600/450</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>ESPN</title>
+<link>rtmp://206.190.129.12/live playpath=lizzy1223?id=197267 conn=S:OK swfUrl=http://www.mips.tv/content/scripts/eplayer.swf live=true timeout=15 pageUrl=http://www.mips.tv/embedplayer/lizzy1223/1/750/450</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>DirecTV </title>
+<link>rtmp://206.190.139.28/live playpath=directv10?id=1989 conn=S:OK swfUrl=http://www.janjua.tv/resources/scripts/eplayer.swf live=true timeout=15 pageUrl=http://www.janjua.tv/embedplayer/directv10/1/585/400</link>
+<thumbnail></thumbnail>
+</item>
+
+<channel>

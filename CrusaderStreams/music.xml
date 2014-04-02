@@ -17,6 +17,7 @@
 <name>url</name>
 <expres>code=([^']*)</expres>
 <page>http://www.livetv.tn/index.php</page>
+<referer> </referer>
 </regex>
 </link>
 <thumbnail>http://www.livetv.tn/images/icons/81.gif</thumbnail>

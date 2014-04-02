@@ -48,6 +48,7 @@
 <name>url</name>
 <expres>code=([^']*)</expres>
 <page>http://www.livetv.tn/index.php</page>
+<referer> </referer>
 </regex>
 </link>
 <thumbnail>http://www.livetv.tn/images/icons/80.gif</thumbnail>
@@ -60,6 +61,7 @@
 <name>url</name>
 <expres>code=([^']*)</expres>
 <page>http://www.livetv.tn/index.php</page>
+<referer> </referer>
 </regex>
 </link>
 <thumbnail>http://www.livetv.tn/images/icons/54.gif</thumbnail>
@@ -72,6 +74,7 @@
 <name>url</name>
 <expres>code=([^']*)</expres>
 <page>http://www.livetv.tn/index.php</page>
+<referer> </referer>
 </regex>
 </link>
 <thumbnail>http://www.livetv.tn/images/icons/281.gif</thumbnail>
@@ -84,6 +87,7 @@
 <name>url</name>
 <expres>code=([^']*)</expres>
 <page>http://www.livetv.tn/index.php</page>
+<referer> </referer>
 </regex>
 </link>
 <thumbnail>http://www.lyngsat-logo.com/hires/aa/alhayat_cinema.png</thumbnail>
@@ -153,6 +157,7 @@
 <item>
 <title>Aljadeed (Link 3)  [COLOR=FFFF0000]Try 3 Times To Get Picture Working, 1st Two Times Will Give Only Audio[/COLOR]</title>
 <link>rtmp://tdsiptv.ddns.me/live playpath=ch99?code=$doregex[url] swfUrl=http://www.livetv.tn/flowplayer-3.2.7.swf pageUrl=http://www.livetv.tn live=true timeout=15
+<regex>
 <name>url</name>
 <expres>code=([^']*)</expres>
 <page>http://www.livetv.tn/index.php</page>

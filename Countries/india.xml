@@ -310,6 +310,25 @@
 </item>
 
 <item>
+<title>Sony Mix</title>
+<link>rtmp://50.7.175.253:1939/base2 playpath=dd17.stream token=Vu4KaBzaxa swfUrl=http://desilivetv.net/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=true timeout=15 pageUrl=http://desilivetv.net/sony-mix-live/</link>
+<thumbnail>http://3.bp.blogspot.com/-lJvOXytdXPA/T1zabG5GBrI/AAAAAAAAFJs/y6x8qEOiHC8/s1600/Sony_MIX.jpg</thumbnail>
+</item>
+
+<item>
+<title>Zee News</title>
+<link>$doregex[url]
+<regex>
+<name>url</name>
+<expres>file: "([^"]*)</expres>
+<page>http://zeenews.dittotv.com/?header=no</page>
+<referer>http://zeenews.india.com/live/</referer>
+</regex>
+</link>
+<thumbnail>http://zns.india.com/zn5/images/logo2013.png</thumbnail>
+</item>
+
+<item>
 <title>ZEE SMILE</title>
 <link>rtmp://50.7.175.253:1939/base2 playpath=dd16.stream token=Vu4KaBzaxa swfUrl=http://desilivetv.net/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=true timeout=15 pageUrl=http://desilivetv.net/zee-smile/</link>
 <thumbnail>http://www.turbotv.in/wp-content/uploads/2012/11/Zee_Smile-logo.png</thumbnail>
@@ -367,7 +386,7 @@
 </item>
 
 <item>
-<title>Zee salaam</title>
+<title>Zee Salaam</title>
 <link>rtmp://live.wmncdn.net/livestream/ playpath=cb582cc2f3b08e0bbd1c9f3d23541e26.sdp swfUrl=http://player-emea-uk.webmobilive.com/jw/player.swf live=true timeout=15 pageUrl=http://zeesalaam.com/live/</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/zz/zee_salaam.png</thumbnail>
 </item>

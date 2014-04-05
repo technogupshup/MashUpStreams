@@ -6,7 +6,7 @@
 
 <item>
 <title>Puthuyugam</title>
-<link>http://d2949g19l28x5t.cloudfront.net/livecf/puthuyugam/playlist_b407336.m3u8</link>
+<link>http://edge.purplestream.com/live/py/puthuyugam/playlist.m3u8</link>
 <thumbnail>http://www.puthuyugam.tv/uploads/homead_icon/homead_1.jpg</thumbnail>
 </item>
 
@@ -14,12 +14,6 @@
 <title>Imayam TV</title>
 <link>rtmp://38.96.148.172:1935/live/ playpath=robinson swfUrl=http://www.iwaystream.com/remote2/player/player-default.swf live=true timeout=15 pageUrl=http://www.iwaystream.com/remote2/robinson/</link>
 <thumbnail>http://1.bp.blogspot.com/-kmkafEtDj84/TmYI_Z2thGI/AAAAAAAAEWQ/4FsCENqe-vs/s1600/imayam_tv.jpg</thumbnail>
-</item>
-
-<item>
-<title>Puthiya Thalaimurai TV</title>
-<link>http://newgenlive-lh.akamaihd.net/i/ptmng1_1@141316/master.m3u8</link>
-<thumbnail>http://upload.wikimedia.org/wikipedia/en/f/f8/Puthiya_Thalaimurai_TV_Logo.jpg</thumbnail>
 </item>
 
 <item>
@@ -59,7 +53,7 @@
 </item>
 
 <item>
-<title>Puthiya Thalaimurai TV (Link 2)</title>
+<title>Puthiya Thalaimurai TV</title>
 <link>rtmp://50.7.175.252:1940/base2 playpath=tamil22.stream token=Vu4KaBzaxa swfUrl=http://tamiltv.tv/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://tamiltv.tv/puthiya-thalaimurai-live/</link>
 <thumbnail>http://www.watchtv.co/wp-content/themes/broadcast/thumb.php?src=http://www.watchtv.co/wp-content/uploads/2012/05/Puthiya-Thalaimurai-TV.jpg&w=581&h=252&zc=1&q=100</thumbnail>
 </item>

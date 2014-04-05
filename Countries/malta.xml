@@ -1,0 +1,34 @@
+ <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<channel>
+<name>Maltese TV Channels</name>
+<thumbnail></thumbnail>
+
+<item>
+<title>TVM</title>
+<link>$doregex[url]
+<regex>
+<name>url</name>
+<expres>"hls_stream": "([^"]*)</expres>
+<page>http://tvm.23video.com/api/concatenate?callback=visualplatformconcat_0&amp;amp;format=json&amp;amp;playersettings_0=%2Fapi%2Fplayer%2Fsettings%3Fplayer_id%3D0%26parameters%3Dlive%25255fid%253D8733521%2526source%253Dembed%2526autoPlay%253D1&amp;amp;livelist_1=%2Fapi%2Flive%2Flist%3Flive_id%3D8733521%26source%3Dembed%26autoPlay%3D1%26upcoming_p%3D1%26ordering%3Dstreaming%26player_id%3D0&amp;amp;photolist_2=%2Fapi%2Fphoto%2Flist%3Fsize%3D10%26include_actions_p%3D1%26live_id%3D8733521%26source%3Dembed%26autoPlay%3D1%26upcoming_p%3D1%26ordering%3Dstreaming%26player_id%3D0</page>
+<referer>http://tvm.23video.com/v.ihtml/player.html?live%5fid=8733521&amp;amp;source=embed&amp;amp;autoPlay=1</referer>
+</regex>
+</link>
+<thumbnail>http://www.tvm.com.mt/wp-content/themes/pbs/images/logo-tvm.png</thumbnail>
+</item>
+
+<item>
+<title>TVM 2</title>
+<link>$doregex[url]
+<regex>
+<name>url</name>
+<expres>"hls_stream": "([^"]*)</expres>
+<page>http://tvm.23video.com/api/concatenate?callback=visualplatformconcat_0&amp;format=json&amp;playersettings_0=%2Fapi%2Fplayer%2Fsettings%3Fplayer_id%3D0%26parameters%3Dlive%25255fid%253D8733527%2526source%253Dembed%2526autoPlay%253D1&amp;livelist_1=%2Fapi%2Flive%2Flist%3Flive_id%3D8733527%26source%3Dembed%26autoPlay%3D1%26upcoming_p%3D1%26ordering%3Dstreaming%26player_id%3D0&amp;photolist_2=%2Fapi%2Fphoto%2Flist%3Fsize%3D10%26include_actions_p%3D1%26live_id%3D8733527%26source%3Dembed%26autoPlay%3D1%26upcoming_p%3D1%26ordering%3Dstreaming%26player_id%3D0</page>
+<referer>http://tvm.23video.com/v.ihtml/player.html?live%5fid=8733527&amp;source=embed&amp;autoPlay=1</referer>
+</regex>
+</link>
+<thumbnail>http://www.tvm.com.mt/wp-content/themes/pbs/images/img-live-tvm2.jpg</thumbnail>
+</item>
+
+
+</channel>

@@ -250,3 +250,7 @@ http://www.iconspedia.com/icon/
 <name>Argentinian TV Channels</name>
 <link>https://raw.githubusercontent.com/mash2k3/MashUpStreams/master/Countries/argentina.xml</link>
 <thumbnail>https://raw.githubusercontent.com/mash2k3/MashUpStreams/master/Countries/flags/argentina.png</thumbnail>
+
+<name>Maltese TV Channels</name>
+<link>https://raw.githubusercontent.com/mash2k3/MashUpStreams/master/Countries/malta.xml</link>
+<thumbnail>https://raw.githubusercontent.com/mash2k3/MashUpStreams/master/Countries/flags/Malta.png</thumbnail>

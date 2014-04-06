@@ -45,7 +45,8 @@
 <item>
 <title>پخش زنده شبکه IFilm (Link 2)</title>
 <link>
-rtmpe://s2.telewebion.com:1935/ app=live-secure?wmsAuthSign=$doregex[app] playpath=$doregex[src] swfurl=http://www.telewebion.com/jwplayer_pro/6/jwplayer.flash.swf pageurl=http://smilserver.telewebion.com/livesmil/ifilm-500k.smil?&amp;secure_token=aXNfZnJlZT0xJnNlcnZlcl90aW1lPTQvNS8yMDE0IDM6MDY6NTIgUE0maGFzaF92YWx1ZT0yd0RDYWZsTFNCRnZIMkhLNlR3K0ZBPT0mdmFsaWRtaW51dGVzPTEwMA==&amp;dummpyext=.smil
+rtmpe://s2.telewebion.com:1935/ app=live-secure?wmsAuthSign=$doregex[app] playpath=$doregex[src] swfurl=http://www.telewebion.com/jwplayer_pro/6/jwplayer.flash.swf
+live=true timeout=15 pageurl=http://smilserver.telewebion.com/livesmil/ifilm-500k.smil?&amp;secure_token=aXNfZnJlZT0xJnNlcnZlcl90aW1lPTQvNS8yMDE0IDM6MDY6NTIgUE0maGFzaF92YWx1ZT0yd0RDYWZsTFNCRnZIMkhLNlR3K0ZBPT0mdmFsaWRtaW51dGVzPTEwMA==&amp;dummpyext=.smil
 <regex>
 <name>app</name>
 <expres>wmsAuthSign=([^"]*)</expres>

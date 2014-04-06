@@ -30,7 +30,15 @@
 
 <item>
 <title>ORF 2 (Link 2)</title>
-<link>rtmp://server114.stream-company.org:1935/live/ playpath=orf2 pageUrl=http://www.yourtv.to swfUrl=http://www.yourtv.to/js/jwplayer.flash.swf</link>
+<link>http://31.204.128.190/live/orf2/playlist.m3u8?wmsAuthSign=$doregex[url]
+<regex>
+<name>url</name>
+<expres>(.*)</expres>
+<page>http://www.yourtv.to/php/getToken.php</page>
+<referer>http://www.yourtv.to/online/live/fernsehen/stream/orf2.html</referer>
+</regex>
+</item>
+</link>
 <thumbnail>http://megatv.to/wp-content/uploads/2013/11/orf2-225x158.png</thumbnail>
 </item>
 
@@ -48,7 +56,15 @@
 
 <item>
 <title>KIKA (Link 2)</title>
-<link>rtmp://server114.stream-company.org:1935/live/ playpath=kika pageUrl=http://www.yourtv.to swfUrl=http://www.yourtv.to/js/jwplayer.flash.swf</link>
+<link>http://31.204.128.190/live/kika/playlist.m3u8?wmsAuthSign=$doregex[url]
+<regex>
+<name>url</name>
+<expres>(.*)</expres>
+<page>http://www.yourtv.to/php/getToken.php</page>
+<referer>http://www.yourtv.to/online/live/fernsehen/stream/kika.html</referer>
+</regex>
+</item>
+</link>
 <thumbnail>http://file1.npage.de/009857/81/bilder/logo_kika.gif</thumbnail>
 </item>
 
@@ -84,7 +100,14 @@
 
 <item>
 <title>ZDF</title>
-<link>rtmp://server114.stream-company.org:1935/live/ playpath=zdf pageUrl=http://www.yourtv.to swfUrl=http://www.yourtv.to/js/jwplayer.flash.swf</link>
+<link>http://31.204.128.190/live/zdf/playlist.m3u8?wmsAuthSign=$doregex[url]
+<regex>
+<name>url</name>
+<expres>(.*)</expres>
+<page>http://www.yourtv.to/php/getToken.php</page>
+<referer>http://www.yourtv.to/online/live/fernsehen/stream/zdf.html</referer>
+</regex>
+</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/zz/zdf_de_hd.jpg</thumbnail>
 </item>
 
@@ -107,8 +130,14 @@
 </item>
 
 <item>
-<title>RTL (Link 2)</title>
-<link>http://server23-ytto.stream-company.org/live/rtl/playlist.m3u8</link>
+<link>http://31.204.128.190/live/rtl/playlist.m3u8?wmsAuthSign=$doregex[url]
+<regex>
+<name>url</name>
+<expres>(.*)</expres>
+<page>http://www.yourtv.to/php/getToken.php</page>
+<referer>http://www.yourtv.to/online/live/fernsehen/stream/rtl.html</referer>
+</regex>
+</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/rr/rtl_at.jpg</thumbnail>
 </item>
 
@@ -120,121 +149,266 @@
 
 <item>
 <title>Das Erste</title>
-<link>rtmp://server114.stream-company.org:1935/live/ playpath=ard pageUrl=http://www.yourtv.to swfUrl=http://www.yourtv.to/js/jwplayer.flash.swf</link>
+<link>http://31.204.128.190/live/ard/playlist.m3u8?wmsAuthSign=$doregex[url]
+<regex>
+<name>url</name>
+<expres>(.*)</expres>
+<page>http://www.yourtv.to/php/getToken.php</page>
+<referer>http://www.yourtv.to/online/live/fernsehen/stream/ard.html</referer>
+</regex>
+</item>
+</link>
 <thumbnail>http://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Das_Erste_HD_Logo.svg/725px-Das_Erste_HD_Logo.svg.png</thumbnail>
 </item>
 
 <item>
 <title>3 Sat</title>
-<link>rtmp://server114.stream-company.org:1935/live/ playpath=3sat pageUrl=http://www.yourtv.to swfUrl=http://www.yourtv.to/js/jwplayer.flash.swf</link>
+<link>http://31.204.128.190/live/3sat/playlist.m3u8?wmsAuthSign=$doregex[url]
+<regex>
+<name>url</name>
+<expres>(.*)</expres>
+<page>http://www.yourtv.to/php/getToken.php</page>
+<referer>http://www.yourtv.to/online/live/fernsehen/stream/3sat.html</referer>
+</regex>
+</item>
+</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/num/3sat.png</thumbnail>
 </item>
 
 <item>
 <title>ATV</title>
-<link>rtmp://server114.stream-company.org:1935/live/ playpath=atv pageUrl=http://www.yourtv.to swfUrl=http://www.yourtv.to/js/jwplayer.flash.swf</link>
+<link>http://31.204.128.190/live/atv/playlist.m3u8?wmsAuthSign=$doregex[url]
+<regex>
+<name>url</name>
+<expres>(.*)</expres>
+<page>http://www.yourtv.to/php/getToken.php</page>
+<referer>http://www.yourtv.to/online/live/fernsehen/stream/atv.html</referer>
+</regex>
+</item>
+</link>
 <thumbnail>http://www.tv14.net/wp-content/uploads/2010/10/ATV1.jpeg</thumbnail>
 </item>
 
 <item>
 <title>Disney Channel</title>
-<link>rtmp://server114.stream-company.org:1935/live/ playpath=disneychannel pageUrl=http://www.yourtv.to swfUrl=http://www.yourtv.to/js/jwplayer.flash.swf</link>
+<link>http://31.204.128.190/live/disneychannel/playlist.m3u8?wmsAuthSign=$doregex[url]
+<regex>
+<name>url</name>
+<expres>(.*)</expres>
+<page>http://www.yourtv.to/php/getToken.php</page>
+<referer>http://www.yourtv.to/online/live/fernsehen/stream/disneychannel.html</referer>
+</regex>
+</item>
+</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/dd/disney_junior_de.png</thumbnail>
 </item>
 
 <item>
 <title>Nick</title>
-<link>rtmp://server114.stream-company.org:1935/live/ playpath=nickcc pageUrl=http://www.yourtv.to swfUrl=http://www.yourtv.to/js/jwplayer.flash.swf</link>
+<link>http://31.204.128.190/live/nickcc/playlist.m3u8?wmsAuthSign=$doregex[url]
+<regex>
+<name>url</name>
+<expres>(.*)</expres>
+<page>http://www.yourtv.to/php/getToken.php</page>
+<referer>http://www.yourtv.to/online/live/fernsehen/stream/nickcc.html</referer>
+</regex>
+</item>
+</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/nn/nickelodeon_us.png</thumbnail>
 </item>
 
 <item>
 <title>Dmax</title>
-<link>rtmp://server114.stream-company.org:1935/live/ playpath=dmax pageUrl=http://www.yourtv.to swfUrl=http://www.yourtv.to/js/jwplayer.flash.swf</link>
+<link>http://31.204.128.190/live/dmax/playlist.m3u8?wmsAuthSign=$doregex[url]
+<regex>
+<name>url</name>
+<expres>(.*)</expres>
+<page>http://www.yourtv.to/php/getToken.php</page>
+<referer>http://www.yourtv.to/online/live/fernsehen/stream/dmax.html</referer>
+</regex>
+</item>
+</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/dd/dmax_de.png</thumbnail>
 </item>
 
 <item>
 <title>Eurosport</title>
-<link>rtmp://server114.stream-company.org:1935/live/ playpath=eurosport pageUrl=http://www.yourtv.to swfUrl=http://www.yourtv.to/js/jwplayer.flash.swf</link>
+<link>http://31.204.128.190/live/eurosport/playlist.m3u8?wmsAuthSign=$doregex[url]
+<regex>
+<name>url</name>
+<expres>(.*)</expres>
+<page>http://www.yourtv.to/php/getToken.php</page>
+<referer>http://www.yourtv.to/online/live/fernsehen/stream/eurosport.html</referer>
+</regex>
+</item>
+</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/ee/eurosport.png</thumbnail>
 </item>
 
 <item>
 <title>Kabel 1</title>
-<link>rtmp://server114.stream-company.org:1935/live/ playpath=kabel1 pageUrl=http://www.yourtv.to swfUrl=http://www.yourtv.to/js/jwplayer.flash.swf</link>
+<link>http://213.163.74.10/live/kabel1/playlist.m3u8?wmsAuthSign=$doregex[url]
+<regex>
+<name>url</name>
+<expres>(.*)</expres>
+<page>http://www.yourtv.to/php/getToken.php</page>
+<referer>http://www.yourtv.to/online/live/fernsehen/stream/kabel1.html</referer>
+</regex>
+</item>
+</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/kk/kabel_eins.png</thumbnail>
 </item>
 
 <item>
 <title>N24</title>
-<link>rtmp://server114.stream-company.org:1935/live/ playpath=n24 pageUrl=http://www.yourtv.to swfUrl=http://www.yourtv.to/js/jwplayer.flash.swf</link>
+<link>http://31.204.128.190/live/n24/playlist.m3u8?wmsAuthSign=$doregex[url]
+<regex>
+<name>url</name>
+<expres>(.*)</expres>
+<page>http://www.yourtv.to/php/getToken.php</page>
+<referer>http://www.yourtv.to/online/live/fernsehen/stream/n24.html</referer>
+</regex>
+</item>
+</link>
 <thumbnail>https://www.triple-it.nl/resources/files/images/n24.jpg</thumbnail>
 </item>
 
 <item>
 <title>Pro 7</title>
-<link>rtmp://server114.stream-company.org:1935/live/ playpath=pro7 pageUrl=http://www.yourtv.to swfUrl=http://www.yourtv.to/js/jwplayer.flash.swf</link>
+<link>http://31.204.128.190/live/pro7/playlist.m3u8?wmsAuthSign=$doregex[url]
+<regex>
+<name>url</name>
+<expres>(.*)</expres>
+<page>http://www.yourtv.to/php/getToken.php</page>
+<referer>http://www.yourtv.to/online/live/fernsehen/stream/pro7.html</referer>
+</regex>
+</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/pp/pro_sieben_ch.png</thumbnail>
 </item>
 
 <item>
-<title>Pro 7 Max</title>
-<link>rtmp://server114.stream-company.org:1935/live/ playpath=pro7maxx pageUrl=http://www.yourtv.to swfUrl=http://www.yourtv.to/js/jwplayer.flash.swf</link>
+<title>Pro 7 Maxx</title>
+<link>http://31.204.128.190/pro7maxx/ard/playlist.m3u8?wmsAuthSign=$doregex[url]
+<regex>
+<name>url</name>
+<expres>(.*)</expres>
+<page>http://www.yourtv.to/php/getToken.php</page>
+<referer>http://www.yourtv.to/online/live/fernsehen/stream/pro7maxx.html</referer>
+</regex>
+</item>
+</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/pp/pro_sieben_maxx_de.png</thumbnail>
 </item>
 
 <item>
 <title>RTL 2</title>
-<link>rtmp://server114.stream-company.org:1935/live/ playpath=rtl2 pageUrl=http://www.yourtv.to swfUrl=http://www.yourtv.to/js/jwplayer.flash.swf</link>
+<link>http://213.163.74.10/live/rtl2/playlist.m3u8?wmsAuthSign=$doregex[url]
+<regex>
+<name>url</name>
+<expres>(.*)</expres>
+<page>http://www.yourtv.to/php/getToken.php</page>
+<referer>http://www.yourtv.to/online/live/fernsehen/stream/rtl2.html</referer>
+</regex>
+</item>
+</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/rr/rtl2_at.png</thumbnail>
 </item>
 
 <item>
 <title>RTL Nitro</title>
-<link>rtmp://server114.stream-company.org:1935/live/ playpath=rtlnitro pageUrl=http://www.yourtv.to swfUrl=http://www.yourtv.to/js/jwplayer.flash.swf</link>
+<link>http://31.204.128.190/live/rtlnitro/playlist.m3u8?wmsAuthSign=$doregex[url]
+<regex>
+<name>url</name>
+<expres>(.*)</expres>
+<page>http://www.yourtv.to/php/getToken.php</page>
+<referer>http://www.yourtv.to/online/live/fernsehen/stream/rtlnitro.html</referer>
+</regex>
+</item>
+</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/rr/rtl_nitro_de.png</thumbnail>
 </item>
 
 <item>
 <title>Super RTL (Link 2)</title>
-<link>rtmp://server114.stream-company.org:1935/live/ playpath=superrtl pageUrl=http://www.yourtv.to swfUrl=http://www.yourtv.to/js/jwplayer.flash.swf</link>
+<link>http://31.204.128.190/live/superrtl/playlist.m3u8?wmsAuthSign=$doregex[url]
+<regex>
+<name>url</name>
+<expres>(.*)</expres>
+<page>http://www.yourtv.to/php/getToken.php</page>
+<referer>http://www.yourtv.to/online/live/fernsehen/stream/superrtl.html</referer>
+</regex>
+</item>
+</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/super_rtl_at.png</thumbnail>
 </item>
 
 <item>
 <title>SRF 1</title>
-<link>rtmp://server114.stream-company.org:1935/live/ playpath=sf1 pageUrl=http://www.yourtv.to swfUrl=http://www.yourtv.to/js/jwplayer.flash.swf</link>
+<link>http://31.204.128.190/live/sf1/playlist.m3u8?wmsAuthSign=$doregex[url]
+<regex>
+<name>url</name>
+<expres>(.*)</expres>
+<page>http://www.yourtv.to/php/getToken.php</page>
+<referer>http://www.yourtv.to/online/live/fernsehen/stream/sf1.html</referer>
+</regex>
+</item>
+</link>
 <thumbnail>http://upload.wikimedia.org/wikipedia/en/2/27/SF_1_logo.png</thumbnail>
 </item>
 
 <item>
-<title>SRF Sport</title>
-<link>rtmp://server114.stream-company.org:1935/live/ playpath=sf2 pageUrl=http://www.yourtv.to swfUrl=http://www.yourtv.to/js/jwplayer.flash.swf</link>
-<thumbnail>http://www.srf.ch/medien/wp-content/uploads/2012/12/468669-767x553.jpg</thumbnail>
-</item>
-
-<item>
 <title>Sixx</title>
-<link>rtmp://server114.stream-company.org:1935/live/ playpath=sixx pageUrl=http://www.yourtv.to swfUrl=http://www.yourtv.to/js/jwplayer.flash.swf</link>
+<link>http://31.204.128.190/live/sixx/playlist.m3u8?wmsAuthSign=$doregex[url]
+<regex>
+<name>url</name>
+<expres>(.*)</expres>
+<page>http://www.yourtv.to/php/getToken.php</page>
+<referer>http://www.yourtv.to/online/live/fernsehen/stream/sixx.html</referer>
+</regex>
+</item>
+</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/sixx.png</thumbnail>
 </item>
 
 <item>
 <title>Sport 1</title>
-<link>rtmp://server114.stream-company.org:1935/live/ playpath=sport1 pageUrl=http://www.yourtv.to swfUrl=http://www.yourtv.to/js/jwplayer.flash.swf</link>
+<link>http://31.204.128.190/live/sport1/playlist.m3u8?wmsAuthSign=$doregex[url]
+<regex>
+<name>url</name>
+<expres>(.*)</expres>
+<page>http://www.yourtv.to/php/getToken.php</page>
+<referer>http://www.yourtv.to/online/live/fernsehen/stream/sport1.html</referer>
+</regex>
+</item>
+</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/sport1_de.png</thumbnail>
 </item>
 
 <item>
 <title>Viva</title>
-<link>rtmp://server114.stream-company.org:1935/live/ playpath=viva pageUrl=http://www.yourtv.to swfUrl=http://www.yourtv.to/js/jwplayer.flash.swf</link>
+<link>http://31.204.128.190/live/viva/playlist.m3u8?wmsAuthSign=$doregex[url]
+<regex>
+<name>url</name>
+<expres>(.*)</expres>
+<page>http://www.yourtv.to/php/getToken.php</page>
+<referer>http://www.yourtv.to/online/live/fernsehen/stream/viva.html</referer>
+</regex>
+</item>
+</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/vv/viva_de.png</thumbnail>
 </item>
 
 <item>
 <title>Tele 5</title>
-<link>rtmp://server114.stream-company.org:1935/live/ playpath=tele5 pageUrl=http://www.yourtv.to swfUrl=http://www.yourtv.to/js/jwplayer.flash.swf</link>
+<link>http://31.204.128.190/live/tele5/playlist.m3u8?wmsAuthSign=$doregex[url]
+<regex>
+<name>url</name>
+<expres>(.*)</expres>
+<page>http://www.yourtv.to/php/getToken.php</page>
+<referer>http://www.yourtv.to/online/live/fernsehen/stream/tele5.html</referer>
+</regex>
+</item>
+</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/tt/tele5_de.png</thumbnail>
 </item>
 
@@ -246,13 +420,27 @@
 
 <item>
 <title>SAT1</title>
-<link>rtmp://server114.stream-company.org:1935/live/ playpath=sat1 pageUrl=http://www.yourtv.to swfUrl=http://www.yourtv.to/js/jwplayer.flash.swf</link>
+<link>http://213.163.74.10/live/sat1/playlist.m3u8?wmsAuthSign=$doregex[url]
+<regex>
+<name>url</name>
+<expres>(.*)</expres>
+<page>http://www.yourtv.to/php/getToken.php</page>
+<referer>http://www.yourtv.to/online/live/fernsehen/stream/sat1.html</referer>
+</regex>
+</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/sat1.jpg</thumbnail>
 </item>
 
 <item>
 <title>VOX</title>
-<link>rtmp://server114.stream-company.org:1935/live/ playpath=vox pageUrl=http://www.yourtv.to swfUrl=http://www.yourtv.to/js/jwplayer.flash.swf</link>
+<link>http://213.163.74.10/live/vox/playlist.m3u8?wmsAuthSign=$doregex[url]
+<regex>
+<name>url</name>
+<expres>(.*)</expres>
+<page>http://www.yourtv.to/php/getToken.php</page>
+<referer>http://www.yourtv.to/online/live/fernsehen/stream/vox.html</referer>
+</regex>
+</link>
 <thumbnail>http://4.bp.blogspot.com/-2_2zXUYZJHs/UW02asERLiI/AAAAAAAAAJM/GkUg6mll8X8/s1600/Vox.jpg</thumbnail>
 </item>
 

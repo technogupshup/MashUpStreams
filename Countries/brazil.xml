@@ -6,8 +6,7 @@
 
 <item>
 <title>Live D Plus</title>
-<link>rtmp://tvflash.locaip.com.br/demaistv playpath=mp4:streamname.mp4 swfUrl=http://www.demaistv.com.br/video/video.swf live=true timeout=15
-pageUrl=http://www.demaistv.com.br/video/video.html</link>
+<link>rtmp://tvflash.locaip.com.br/demaistv playpath=mp4:streamname.mp4 swfUrl=http://www.demaistv.com.br/video/video.swf live=true timeout=15 pageUrl=http://www.demaistv.com.br/video/video.html</link>
 <thumbnail>CHANNEL LOGO</thumbnail>
 </item>
 
@@ -30,13 +29,13 @@ pageUrl=http://www.demaistv.com.br/video/video.html</link>
 </item>
 
 <item>
-<title>0 Globo</title>
-<link>rtmpe://live.flexstream.net/redirect playpath=bob9784 swfurl=http://abcast.biz/playercanal.swf pageurl=http://flexstream.net/embed2.php?file=bob9784&width=468&height=387 live=true timeout=15</link>
+<title>O Globo</title>
+<link>rtmp://m.streamfull.com.ar:8979/live playpath=globotv swfUrl=http://streamfull.com.ar/js.swf live=true timeout=15 pageUrl=http://tv-online.in/globo-tv-live-hd</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/rr/rede_globo.jpg</thumbnail>
 </item>
 
 <item>
-<title>0 Globo rj</title>
+<title>O Globo rj</title>
 <link>rtmp://cdn.abcast.biz/liverepeat playpath=bob123456811 swfUrl=http://player.longtailvideo.com/player5.9.swf pageUrl=http://abcast.biz/embed.php?file=bob123456811&width=650&height=500 live=true swfVfy=true timeout=15</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/rr/rede_globo.jpg</thumbnail>
 </item>

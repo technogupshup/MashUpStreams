@@ -10,8 +10,14 @@
 
 <item>
 <title>TV Jamaica</title>
-<link>rtmp://cp239956.live.edgefcs.net/live/ playpath=RJR_TVJ@176703 swfUrl=http://vjs.zencdn.net/4.2/video-js.swf live=true timeout=15 pageUrl=http://www.televisionjamaica.com/LiveTV.aspx</link>
+<link>http://rjr_flash-lh.akamaihd.net/i/tvj_1@177150/master.m3u8</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/tt/tv_jamaica.png</thumbnail>
+</item>
+
+<item>
+<title>Jamaica News</title>
+<link>http://rjr_flash-lh.akamaihd.net/jnn_1_650@177149?v=3.3.0&amp;fp=WIN%2012,0,0,77&amp;r=EUMOF&amp;g=HLTBGIKNCVBJ</link>
+<thumbnail>http://www.jamaicanewsnetwork.com/sites/default/files/jnn_logo.png</thumbnail>
 </item>
 
 </channel>

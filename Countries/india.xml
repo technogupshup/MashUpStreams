@@ -4,6 +4,19 @@
 <name>Indian TV Channels</name>
 <thumbnail></thumbnail>
 
+<item>
+<title>Saam Tv Marathi</title>
+<link>rtmp://live.wmncdn.net/saamtv/ playpath=$doregex[video] swfUrl=http://player-emea-uk.webmobilive.com/player/liveplayer.swf live=true timeout=15 pageUrl=http://newsaamtv.mplt20.com/new13/
+<regex>
+<name>video</name>
+<expres>video=([^&]*)</expres>
+<page>http://newsaamtv.mplt20.com/new13/</page>
+<referer> </referer>
+</regex>
+</link>
+<thumbnail>http://www.bharatchannels.com/images/serials/marathi/saam.jpg</thumbnail>
+</item>
+
 <title>Aastha</title>
 <link>rtmp://50.7.175.253:1939/base2 playpath=dd6.stream token=Vu4KaBzaxa swfUrl=http://desilivetv.net/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=true timeout=15 pageUrl=http://desilivetv.net/aastha-tv/</link>
 <thumbnail>http://kabelmax.tv/files/logopack/aastha%20tv.png</thumbnail>

@@ -41,9 +41,17 @@
 </item>
 
 <item>
-<title>Happy TV</title>
-<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=XbEqRyAgKjo</link>
-<thumbnail> </thumbnail>
+<title>Happy TV  [COLOR=FFFF0000]Try 2 Times To Get Channel Working[/COLOR]</title>
+<link>$doregex[url]
+<regex>
+<name>url</name>
+<expres>file: "([^"]*)</expres>
+<page>http://mali-ekrani.blogspot.com/2013/07/balkanika-tv.html</page>
+<referer> </referer>
+</regex>
+</item>
+</link>
+<thumbnail>http://3.bp.blogspot.com/-YXqyXzOlM-4/Upjfl8wjtoI/AAAAAAAABck/_0zLBQ_gjME/s1600/happy+tv.jpeg</thumbnail>
 </item>
 
 <item>
@@ -54,7 +62,7 @@
 
 <item>
 <title>Sport Klub</title>
-<link>rtmp://go.fasts.tv/fasts playpath=tash2  swfUrl=http://www.fasts.tv/player/player_embed_fasts.swf live=true timeout=15 pageUrl=http://www.fasts.tv/embedplayer.php?width=610&height=470&id=tash2&autoplay=true</link>
+<link>rtmpe://94.242.228.22:443/ app=liveedge/ playpath=tash27314 pageurl=http://zingo.tv</link>
 <thumbnail>http://www.hteronet.ba/upload/novosti/sport_klub_13265.jpg</thumbnail>
 </item>
 

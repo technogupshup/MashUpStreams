@@ -7,87 +7,163 @@
 
 <item>
 <title>Sky Sports 1</title>
-<link>$doregex[file] swfUrl=http://www.castok.com/jwplayer/jwplayer.flash.swf live=true timeout=15 pageUrl=http://www.castok.com/
+<link>
+$doregex[streamer] playpath=$doregex[file] swfUrl=http://www.eucast.tv/player5.9.swf live=true timeout=15 pageUrl=http://www.eucast.tv/embed.php?live=ss1x&vw=620&vh=490
+<regex>
+<name>streamer</name>
+<expres>'streamer','([^']*)</expres>
+<page>http://www.eucast.tv/embed.php?live=ss1x&vw=620&vh=490</page>
+<referer>http://cricfree.tv/update/skys1.php</referer>
+</regex>
 <regex>
 <name>file</name>
-<expres>file: "([^"]*)</expres>
-<page>http://www.castok.com/embed.php?v=pa1&vw=600&vh=450&typeplayer=0&domain=hdembed.com</page>
-<referer>http://hdembed.com/sky-sports1.php</referer>
+<expres>'file','([^']*)</expres>
+<page>http://www.eucast.tv/embed.php?live=ss1x&vw=620&vh=490</page>
+<referer>http://cricfree.tv/update/skys1.php</referer>
 </regex>
 </link>
 <thumbnail>http://3.bp.blogspot.com/-b3q2g-UxZwI/UVWzFcsgA_I/AAAAAAAAFY8/nmBHsWYdLCM/s1600/sky_sports1.png</thumbnail>
 </item>
 
 <item>
-<title>Sky Sports 1 (Link 2)</title>
-<link>http://46.251.49.113:7777/udp/239.195.0.11:1234</link>
-<thumbnail>http://3.bp.blogspot.com/-b3q2g-UxZwI/UVWzFcsgA_I/AAAAAAAAFY8/nmBHsWYdLCM/s1600/sky_sports1.png</thumbnail>
-</item>
-
-<item>
-<title>Sky Sports 2 HD</title>
-<link>rtmp://37.220.36.64:443/liverepeater playpath=33698 swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf live=1 pageUrl=http://filotv.pw/ token=#atd%#$ZH</link>
-<thumbnail>http://www.lyngsat-logo.com/hires/ss/sky_uk_sports2.png</thumbnail>
-</item>
-
-<item>
-<title>Sky Sports 2 HD (Link 2)</title>
-<link>http://46.251.49.113:7777/udp/239.195.0.12:1234</link>
+<title>Sky Sports 2</title>
+<link>
+$doregex[streamer] playpath=$doregex[file] swfUrl=http://www.eucast.tv/player5.9.swf live=true timeout=15 pageUrl=http://www.eucast.tv/embed.php?live=ss2x&vw=620&vh=490
+<regex>
+<name>streamer</name>
+<expres>'streamer','([^']*)</expres>
+<page>http://www.eucast.tv/embed.php?live=ss2x&vw=620&vh=490</page>
+<referer>http://cricfree.tv/update/skys2.php</referer>
+</regex>
+<regex>
+<name>file</name>
+<expres>'file','([^']*)</expres>
+<page>http://www.eucast.tv/embed.php?live=ss2x&vw=620&vh=490</page>
+<referer>http://cricfree.tv/update/skys2.php</referer>
+</regex>
+</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ss/sky_uk_sports2.png</thumbnail>
 </item>
 
 <item>
 <title>Sky Sports 3</title>
-<link>rtmp://37.220.36.65:443/liverepeater playpath=23699 swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf live=true timeout=15 pageUrl=http://filotv.pw/player3.php?id=23699&width=640&height=460 token=#atd%#$ZH</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/sky_uk_sports3.jpg</thumbnail>
-</item>
-
-<item>
-<title>Sky Sports 3 (Link 2)</title>
-<link>http://46.251.49.113:7777/udp/239.195.0.13:1234</link>
+<link>
+$doregex[streamer] playpath=$doregex[file] swfUrl=http://www.eucast.tv/player5.9.swf live=true timeout=15 pageUrl=http://www.eucast.tv/embed.php?live=ss3x&vw=620&vh=490
+<regex>
+<name>streamer</name>
+<expres>'streamer','([^']*)</expres>
+<page>http://www.eucast.tv/embed.php?live=ss3x&vw=620&vh=490</page>
+<referer>http://cricfree.tv/update/skys3.php</referer>
+</regex>
+<regex>
+<name>file</name>
+<expres>'file','([^']*)</expres>
+<page>http://www.eucast.tv/embed.php?live=ss3x&vw=620&vh=490</page>
+<referer>http://cricfree.tv/update/skys3.php</referer>
+</regex>
+</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/sky_uk_sports3.jpg</thumbnail>
 </item>
 
 <item>
 <title>Sky Sports F1</title>
-<link>http://46.251.49.113:7777/udp/239.195.0.14:1234</link>
+<link>
+$doregex[streamer] playpath=$doregex[file] swfUrl=http://www.eucast.tv/player5.9.swf live=true timeout=15 pageUrl=http://www.eucast.tv/embed.php?live=ssf1x&vw=620&vh=490
+<regex>
+<name>streamer</name>
+<expres>'streamer','([^']*)</expres>
+<page>http://www.eucast.tv/embed.php?live=ssf1x&vw=620&vh=490</page>
+<referer>http://cricfree.tv/update/skysf1.php</referer>
+</regex>
+<regex>
+<name>file</name>
+<expres>'file','([^']*)</expres>
+<page>http://www.eucast.tv/embed.php?live=ssf1x&vw=620&vh=490</page>
+<referer>http://cricfree.tv/update/skysf1.php</referer>
+</regex>
+</link>
 <thumbnail>http://www.tv-live.org.uk/wp/media/skysports/2012/023.jpg</thumbnail>
 </item>
 
 <item>
 <title>Eurosport 2</title>
-<link>rtmp://31.220.0.134:1935/live playpath=euro122 swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf live=true timeout=15 pageUrl=http://www.eucast.tv/embed.php?live=euro122&vw=620&vh=490</link>
+<link>
+$doregex[streamer] playpath=$doregex[file] swfUrl=http://www.eucast.tv/player5.9.swf live=true timeout=15 pageUrl=http://www.eucast.tv/embed.php?live=euro2x&vw=620&vh=490
+<regex>
+<name>streamer</name>
+<expres>'streamer','([^']*)</expres>
+<page>http://www.eucast.tv/embed.php?live=euro2x&vw=620&vh=490</page>
+<referer>http://cricfree.tv/update/euro2.php</referer>
+</regex>
+<regex>
+<name>file</name>
+<expres>'file','([^']*)</expres>
+<page>http://www.eucast.tv/embed.php?live=euro2x&vw=620&vh=490</page>
+<referer>http://cricfree.tv/update/euro2.php</referer>
+</regex>
+</link>
 <thumbnail>http://2.bp.blogspot.com/-I3h_uI0cILc/ULt8sd4tWxI/AAAAAAAAAg0/6F40MH-1Qmk/s1600/eurosport+2+chaine+live.jpg</thumbnail>
 </item>
 
 <item>
 <title>Eurosport 1</title>
-<link>rtmp://31.220.0.134:1935/live playpath=eeee111 swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf live=true timeout=15 pageUrl=http://www.eucast.tv/embed.php?COLLCC=484167412&live=eeee111&vw=620&vh=490</link>
+<link>
+$doregex[streamer] playpath=$doregex[file] swfUrl=http://www.eucast.tv/player5.9.swf live=true timeout=15 pageUrl=http://www.eucast.tv/embed.php?live=euro1x&vw=620&vh=490
+<regex>
+<name>streamer</name>
+<expres>'streamer','([^']*)</expres>
+<page>http://www.eucast.tv/embed.php?live=euro1x&vw=620&vh=490</page>
+<referer>http://cricfree.tv/update/euro.php</referer>
+</regex>
+<regex>
+<name>file</name>
+<expres>'file','([^']*)</expres>
+<page>http://www.eucast.tv/embed.php?live=euro1x&vw=620&vh=490</page>
+<referer>http://cricfree.tv/update/euro.php</referer>
+</regex>
+</link>
 <thumbnail>http://3.bp.blogspot.com/-q691zK90t9Y/TlUbSSLiicI/AAAAAAAAAHY/zGGW_LfRuIU/s1600/EuroSport-izle.png</thumbnail>
 </item>
 
 <item>
-<title>SKY Sports 4 HD</title>
-<link>rtmp://37.220.36.18:443/liverepeater playpath=23700 swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf live=1 pageUrl=http://filotv.pw/ token=#atd%#$ZH</link>
-<thumbnail>http://www.watchlivetvstreaming.com/wp-content/uploads/2012/02/Sky-Sport-4-TV-Watch-Online.png</thumbnail>
-</item>
-
-<item>
-<title>SKY Sports 4 HD (Link 2)</title>
-<link>http://46.251.49.113:7777/udp/239.195.0.23:1234</link>
+<title>SKY Sports 4</title>
+<link>
+$doregex[streamer] playpath=$doregex[file] swfUrl=http://www.eucast.tv/player5.9.swf live=true timeout=15 pageUrl=http://www.eucast.tv/embed.php?live=ss4x&vw=620&vh=490
+<regex>
+<name>streamer</name>
+<expres>'streamer','([^']*)</expres>
+<page>http://www.eucast.tv/embed.php?live=ss4x&vw=620&vh=490</page>
+<referer>http://cricfree.tv/update/skys4.php</referer>
+</regex>
+<regex>
+<name>file</name>
+<expres>'file','([^']*)</expres>
+<page>http://www.eucast.tv/embed.php?live=ss4x&vw=620&vh=490</page>
+<referer>http://cricfree.tv/update/skys4.php</referer>
+</regex>
+</link>
 <thumbnail>http://www.watchlivetvstreaming.com/wp-content/uploads/2012/02/Sky-Sport-4-TV-Watch-Online.png</thumbnail>
 </item>
 
 <item>
 <title>SKY Sports News</title>
-<link>rtmp://37.220.34.61:443/liverepeater playpath=23701 swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf live=true timeout=15 pageUrl=http://filotv.pw/player3.php?id=23701&width=640&height=460 token=#atd%#$ZH</link>
+<link>
+$doregex[streamer] playpath=$doregex[file] swfUrl=http://www.eucast.tv/player5.9.swf live=true timeout=15 pageUrl=http://www.eucast.tv/embed.php?live=ssnewsrx&vw=620&vh=490
+<regex>
+<name>streamer</name>
+<expres>'streamer','([^']*)</expres>
+<page>http://www.eucast.tv/embed.php?live=ssnewsrx&vw=620&vh=490</page>
+<referer>http://cricfree.tv/update/news.php</referer>
+</regex>
+<regex>
+<name>file</name>
+<expres>'file','([^']*)</expres>
+<page>http://www.eucast.tv/embed.php?live=ssnewsrx&vw=620&vh=490</page>
+<referer>http://cricfree.tv/update/news.php</referer>
+</regex>
+</link>
 <thumbnail>http://hub.tv-ark.org.uk/images/skytv/sky_images/skysportsnews/skysportsnews_open1_2003b.jpg</thumbnail>
 </item>
 
-<item>
-<title>SKY Sports News (Link 2)</title>
-<link>http://46.251.49.113:7777/udp/239.195.0.25:123</link>
-<thumbnail>http://hub.tv-ark.org.uk/images/skytv/sky_images/skysportsnews/skysportsnews_open1_2003b.jpg</thumbnail>
-</item>
 
 </channel>

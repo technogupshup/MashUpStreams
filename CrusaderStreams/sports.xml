@@ -256,7 +256,7 @@ $doregex[url] playpath=$doregex[file] token=#yw%tt#w@kku swfUrl=$doregex[swf] li
 </item>
 
 <item>
-<title>Bein 7  [COLOR=FFFF0000]Updated Daily[/COLOR]</title>
+<title>Bein 7 (Link 2) [COLOR=FFFF0000]Updated Daily[/COLOR]</title>
 <link>rtmpe://strm.ukcast.tv/redirect playpath=bein7desi swfUrl=http://ukcast.tv/player/player.swf pageUrl=http://www.ukcast.tv live=true swfVfy=true timeout=15</link>
 <thumbnail>http://i.imgur.com/cHNlLaQ.jpg</thumbnail>
 </item>
@@ -320,7 +320,7 @@ $doregex[url] playpath=$doregex[file] token=#yw%tt#w@kku swfUrl=$doregex[swf] li
 </item>
 
 <item>
-<title>Bein 6  [COLOR=FFFF0000]Updated Daily[/COLOR]</title>
+<title>Bein 6 (Link 2) [COLOR=FFFF0000]Updated Daily[/COLOR]</title>
 <link>rtmpe://strm.ukcast.tv/redirect playpath=bein6desi swfUrl=http://ukcast.tv/player/player.swf pageUrl=http://www.ukcast.tv live=true swfVfy=true timeout=15</link>
 <thumbnail>http://i.imgur.com/by9j5N2.jpg</thumbnail>
 </item>
@@ -542,7 +542,7 @@ $doregex[url] playpath=$doregex[file] token=#yw%tt#w@kku swfUrl=$doregex[swf] li
 </item>
 
 <item>
-<title>Bein 8  [COLOR=FFFF0000]Updated Daily[/COLOR]</title>
+<title>Bein 8 (Link 2) [COLOR=FFFF0000]Updated Daily[/COLOR]</title>
 <link>rtmpe://strm.ukcast.tv/redirect playpath=bein8desi swfUrl=http://ukcast.tv/player/player.swf pageUrl=http://www.ukcast.tv live=true swfVfy=true timeout=15</link>
 <thumbnail>http://i.imgur.com/cEpkyFy.jpg</thumbnail>
 </item>

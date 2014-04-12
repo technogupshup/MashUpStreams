@@ -6,16 +6,15 @@
 ##############################################################################################################################
 
 <info>
-<message>[COLOR=FFFF0000]Announcement(s): Fixed Logo Issue [/COLOR]</message>
+<message>[COLOR=FFFF0000]Announcement(s): Fixed AJ Kids[/COLOR]</message>
 <thumbnail>http://upload.wikimedia.org/wikipedia/commons/3/32/The_flag_of_Syrian_Arab_Republic_Damascus%2C_Syria.jpg</thumbnail>
 </info>
 
 <item>
-<title>Aljazeera Kids Tv</title>
-<link>http://78.100.44.238/live-jscc/jscc/playlist.m3u8</link>
-<thumbnail>http://www.animationmagazine.net/wordpress/wp-content/uploads/Al-Jazeera-Childrens-Channel-150.jpg</thumbnail>
+<title>Aljazeera Kids [COLOR=FFFF0000]Geo Blocked In Some Areas[/COLOR]</title>
+<link>http://bcoveliveios-i.akamaihd.net/hls/live/206572/2014288370001/playlist.m3u8</link>
+<thumbnail>http://www.livetv.tn/images/icons/51.gif</thumbnail>
 </item>
-
 
 <item>
 <title>Baraem TV</title>

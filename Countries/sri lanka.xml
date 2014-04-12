@@ -4,7 +4,23 @@
 <name>Sri Lanka TV Channels</name>
 <thumbnail></thumbnail>
 
+<item>
+<title>Derena TV</title>
+<link>rtsp://cp1.serverse.com/deranalive/deranalive</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/dd/derana_tv.png</thumbnail>
+</item>
 
+<item>
+<title>Shraddha TV</title>
+<link>rtsp://cp1.serverse.com/8050/8050</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/ss/shraddha_tv_lk.png</thumbnail>
+</item>
+
+<item>
+<title>The Buddhist</title>
+<link>rtsp://cp1.serverse.com/thebuddhist/thebuddhist</link>
+<thumbnail>http://www.thebuddhist.tv/images/logo.png</thumbnail>
+</item>
 
 <item>
 <title>ITN</title>

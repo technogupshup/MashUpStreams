@@ -11,6 +11,12 @@
 </info>
 
 <item>
+<title>LLBN Arabic</title>
+<link>rtmp://cp45648.live.edgefcs.net/live playpath=T01587-3@58798 swfUrl=http://vp.telvue.com/extra/jwplayer.swf live=true timeout=15 pageUrl=http://vp.telvue.com/player?height=300&id=T01587&noplaylistskin=1&video=22782&width=400</link>
+<thumbnail>http://static.wixstatic.com/media/214acb_5496e023715948df8fc783ab1f4ab8bc.jpg_srz_p_165_58_75_22_0.50_1.20_0.00_jpg_srz</thumbnail>
+</item>
+
+<item>
 <title>Aghapy TV</title>
 <link>http://xaghapychannelx.api.channel.livestream.com/3.0/playlist.m3u8</link>
 <thumbnail>http://4.bp.blogspot.com/-ZDipbLo99cg/T4P-jMMOKtI/AAAAAAAAAI8/8Gk9_Kh5ILo/s400/aghapy.jpg</thumbnail>

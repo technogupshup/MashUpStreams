@@ -6,9 +6,21 @@
 ##############################################################################################################################
 
 <info>
-<message>[COLOR=FFFF0000]Announcement(s): [/COLOR]</message>
+<message>[COLOR=FFFF0000]Announcement(s): New Channels[/COLOR]</message>
 <thumbnail>http://upload.wikimedia.org/wikipedia/commons/3/32/The_flag_of_Syrian_Arab_Republic_Damascus%2C_Syria.jpg</thumbnail>
 </info>
+
+<item>
+<title>Al Masria</title>
+<link>rtmp://livestreaming4.onlinehorizons.net/ app=ERTUEgy playpath=livestream swfUrl=http://onlinehorizons.net/livestreaming/ertu/player.swf live=true timeout=15 pageUrl=http://onlinehorizons.net/livestreaming/ertu/index.html</link>
+<thumbnail>http://i82.servimg.com/u/f82/17/28/12/40/egypti10.png</thumbnail>
+</item>
+
+<item>
+<title>Al Oula Maroc‏‏</title>
+<link>http://iphone-streaming.ustream.tv/ustreamVideo/13899105/streams/live/playlist.m3u8</link>
+<thumbnail>http://www.livetv.tn/images/icons/55.gif</thumbnail>
+</item>
 
 <item>
 <title>Al Manar HD</title>

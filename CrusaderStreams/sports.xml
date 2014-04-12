@@ -186,8 +186,7 @@ $doregex[url] playpath=$doregex[file] token=#yw%tt#w@kku swfUrl=$doregex[swf] li
 
 <item>
 <title>Bein 11 [COLOR=FFFF0000]Updated Daily[/COLOR]</title>
-<link>
-$doregex[url] playpath=$doregex[file] token=#yw%tt#w@kku swfUrl=$doregex[swf] live=true timeout=15 pageUrl=http://www.hdcast.org/
+<link>$doregex[url] playpath=$doregex[file] token=#yw%tt#w@kku swfUrl=$doregex[swf] live=true timeout=15 pageUrl=http://www.hdcast.org/
 <regex>
 <name>url</name>
 <expres>streamer: '([^']*)</expres>
@@ -205,6 +204,26 @@ $doregex[url] playpath=$doregex[file] token=#yw%tt#w@kku swfUrl=$doregex[swf] li
 <expres>flashplayer: '([^']*)</expres>
 <page>http://www.hdcast.org/embedlive2.php?u=BST11&amp;vw=640&amp;vh=460&amp;domain=hdfoots.com</page>
 <referer>http://hdfoots.com/watch/beinsports-11-live-stream.php</referer>
+</regex>
+</link>
+<thumbnail>http://i.imgur.com/yuzQdoY.jpg</thumbnail>
+</item>
+
+<item>
+<title>Bein 11 (Link 2) [COLOR=FFFF0000]Updated Daily[/COLOR]</title>
+<link>
+$doregex[streamer] playpath=$doregex[file] swfUrl=http://www.eucast.tv/player5.9.swf live=true timeout=15 pageUrl=http://www.eucast.tv/embed.php?live=b11r&vw=620&vh=490
+<regex>
+<name>streamer</name>
+<expres>'streamer','([^']*)</expres>
+<page>http://www.eucast.tv/embed.php?live=b11r&vw=620&vh=490</page>
+<referer>http://cricfree.tv/update/jsc9.php</referer>
+</regex>
+<regex>
+<name>file</name>
+<expres>'file','([^']*)</expres>
+<page>http://www.eucast.tv/embed.php?live=b11r&vw=620&vh=490</page>
+<referer>http://cricfree.tv/update/jsc9.php</referer>
 </regex>
 </link>
 <thumbnail>http://i.imgur.com/yuzQdoY.jpg</thumbnail>
@@ -237,6 +256,12 @@ $doregex[url] playpath=$doregex[file] token=#yw%tt#w@kku swfUrl=$doregex[swf] li
 </item>
 
 <item>
+<title>Bein 7  [COLOR=FFFF0000]Updated Daily[/COLOR]</title>
+<link>rtmpe://strm.ukcast.tv/redirect playpath=bein7desi swfUrl=http://ukcast.tv/player/player.swf pageUrl=http://www.ukcast.tv live=true swfVfy=true timeout=15</link>
+<thumbnail>http://i.imgur.com/cHNlLaQ.jpg</thumbnail>
+</item>
+
+<item>
 <title>Bein 5  [COLOR=FFFF0000]Updated Daily[/COLOR]</title>
 <link>
 $doregex[url] playpath=$doregex[file] token=#yw%tt#w@kku swfUrl=$doregex[swf] live=true timeout=15 pageUrl=http://www.hdcast.org/
@@ -259,6 +284,12 @@ $doregex[url] playpath=$doregex[file] token=#yw%tt#w@kku swfUrl=$doregex[swf] li
 <referer>http://hdfoots.com/watch/beinsports-5-live-stream.php</referer>
 </regex>
 </link>
+<thumbnail>http://i.imgur.com/eKtzUc4.jpg</thumbnail>
+</item>
+
+<item>
+<title>Bein 5 (Link 2) [COLOR=FFFF0000]Updated Daily[/COLOR]</title>
+<link>rtmpe://strm.ukcast.tv/redirect playpath=bein5desii swfUrl=http://ukcast.tv/player/player.swf pageUrl=http://www.ukcast.tv live=true swfVfy=true timeout=15</link>
 <thumbnail>http://i.imgur.com/eKtzUc4.jpg</thumbnail>
 </item>
 
@@ -289,6 +320,12 @@ $doregex[url] playpath=$doregex[file] token=#yw%tt#w@kku swfUrl=$doregex[swf] li
 </item>
 
 <item>
+<title>Bein 6  [COLOR=FFFF0000]Updated Daily[/COLOR]</title>
+<link>rtmpe://strm.ukcast.tv/redirect playpath=bein6desi swfUrl=http://ukcast.tv/player/player.swf pageUrl=http://www.ukcast.tv live=true swfVfy=true timeout=15</link>
+<thumbnail>http://i.imgur.com/by9j5N2.jpg</thumbnail>
+</item>
+
+<item>
 <title>Bein 3  [COLOR=FFFF0000]Updated Daily[/COLOR]</title>
 <link>
 $doregex[url] playpath=$doregex[file] token=#yw%tt#w@kku swfUrl=$doregex[swf] live=true timeout=15 pageUrl=http://www.hdcast.org/
@@ -311,6 +348,32 @@ $doregex[url] playpath=$doregex[file] token=#yw%tt#w@kku swfUrl=$doregex[swf] li
 <referer>http://hdfoots.com/watch/beinsports-3-live-stream.php</referer>
 </regex>
 </link>
+<thumbnail>http://i.imgur.com/LaMq1FJ.jpg</thumbnail>
+</item>
+
+<item>
+<title>Bein 3 (Link 2) [COLOR=FFFF0000]Updated Daily[/COLOR]</title>
+<link>
+$doregex[url] app=liveedge/ playpath=$doregex[file] live=true timeout=15 pageUrl=http://zingo.tv/watch.php?id=1627&width=600&height=450
+<regex>
+<name>url</name>
+<expres>streamer: "([^"]*)</expres>
+<page>http://zingo.tv/watch.php?id=1627&width=600&height=450</page>
+<referer>http://hdembed.com/bein-sports3.php</referer>
+</regex>
+<regex>
+<name>file</name>
+<expres>file: "([^"]*)</expres>
+<page>http://zingo.tv/watch.php?id=1627&width=600&height=450</page>
+<referer>http://hdembed.com/bein-sports3.php</referer>
+</regex>
+</link>
+<thumbnail>http://i.imgur.com/LaMq1FJ.jpg</thumbnail>
+</item>
+
+<item>
+<title>Bein 3 (Link 3) [COLOR=FFFF0000]Updated Daily[/COLOR]</title>
+<link>rtmpe://strm.ukcast.tv/redirect playpath=bein3desi swfUrl=http://ukcast.tv/player/player.swf pageUrl=http://www.ukcast.tv live=true swfVfy=true timeout=15</link>
 <thumbnail>http://i.imgur.com/LaMq1FJ.jpg</thumbnail>
 </item>
 
@@ -355,6 +418,32 @@ $doregex[url]
 </item>
 
 <item>
+<title>Bein 2 (Link 3) [COLOR=FFFF0000]Updated Daily[/COLOR]</title>
+<link>
+$doregex[url] app=liveedge/ playpath=$doregex[file] live=true timeout=15 pageUrl=http://zingo.tv/watch.php?id=1626&width=600&height=450
+<regex>
+<name>url</name>
+<expres>streamer: "([^"]*)</expres>
+<page>http://zingo.tv/watch.php?id=1626&width=600&height=450</page>
+<referer>http://hdembed.com/bein-sports2.php</referer>
+</regex>
+<regex>
+<name>file</name>
+<expres>file: "([^"]*)</expres>
+<page>http://zingo.tv/watch.php?id=1626&width=600&height=450</page>
+<referer>http://hdembed.com/bein-sports2.php</referer>
+</regex>
+</link>
+<thumbnail>http://i.imgur.com/r3A1LIO.jpg</thumbnail>
+</item>
+
+<item>
+<title>Bein 2 (Link 4) [COLOR=FFFF0000]Updated Daily[/COLOR]</title>
+<link>rtmpe://strm.ukcast.tv/redirect playpath=bein2desii swfUrl=http://ukcast.tv/player/player.swf pageUrl=http://www.ukcast.tv live=true swfVfy=true timeout=15</link>
+<thumbnail>http://i.imgur.com/r3A1LIO.jpg</thumbnail>
+</item>
+
+<item>
 <title>Bein 4  [COLOR=FFFF0000]Updated Daily[/COLOR]</title>
 <link>
 $doregex[url] playpath=$doregex[file] token=#yw%tt#w@kku swfUrl=$doregex[swf] live=true timeout=15 pageUrl=http://www.hdcast.org/
@@ -381,6 +470,52 @@ $doregex[url] playpath=$doregex[file] token=#yw%tt#w@kku swfUrl=$doregex[swf] li
 </item>
 
 <item>
+<title>Bein 4 (Link 2) [COLOR=FFFF0000]Updated Daily[/COLOR]</title>
+<link>
+$doregex[url] app=liveedge/ playpath=$doregex[file] live=true timeout=15 pageUrl=http://zingo.tv/watch.php?id=1628&width=600&height=450
+<regex>
+<name>url</name>
+<expres>streamer: "([^"]*)</expres>
+<page>http://zingo.tv/watch.php?id=1628&width=600&height=450</page>
+<referer>http://hdembed.com/bein-sports4.php</referer>
+</regex>
+<regex>
+<name>file</name>
+<expres>file: "([^"]*)</expres>
+<page>http://zingo.tv/watch.php?id=1628&width=600&height=450</page>
+<referer>http://hdembed.com/bein-sports4.php</referer>
+</regex>
+</link>
+<thumbnail>http://i.imgur.com/MCi8WTD.jpg</thumbnail>
+</link>
+
+<item>
+<title>Bein 4 (Link 3) [COLOR=FFFF0000]Updated Daily[/COLOR]</title>
+<link>
+$doregex[streamer] playpath=$doregex[file] swfUrl=http://www.eucast.tv/player5.9.swf live=true timeout=15 pageUrl=http://www.eucast.tv/embed.php?live=bb4&vw=620&vh=490
+<regex>
+<name>streamer</name>
+<expres>'streamer','([^']*)</expres>
+<page>http://www.eucast.tv/embed.php?live=bb4&vw=620&vh=490</page>
+<referer>http://cricfree.tv/update/jsc4.php</referer>
+</regex>
+<regex>
+<name>file</name>
+<expres>'file','([^']*)</expres>
+<page>http://www.eucast.tv/embed.php?live=bb4&vw=620&vh=490</page>
+<referer>http://cricfree.tv/update/jsc4.php</referer>
+</regex>
+</link>
+<thumbnail>http://i.imgur.com/MCi8WTD.jpg</thumbnail>
+</link>
+
+<item>
+<title>Bein 4 (Link 4) [COLOR=FFFF0000]Updated Daily[/COLOR]</title>
+<link>rtmpe://strm.ukcast.tv/redirect playpath=bein4desi swfUrl=http://ukcast.tv/player/player.swf pageUrl=http://www.ukcast.tv live=true swfVfy=true timeout=15</link>
+<thumbnail>http://i.imgur.com/MCi8WTD.jpg</thumbnail>
+</link>
+
+<item>
 <title>Bein 8  [COLOR=FFFF0000]Updated Daily[/COLOR]</title>
 <link>
 $doregex[url] playpath=$doregex[file] token=#yw%tt#w@kku swfUrl=$doregex[swf] live=true timeout=15 pageUrl=http://www.hdcast.org/
@@ -403,6 +538,12 @@ $doregex[url] playpath=$doregex[file] token=#yw%tt#w@kku swfUrl=$doregex[swf] li
 <referer>http://hdfoots.com/watch/beinsports-8-live-stream.php</referer>
 </regex>
 </link>
+<thumbnail>http://i.imgur.com/cEpkyFy.jpg</thumbnail>
+</item>
+
+<item>
+<title>Bein 8  [COLOR=FFFF0000]Updated Daily[/COLOR]</title>
+<link>rtmpe://strm.ukcast.tv/redirect playpath=bein8desi swfUrl=http://ukcast.tv/player/player.swf pageUrl=http://www.ukcast.tv live=true swfVfy=true timeout=15</link>
 <thumbnail>http://i.imgur.com/cEpkyFy.jpg</thumbnail>
 </item>
 
@@ -473,6 +614,32 @@ $doregex[url]
 </item>
 
 <item>
+<title>Bein 1 (Link 3) [COLOR=FFFF0000]Updated Daily[/COLOR]</title>
+<link>
+$doregex[url] app=liveedge/ playpath=$doregex[file] live=true timeout=15 pageUrl=http://zingo.tv/watch.php?id=1625&width=600&height=450
+<regex>
+<name>url</name>
+<expres>streamer: "([^"]*)</expres>
+<page>http://zingo.tv/watch.php?id=1625&width=600&height=450</page>
+<referer>http://hdembed.com/bein-sports1.php</referer>
+</regex>
+<regex>
+<name>file</name>
+<expres>file: "([^"]*)</expres>
+<page>http://zingo.tv/watch.php?id=1625&width=600&height=450</page>
+<referer>http://hdembed.com/bein-sports1.php</referer>
+</regex>
+</link>
+<thumbnail>http://i.imgur.com/r3A1LIO.jpg</thumbnail>
+</item>
+
+<item>
+<title>Bein 1 (Link 4) [COLOR=FFFF0000]Updated Daily[/COLOR]</title>
+<link>rtmpe://strm.ukcast.tv/redirect playpath=bein1desii swfUrl=http://ukcast.tv/player/player.swf pageUrl=http://www.ukcast.tv live=true swfVfy=true timeout=15</link>
+<thumbnail>http://i.imgur.com/r3A1LIO.jpg</thumbnail>
+</item>
+
+<item>
 <title>Bahrain Sports</title>
 <link>rtmp://alayam.netromedia.net/btv3 playpath=btv3 swfUrl=http://player.netromedia.com/flowplayer.commercial-3.2.7.swf live=true timeout=15 pageUrl=http://www.watchfomny.com/Video/Arabic/Bahrain-Sports-Tv/Bahrain-Sports-Tv.htm</link>
 <thumbnail>http://ing-sat.what.hu/images/logo-insert/satlogos/bahrain/113-Bahrain-TV-Sports.jpg</thumbnail>
@@ -485,8 +652,8 @@ $doregex[url]
 </item>
 
 <item>
-<title>Dubai Sports</title>
-<link>rtsp://wms03.endavomedia.com:1935/dmi/_definst_/dmilivedubaisports3_bb.stream</link>
+<title>Dubai Sports  [COLOR=FFFF0000]Geo Blocked In Some Areas[/COLOR]</title>
+<link>http://cdnehlsdubaisports2.endavomedia.com/smil:dmilivedubaisports2.smil/playlist.m3u8</link>
 <thumbnail>http://referenceur-tv.com/wp-content/uploads/2013/05/dubai-sports-tv-online-live-channel-streaming.png</thumbnail>
 </item>
 

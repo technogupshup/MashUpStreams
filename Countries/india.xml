@@ -6,7 +6,7 @@
 
 <item>
 <title>Manoranjan Tv</title>
-<link>rtmp://50.7.175.253:1939/base2/maha20.stream app=base2 playPath=maha20.stream token=Vu4KaBzaxa pageUrl=http://desilivetv.net/manoranjan-tv/ swfUrl=http://desilivetv.net/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf</link>
+<link>rtmp://50.7.175.253:1939/base2 playPath=maha20.stream token=Vu4KaBzaxa pageUrl=http://desilivetv.net/manoranjan-tv/ swfUrl=http://desilivetv.net/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf</link>
 <thumbnail>http://desilivetv.net/wp-content/uploads/2014/01/Manoranjan-TV-India-Logo.jpg</thumbnail>
 </item>
 

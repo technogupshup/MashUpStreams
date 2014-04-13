@@ -11,12 +11,6 @@
 </item>
 
 <item>
-<title>Tolo News</title>
-<link>http://38.117.88.77/ToloNews?TICKET/path/to/media.file</link>
-<thumbnail>https://yt3.ggpht.com/-bn1yErkuAgU/AAAAAAAAAAI/AAAAAAAAAAA/M7TMGUrGVBk/s900-c-k-no/photo.jpg</thumbnail>
-</item>
-
-<item>
 <title>MBN</title>
 <link>rtmp://119.59.82.214:1935/live playpath=mp4:livestream.f4v swfUrl=http://mbn.af/swfs/StrobeMediaPlayback.swf live=true timeout=60 pageUrl=http://mbn.af/livetv.php</link>
 <thumbnail>http://mbn.af/images/logo/gif.gif</thumbnail>
@@ -24,7 +18,7 @@
 
 <item>
 <title>Tolo [COLOR=FFFF0000]Link 2[/COLOR]</title>
-<link>http://stream.ssh101.com/hls/tolo1221.m3u8</link>
+<link>rtmp://208.43.81.145/zenex playpath=6tol5tv1?id=2030 conn=S:OK swfUrl=http://www.zenex.tv/data/scripts/eplayer.swf live=true timeout=60 pageUrl=http://www.zenex.tv/embedplayer/6tol5tv1/1/670/410</link>
 <thumbnail>http://upload.wikimedia.org/wikipedia/en/0/01/Tolo.jpg</thumbnail>
 </item>
 

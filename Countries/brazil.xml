@@ -295,7 +295,7 @@
 <item>
 <title>TV Aberta</title>
 <link>rtmp://inaclive.tv.br/tvabertalive playpath=aovivo swfUrl=http://tvaberta.inaclive.tv.br/player.swf live=true timeout=15 pageUrl=http://tvaberta.inaclive.tv.br/player_717.php swfVfy=true live=true timeout=60</link>
-<thumbnail>http://www.acesp.tv.br/img/uploads//emissoras/4e57e797edb48.jpg</thumbnail>
+<thumbnail>http://www.tvaberta.tv.br/_img/logo-tv-aberta.gif</thumbnail>
 </item>
 
 <item>
@@ -367,7 +367,7 @@
 <item>
 <title>TV ABCD</title>
 <link>rtmp://tvabcd.flashplayer.acessaradios.com.br:443/tvabcd/ swfUrl=http://www.tvtuga.com/live47/player.swf pageURL=http://www.tvtuga.com/tv-abcd/ playpath=*. live=true timeout=60</link>
-<thumbnail>http://images.tvabcd.com.br/images/90bd66648fc6a0aba927fbbf35cb831b.png</thumbnail>
+<thumbnail>http://4.bp.blogspot.com/_744KXmFCyEo/S-tALd45xOI/AAAAAAAAANY/PwEEHZay7Ak/s400/tv-abcd-logo-web-canal-online-24.png</thumbnail>
 </item>
 
 <item>

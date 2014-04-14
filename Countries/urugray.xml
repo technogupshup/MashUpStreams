@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<channel>
+<name>Uruguayan TV Channels</name>
+<thumbnail></thumbnail>
+
+<item>
+<title>Canal 10</title>
+<link>rtmp://190.0.132.2:1937/ app=saeta/ playpath=saeta.stream_700000 swfUrl=https://s3.amazonaws.com/web10.resources.production/jwplayer/jwplayer.flash.swf live=true timeout=15 pageUrl=http://requechando.org/Requechando/Saeta-Canal-10-de-Uruguay---En-Vivo-Online/2161/0</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/cc/canal10_uy.png</thumbnail>
+</item>
+
+<item>
+<title>TNU - Televisión Nacional</title>
+<link>http://live.cdn.antel.net.uy/auth_1_8byyop2p/hls/auth_1_8byyop2p.m3u8</link>
+<thumbnail>http://1.bp.blogspot.com/_04JCiHE-JWs/SpFpQqKLbnI/AAAAAAAAAY0/HRWz_H-8mwg/s320/TNU_Logo_320.jpg</thumbnail>
+</item>
+
+<item>
+<title>Tevé Ciudad</title>
+<link>http://live.cdn.antel.net.uy/auth_1_h1d73c2l/hls/auth_1_h1d73c2l.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/tt/teve_ciudad.png</thumbnail>
+</item>
+
+<item>
+<title>Canal A + V</title>
+<link>http://live.cdn.antel.net.uy/auth_0_hy7fqfuw/hls/auth_0_hy7fqfuw.m3u8</link>
+<thumbnail>https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-frc3/t1.0-9/295914_340741382682782_38452627_n.jpg</thumbnail>
+</item>
+
+</channel>

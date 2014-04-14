@@ -5,18 +5,74 @@
 <thumbnail></thumbnail>
 
 <item>
+<title>ANC News</title>
+<link>
+rtmp://cp106256.live.edgefcs.net/live?videoId=$doregex[url]&amp;lineUpId=&amp;pubId=$doregex[url1]&amp;playerId=$doregex[url2]&amp;affiliateId=/ playpath=iwantanc-600@44207?videoId=$doregex[url]&amp;lineUpId=&amp;pubId=$doregex[url1]&amp;playerId=$doregex[url2]&amp;affiliateId= swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf live=true timeout=15 pageUrl=http://www.telebyuwers.ph/2013/08/abs-cbn-news-channel-live-stream.html
+<regex>
+<name>url</name>
+<expres>videoId=([^&]*)</expres>
+<page>http://www.telebyuwers.ph/2013/08/abs-cbn-news-channel-live-stream.html</page>
+<referer> </referer>
+</regex>
+<regex>
+<name>url1</name>
+<expres>pubId=([^&]*)</expres>
+<page>http://www.telebyuwers.ph/2013/08/abs-cbn-news-channel-live-stream.html</page>
+<referer> </referer>
+</regex>
+<regex>
+<name>url2</name>
+<expres>playerId=([^&]*)</expres>
+<page>http://www.telebyuwers.ph/2013/08/abs-cbn-news-channel-live-stream.html</page>
+<referer> </referer>
+</regex>
+</link>
+<thumbnail>http://1.bp.blogspot.com/--dgB6m4uZRs/ThFlH7rntUI/AAAAAAAAAFA/QJjAx-tvO08/s1600/anc_abs_cbn_news_channel.png</thumbnail>
+</item>
+
+<item>
+<title>GMA</title>
+<link>rtmp://cp106256.live.edgefcs.net/ app=live?affiliateId=/ playpath=iwantbtv-600@50588 swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf live=true timeout=15 pageUrl=http://www.telebyuwers.ph/p/gma-live-stream-tv.html</link>
+<thumbnail>http://whynotcoconut.com/wp-content/uploads/2012/04/Gma_network_logo.png</thumbnail>
+</item>
+
+<item>
+<title>ABS-CBN</title>
+<link>
+rtmp://cp106256.live.edgefcs.net:443/live?videoId=$doregex[url]&amp;lineUpId=&amp;pubId=$doregex[url1]&amp;playerId=$doregex[url2]&amp;affiliateId=/ playpath=iwantabs-256@36979?videoId=$doregex[url]&amp;lineUpId=&amp;pubId=$doregex[url1]&amp;playerId=$doregex[url2]&amp;affiliateId= swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf live=true timeout=15 pageUrl=http://www.telebyuwers.ph/p/abs-cbn-live-stream-tv.html
+<regex>
+<name>url</name>
+<expres>videoId=([^&]*)</expres>
+<page>http://www.telebyuwers.ph/p/abs-cbn-live-stream-tv.html</page>
+<referer> </referer>
+</regex>
+<regex>
+<name>url1</name>
+<expres>pubId=([^&]*)</expres>
+<page>http://www.telebyuwers.ph/p/abs-cbn-live-stream-tv.html</page>
+<referer> </referer>
+</regex>
+<regex>
+<name>url2</name>
+<expres>playerId=([^&]*)</expres>
+<page>http://www.telebyuwers.ph/p/abs-cbn-live-stream-tv.html</page>
+<referer> </referer>
+</regex>
+</link>
+<thumbnail>http://www.smsupermalls.com/sites/default/files/abs_cbn_logo.png</thumbnail>
+</item>
+
+<item>
 <title>TV 5</title>
 <link>http://edge.pldt.swiftserve.com/live/mediascape/amlst:tv5/playlist.m3u8</link>
 <thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/Mashup/tv5_zpsa48341ab.png</thumbnail>
 </item>
-
 
 <item>
 <title>Radyo 5</title>
 <link>http://103.11.114.132:8000/stream</link>
 <thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/Mashup/radyo5_zps1e4a8acb.png</thumbnail>
 </item>
-
 
 <item>
 <title>PTV</title>

@@ -254,3 +254,7 @@ http://www.iconspedia.com/icon/
 <name>Maltese TV Channels</name>
 <link>https://raw.github.com/mash2k3/MashUpStreams/master/Countries/malta.xml</link>
 <thumbnail>https://raw.github.com/mash2k3/MashUpStreams/master/Countries/flags/Malta.png</thumbnail>
+
+<name>Uruguayan TV Channels</name>
+<link>https://raw.github.com/mash2k3/MashUpStreams/master/Countries/urugray.xml</link>
+<thumbnail>https://raw.github.com/mash2k3/MashUpStreams/master/Countries/flags/uruguay.png</thumbnail>

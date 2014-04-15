@@ -113,8 +113,8 @@
 </item>
 
 <item>
-<title>S.A.TV</title>
-<link>rtmp://server55.livestreamingcdn.com:1935/satvlive playpath=myStream.sdp swfUrl=http://satvlive.com/modules/mod_playerjr/player-licensed5.swf live=true timeout=60 pageUrl=http://satvlive.com/</link>
+<title>S.A.TV  [COLOR=FFFF0000]Working[/COLOR]</title>
+<link>rtmp://server55.livestreamingcdn.com:1935/satvlive playpath=myStream.sdp swfUrl=http://www.satvlive.com/modules/mod_playerjr/player-licensed5.swf live=ture timeout=60 pageUrl=http://www.satvlive.com/</link>
 <thumbnail>http://www.afghanfun.com/wp-content/uploads/2012/10/satlive.jpg</thumbnail>
 </item>
 

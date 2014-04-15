@@ -64,4 +64,82 @@
 <thumbnail>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQW70cx-uJo3CBjJQ-K6d0vESjwL1R10Ql-0QTUNFveGoKJyhfr</thumbnail>
 </item>
 
+<item>
+<title>AZTECA NOTICIAS</title>
+<link>http://urtmpkal-f.akamaihd.net/i/077zoqxzy_1@130091/index_3_av-p.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/azteca_noticias_mx.png</thumbnail>
+</item>
+
+<item>
+<title>Canal 22 Mexico</title>
+<link>rtmp://origen.cloudapp.net/live/ playpath=envivopc swfUrl=http://www.longtailvideo.com/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://www.streamsportlive.me/15.html</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/cc/canal_22_mx.png</thumbnail>
+</item>
+
+<item>
+<title>Canal 24 Horas</title>
+<link>rtmp://video.stream.mx/8058/ playpath=8058 swfUrl=http://www.longtailvideo.com/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://www.streamsportlive.me/18.html</link>
+<thumbnail>http://www.tvn.cl/comercial/incoming/article609677.ece/BINARY/logo+canal+24h.jpg</thumbnail>
+</item>
+
+<item>
+<title>Canal 44</title>
+<link>rtmp://unirtmp.tulix.tv:1935/canal44/ playpath=myStream.sdp swfUrl=http://www.longtailvideo.com/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://www.streamsportlive.me/16.html</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/cc/canal44_mx.png</thumbnail>
+</item>
+
+<item>
+<title>Canal 66</title>
+<link>rtmp://unirtmp.tulix.tv:1935/canal66/ playpath=myStream.sdp swfUrl=http://www.longtailvideo.com/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://www.streamsportlive.me/17.html</link>
+<thumbnail>https://lh3.googleusercontent.com/-TwWQf6I4Q9c/TYqeIc1b-KI/AAAAAAAAANE/tN8kRJksSYw/s1600/xhila-canal-66.jpg</thumbnail>
+</item>
+
+<item>
+<title>CB Television</title>
+<link>rtmp://189.199.90.164:1935/live playpath=myStreamHD.sdp swfUrl=http://player.longtailvideo.com/player.swf live=1 pageUrl=http://www.stream2video.tv/getStream/132/1</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/cc/cb_tv_mexico.png</thumbnail>
+</item>
+
+<item>
+<title>ERH</title>
+<link>rtmp://72.233.78.178/live/ playpath=A swfUrl=http://www.longtailvideo.com/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://www.streamsportlive.me/20.html</link>
+<thumbnail> </thumbnail>
+</item>
+
+<item>
+<title>Milenio Centro</title>
+<link>http://brightcove03-f.akamaihd.net/milenio_centro_512k@101956</link>
+<thumbnail> </thumbnail>
+</item>
+
+<item>
+<title>MULTIMEDIOS TV</title>
+<link>http://brightcove03-f.akamaihd.net/multimedios_tv_612k@55732?file=ChelTV_m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/mm/multimedios_tv.png</thumbnail>
+</item>
+
+<item>
+<title>Once TV</title>
+<link>rtmp://www.oncetvmexicolive.tv:1935/livepkgr2 playpath=int3 swfUrl=http://fpdownload.adobe.com/strobe/FlashMediaPlayback_101.swf/[[DYNAMIC]]/1 live=1 pageUrl=http://www.stream2video.tv/getStream/137/1</link>
+<thumbnail>http://alternatv.us/ipublish/data/images/348Logo_Once_Mexico_alta_copy.jpg</thumbnail>
+</item>
+
+<item>
+<title>Canal 10</title>
+<link>rtmp://www.oncetvmexicolive.tv:1935/livepkgr2 playpath=int3 swfUrl=http://www.oncetvmexicolive.tv/StrobeMediaPlayback.swf</link>
+<thumbnail>https://pbs.twimg.com/profile_images/378800000572089647/30ddd7ad971de79b157068e2dcc510cd.png</thumbnail>
+</item>
+
+<item>
+<title>Nuestravision</title>
+<link>rtmp://video.stream.mx/8058/8058</link>
+<thumbnail>http://www.nuestravision.com.mx/images/logo1.png</thumbnail>
+</item>
+
+<item>
+<title>Mexiquense</title>
+<link>rtmp://fss28.streamhoster.com:1935/lv_tvmexiquense/_definst_ playpath=broadcast1 swfUrl=http://fpdownload.adobe.com/strobe/FlashMediaPlayback_101.swf/[[DYNAMIC]]/1 live=1 pageUrl=http://www.stream2video.tv/getStream/134/1</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/xx/xhptp_tv_mexiquense.png</thumbnail>
+</item>
+
 </channel>

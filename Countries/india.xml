@@ -107,7 +107,7 @@
 
 <item>
 <title>Star Plus</title> 
-<link>rtmpe://94.242.228.22:443/ app=liveedge/ playpath=plus6186 live=true timeout=60 pageurl=http://zingo.tv</link>
+<link>rtmp://159.253.143.20/stream playpath=starsplus?id=121036 conn=S:OK swfUrl=http://www.liveflash.tv/resources/scripts/eplayer.swf live=true timeout=60 pageUrl=http://www.liveflash.tv/embedplayer/starsplus/1/600/400</link>
 <thumbnail>http://static2.wikia.nocookie.net/__cb20100619101411/logopedia/images/f/fc/StarPlus_2010.png</thumbnail>
 </item>
 

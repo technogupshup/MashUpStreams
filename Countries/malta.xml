@@ -1,4 +1,4 @@
- <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+x <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 <channel>
 <name>Maltese TV Channels</name>
@@ -6,14 +6,7 @@
 
 <item>
 <title>TVM</title>
-<link>$doregex[url]
-<regex>
-<name>url</name>
-<expres>"hls_stream": "([^"]*)</expres>
-<page>http://tvm.23video.com/api/concatenate?callback=visualplatformconcat_0&amp;amp;format=json&amp;amp;playersettings_0=%2Fapi%2Fplayer%2Fsettings%3Fplayer_id%3D0%26parameters%3Dlive%25255fid%253D8733521%2526source%253Dembed%2526autoPlay%253D1&amp;amp;livelist_1=%2Fapi%2Flive%2Flist%3Flive_id%3D8733521%26source%3Dembed%26autoPlay%3D1%26upcoming_p%3D1%26ordering%3Dstreaming%26player_id%3D0&amp;amp;photolist_2=%2Fapi%2Fphoto%2Flist%3Fsize%3D10%26include_actions_p%3D1%26live_id%3D8733521%26source%3Dembed%26autoPlay%3D1%26upcoming_p%3D1%26ordering%3Dstreaming%26player_id%3D0</page>
-<referer>http://tvm.23video.com/v.ihtml/player.html?live%5fid=8733521&amp;amp;source=embed&amp;amp;autoPlay=1</referer>
-</regex>
-</link>
+<link>http://tvm.23video.com/stream/8733521/291209fd73739a0d5956/playlist.m3u8</link>
 <thumbnail>http://www.tvm.com.mt/wp-content/themes/pbs/images/logo-tvm.png</thumbnail>
 </item>
 
@@ -30,5 +23,23 @@
 <thumbnail>http://www.tvm.com.mt/wp-content/themes/pbs/images/img-live-tvm2.jpg</thumbnail>
 </item>
 
+<item>
+<title>Net TV</title>
+<link>rtmp://stream.vanilla.net.mt/live playpath=net3 swfUrl=http://live.nettv.com.mt/js/jwplayer/player.swf live=true timeout=15 pageUrl=http://live.nettv.com.mt/</link>
+<thumbnail>http://4.bp.blogspot.com/-VajjlS1Fbp0/ToC6mN6duaI/AAAAAAAAAXE/SCPZEWdDefQ/s1600/NET+Logo.png</thumbnail>
+</item>
+
+<item>
+<title>One TV</title>
+<link>rtmp://178.32.140.240/skyline3 playpath=$doregex[path] swfUrl=http://cdn.skylinewebcams.com/player/skylinewebcams.swf pageUrl=http://www.skylinewebcams.com live=1 timeout=10
+<regex>
+<name>path</name>
+<expres>,url:'([^']*)</expres>
+<page>http://www.skylinewebcams.com/web-tv/malta/one.html?w=253</page>
+<referer>http://www.one.com.mt/index.php?id=1928</referer>
+</regex>
+</link>
+<thumbnail>http://www.sportinmalta.com/wp-content/uploads/2010/11/One-Productions.jpg</thumbnail>
+</item>
 
 </channel>

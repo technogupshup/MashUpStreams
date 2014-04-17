@@ -7,7 +7,7 @@
 
 <item>
 <title>Cam News 24</title>
-<link>rtmp://camnews24.streamakaci.com:1935/camnews24?ovpfv=2.1.6 playpath=camnews24 swfUrl=http://lb.streamakaci.com/streamakaci/library/AkamaiMultiPlayer.swf live=true timeout=15 pageUrl=http://lb.streamakaci.com/camnews24/</link>
+<link>rtmp://82.80.192.6:1935/ app=camnews_Live4Repeat playpath=Live4_3 swfUrl=http://nsa-s.nsacdn.com/p2/rtmp/Plugins/SmilListPlugin.swf?version=6.8 live=true timeout=15 pageUrl=http://rr-d.nsacdn.com/mini/getplayer.php?app=live&site_id=camnews&stream_id=Live4&width=640&height=480</link>
 <thumbnail>http://www.camnews24.com/fr/images/stories/Kmer/camnews24tv.jpg</thumbnail>
 </item>
 

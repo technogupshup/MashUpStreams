@@ -212,16 +212,10 @@ $doregex[url] playpath=$doregex[file] token=#yw%tt#w@kku swfUrl=$doregex[swf] li
 <item>
 <title>Bein 11 (Link 2) [COLOR=FFFF0000]Updated Daily[/COLOR]</title>
 <link>
-$doregex[streamer] playpath=$doregex[file] swfUrl=http://www.eucast.tv/player5.9.swf live=true timeout=15 pageUrl=http://www.eucast.tv/embed.php?live=b11r&vw=620&vh=490
+$doregex[streamer] swfUrl=http://www.eucast.tv/player5.9.swf live=true timeout=15 pageUrl=http://www.eucast.tv/embed.php?live=b11r&vw=620&vh=490
 <regex>
 <name>streamer</name>
-<expres>'streamer','([^']*)</expres>
-<page>http://www.eucast.tv/embed.php?live=b11r&vw=620&vh=490</page>
-<referer>http://cricfree.tv/update/jsc9.php</referer>
-</regex>
-<regex>
-<name>file</name>
-<expres>'file','([^']*)</expres>
+<expres>file: "([^"]*)</expres>
 <page>http://www.eucast.tv/embed.php?live=b11r&vw=620&vh=490</page>
 <referer>http://cricfree.tv/update/jsc9.php</referer>
 </regex>
@@ -290,6 +284,19 @@ $doregex[url] playpath=$doregex[file] token=#yw%tt#w@kku swfUrl=$doregex[swf] li
 <item>
 <title>Bein 5 (Link 2) [COLOR=FFFF0000]Updated Daily[/COLOR]</title>
 <link>rtmpe://strm.ukcast.tv/redirect playpath=bein5desii swfUrl=http://ukcast.tv/player/player.swf pageUrl=http://www.ukcast.tv live=true swfVfy=true timeout=15</link>
+<thumbnail>http://i.imgur.com/eKtzUc4.jpg</thumbnail>
+</item>
+
+<item>
+<title>Bein 5 (Link 3) [COLOR=FFFF0000]Updated Daily[/COLOR]</title>
+<link>$doregex[streamer] swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.eucast.tv/
+<regex>
+<name>streamer</name>
+<expres>file: "([^"]*)</expres>
+<page>http://www.eucast.tv/embed.php?live=b5r&amp;vw=620&amp;vh=490</page>
+<referer>http://cricfree.tv/update/jsc5.php</referer>
+</regex>
+</link>
 <thumbnail>http://i.imgur.com/eKtzUc4.jpg</thumbnail>
 </item>
 
@@ -378,6 +385,19 @@ $doregex[url] app=liveedge/ playpath=$doregex[file] live=true timeout=15 pageUrl
 </item>
 
 <item>
+<title>Bein 3 (Link 4) [COLOR=FFFF0000]Updated Daily[/COLOR]</title>
+<link>$doregex[streamer] swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.eucast.tv/
+<regex>
+<name>streamer</name>
+<expres>file: "([^"]*)</expres>
+<page>http://www.eucast.tv/embed.php?live=b3r&amp;vw=620&amp;vh=490</page>
+<referer>http://cricfree.tv/update/jsc3.php</referer>
+</regex>
+</link>
+<thumbnail>http://i.imgur.com/LaMq1FJ.jpg</thumbnail>
+</item>
+
+<item>
 <title>Bein 2  [COLOR=FFFF0000]Updated Daily[/COLOR]</title>
 <link>
 $doregex[url] playpath=$doregex[file] token=#yw%tt#w@kku swfUrl=$doregex[swf] live=true timeout=15 pageUrl=http://www.hdcast.org/
@@ -405,15 +425,7 @@ $doregex[url] playpath=$doregex[file] token=#yw%tt#w@kku swfUrl=$doregex[swf] li
 
 <item>
 <title>Bein 2 (Link 2) [COLOR=FFFF0000]Updated Daily[/COLOR]</title>
-<link>
-$doregex[url]
-<regex>
-<name>url</name>
-<expres>file: "([^"]*)</expres>
-<page>http://www.indostreamix.com/2013/11/bein-sport-2-live-streaming.html</page>
-<referer>http://www.indostreamix.com/2014/01/bein-sport-1-arabic.html</referer>
-</regex>
-</link>
+<link>http://202.75.23.37:8800/live/ch19/01.m3u8</link>
 <thumbnail>http://i.imgur.com/r3A1LIO.jpg</thumbnail>
 </item>
 
@@ -440,6 +452,19 @@ $doregex[url] app=liveedge/ playpath=$doregex[file] live=true timeout=15 pageUrl
 <item>
 <title>Bein 2 (Link 4) [COLOR=FFFF0000]Updated Daily[/COLOR]</title>
 <link>rtmpe://strm.ukcast.tv/redirect playpath=bein2desii swfUrl=http://ukcast.tv/player/player.swf pageUrl=http://www.ukcast.tv live=true swfVfy=true timeout=15</link>
+<thumbnail>http://i.imgur.com/r3A1LIO.jpg</thumbnail>
+</item>
+
+<item>
+<title>Bein 2 (Link 5) [COLOR=FFFF0000]Updated Daily[/COLOR]</title>
+<link>$doregex[streamer] swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.eucast.tv/
+<regex>
+<name>streamer</name>
+<expres>file: "([^"]*)</expres>
+<page>http://www.eucast.tv/embed.php?live=b2r&amp;vw=620&amp;vh=490</page>
+<referer>http://cricfree.tv/update/jsc2.php</referer>
+</regex>
+</link>
 <thumbnail>http://i.imgur.com/r3A1LIO.jpg</thumbnail>
 </item>
 
@@ -492,16 +517,10 @@ $doregex[url] app=liveedge/ playpath=$doregex[file] live=true timeout=15 pageUrl
 <item>
 <title>Bein 4 (Link 3) [COLOR=FFFF0000]Updated Daily[/COLOR]</title>
 <link>
-$doregex[streamer] playpath=$doregex[file] swfUrl=http://www.eucast.tv/player5.9.swf live=true timeout=15 pageUrl=http://www.eucast.tv/embed.php?live=bb4&vw=620&vh=490
+$doregex[streamer] swfUrl=http://www.eucast.tv/player5.9.swf live=true timeout=15 pageUrl=http://www.eucast.tv/embed.php?live=bb4&vw=620&vh=490
 <regex>
 <name>streamer</name>
-<expres>'streamer','([^']*)</expres>
-<page>http://www.eucast.tv/embed.php?live=bb4&vw=620&vh=490</page>
-<referer>http://cricfree.tv/update/jsc4.php</referer>
-</regex>
-<regex>
-<name>file</name>
-<expres>'file','([^']*)</expres>
+<expres>file: "([^"]*)</expres>
 <page>http://www.eucast.tv/embed.php?live=bb4&vw=620&vh=490</page>
 <referer>http://cricfree.tv/update/jsc4.php</referer>
 </regex>
@@ -544,6 +563,19 @@ $doregex[url] playpath=$doregex[file] token=#yw%tt#w@kku swfUrl=$doregex[swf] li
 <item>
 <title>Bein 8 (Link 2) [COLOR=FFFF0000]Updated Daily[/COLOR]</title>
 <link>rtmpe://strm.ukcast.tv/redirect playpath=bein8desi swfUrl=http://ukcast.tv/player/player.swf pageUrl=http://www.ukcast.tv live=true swfVfy=true timeout=15</link>
+<thumbnail>http://i.imgur.com/cEpkyFy.jpg</thumbnail>
+</item>
+
+<item>
+<title>Bein 8 (Link 3) [COLOR=FFFF0000]Updated Daily[/COLOR]</title>
+<link>$doregex[streamer] swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.eucast.tv/
+<regex>
+<name>streamer</name>
+<expres>file: "([^"]*)</expres>
+<page>http://www.eucast.tv/embed.php?live=b8r&amp;vw=620&amp;vh=490</page>
+<referer>http://cricfree.tv/update/jsc8.php</referer>
+</regex>
+</link>
 <thumbnail>http://i.imgur.com/cEpkyFy.jpg</thumbnail>
 </item>
 
@@ -601,15 +633,7 @@ $doregex[url] playpath=$doregex[file] token=#yw%tt#w@kku swfUrl=$doregex[swf] li
 
 <item>
 <title>Bein 1 (Link 2) [COLOR=FFFF0000]Updated Daily[/COLOR]</title>
-<link>
-$doregex[url]
-<regex>
-<name>url</name>
-<expres>file: "([^"]*)</expres>
-<page>http://www.indostreamix.com/2013/07/bein-sport-1-live-streaming.html</page>
-<referer>http://www.indostreamix.com/2014/01/bein-sport-1-arabic.html</referer>
-</regex>
-</link>
+<link>http://202.75.23.37:8800/live/ch18/01.m3u8</link>
 <thumbnail>http://i.imgur.com/r3A1LIO.jpg</thumbnail>
 </item>
 
@@ -638,6 +662,19 @@ $doregex[url] app=liveedge/ playpath=$doregex[file] live=true timeout=15 pageUrl
 <link>rtmpe://strm.ukcast.tv/redirect playpath=bein1desii swfUrl=http://ukcast.tv/player/player.swf pageUrl=http://www.ukcast.tv live=true swfVfy=true timeout=15</link>
 <thumbnail>http://i.imgur.com/r3A1LIO.jpg</thumbnail>
 </item>
+
+<item>
+<title>Bein 1 (Link 5)[COLOR=FFFF0000]Updated Daily[/COLOR]</title>
+<link>$doregex[streamer] swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.eucast.tv/
+<regex>
+<name>streamer</name>
+<expres>file: "([^"]*)</expres>
+<page>http://www.eucast.tv/embed.php?live=b1r&amp;vw=620&amp;vh=490</page>
+<referer>http://cricfree.tv/update/jsc1.php</referer>
+</regex>
+</link>
+<thumbnail>http://i.imgur.com/r3A1LIO.jpg</thumbnail>
+</item> 
 
 <item>
 <title>Bahrain Sports</title>

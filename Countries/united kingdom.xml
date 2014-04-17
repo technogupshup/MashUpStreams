@@ -8,16 +8,10 @@
 <item>
 <title>Sky Sports 1</title>
 <link>
-$doregex[streamer] playpath=$doregex[file] swfUrl=http://www.eucast.tv/player5.9.swf live=true timeout=15 pageUrl=http://www.eucast.tv/embed.php?live=ss1x&vw=620&vh=490
+$doregex[streamer] swfUrl=http://www.eucast.tv/player5.9.swf live=true timeout=15 pageUrl=http://www.eucast.tv/
 <regex>
 <name>streamer</name>
-<expres>'streamer','([^']*)</expres>
-<page>http://www.eucast.tv/embed.php?live=ss1x&vw=620&vh=490</page>
-<referer>http://cricfree.tv/update/skys1.php</referer>
-</regex>
-<regex>
-<name>file</name>
-<expres>'file','([^']*)</expres>
+<expres>file: "([^"]*)</expres>
 <page>http://www.eucast.tv/embed.php?live=ss1x&vw=620&vh=490</page>
 <referer>http://cricfree.tv/update/skys1.php</referer>
 </regex>
@@ -28,16 +22,10 @@ $doregex[streamer] playpath=$doregex[file] swfUrl=http://www.eucast.tv/player5.9
 <item>
 <title>Sky Sports 2</title>
 <link>
-$doregex[streamer] playpath=$doregex[file] swfUrl=http://www.eucast.tv/player5.9.swf live=true timeout=15 pageUrl=http://www.eucast.tv/embed.php?live=ss2x&vw=620&vh=490
+$doregex[streamer] swfUrl=http://www.eucast.tv/player5.9.swf live=true timeout=15 pageUrl=http://www.eucast.tv/
 <regex>
 <name>streamer</name>
-<expres>'streamer','([^']*)</expres>
-<page>http://www.eucast.tv/embed.php?live=ss2x&vw=620&vh=490</page>
-<referer>http://cricfree.tv/update/skys2.php</referer>
-</regex>
-<regex>
-<name>file</name>
-<expres>'file','([^']*)</expres>
+<expres>file: "([^"]*)</expres>
 <page>http://www.eucast.tv/embed.php?live=ss2x&vw=620&vh=490</page>
 <referer>http://cricfree.tv/update/skys2.php</referer>
 </regex>
@@ -48,16 +36,9 @@ $doregex[streamer] playpath=$doregex[file] swfUrl=http://www.eucast.tv/player5.9
 <item>
 <title>Sky Sports 3</title>
 <link>
-$doregex[streamer] playpath=$doregex[file] swfUrl=http://www.eucast.tv/player5.9.swf live=true timeout=15 pageUrl=http://www.eucast.tv/embed.php?live=ss3x&vw=620&vh=490
-<regex>
+$doregex[streamer] swfUrl=http://www.eucast.tv/player5.9.swf live=true timeout=15 pageUrl=http://www.eucast.tv/
 <name>streamer</name>
-<expres>'streamer','([^']*)</expres>
-<page>http://www.eucast.tv/embed.php?live=ss3x&vw=620&vh=490</page>
-<referer>http://cricfree.tv/update/skys3.php</referer>
-</regex>
-<regex>
-<name>file</name>
-<expres>'file','([^']*)</expres>
+<expres>file: "([^"]*)</expres>
 <page>http://www.eucast.tv/embed.php?live=ss3x&vw=620&vh=490</page>
 <referer>http://cricfree.tv/update/skys3.php</referer>
 </regex>
@@ -68,16 +49,10 @@ $doregex[streamer] playpath=$doregex[file] swfUrl=http://www.eucast.tv/player5.9
 <item>
 <title>Sky Sports F1</title>
 <link>
-$doregex[streamer] playpath=$doregex[file] swfUrl=http://www.eucast.tv/player5.9.swf live=true timeout=15 pageUrl=http://www.eucast.tv/embed.php?live=ssf1x&vw=620&vh=490
+$doregex[streamer] swfUrl=http://www.eucast.tv/player5.9.swf live=true timeout=15 pageUrl=http://www.eucast.tv/
 <regex>
 <name>streamer</name>
-<expres>'streamer','([^']*)</expres>
-<page>http://www.eucast.tv/embed.php?live=ssf1x&vw=620&vh=490</page>
-<referer>http://cricfree.tv/update/skysf1.php</referer>
-</regex>
-<regex>
-<name>file</name>
-<expres>'file','([^']*)</expres>
+<expres>file: "([^"]*)</expres>
 <page>http://www.eucast.tv/embed.php?live=ssf1x&vw=620&vh=490</page>
 <referer>http://cricfree.tv/update/skysf1.php</referer>
 </regex>
@@ -88,16 +63,10 @@ $doregex[streamer] playpath=$doregex[file] swfUrl=http://www.eucast.tv/player5.9
 <item>
 <title>Eurosport 2</title>
 <link>
-$doregex[streamer] playpath=$doregex[file] swfUrl=http://www.eucast.tv/player5.9.swf live=true timeout=15 pageUrl=http://www.eucast.tv/embed.php?live=euro2x&vw=620&vh=490
+$doregex[streamer] swfUrl=http://www.eucast.tv/player5.9.swf live=true timeout=15 pageUrl=http://www.eucast.tv/
 <regex>
 <name>streamer</name>
-<expres>'streamer','([^']*)</expres>
-<page>http://www.eucast.tv/embed.php?live=euro2x&vw=620&vh=490</page>
-<referer>http://cricfree.tv/update/euro2.php</referer>
-</regex>
-<regex>
-<name>file</name>
-<expres>'file','([^']*)</expres>
+<expres>file: "([^"]*)</expres>
 <page>http://www.eucast.tv/embed.php?live=euro2x&vw=620&vh=490</page>
 <referer>http://cricfree.tv/update/euro2.php</referer>
 </regex>
@@ -108,16 +77,10 @@ $doregex[streamer] playpath=$doregex[file] swfUrl=http://www.eucast.tv/player5.9
 <item>
 <title>Eurosport 1</title>
 <link>
-$doregex[streamer] playpath=$doregex[file] swfUrl=http://www.eucast.tv/player5.9.swf live=true timeout=15 pageUrl=http://www.eucast.tv/embed.php?live=euro1x&vw=620&vh=490
+$doregex[streamer] swfUrl=http://www.eucast.tv/player5.9.swf live=true timeout=15 pageUrl=http://www.eucast.tv/
 <regex>
 <name>streamer</name>
-<expres>'streamer','([^']*)</expres>
-<page>http://www.eucast.tv/embed.php?live=euro1x&vw=620&vh=490</page>
-<referer>http://cricfree.tv/update/euro.php</referer>
-</regex>
-<regex>
-<name>file</name>
-<expres>'file','([^']*)</expres>
+<expres>file: "([^"]*)</expres>
 <page>http://www.eucast.tv/embed.php?live=euro1x&vw=620&vh=490</page>
 <referer>http://cricfree.tv/update/euro.php</referer>
 </regex>
@@ -126,18 +89,12 @@ $doregex[streamer] playpath=$doregex[file] swfUrl=http://www.eucast.tv/player5.9
 </item>
 
 <item>
-<title>SKY Sports 4</title>
+<title>Sky Sports 4</title>
 <link>
-$doregex[streamer] playpath=$doregex[file] swfUrl=http://www.eucast.tv/player5.9.swf live=true timeout=15 pageUrl=http://www.eucast.tv/embed.php?live=ss4x&vw=620&vh=490
+$doregex[streamer] swfUrl=http://www.eucast.tv/player5.9.swf live=true timeout=15 pageUrl=http://www.eucast.tv/
 <regex>
 <name>streamer</name>
-<expres>'streamer','([^']*)</expres>
-<page>http://www.eucast.tv/embed.php?live=ss4x&vw=620&vh=490</page>
-<referer>http://cricfree.tv/update/skys4.php</referer>
-</regex>
-<regex>
-<name>file</name>
-<expres>'file','([^']*)</expres>
+<expres>file: "([^"]*)</expres>
 <page>http://www.eucast.tv/embed.php?live=ss4x&vw=620&vh=490</page>
 <referer>http://cricfree.tv/update/skys4.php</referer>
 </regex>
@@ -146,18 +103,12 @@ $doregex[streamer] playpath=$doregex[file] swfUrl=http://www.eucast.tv/player5.9
 </item>
 
 <item>
-<title>SKY Sports News</title>
+<title>Sky Sports News</title>
 <link>
-$doregex[streamer] playpath=$doregex[file] swfUrl=http://www.eucast.tv/player5.9.swf live=true timeout=15 pageUrl=http://www.eucast.tv/embed.php?live=ssnewsrx&vw=620&vh=490
+$doregex[streamer] swfUrl=http://www.eucast.tv/player5.9.swf live=true timeout=15 pageUrl=http://www.eucast.tv/
 <regex>
 <name>streamer</name>
-<expres>'streamer','([^']*)</expres>
-<page>http://www.eucast.tv/embed.php?live=ssnewsrx&vw=620&vh=490</page>
-<referer>http://cricfree.tv/update/news.php</referer>
-</regex>
-<regex>
-<name>file</name>
-<expres>'file','([^']*)</expres>
+<expres>file: "([^"]*)</expres>
 <page>http://www.eucast.tv/embed.php?live=ssnewsrx&vw=620&vh=490</page>
 <referer>http://cricfree.tv/update/news.php</referer>
 </regex>

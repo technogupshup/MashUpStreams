@@ -12,7 +12,7 @@
 
 <item>
 <title>O Globo HD</title>
-<link>rtmp://195.154.176.66/live/101010 playpath=101010 swfUrl=http://livestreamcast.org/swfs/player.swf live=true timeout=15 pageUrl=http://livestreamcast.org/embed_tri.php?c=tv001&vw=100%&vh=100%</link>
+<link>rtmp://edge-55.livestreamcast.org/ app=?rtmp://live.livestreamcast.org/live/101010/ playpath=101010 swfUrl=http://livestreamcast.org/jwplayer/jwplayer.flash.swf live=true timeout=15 pageUrl=http://livestreamcast.org/embed.php?c=globosp33&vw=100%&vh=100%</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/rr/rede_globo.jpg</thumbnail>
 </item>
 

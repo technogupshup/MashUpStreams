@@ -4,6 +4,17 @@
 <name>Kurdish TV Channels</name>
 <thumbnail></thumbnail>
 
+<item>
+<title>KURDMAX Pepûle</title>
+<link>http://kurdmaxtv.karwan.tv:1935/live/pepule/playlist.m3u8</link>
+<thumbnail>http://karwan.tv/images/KURDISH_TV_LOGO/kurdmax_tv.png</thumbnail>
+</item>
+
+<item>
+<title>Gem Kurd</title>
+<link>http://kurdishlivetv1.karwan.tv/GemKurdino?TICKET/path/to/media.file</link>
+<thumbnail>http://karwan.tv/images/KURDISH_TV_LOGO/gem_kurd.png</thumbnail>
+</item>
 
 <item>
 <title>Ronahi TV</title>

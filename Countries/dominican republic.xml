@@ -54,13 +54,13 @@
 
 <item>
 <title>Aguilas Cibaenas</title>
-<link>rtmp://stream.prostudionetwork.com:1945/teleunion/ playpath=TELEUNION swfUrl=http://yucatv.com/jwplayer/jwplayer.flash.swf live=true timeout=15 pageUrl=http://emisoradominicana.net/html5/iframes/teleunion.html</link>
+<link>rtmp://stream.prostudionetwork.com:1945/teleunion/ playpath=TU swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf live=true timeout=15 pageUrl=http://emisoradominicana.net/html5/iframes/teleunion.html</link>
 <thumbnail>http://4.bp.blogspot.com/-wzlhpL7IRqk/UGN4z8ipjyI/AAAAAAAAY-E/B6UcKP2KJY4/s1600/aguilas-1024x7681.png</thumbnail>
 </item>
 
 <item>
-<title>Santiago Tv Canel 36</title>
-<link>plugin://plugin.video.jtv.archives/?mode=2&amp;name=santiagotv36</link>
+<title>Santiago TV Canel 36</title>
+<link>plugin://plugin.video.jtv.archives/?mode=2&amp;name=santiagotv3636</link>
 <thumbnail>http://www.santiagotv36.com/images/logo.png</thumbnail>
 </item>
 
@@ -72,13 +72,13 @@
 
 <item>
 <title>Telemedios Canal 25</title>
-<link>http://198.27.81.114:1935/rtplive/canal25.sdp/playlist.m3u8?wowzasessionid=1067725354</link>
+<link>rtmp://198.27.81.114:1935/ app=rtplive/_definst_/canal25 playpath=canal25.sdp swfUrl=http://192.254.234.245/~orosario/canal25/player-2012-free.swf live=true timeout=15 pageUrl=http://192.254.234.245/~orosario/canal25/player.html</link>
 <thumbnail>http://www.canalesdominicano.com/wp-content/uploads/2013/10/Telemedios-Canal-25.jpg</thumbnail>
 </item>
 
 <item>
-<title>Bajo Techo TV</title>
-<link>rtmp://69.175.12.34/live playpath=ALOJADO_TECHO swfUrl=http://emisoradominicana.net/html5/iframes/player.swf live=true timeout=15 pageUrl=http://emisoradominicana.net/html5/iframes/bajotecho.php</link>
+<title>Bajo Techo TV HD</title>
+<link>plugin://plugin.video.jtv.archives/?mode=get_channel&amp;name=testamentt00&amp;play=true</link>
 <thumbnail>http://upload.wikimedia.org/wikipedia/commons/d/d0/Logo_Bajo_Techo_Tv.jpg</thumbnail>
 </item>
 

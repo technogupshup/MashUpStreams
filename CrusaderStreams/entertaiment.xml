@@ -197,14 +197,15 @@
 </item>
 
 <item>
-<title>Aljadeed (Link 2)</title>
-<link>http://origin.etacdn.com/jadeedlive/smil:live.smil/chunklist_w1449481831_b525000.m3u8?nimblesessionid=124</link>
-<thumbnail>http://1.bp.blogspot.com/-W1Ry_s_c5-k/UAw9jeMFGoI/AAAAAAAANlY/SJ_JbZV8W5E/s400/aljadeed%2Btv.jpeg</thumbnail>
-</item>
-
-<item>
 <title>MBC</title>
-<link>rtmp://46.165.210.32/live playpath=dfgdfgfdfhhhf?id=199927 conn=S:OK swfUrl=http://www.mips.tv/content/scripts/eplayer.swf live=true timeout=15 pageUrl=http://www.mips.tv/embedplayer/dfgdfgfdfhhhf/1/600/380</link>
+<link>rtmp://192.95.32.7:1935/live/ playpath=$doregex[file] swfUrl=http://yoolive.com/player/player.swf pageUrl=http://yoolive.com/
+<regex>
+<name>file</name>
+<expres>'file': '([^']*)</expres>
+<page>http://yoolive.com/mbc_1.php</page>
+<referer>http://yoolive.com/</referer>
+</regex>
+</link>
 <thumbnail>http://www.ilcode.com/photos/www.ilcode.com-mdubdqlswkxrchiaarxirdk-mbc.jpg</thumbnail>
 </item>
 
@@ -221,14 +222,53 @@
 </item>
 
 <item>
+<title>MBC 2 (Link 2)</title>
+<link>rtmp://192.95.32.7:1935/live/ playpath=$doregex[file] swfUrl=http://yoolive.com/player/player.swf pageUrl=http://yoolive.com/
+<regex>
+<name>file</name>
+<expres>'file': '([^']*)</expres>
+<page>http://yoolive.com/mbc_2.php</page>
+<referer>http://yoolive.com/</referer>
+</regex>
+</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/mm/mbc2_ae.png</thumbnail>
+</item>
+
+<item>
 <title>MBC 3</title>
 <link>rtmp://5.63.146.236/live playpath=azsq1299?id=149841 conn=S:OK swfUrl=http://mips.tv/content/scripts/eplayer.swf live=true timeout=15 pageUrl=http://mips.tv/embedplayer/azsq1299/1/600/380</link>
 <thumbnail>http://www.watchtv.co/wp-content/themes/broadcast/thumb.php?src=http://www.watchtv.co/wp-content/uploads/2012/07/mbc3-channel-streaming1.jpg&w=581&h=252&zc=1&q=100</thumbnail>
 </item>
 
 <item>
+<title>MBC 3 (Link 2)</title>
+<link>rtmp://192.95.32.7:1935/live/ playpath=$doregex[file] swfUrl=http://yoolive.com/player/player.swf pageUrl=http://yoolive.com/
+<regex>
+<name>file</name>
+<expres>'file': '([^']*)</expres>
+<page>http://yoolive.com/mbc_3.php</page>
+<referer>http://yoolive.com/</referer>
+</regex>
+</link>
+<thumbnail>http://www.watchtv.co/wp-content/themes/broadcast/thumb.php?src=http://www.watchtv.co/wp-content/uploads/2012/07/mbc3-channel-streaming1.jpg&w=581&h=252&zc=1&q=100</thumbnail>
+</item>
+
+<item>
 <title>MBC 4</title>
 <link>rtmp://95.211.148.203/live playpath=trhtgfjhgjhg?id=147478 conn=S:OK swfUrl=http://mips.tv/content/scripts/eplayer.swf live=true timeout=15 pageUrl=http://mips.tv/embedplayer/trhtgfjhgjhg/1/600/380</link>
+<thumbnail>http://aflam4you.tv/uploads/thumbs/71-1.jpg</thumbnail>
+</item>
+
+<item>
+<title>MBC 4 (Link 2)</title>
+<link>rtmp://192.95.32.7:1935/live/ playpath=$doregex[file] swfUrl=http://yoolive.com/player/player.swf pageUrl=http://yoolive.com/
+<regex>
+<name>file</name>
+<expres>'file': '([^']*)</expres>
+<page>http://yoolive.com/mbc_4.php</page>
+<referer>http://yoolive.com/</referer>
+</regex>
+</link>
 <thumbnail>http://aflam4you.tv/uploads/thumbs/71-1.jpg</thumbnail>
 </item>
 

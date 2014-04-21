@@ -371,41 +371,20 @@
 </item>
 
 <item>
-<title>Star Gold</title>
-<link>$doregex[url]
-<regex>
-<name>url</name>
-<expres>"payload":"(.*)","isLive"</expres>
-<page>http://veetle.com/index.php/channel/ajaxStreamLocation/4e0e6f4dcc2d3/flash</page>
-<referer>http://veetle.com</referer>
-</regex>
-</link>
+<title>Star Gold</title></title>
+<link>http://89.149.156.210/flv/4e0e6f4dcc2d3/testat123?0.27183480514213443</link>
 <thumbnail>http://images.wikia.com/logopedia/images/f/f0/Star_Gold_2011.png</thumbnail>
 </item>
 
 <item>
-<title>Zee Cinema</title>
-<link>$doregex[url]
-<regex>
-<name>url</name>
-<expres>"payload":"(.*)","isLive"</expres>
-<page>http://veetle.com/index.php/channel/ajaxStreamLocation/4dd469a36a357/flash</page>
-<referer>http://veetle.com</referer>
-</regex>
-</link>
+<title>Zee Cinema</title></title>
+<link>http://213.254.202.13/flv/4e2c5fd04592d/testat123?0.5673252227716148</link>
 <thumbnail>http://images.wikia.com/logopedia/images/4/48/Zee_Cinema_2011.png</thumbnail>
 </item>
 
 <item>
-<title>Star Movies</title>
-<link>$doregex[url]
-<regex>
-<name>url</name>
-<expres>"payload":"(.*)","isLive"</expres>
-<page>http://veetle.com/index.php/channel/ajaxStreamLocation/53182d87c9332/flash</page>
-<referer>http://veetle.com</referer>
-</regex>
-</link>
+<title>Star Movies</title></title>
+<link>http://89.149.156.213/flv/53182d87c9332/testat123?0.419134852476418</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ss/star_movies_tw_hd.png</thumbnail>
 </item>
 

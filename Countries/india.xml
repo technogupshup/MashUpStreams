@@ -4,6 +4,18 @@
 <name>Indian TV Channels</name>
 <thumbnail></thumbnail>
 
+<title>Star Gold 1</title>
+<link>$doregex[url]
+<regex>
+<name>url</name>
+<expres>"payload":"(.*)","isLive"</expres>
+<page>http://veetle.com/index.php/channel/ajaxStreamLocation/4e0e6f4dcc2d3/flash</page>
+<referer>http://veetle.com</referer>
+</regex>
+</link>
+<thumbnail>http://images.wikia.com/logopedia/images/f/f0/Star_Gold_2011.png</thumbnail>
+</item>
+
 <item>
 <title>Manoranjan Tv</title>
 <link>rtmp://50.7.175.253:1939/base2 playPath=maha20.stream token=Vu4KaBzaxa pageUrl=http://desilivetv.net/manoranjan-tv/ swfUrl=http://desilivetv.net/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf</link>

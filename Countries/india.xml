@@ -376,7 +376,7 @@
 <regex>
 <name>url</name>
 <expres>"payload":"(.*)","isLive"</expres>
-<page>http://veetle.com/index.php/channel/ajaxStreamLocation/4e2c5fd04592d/flash</page>
+<page>http://veetle.com/index.php/channel/ajaxStreamLocation/4e0e6f4dcc2d3/flash</page>
 <referer>http://veetle.com</referer>
 </regex>
 </link>
@@ -389,7 +389,7 @@
 <regex>
 <name>url</name>
 <expres>"payload":"(.*)","isLive"</expres>
-<page>http://veetle.com/index.php/channel/ajaxStreamLocation/4e0e6f4dcc2d3/flash</page>
+<page>http://veetle.com/index.php/channel/ajaxStreamLocation/4dd469a36a357/flash</page>
 <referer>http://veetle.com</referer>
 </regex>
 </link>
@@ -402,7 +402,7 @@
 <regex>
 <name>url</name>
 <expres>"payload":"(.*)","isLive"</expres>
-<page>http://veetle.com/index.php/channel/ajaxStreamLocation/530d359352bec/flash</page>
+<page>http://veetle.com/index.php/channel/ajaxStreamLocation/53182d87c9332/flash</page>
 <referer>http://veetle.com</referer>
 </regex>
 </link>

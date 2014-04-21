@@ -4,7 +4,7 @@
 <name>Indian TV Channels</name>
 <thumbnail></thumbnail>
 
-<title>Star Gold 1</title>
+<title>Star Gold 2</title>
 <link>$doregex[url]
 <regex>
 <name>url</name>

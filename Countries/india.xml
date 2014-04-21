@@ -4,6 +4,60 @@
 <name>Indian TV Channels</name>
 <thumbnail></thumbnail>
 
+<item>
+<title>Zee Cinema 2</title>
+<link>$doregex[url]
+<regex>
+<name>url</name>
+<expres>"payload":"(.*)","isLive"</expres>
+<page>http://veetle.com/index.php/channel/ajaxStreamLocation/4dd469a36a357/flash</page>
+<referer>http://veetle.com</referer>
+</regex>
+</link>
+<thumbnail>http://images.wikia.com/logopedia/images/4/48/Zee_Cinema_2011.png</thumbnail>
+</item>
+
+<item>
+<title>Star Movies 2</title>
+<link>$doregex[url]
+<regex>
+<name>url</name>
+<expres>"payload":"(.*)","isLive"</expres>
+<page>http://veetle.com/index.php/channel/ajaxStreamLocation/53182d87c9332/flash</page>
+<referer>http://veetle.com</referer>
+</regex>
+</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/ss/star_movies_tw_hd.png</thumbnail>
+</item>
+
+<item>
+<title>Zee Cinema 2</title>
+<link>$doregex[url]
+<regex>
+<name>url</name>
+<expres>"payload":"(.*)","isLive"</expres>
+<page>http://veetle.com/index.php/channel/ajaxStreamLocation/4dd469a36a357/flash</page>
+<referer>http://veetle.com</referer>
+</regex>
+</link>
+<thumbnail>http://images.wikia.com/logopedia/images/4/48/Zee_Cinema_2011.png</thumbnail>
+</item>
+
+<item>
+<title>Star Movies 2</title>
+<link>$doregex[url]
+<regex>
+<name>url</name>
+<expres>"payload":"(.*)","isLive"</expres>
+<page>http://veetle.com/index.php/channel/ajaxStreamLocation/53182d87c9332/flash</page>
+<referer>http://veetle.com</referer>
+</regex>
+</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/ss/star_movies_tw_hd.png</thumbnail>
+</item>
+
+
+
 <title>Star Gold 2</title>
 <link>$doregex[url]
 <regex>

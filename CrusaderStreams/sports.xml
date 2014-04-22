@@ -17,6 +17,19 @@
 </info>
 
 <item>
+<title>Alriayadia Sport</title>
+<link>rtmp://tdsiptv.ddns.me/live playpath=ch276?code=$doregex[url] swfUrl=http://www.livetv.tn/flowplayer-3.2.7.swf pageUrl=http://www.livetv.tn live=true timeout=15 flashVer=WIN12.0.0.77
+<regex>
+<name>url</name>
+<expres>code=([^']*)</expres>
+<page>http://www.livetv.tn/index.php</page>
+<referer> </referer>
+</regex>
+</link>
+<thumbnail>http://www.livetv.tn/images/icons/276.gif</thumbnail>
+</item>
+
+<item>
 <title>Bein Sports Spanish HD</title>
 <link>rtmp://beinsportgeolivefs.fplive.net:1935/beinsportgeolive-live playpath=beinsport_spa_4 swfurl=http://sportsinfonet.info/player/Player.swf live=true timeout=15 pageurl=http://sportsinfonet.info/beinsports.php?n=beinsport_spa_4&vw=650&vh=450</link>
 <thumbnail>http://www.tv-envivo.com.ar/wp-content/uploads/2013/10/bein-sport.png</thumbnail>

@@ -390,7 +390,7 @@
 
 <item>
 <title>Zee Cinema</title>
-<link>rtmpe://93.120.27.206:443/ app=liveedge/ playpath=zeecine5071 pageurl=http://zingo.tv</link>
+<link>rtmp://50.23.239.11/stream playpath=zeecinm?id=121224 conn=S:OK swfUrl=http://www.liveflash.tv/resources/scripts/eplayer.swf live=true timeout=60 pageUrl=http://www.liveflash.tv/embedplayer/zeecinm/1/600/430</link>
 <thumbnail>http://images.wikia.com/logopedia/images/4/48/Zee_Cinema_2011.png</thumbnail>
 </item>
 

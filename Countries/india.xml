@@ -5,6 +5,18 @@
 <thumbnail></thumbnail>
 
 <item>
+<title>Star Gold Link 2</title>
+<link>rtmpe://93.120.27.206:443/ app=liveedge/ playpath=stargold8962 pageurl=http://zingo.tv</link>
+<thumbnail>http://images.wikia.com/logopedia/images/f/f0/Star_Gold_2011.png</thumbnail>
+</item>
+  
+<item>
+<title>Zee Cinema Link 2</title>
+<link>rtmpe://93.120.27.206:443/ app=liveedge/ playpath=zeecine5071 pageurl=http://zingo.tv</link>
+<thumbnail>http://images.wikia.com/logopedia/images/4/48/Zee_Cinema_2011.png</thumbnail>
+</item>
+
+<item>
 <title>Manoranjan Tv</title>
 <link>rtmp://50.7.175.253:1939/base2 playPath=maha20.stream token=Vu4KaBzaxa pageUrl=http://desilivetv.net/manoranjan-tv/ swfUrl=http://desilivetv.net/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf</link>
 <thumbnail>http://desilivetv.net/wp-content/uploads/2014/01/Manoranjan-TV-India-Logo.jpg</thumbnail>

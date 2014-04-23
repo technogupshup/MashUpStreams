@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+f<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 <channel>
 <name>Brazilian TV Channels</name>
@@ -11,8 +11,29 @@
 </item>
 
 <item>
+<title>PFC</title>
+<link>rtmpe://94.102.63.23:443/ app=liveedge/ playpath=ch07-x2up4iXo33 pageurl=http://livecast.cc/live/stream21.php</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/pp/premiere_futebol_clube_internacional.png</thumbnail>
+</item>
+
+<item>
+<title>TV JORNAL D RECIFE</title>
+<link>rtmp://srv4.zoeweb.tv/ app=z03-live playpath=stream swfUrl=http://tvjornal.ne10.uol.com.br/novoplayer/player.swf live=true timeout=15 pageUrl>http://tvjornal.ne10.uol.com.br/novoplayer/index.html</link>
+<thumbnail>http://www.revistapronews.com.br/edicoes/47/images/giro_tv_jornal.jpg</thumbnail>
+</item>
+
+<item>
+<title>GLOBO RECIFE</title>
+<link>rtmp://204.45.108.34/ app=ctv playpath=dbz swfUrl=http://www.canaistv.net/swf/player.swf live=true timeout=15 pageUrl=http://www.canaistv.net/tvamigos/dbz.html</link>
+<thumbnail>http://www.globo.pe/obj/952/180660,800,80.jpg</thumbnail>
+</item>
+
+<item>
 <title>O Globo HD</title>
-<link>rtmp://edge-55.livestreamcast.org/ app=?rtmp://live.livestreamcast.org/live/101010/ playpath=101010 swfUrl=http://livestreamcast.org/jwplayer/jwplayer.flash.swf live=true timeout=15 pageUrl=http://livestreamcast.org/embed.php?c=globosp33&vw=100%&vh=100%</link>
+<link>
+<sublink>rtmp://93.120.27.27:5587/ app=loadbalance playpath=bob9784 swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf live=true timeout=15 pageUrl=http://flexstream.net/embed2.php?file=bob9784&width=600&height=400</sublink>
+<sublink>rtmp://edge-55.livestreamcast.org/ app=?rtmp://live.livestreamcast.org/live/101010/ playpath=101010 swfUrl=http://livestreamcast.org/jwplayer/jwplayer.flash.swf live=true timeout=15 pageUrl=http://livestreamcast.org/embed.php?c=globosp33&vw=100%&vh=100%</sublink>
+</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/rr/rede_globo.jpg</thumbnail>
 </item>
 

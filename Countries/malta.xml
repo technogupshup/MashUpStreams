@@ -5,6 +5,12 @@ x <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <thumbnail></thumbnail>
 
 <item>
+<title>Smash TV</title>
+<link>http://iphone-streaming.ustream.tv/ustreamVideo/12803100/streams/live/playlist.m3u8</link>
+<thumbnail>https://d2uykijsw1jrmd.cloudfront.net/media/cache/11/d4/11d4b37b2344133d445a7e91c0bdac06.jpg</thumbnail>
+</item>
+
+<item>
 <title>TVM</title>
 <link>http://tvm.23video.com/stream/8733521/291209fd73739a0d5956/playlist.m3u8</link>
 <thumbnail>http://www.tvm.com.mt/wp-content/themes/pbs/images/logo-tvm.png</thumbnail>

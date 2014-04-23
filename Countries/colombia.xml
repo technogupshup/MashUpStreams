@@ -5,39 +5,35 @@
 <thumbnail></thumbnail>
 
 <item>
-<title>Telesantander Canal 21</title>
-<link>rtmp://wow.eleden.com:1935/livesantander playpath=livestream swfUrl=http://wwitv.com/player/player15.swf live=true timeout=15 pageUrl=http://wwitv.com/tv_channels/b4936.htm</link>
-<thumbnail> </thumbnail>
-</item>
-
-<item>
-<title>Enlace</title>
-<link>http://api.new.livestream.com/broadcasts/27845862.m3u8?dw=100</link>
-<thumbnail>http://2.bp.blogspot.com/-KkieZ0zVFEw/UDGoHPhSU8I/AAAAAAAAApQ/QYOfuAieU08/s1600/enlaceTV.png</thumbnail>
-</item>
-
-<item>
 <title>Caracol TV</title>
-<link>rtmp://173.192.223.68/live playpath=colombiafutbol?id=55514 conn=S:OK swfUrl=http://www.ucaster.eu/static/scripts/eplayer.swf live=true timeout=15 pageUrl=http://www.ucaster.eu/embedded/colombiafutbol/1/600/400</link>
+<link>rtmp://go.fasts.tv/ app=fasts playpath=c10042014 token=$doregex[token] swfUrl=http://www.fasts.tv/player/player_embed_fasts.swf live=true timeout=15 pageUrl=http://www.fasts.tv/
+<regex>
+<name>token</name>
+<expres>"token":"([^"]*)</expres>
+<page>http://www.fasts.tv/file.php</page>
+<referer>http://www.fasts.tv</referer>
+</regex>
+</link>
 <thumbnail>http://www.portalcolombia.co/wp-content/uploads/2010/01/caracol-tv.jpg</thumbnail>
 </item>
 
 <item>
-<title>City TV</title>
-<link>rtmp://extondemand.livestream.com/ondemand/trans/dv15/mogulus-user-files/chndosat/2012/06/28/eb187105-5178-4cbd-a8d4-105d97d251c9</link>
-<thumbnail>http://ing-sat.what.hu/images/logo-insert/satlogos/colombia/179-City-TV%5B1%5D.jpg</thumbnail>
+<title>Telesantander Canal 21</title>
+<link>rtmp://cdn.teveo.com.co:80/live playpath=AQAAAAIAAAAZAVI swfUrl=http://teveo.com.co/flash/AQAAAAIAAAAZAUA.swf?width=640&amp;height=480&amp;autostart=1 token=7F07GCXcNvKHOV4A live=true timeout=15 pageUrl=http://www.telesantander.com/index.php?option=com_content&amp;view=article&amp;id=400&amp;Itemid=105</link>
+<thumbnail>http://2.bp.blogspot.com/-Vy5KksYih24/T0rKox8MqTI/AAAAAAAAAVE/Now_IBaMCdM/s1600/telesantander.jpg</thumbnail>
 </item>
 
 <item>
-<title>TBS</title>
-<link>rtmp://50.7.28.178/flash playpath=16007 swfUrl=http://www.udemy.com/static/flash/player5.9.swf live=true timeout=15 pageUrl=http://sawlive.tv/embed/watch/MDJlZGM4YTAxZWU1OjljNmY3ODc0NzY6ZTBmMjU2NzMzNzlmYmMzNDkwYjBlODk3ZW/FjMjdiMzgwN2VhMjUzYzo1OTZlYThjOWY5MjQ0YzU3MTY4ZWQ1MDFkNzkxZWQ4YQ__</link>
-<thumbnail>http://www.blogcdn.com/www.aoltv.com/media/2008/12/tbs-logo-1.jpg</thumbnail>
-</item>
-
-<item>
-<title>Discovery TV</title>
-<link>plugin://plugin.video.jtv.archives/?mode=2&amp;name=full_hd1</link>
-<thumbnail>http://upload.wikimedia.org/wikipedia/jv/0/09/Discovery_Channel.jpg</thumbnail>
+<title>Enlace</title>
+<link>$doregex[url]
+<regex>
+<name>url</name>
+<expres>rtsp_url":"([^"]*)</expres>
+<page>http://new.livestream.com/accounts/2675843/events/1839332/player?width=100&height=200&autoPlay=true&mute=false</page>
+<referer> </referer>
+</regex>
+</link>
+<thumbnail>http://2.bp.blogspot.com/-KkieZ0zVFEw/UDGoHPhSU8I/AAAAAAAAApQ/QYOfuAieU08/s1600/enlaceTV.png</thumbnail>
 </item>
 
 

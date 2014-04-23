@@ -116,6 +116,18 @@ f<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 </item>
 
 <item>
+<title>Sport TV</title>
+<link>rtmp://94.102.56.186/ app=freelivestreamHD playpath=sportv24h swfUrl=http://www.freelivestream.tv/swfs/player.swf live=true timeout=15 pageUrl=http://www.freelivestream.tv/embedPlayer.php?file=sportv24h&width=480&height=360</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/sportv_br.png</thumbnail>
+</item>
+
+<item>
+<title>FOX SPORT BRASIL</title>
+<link>rtmp://31.204.153.72/ app=live/ playpath=fsb swfUrl=http://www.cdnbr.biz/swf/player.swf live=true timeout=15 pageUrl=http://www.cdnbr.biz/mastertv/FSB.html</link>
+<thumbnail>http://img4.wikia.nocookie.net/__cb20140414164158/logopedia/images/6/6f/Logo_fox_sports.png</thumbnail>
+</item>
+
+<item>
 <title>HBO HD</title> 
 <link>rtmp://109.200.202.124:1935/live playpath=hbohd swfUrl=http://tv-msn.com/StroveMediaPlaybackSecureToken-fp10.swf token=ef8e8620da151301dfa07b3886ab30ad pageUrl=http://tv-msn.com/hbohd.html live=1 swfVfy=1 timeout=15</link>
 <thumbnail>http://2.bp.blogspot.com/-CIOGJbedXnU/UZAwsFfJy0I/AAAAAAAAAe0/Ju4RJGO131c/s1600/HBO.jpg</thumbnail>

@@ -17,19 +17,26 @@
 </item>
 
 <item>
-<title>Al Oula Maroc‏‏</title>
-<link>http://iphone-streaming.ustream.tv/ustreamVideo/13899105/streams/live/playlist.m3u8</link>
-<thumbnail>http://www.livetv.tn/images/icons/55.gif</thumbnail>
-</item>
+<title>Alan</title>
+<link>rtmp://tdsiptv.ddns.me/live playpath=ch94?code=$doregex[url] swfUrl=http://www.livetv.tn/flowplayer-3.2.7.swf pageUrl=http://www.livetv.tn live=true timeout=15 flashVer=WIN12.0.0.77
+<regex>
+<name>url</name>
+<expres>code=([^']*)</expres>
+<page>http://www.livetv.tn/index.php</page>
+<referer> </referer>
+</regex>
+</link>
+<thumbnail>http://www.livetv.tn/images/icons/94.gif</thumbnail>
+</item>	
 
 <item>
-<title>Al Manar HD</title>
+<title>Al Manar</title>
 <link>rtmp://72.55.164.21/live playpath=livestream swfUrl=http://www.almanar.com.lb/style/player/4.2.90/mediaplayer.swf live=true timeout=15 pageUrl=http://www.almanar.com.lb/manarlive.php</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/al_manar_tv.jpg</thumbnail>
 </item>
 
 <item>
-<title>Al Manar HD</title>
+<title>Al Manar (Link 2)</title>
 <link>rtmp://38.96.148.200/live/ playpath=livestream swfUrl=http://cinema.rotana.net/it-works/jwplayer.flash.swf live=true timeout=15 pageUrl=http://www.arabichannels.com/manar.html</link>
 <thumbnail>http://blog.camera.org/archives/al%20Manar%20logo.jpg</thumbnail>
 </item>

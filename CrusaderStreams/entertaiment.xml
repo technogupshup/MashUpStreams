@@ -14,31 +14,31 @@
 <item>
 <title>OSN 2+</title>
 <link>http://80.252.165.106:8086/udp/239.100.2.107:1234</link>
-<thumbnail> </thumbnail>
+<thumbnail>http://www.osn.com/$Common/Image/Logo/Channel/Horizontal/85x36/OMX.png</thumbnail>
 </item>
 
 <item>
 <title>OSN Drama</title>
 <link>http://80.252.165.106:8086/udp/239.100.2.104:1234</link>
-<thumbnail> </thumbnail>
+<thumbnail>http://www.osn.com/$Common/Image/Logo/Channel/Horizontal/85x36/OCM.png</thumbnail>
 </item>
 
 <item>
 <title>OSN Comedy</title>
 <link>http://80.252.165.106:8086/udp/239.100.2.103:1234</link>
-<thumbnail> </thumbnail>
+<thumbnail>http://www.osn.com/$Common/Image/Logo/Channel/Horizontal/85x36/OCO.png</thumbnail>
 </item>
 
 <item>
 <title>OSN</title>
 <link>http://80.252.165.106:8086/udp/239.100.1.107:1234</link>
-<thumbnail> </thumbnail>
+<thumbnail>http://www.osn.com/$Common/Image/Logo/Channel/Horizontal/85x36/OM1.png</thumbnail>
 </item>
 
 <item>
 <title>OSN Movies Premiere</title>
 <link>http://80.252.165.106:8086/udp/239.100.1.100:1234</link>
-<thumbnail> </thumbnail>
+<thumbnail>http://www.osn.com/$Common/Image/Logo/Channel/Horizontal/85x36/OPX.png</thumbnail>
 </item>
 
 <item>
@@ -72,14 +72,609 @@
 </item>
 
 <item>
-<title>Al Nahar 2 </title>
+<title>Al Nahar Drama 2 </title>
 <link>rtmp://50.7.180.18/nahar1 playpath=alnahar2.stream_720p swfUrl=http://demos.streamtrix.com/swf/flowplayer.commercial-3.2.15.swf live=true timeout=15 pageUrl=http://demos.streamtrix.com/alnahar2/</link>
 <thumbnail>http://www.alnaharlive.net/wp-content/uploads/2013/01/alnahar2.png</thumbnail>
 </item>
 
 <item>
+<title>Abu Dubai</title>
+<link>rtmp://tdsiptv.ddns.me/live playpath=ch80?code=$doregex[url] swfUrl=http://www.livetv.tn/flowplayer-3.2.7.swf pageUrl=http://www.livetv.tn live=true timeout=15 flashVer=WIN12.0.0.77
+<regex>
+<name>url</name>
+<expres>code=([^']*)</expres>
+<page>http://www.livetv.tn/index.php</page>
+<referer> </referer>
+</regex>
+</link>
+<thumbnail>http://www.livetv.tn/images/icons/80.gif</thumbnail>
+</item>
+	
+<item>
+<title>Abu Dubai Drama [COLOR=FFFF0000]Try 3 Times To Get Picture Working, 1st Two Times Will Give Only Audio[/COLOR]</title>
+<link>rtmp://tdsiptv.ddns.me/live playpath=ch54?code=$doregex[url] swfUrl=http://www.livetv.tn/flowplayer-3.2.7.swf pageUrl=http://www.livetv.tn live=true timeout=15 flashVer=WIN12.0.0.77
+<regex>
+<name>url</name>
+<expres>code=([^']*)</expres>
+<page>http://www.livetv.tn/index.php</page>
+<referer> </referer>
+</regex>
+</link>
+<thumbnail>http://www.livetv.tn/images/icons/54.gif</thumbnail>
+</item>
+	
+<item>
+<title>Al Hayat Cinema</title>
+<link>rtmp://tdsiptv.ddns.me/live playpath=ch97?code=$doregex[url] swfUrl=http://www.livetv.tn/flowplayer-3.2.7.swf pageUrl=http://www.livetv.tn live=true timeout=15 flashVer=WIN12.0.0.77
+<regex>
+<name>url</name>
+<expres>code=([^']*)</expres>
+<page>http://www.livetv.tn/index.php</page>
+<referer> </referer>
+</regex>
+</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/aa/alhayat_cinema.png</thumbnail>
+</item>
+
+<item>
+<title>LBC</title>
+<link>rtmp://tdsiptv.ddns.me/live playpath=ch28?code=$doregex[url] swfUrl=http://www.livetv.tn/flowplayer-3.2.7.swf pageUrl=http://www.livetv.tn live=true timeout=15 flashVer=WIN12.0.0.77
+<regex>
+<name>url</name>
+<expres>code=([^']*)</expres>
+<page>http://www.livetv.tn/index.php</page>
+<referer> </referer>
+</regex>
+</link>
+<thumbnail>http://fikrconferences.org/sites/default/files/lbc-logo.jpg?1352659193</thumbnail>
+</item>
+
+<item>
+<title>Aljadeed (Link 2)</title>
+<link>rtmp://tdsiptv.ddns.me/live playpath=ch99?code=$doregex[url] swfUrl=http://www.livetv.tn/flowplayer-3.2.7.swf pageUrl=http://www.livetv.tn live=true timeout=15 flashVer=WIN12.0.0.77
+<regex>
+<name>url</name>
+<expres>code=([^']*)</expres>
+<page>http://www.livetv.tn/index.php</page>
+<referer> </referer>
+</regex>
+</link>
+<thumbnail>http://1.bp.blogspot.com/-W1Ry_s_c5-k/UAw9jeMFGoI/AAAAAAAANlY/SJ_JbZV8W5E/s400/aljadeed%2Btv.jpeg</thumbnail>
+</item>
+
+<item>
+<title>NBN</title>
+<link>rtmp://tdsiptv.ddns.me/live playpath=ch146?code=$doregex[url] swfUrl=http://www.livetv.tn/flowplayer-3.2.7.swf pageUrl=http://www.livetv.tn live=true timeout=15 flashVer=WIN12.0.0.77
+<regex>
+<name>url</name>
+<expres>code=([^']*)</expres>
+<page>http://www.livetv.tn/index.php</page>
+<referer> </referer>
+</regex>
+</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/en/1/14/Nbn_lebanon.png</thumbnail>
+</item>
+
+<item>
+<title>Art Aflam</title>
+<link>rtmp://tdsiptv.ddns.me/live playpath=ch40?code=$doregex[url] swfUrl=http://www.livetv.tn/flowplayer-3.2.7.swf pageUrl=http://www.livetv.tn live=true timeout=15 flashVer=WIN12.0.0.77
+<regex>
+<name>url</name>
+<expres>code=([^']*)</expres>
+<page>http://www.livetv.tn/index.php</page>
+<referer> </referer>
+</regex>
+</link>
+<thumbnail>http://images1.wikia.nocookie.net/__cb20100312152517/logopedia/images/thumb/6/69/ART_logo.png/150px-ART_logo.png</thumbnail>
+</item>
+
+<item>
+<title>Art Aflam 2</title>
+<link>rtmp://tdsiptv.ddns.me/live playpath=ch41?code=$doregex[url] swfUrl=http://www.livetv.tn/flowplayer-3.2.7.swf pageUrl=http://www.livetv.tn live=true timeout=15 flashVer=WIN12.0.0.77
+<regex>
+<name>url</name>
+<expres>code=([^']*)</expres>
+<page>http://www.livetv.tn/index.php</page>
+<referer> </referer>
+</regex>
+</link>
+<thumbnail>http://www.ariase.com/media/television/logo-132x99/art_aflam2.jpg</thumbnail>
+</item>
+
+<item>
+<title>MTV (Link 2)</title>
+<link>rtmp://tdsiptv.ddns.me/live playpath=ch145?code=$doregex[url] swfUrl=http://www.livetv.tn/flowplayer-3.2.7.swf pageUrl=http://www.livetv.tn live=true timeout=15 flashVer=WIN12.0.0.77
+<regex>
+<name>url</name>
+<expres>code=([^']*)</expres>
+<page>http://www.livetv.tn/index.php</page>
+<referer> </referer>
+</regex>
+</link>
+<thumbnail>http://4.bp.blogspot.com/-v7Q1icQUJD0/Tm5vrpPY1gI/AAAAAAAAAGs/640s_zySbsQ/s200/MTV+1.png</thumbnail>
+</item>
+	
+<item>
+<title>MBC Action (Link 2)</title>
+<link>rtmp://tdsiptv.ddns.me/live playpath=ch34?code=$doregex[url] swfUrl=http://www.livetv.tn/flowplayer-3.2.7.swf pageUrl=http://www.livetv.tn live=true timeout=15 flashVer=WIN12.0.0.77
+<regex>
+<name>url</name>
+<expres>code=([^']*)</expres>
+<page>http://www.livetv.tn/index.php</page>
+<referer> </referer>
+</regex>
+</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/ar/3/37/MBC-Action.jpg</thumbnail>
+</item>
+	
+<item>
+<title>MBC Drama [COLOR=FFFF0000]Try 3 Times To Get Picture Working, 1st Two Times Will Give Only Audio[/COLOR]</title>
+<link>rtmp://tdsiptv.ddns.me/live playpath=ch36?code=$doregex[url] swfUrl=http://www.livetv.tn/flowplayer-3.2.7.swf pageUrl=http://www.livetv.tn live=true timeout=15 flashVer=WIN12.0.0.77
+<regex>
+<name>url</name>
+<expres>code=([^']*)</expres>
+<page>http://www.livetv.tn/index.php</page>
+<referer> </referer>
+</regex>
+</link>
+<thumbnail>http://www.tv-arab.net/Logos/logo_tv_mm_mbc_drama_ae.jpg</thumbnail>
+</item>
+	
+<item>
+<title>MBC 2 (Link 3)</title>
+<link>rtmp://tdsiptv.ddns.me/live playpath=ch31?code=$doregex[url] swfUrl=http://www.livetv.tn/flowplayer-3.2.7.swf pageUrl=http://www.livetv.tn live=true timeout=15 flashVer=WIN12.0.0.77
+<regex>
+<name>url</name>
+<expres>code=([^']*)</expres>
+<page>http://www.livetv.tn/index.php</page>
+<referer> </referer>
+</regex>
+<thumbnail>http://www.lyngsat-logo.com/hires/mm/mbc2_ae.png</thumbnail>
+</item>
+	
+<item>
+<title>MBC 3 (Link 3)</title>
+<link>rtmp://tdsiptv.ddns.me/live playpath=ch32?code=$doregex[url] swfUrl=http://www.livetv.tn/flowplayer-3.2.7.swf pageUrl=http://www.livetv.tn live=true timeout=15 flashVer=WIN12.0.0.77
+<regex>
+<name>url</name>
+<expres>code=([^']*)</expres>
+<page>http://www.livetv.tn/index.php</page>
+<referer> </referer>
+</regex>
+</link>
+<thumbnail>http://www.watchtv.co/wp-content/themes/broadcast/thumb.php?src=http://www.watchtv.co/wp-content/uploads/2012/07/mbc3-channel-streaming1.jpg&w=581&h=252&zc=1&q=100</thumbnail>
+</item>
+	
+<item>
+<title>MBC 4 (Link 3)</title>
+<link>rtmp://tdsiptv.ddns.me/live playpath=ch33?code=$doregex[url] swfUrl=http://www.livetv.tn/flowplayer-3.2.7.swf pageUrl=http://www.livetv.tn live=true timeout=15 flashVer=WIN12.0.0.77
+<regex>
+<name>url</name>
+<expres>code=([^']*)</expres>
+<page>http://www.livetv.tn/index.php</page>
+<referer> </referer>
+</regex>
+</link>
+<thumbnail>https://si0.twimg.com/profile_images/1133002857/mbc4.jpg</thumbnail>
+</item>
+	
+<item>
+<title>MBC Bollywood (Link 2)</title>
+<link>rtmp://tdsiptv.ddns.me/live playpath=ch35?code=$doregex[url] swfUrl=http://www.livetv.tn/flowplayer-3.2.7.swf pageUrl=http://www.livetv.tn live=true timeout=15 flashVer=WIN12.0.0.77
+<regex>
+<name>url</name>
+<expres>code=([^']*)</expres>
+<page>http://www.livetv.tn/index.php</page>
+<referer> </referer>
+</regex>
+</link>
+<thumbnail>http://www.waleg.com/images/mbc-bollywood.jpg</thumbnail>
+</item>
+
+<item>
+<title>Al Sumaria</title>
+<link>rtmp://tdsiptv.ddns.me/live playpath=ch87?code=$doregex[url] swfUrl=http://www.livetv.tn/flowplayer-3.2.7.swf pageUrl=http://www.livetv.tn live=true timeout=15 flashVer=WIN12.0.0.77
+<regex>
+<name>url</name>
+<expres>code=([^']*)</expres>
+<page>http://www.livetv.tn/index.php</page>
+<referer> </referer>
+</regex>
+</link>
+<thumbnail>http://www.livetv.tn/images/icons/87.gif</thumbnail>
+</item>	
+
+<item>
+<title>Al Thania</title>
+<link>rtmp://tdsiptv.ddns.me/live playpath=ch89?code=$doregex[url] swfUrl=http://www.livetv.tn/flowplayer-3.2.7.swf pageUrl=http://www.livetv.tn live=true timeout=15 flashVer=WIN12.0.0.77
+<regex>
+<name>url</name>
+<expres>code=([^']*)</expres>
+<page>http://www.livetv.tn/index.php</page>
+<referer> </referer>
+</regex>
+</link>
+<thumbnail>http://www.livetv.tn/images/icons/89.gif</thumbnail>
+</item>	
+
+<item>
+<title>Fatafeet</title>
+<link>rtmp://tdsiptv.ddns.me/live playpath=ch26?code=$doregex[url] swfUrl=http://www.livetv.tn/flowplayer-3.2.7.swf pageUrl=http://www.livetv.tn live=true timeout=15 flashVer=WIN12.0.0.77
+<regex>
+<name>url</name>
+<expres>code=([^']*)</expres>
+<page>http://www.livetv.tn/index.php</page>
+<referer> </referer>
+</regex>
+</link>
+<thumbnail>http://www.livetv.tn/images/icons/26.gif</thumbnail>
+</item>	
+
+<item>
+<title>Founoun</title>
+<link>rtmp://tdsiptv.ddns.me/live playpath=ch119?code=$doregex[url] swfUrl=http://www.livetv.tn/flowplayer-3.2.7.swf pageUrl=http://www.livetv.tn live=true timeout=15 flashVer=WIN12.0.0.77
+<regex>
+<name>url</name>
+<expres>code=([^']*)</expres>
+<page>http://www.livetv.tn/index.php</page>
+<referer> </referer>
+</regex>
+</link>
+<thumbnail>http://www.livetv.tn/images/icons/119.gif</thumbnail>
+</item>
+
+<item>
+<title>Fox Movies</title>
+<link>rtmp://tdsiptv.ddns.me/live playpath=ch27?code=$doregex[url] swfUrl=http://www.livetv.tn/flowplayer-3.2.7.swf pageUrl=http://www.livetv.tn live=true timeout=15 flashVer=WIN12.0.0.77
+<regex>
+<name>url</name>
+<expres>code=([^']*)</expres>
+<page>http://www.livetv.tn/index.php</page>
+<referer> </referer>
+</regex>
+</link>
+<thumbnail>http://www.livetv.tn/images/icons/27.gif</thumbnail>
+</item>
+
+<item>
+<title>Masrawi Aflam</title>
+<link>rtmp://tdsiptv.ddns.me/live playpath=ch127?code=$doregex[url] swfUrl=http://www.livetv.tn/flowplayer-3.2.7.swf pageUrl=http://www.livetv.tn live=true timeout=15 flashVer=WIN12.0.0.77
+<regex>
+<name>url</name>
+<expres>code=([^']*)</expres>
+<page>http://www.livetv.tn/index.php</page>
+<referer> </referer>
+</regex>
+</link>
+<thumbnail>http://www.livetv.tn/images/icons/127.gif</thumbnail>
+</item>
+
+<item>
+<title>Fx</title>
+<link>rtmp://tdsiptv.ddns.me/live playpath=ch120?code=$doregex[url] swfUrl=http://www.livetv.tn/flowplayer-3.2.7.swf pageUrl=http://www.livetv.tn live=true timeout=15 flashVer=WIN12.0.0.77
+<regex>
+<name>url</name>
+<expres>code=([^']*)</expres>
+<page>http://www.livetv.tn/index.php</page>
+<referer> </referer>
+</regex>
+</link>
+<thumbnail>http://www.livetv.tn/images/icons/120.gif</thumbnail>
+</item>
+
+<item>
+<title>Moga Comedy</title>
+<link>rtmp://tdsiptv.ddns.me/live playpath=ch67?code=$doregex[url] swfUrl=http://www.livetv.tn/flowplayer-3.2.7.swf pageUrl=http://www.livetv.tn live=true timeout=15 flashVer=WIN12.0.0.77
+<regex>
+<name>url</name>
+<expres>code=([^']*)</expres>
+<page>http://www.livetv.tn/index.php</page>
+<referer> </referer>
+</regex>
+</link>
+<thumbnail>http://www.livetv.tn/images/icons/67.gif</thumbnail>
+</item>
+
+<item>
+<title>NBN (Link 2)</title>
+<link>rtmp://tdsiptv.ddns.me/live playpath=ch146?code=$doregex[url] swfUrl=http://www.livetv.tn/flowplayer-3.2.7.swf pageUrl=http://www.livetv.tn live=true timeout=15 flashVer=WIN12.0.0.77
+<regex>
+<name>url</name>
+<expres>code=([^']*)</expres>
+<page>http://www.livetv.tn/index.php</page>
+<referer> </referer>
+</regex>
+</link>
+<thumbnail>http://www.livetv.tn/images/icons/146.gif</thumbnail>
+</item>
+
+<item>
+<title>Panorama Drama</title>
+<link>rtmp://tdsiptv.ddns.me/live playpath=ch117?code=$doregex[url] swfUrl=http://www.livetv.tn/flowplayer-3.2.7.swf pageUrl=http://www.livetv.tn live=true timeout=15 flashVer=WIN12.0.0.77
+<regex>
+<name>url</name>
+<expres>code=([^']*)</expres>
+<page>http://www.livetv.tn/index.php</page>
+<referer> </referer>
+</regex>
+</link>
+<thumbnail>http://www.livetv.tn/images/icons/117.gif</thumbnail>
+</item>
+
+<item>
+<title>Star Cinema</title>
+<link>rtmp://tdsiptv.ddns.me/live playpath=ch141?code=$doregex[url] swfUrl=http://www.livetv.tn/flowplayer-3.2.7.swf pageUrl=http://www.livetv.tn live=true flashVer=WIN12.0.0.77 timeout=15
+<regex>
+<name>url</name>
+<expres>code=([^']*)</expres>
+<page>http://www.livetv.tn/index.php</page>
+<referer> </referer>
+</regex>
+</link>
+<thumbnail>http://www.livetv.tn/images/icons/141.gif</thumbnail>
+</item>
+
+<item>
+<title>Tele Liban</title>
+<link>rtmp://tdsiptv.ddns.me/live playpath=ch266?code=$doregex[url] swfUrl=http://www.livetv.tn/flowplayer-3.2.7.swf pageUrl=http://www.livetv.tn live=true flashVer=WIN12.0.0.77 timeout=15
+<regex>
+<name>url</name>
+<expres>code=([^']*)</expres>
+<page>http://www.livetv.tn/index.php</page>
+<referer> </referer>
+</regex>
+</link>
+<thumbnail>http://www.livetv.tn/images/icons/266.gif</thumbnail>
+</item>
+
+<item>
+<title>Time Comedy</title>
+<link>rtmp://tdsiptv.ddns.me/live playpath=ch47?code=$doregex[url] swfUrl=http://www.livetv.tn/flowplayer-3.2.7.swf pageUrl=http://www.livetv.tn live=true flashVer=WIN12.0.0.77 timeout=15
+<regex>
+<name>url</name>
+<expres>code=([^']*)</expres>
+<page>http://www.livetv.tn/index.php</page>
+<referer> </referer>
+</regex>
+</link>
+<thumbnail> </thumbnail>
+</item>
+
+<item>
+<title>Zee Alwen</title>
+<link>rtmp://tdsiptv.ddns.me/live playpath=ch48?code=$doregex[url] swfUrl=http://www.livetv.tn/flowplayer-3.2.7.swf pageUrl=http://www.livetv.tn live=true flashVer=WIN12.0.0.77 timeout=15
+<regex>
+<name>url</name>
+<expres>code=([^']*)</expres>
+<page>http://www.livetv.tn/index.php</page>
+<referer> </referer>
+</regex>
+</link>
+<thumbnail>http://www.livetv.tn/images/icons/48.gif</thumbnail>
+</item>
+
+<item>
+<title>Zee Aflam</title>
+<link>rtmp://tdsiptv.ddns.me/live playpath=ch74?code=$doregex[url] swfUrl=http://www.livetv.tn/flowplayer-3.2.7.swf pageUrl=http://www.livetv.tn live=true flashVer=WIN12.0.0.77 timeout=15
+<regex>
+<name>url</name>
+<expres>code=([^']*)</expres>
+<page>http://www.livetv.tn/index.php</page>
+<referer> </referer>
+</regex>
+</link>
+<thumbnail>http://www.livetv.tn/images/icons/74.gif</thumbnail>
+</item>
+
+<item>
+<title>Top Movies</title>
+<link>rtmp://tdsiptv.ddns.me/live playpath=ch102?code=$doregex[url] swfUrl=http://www.livetv.tn/flowplayer-3.2.7.swf pageUrl=http://www.livetv.tn live=true flashVer=WIN12.0.0.77 timeout=15
+<regex>
+<name>url</name>
+<expres>code=([^']*)</expres>
+<page>http://www.livetv.tn/index.php</page>
+<referer> </referer>
+</regex>
+</link>
+<thumbnail>http://www.livetv.tn/images/icons/102.gif</thumbnail>
+</item>
+
+<item>
+<title>Panorama Drama 2</title>
+<link>rtmp://tdsiptv.ddns.me/live playpath=ch115?code=$doregex[url] swfUrl=http://www.livetv.tn/flowplayer-3.2.7.swf pageUrl=http://www.livetv.tn live=true timeout=15 flashVer=WIN12.0.0.77
+<regex>
+<name>url</name>
+<expres>code=([^']*)</expres>
+<page>http://www.livetv.tn/index.php</page>
+<referer> </referer>
+</regex>
+</link>
+<thumbnail>http://www.etfarag.com/ChannelsImages/Panorama%20Drama%202black.gif</thumbnail>
+</item>
+
+<item>
+<title>Panorama Comedy</title>
+<link>rtmp://tdsiptv.ddns.me/live playpath=ch114?code=$doregex[url] swfUrl=http://www.livetv.tn/flowplayer-3.2.7.swf pageUrl=http://www.livetv.tn live=true timeout=15 flashVer=WIN12.0.0.77
+<regex>
+<name>url</name>
+<expres>code=([^']*)</expres>
+<page>http://www.livetv.tn/index.php</page>
+<referer> </referer>
+</regex>
+</link>
+<thumbnail>http://www.livetv.tn/images/icons/114.gif</thumbnail>
+</item>
+
+<item>
+<title>Palestine</title>
+<link>rtmp://tdsiptv.ddns.me/live playpath=ch100?code=$doregex[url] swfUrl=http://www.livetv.tn/flowplayer-3.2.7.swf pageUrl=http://www.livetv.tn live=true timeout=15 flashVer=WIN12.0.0.77
+<regex>
+<name>url</name>
+<expres>code=([^']*)</expres>
+<page>http://www.livetv.tn/index.php</page>
+<referer> </referer>
+</regex>
+</link>
+<thumbnail>http://www.megalivestream.com/wp-content/uploads/2013/07/Palestine-TV-570x172_c.png</thumbnail>
+</item>
+
+<item>
+<title>Fox</title>
+<link>rtmp://tdsiptv.ddns.me/live playpath=ch107?code=$doregex[url] swfUrl=http://www.livetv.tn/flowplayer-3.2.7.swf pageUrl=http://www.livetv.tn live=true timeout=15 flashVer=WIN12.0.0.77
+<regex>
+<name>url</name>
+<expres>code=([^']*)</expres>
+<page>http://www.livetv.tn/index.php</page>
+<referer> </referer>
+</regex>
+</link>
+<thumbnail>http://www.livetv.tn/images/icons/107.gif</thumbnail>
+</item>
+
+<item>
+<title>Cina Majastic</title>
+<link>rtmp://tdsiptv.ddns.me/live playpath=ch295?code=$doregex[url] swfUrl=http://www.livetv.tn/flowplayer-3.2.7.swf pageUrl=http://www.livetv.tn live=true timeout=15 flashVer=WIN12.0.0.77
+<regex>
+<name>url</name>
+<expres>code=([^']*)</expres>
+<page>http://www.livetv.tn/index.php</page>
+<referer> </referer>
+</regex>
+</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/mm/majestic_cinema.png</thumbnail>
+</item>
+
+<item>
+<title>Cima</title>
+<link>rtmp://tdsiptv.ddns.me/live playpath=ch109?code=$doregex[url] swfUrl=http://www.livetv.tn/flowplayer-3.2.7.swf pageUrl=http://www.livetv.tn live=true timeout=15 flashVer=WIN12.0.0.77
+<regex>
+<name>url</name>
+<expres>code=([^']*)</expres>
+<page>http://www.livetv.tn/index.php</page>
+<referer> </referer>
+</regex>
+</link>
+<thumbnail>http://www.livetv.tn/images/icons/109.gif</thumbnail>
+</item>
+
+<item>
+<title>Cario Drama</title>
+<link>rtmp://tdsiptv.ddns.me/live playpath=ch64?code=$doregex[url] swfUrl=http://www.livetv.tn/flowplayer-3.2.7.swf pageUrl=http://www.livetv.tn live=true timeout=15 flashVer=WIN12.0.0.77
+<regex>
+<name>url</name>
+<expres>code=([^']*)</expres>
+<page>http://www.livetv.tn/index.php</page>
+<referer> </referer>
+</regex>
+</link>
+<thumbnail>http://www.livetv.tn/images/icons/64.gif</thumbnail>
+</item>
+
+<item>
+<title>Cario Cinema</title>
+<link>rtmp://tdsiptv.ddns.me/live playpath=ch63?code=$doregex[url] swfUrl=http://www.livetv.tn/flowplayer-3.2.7.swf pageUrl=http://www.livetv.tn live=true timeout=15 flashVer=WIN12.0.0.77
+<regex>
+<name>url</name>
+<expres>code=([^']*)</expres>
+<page>http://www.livetv.tn/index.php</page>
+<referer> </referer>
+</regex>
+</link>
+<thumbnail>http://www.livetv.tn/images/icons/63.gif</thumbnail>
+</item>
+
+<item>
+<title>Aljadeed</title>
+<link>rtmp://tdsiptv.ddns.me/live playpath=ch99?code=$doregex[url] swfUrl=http://www.livetv.tn/flowplayer-3.2.7.swf pageUrl=http://www.livetv.tn live=true timeout=15 flashVer=WIN12.0.0.77
+<regex>
+<name>url</name>
+<expres>code=([^']*)</expres>
+<page>http://www.livetv.tn/index.php</page>
+<referer> </referer>
+</regex>
+</link>
+<thumbnail>http://www.livetv.tn/images/icons/99.gif</thumbnail>
+</item>
+
+<item>
+<title>Al Hayat</title>
+<link>rtmp://tdsiptv.ddns.me/live playpath=ch96?code=$doregex[url] swfUrl=http://www.livetv.tn/flowplayer-3.2.7.swf pageUrl=http://www.livetv.tn live=true timeout=15 flashVer=WIN12.0.0.77
+<regex>
+<name>url</name>
+<expres>code=([^']*)</expres>
+<page>http://www.livetv.tn/index.php</page>
+<referer> </referer>
+</regex>
+</link>
+<thumbnail>http://www.livetv.tn/images/icons/96.gif</thumbnail>
+</item>
+
+<item>
+<title>MTV (Link 2)</title>
+<link>rtmp://tdsiptv.ddns.me/live playpath=ch145?code=$doregex[url] flashver=WIN%2011,9,900,117 swfUrl=http://www.livetv.tn/flowplayer-3.2.7.swf pageUrl=http://www.livetv.tn/ live=true timeout=15
+<regex>
+<name>url</name>
+<expres>code=([^']*)</expres>
+<page>http://www.livetv.tn/</page>
+<referer> </referer>
+</regex>
+</link>
+<thumbnail>http://4.bp.blogspot.com/-v7Q1icQUJD0/Tm5vrpPY1gI/AAAAAAAAAGs/640s_zySbsQ/s200/MTV+1.png</thumbnail>
+</item>	
+
+<item>
+<title>MBC MAX</title>
+<link>rtmp://tdsiptv.ddns.me/live playpath=ch38?code=$doregex[url] swfUrl=http://www.livetv.tn/flowplayer-3.2.7.swf pageUrl=http://www.livetv.tn live=true timeout=15 flashVer=WIN12.0.0.77
+<regex>
+<name>url</name>
+<expres>code=([^']*)</expres>
+<page>http://www.livetv.tn/index.php</page>
+<referer> </referer>
+</regex>
+</link>
+<thumbnail>http://alghaslan.net/wp-content/uploads/MBC-MAX-300x115.jpg</thumbnail>
+</item>
+ 	
+<item>
+<title>Sada Al Balad</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=bvca3Y8pmw8#</link>
+<thumbnail>http://www.designweek.co.uk/Pictures/web/k/m/j/SADA-AL-BALA_482.jpg</thumbnail>
+</item>
+
+<item>
+<title>Sada Al Balad 2</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=L0Xm2aEVg5Q#</link>
+<thumbnail>http://www.designweek.co.uk/Pictures/web/k/m/j/SADA-AL-BALA_482.jpg</thumbnail>
+</item>
+
+<item>
+<title>MBC Maser</title>
+<link>rtmp://tdsiptv.ddns.me/live playpath=ch37?code=$doregex[url] swfUrl=http://www.livetv.tn/flowplayer-3.2.7.swf pageUrl=http://www.livetv.tn live=true timeout=15 flashVer=WIN12.0.0.77
+<regex>
+<name>url</name>
+<expres>code=([^']*)</expres>
+<page>http://www.livetv.tn/index.php</page>
+<referer> </referer>
+</regex>
+</link>
+<thumbnail>http://jazarah.net/ar/wp-content/uploads/2012/10/MBC-MASR-logo.jpg</thumbnail>
+</item>
+
+<item>
+<title>Noor Dubai</title>
+<link>http://cdnedvrnoordubaitv.endavomedia.com/smil:dmilivenoordubaitvhls.smil/playlist.m3u8</link>
+<thumbnail>http://live-tv-channels.net/pt-data/uploads/logo/noor_dubai_tv.jpg</thumbnail>
+</item>
+
+<item>
+<title>Al Nahar Sport</title>
+<link>rtmp://stream1.streamtrix.com/nahar1 playpath=naharsports.stream_720p swfUrl=http://demos.streamtrix.com/swf/flowplayer.cluster-3.2.10.swf live=true timeout=15 pageUrl=http://demos.streamtrix.com/alnaharsport/</link>
+<thumbnail>http://www.alnaharlive.net/wp-content/themes/nahar/images/channel2.png</thumbnail>
+</item>
+
+<item>
 <title>Al Nahar Drama</title>
-<link>rtmp://50.7.180.18/nahar1 playpath=alnahardrama.stream_720p  swfUrl=http://demos.streamtrix.com/swf/flowplayer.commercial-3.2.15.swf live=true timeout=15 pageUrl=http://demos.streamtrix.com/alnahardrama/</link>
+<link>rtmp://50.7.180.18/nahar1 playpath=alnahardrama.stream_720p swfUrl=http://demos.streamtrix.com/swf/flowplayer.commercial-3.2.15.swf live=true timeout=15 pageUrl=http://demos.streamtrix.com/alnahardrama/</link>
 <thumbnail>http://www.alnaharlive.net/wp-content/themes/nahar/images/channel4.png</thumbnail>
 </item>
 
@@ -103,7 +698,7 @@
 
 <item>
 <title>CBC</title>
-<link>http://iphone-streaming.ustream.tv/ustreamVideo/8707800/streams/live/playlist.m3u8</link>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=b8JTMfKz_84</link>
 <thumbnail>http://3.bp.blogspot.com/-bQhnaV_8KF4/T7ZPNiBq6zI/AAAAAAAADEY/p3VdxQEj1Ws/s1600/cbc.jpg</thumbnail>
 </item>
 
@@ -133,7 +728,7 @@
 
 <item>
 <title>CBC Extra</title>
-<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=HcD8KrAfpUY</link>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=KkSEkED3BYk</link>
 <thumbnail>http://www.livetv.tn/images/icons/255.gif</thumbnail>
 </item>
 
@@ -194,6 +789,71 @@
 <title>Aljadeed  [COLOR=FFFF0000]Geo Blocked In Some Areas[/COLOR]</title>
 <link>rtmp://livestreaming.itworkscdn.net/ app=aljadeedlive playpath=aljadeed_360p pageurl=http://www.itworks-me.net/aljadeed/aljadeed.smil</link>
 <thumbnail>http://1.bp.blogspot.com/-W1Ry_s_c5-k/UAw9jeMFGoI/AAAAAAAANlY/SJ_JbZV8W5E/s400/aljadeed%2Btv.jpeg</thumbnail>
+</item>
+
+<item>
+<title>OSN Yahala 2</title>
+<link>rtmp://192.95.32.7:1935/live/ playpath=$doregex[file] swfUrl=http://yoolive.com/player/player.swf pageUrl=http://yoolive.com/
+<regex>
+<name>file</name>
+<expres>'file': '([^']*)</expres>
+<page>http://www.yoolive.com/osn_yahala2.php</page>
+<referer>http://yoolive.com/</referer>
+</regex>
+</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/oo/osn_ya_hala_hd_plus2.png</thumbnail>
+</item>
+
+<item>
+<title>OSN Yahala</title>
+<link>rtmp://192.95.32.7:1935/live/ playpath=$doregex[file] swfUrl=http://yoolive.com/player/player.swf pageUrl=http://yoolive.com/
+<regex>
+<name>file</name>
+<expres>'file': '([^']*)</expres>
+<page>http://www.yoolive.com/osn_yahala.php</page>
+<referer>http://yoolive.com/</referer>
+</regex>
+</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/oo/osn_ya_hala_shabab_hd.png</thumbnail>
+</item>
+
+<item>
+<title>ART Cinema</title>
+<link>rtmp://192.95.32.7:1935/live/ playpath=$doregex[file] swfUrl=http://yoolive.com/player/player.swf pageUrl=http://yoolive.com/
+<regex>
+<name>file</name>
+<expres>'file': '([^']*)</expres>
+<page>http://www.yoolive.com/art_cinema.php</page>
+<referer>http://yoolive.com/</referer>
+</regex>
+</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/aa/art_cinema.png</thumbnail>
+</item>
+
+<item>
+<title>OSN Movies (Link 2)</title>
+<link>rtmp://192.95.32.7:1935/live/ playpath=$doregex[file] swfUrl=http://yoolive.com/player/player.swf pageUrl=http://yoolive.com/
+<regex>
+<name>file</name>
+<expres>'file': '([^']*)</expres>
+<page>http://www.yoolive.com/osn_movies_hd.php</page>
+<referer>http://yoolive.com/</referer>
+</regex>
+</link>
+<thumbnail>http://www8.0zz0.com/2013/09/01/17/340900495.jpg</thumbnail>
+</item>
+
+<item>
+<title>OSN Drama (Link 2)</title>
+<link>rtmp://192.95.32.7:1935/live/ playpath=$doregex[file] swfUrl=http://yoolive.com/player/player.swf pageUrl=http://yoolive.com/
+<regex>
+<name>file</name>
+<expres>'file': '([^']*)</expres>
+<page>http://www.yoolive.com/osn_drama.php</page>
+<referer>http://yoolive.com/</referer>
+</regex>
+</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/oo/osn_movies_drama.png</thumbnail>
 </item>
 
 <item>
@@ -303,32 +963,32 @@
 </item>
 
 <item>
-<title>Melody Drama HD</title>
-<link>rtmp://38.96.148.206/Melody playpath=MDramaWeb  swfUrl=http://www.melody.net/flowplayer/flowplayer.commercial-3.2.16.swf live=true timeout=15 pageUrl=http://www.melody.net/pages/view/id/17</link>
+<title>Melody Drama</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=e20-fHnZQOI</link>
 <thumbnail>http://4.bp.blogspot.com/_ayWC2KUhMqw/TJ04otUC4mI/AAAAAAAACds/mCsD_c_kqfU/s1600/melody%2Bdrama%2Blogo%255B1%255D.JPG</thumbnail>
 </item>
 
 <item>
-<title>Melody Hits HD</title>
-<link>rtmp://38.96.148.206/Melody playpath=MHitsWeb  swfUrl=http://www.melody.net/flowplayer/flowplayer.commercial-3.2.16.swf live=true timeout=15 pageUrl=http://www.melody.net/pages/view/id/18</link>
+<title>Melody Hits</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=youtube_video_id</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/mm/melody_hits.png</thumbnail>
 </item>
 
 <item>
-<title>Melody Classic HD</title>
-<link>rtmp://38.96.148.206/Melody playpath=MClassicWeb  swfUrl=http://www.melody.net/flowplayer/flowplayer.commercial-3.2.16.swf live=true timeout=15 pageUrl=http://www.melody.net/pages/view/id/25</link>
+<title>Melody Classic</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=youtube_video_id</link>
 <thumbnail>http://www.tvfrekans.com/wp-content/uploads/2012/11/melody-tv-logo-resmi.jpg</thumbnail>
 </item>
 
 <item>
-<title>Melody Arabia HD</title>
-<link>rtmp://38.96.148.206/Melody playpath=MArabiaWeb  swfUrl=http://www.melody.net/flowplayer/flowplayer.commercial-3.2.16.swf live=true timeout=15 pageUrl=http://www.melody.net/pages/view/id/24</link>
+<title>Melody Arabia</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=youtube_video_id</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/mm/melody_arabia.png</thumbnail>
 </item>
 
 <item>
 <title>Melody Aflam</title>
-<link>rtmp://38.96.148.206/Melody playpath=MAflamWeb  swfUrl=http://www.melody.net/flowplayer/flowplayer.commercial-3.2.16.swf live=true timeout=15 pageUrl=http://www.melody.net/pages/view/id/1</link>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=youtube_video_id</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/mm/melody_arabia.png</thumbnail>
 </item>
 

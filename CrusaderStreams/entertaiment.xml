@@ -91,7 +91,7 @@
 </item>
 	
 <item>
-<title>Abu Dubai Drama [COLOR=FFFF0000]Try 3 Times To Get Picture Working, 1st Two Times Will Give Only Audio[/COLOR]</title>
+<title>Abu Dubai Drama</title>
 <link>rtmp://tdsiptv.ddns.me/live playpath=ch54?code=$doregex[url] swfUrl=http://www.livetv.tn/flowplayer-3.2.7.swf pageUrl=http://www.livetv.tn live=true timeout=15 flashVer=WIN12.0.0.77
 <regex>
 <name>url</name>

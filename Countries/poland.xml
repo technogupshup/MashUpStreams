@@ -6,21 +6,7 @@
 
 <item>
 <title>Nsport</title>
-<link>
-$doregex[url] app=liveedge/ playpath=$doregex[file] live=true timeout=15 pageUrl=http://zingo.tv/
-<regex>
-<name>url</name>
-<expres>streamer: "([^"]*)</expres>
-<page>http://zingo.tv/watch.php?id=1759&width=630&height=360</page>
-<referer>http://goodcast.tv/e/10.html</referer>
-</regex>
-<regex>
-<name>file</name>
-<expres>file: "([^"]*)</expres>
-<page>http://zingo.tv/watch.php?id=1759&width=630&height=360</page>
-<referer>http://goodcast.tv/e/10.html</referer>
-</regex>
-</link>
+<link>rtmpe://94.242.228.24:443/ app=liveedge/ playpath=17025 pageUrl=http://zingo.tv/</link>
 <thumbnail>http://upload.wikimedia.org/wikipedia/en/0/00/NSport_logo.jpg</thumbnail>
 </item>
 

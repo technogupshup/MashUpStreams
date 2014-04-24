@@ -21,7 +21,7 @@ $doregex[url] app=liveedge/ playpath=$doregex[file] live=true timeout=15 pageUrl
 <referer>http://goodcast.tv/e/10.html</referer>
 </regex>
 </link>
-<thumbnail>http://i.imgur.com/r3A1LIO.jpg</thumbnail>
+<thumbnail>http://upload.wikimedia.org/wikipedia/en/0/00/NSport_logo.jpg</thumbnail>
 </item>
 
 </channel>

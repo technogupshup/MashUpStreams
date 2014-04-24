@@ -11,6 +11,12 @@ f<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 </item>
 
 <item>
+<title>Esporte Interativo</title>
+<link>rtmp://31.204.153.70/live/ playpath=brlive_0029 swfUrl=http://www.cdnbr.biz/swf/player.swf live=true timeout=15 pageUrl=http://www.cdnbr.biz/mastertv/Esporte%20Interativo.html</link>
+<thumbnail>http://www.mmastertv.biz/canais/ei.png</thumbnail>
+</item>
+
+<item>
 <title>PFC</title>
 <link>rtmpe://94.102.63.23:443/ app=liveedge/ playpath=ch07-x2up4iXo33 pageurl=http://livecast.cc/live/stream21.php</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/pp/premiere_futebol_clube_internacional.png</thumbnail>

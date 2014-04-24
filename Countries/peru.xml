@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<channel>
+<name>Peruvian TV Channels</name>
+<thumbnail></thumbnail>
+<item>
+<title>Frecuencia Latina</title>
+<link>rtmp://flatina1livefs.fplive.net/ app=flatina1live-live playpath=stream1 swfUrl=http://source.netandino.com/theme/player.swf live=true timeout=15 pageUrl=http://www.tele-on.com/2014/04/frecuencia.html</link>
+<thumbnail>http://4.bp.blogspot.com/-mPa9KA6faKc/URbZdvLw_6I/AAAAAAAADAA/jQNKzUdvHag/s1600/logofrecu.jpg</thumbnail>
+</item>
+
+<item>
+<title>America Television</title>
+<link>rtmp://173.193.205.94/live playpath=carlos1201?id=66399 conn=S:OK swfUrl=http://www.ucaster.eu/static/scripts/eplayer.swf live=true timeout=15 pageUrl=http://www.ucaster.eu/embedded/carlos1201/1/620/400</link>
+<thumbnail>http://1.bp.blogspot.com/-s0trtn50v28/URbZZkIqGYI/AAAAAAAAC-8/jERp8mmTRck/s1600/logoameric.jpg</thumbnail>
+</item>
+
+<item>
+<title>TV PERU</title>
+<link>http://iphone-streaming.ustream.tv/ustreamVideo/17419715/streams/live/playlist.m3u8</link>
+<thumbnail>http://4.bp.blogspot.com/-04ZSRiAS5v8/URbZePZWVnI/AAAAAAAADAU/zoZRAlBI4gg/s1600/logotvperu.jpg</thumbnail>
+</item>
+
+<item>
+<title>ATV</title>
+<link>rtmp://d95.iblups.com/ app=lives playpath=Zld5BoM1Ne swfUrl=http://iblups.com/playertvlive123456789panamericanatv.swf?config=configpanamericanatv%2Exml live=true timeout=15 pageUrl=http://iblups.com/e_atv-520-343</link>
+<thumbnail>http://4.bp.blogspot.com/-pSHGTkx9ttA/URbZa4B39WI/AAAAAAAAC_Q/MKH-NvUoAa4/s1600/logoatv.jpg</thumbnail>
+</item>
+
+<item>
+<title>Gobal TV</title>
+<link>rtmp://d91.iblups.com/ app=globaltv playpath=hTWNttHSsq swfUrl=http://iblups.com/playertvlive123456789globaltv.swf?config=configglobaltv%2Exml live=true timeout=15 pageUrl=http://iblups.com/e_globaltv-520-343</link>
+<thumbnail>http://3.bp.blogspot.com/-V_Jia0cArsE/URbZZq5oLbI/AAAAAAAAC_A/9FjZYyeTeKo/s1600/LOGOGLOBALTV.jpg</thumbnail>
+</item>
+
+<item>
+<title>Willax</title>
+<link>rtmp://willax.mediastream.pe/ app=vv_willax playpath=livestream swfUrl=http://monitor.mediastream.pe/MStreamLive.swf?v=qtnjVOvh live=true timeout=15 pageUrl=http://www.tele-on.com/2014/04/willax.html</link>
+<thumbnail>http://4.bp.blogspot.com/-rEx1kFMNgXw/Uzwur9QGLcI/AAAAAAAAA38/nZcyxofqyUM/s1600/will1.png</thumbnail>
+</item>
+
+<item>
+<title>La Tele</title>
+<link>rtmp://d91.iblups.com/ app=latele playpath=MMb2wRCis1 swfUrl=http://iblups.com/playertvlive123456789.swf?config=configplayer%2Ephp%3Fid%3D10691&amp;autostart=true live=true timeout=15 pageUrl=http://iblups.com/e_latele-620-390</link>
+<thumbnail>http://4.bp.blogspot.com/-gnAPZarKzsM/UzwvKmalmFI/AAAAAAAAA4c/7CCFyqkDr-4/s1600/latele1.png</thumbnail>
+</item>
+
+<item>
+<title>FOX</title>
+<link>rtmp://173.192.209.69/live playpath=mmxmxmx?id=61406 conn=S:OK swfUrl=http://www.ucaster.eu/static/scripts/eplayer.swf live=true timeout=15 pageUrl=http://www.ucaster.eu/embedded/mmxmxmx/1/620/382</link>
+<thumbnail>http://2.bp.blogspot.com/-6IPoGDxdwoE/UzwvCdmsSgI/AAAAAAAAA4U/7mOUX2wPkMI/s1600/fox1.png</thumbnail>
+</item>
+
+<item>
+<title>Discovery</title>
+<link>rtmp://109.123.123.68/live playpath=DC2015?id=8081 conn=S:OK swfUrl=http://www.janjua.tv/resources/scripts/eplayer.swf live=true timeout=15 pageUrl=http://www.janjua.tv/embedplayer/DC2015/1/585/385</link>
+<thumbnail>http://4.bp.blogspot.com/-Uf8gBN6OS-U/UzX8ktdWnKI/AAAAAAAAA28/NT3SJkS0ls8/s1600/disco1.png</thumbnail>
+</item>
+
+<item>
+<title>Nat Geo</title>
+<link>rtmp://146.185.25.130/live playpath=nattionnalgeo?id=14153 conn=S:OK swfUrl=http://www.ezcast.tv/static/scripts/eplayer.swf live=true timeout=15 pageUrl=http://www.ezcast.tv/embedded/nattionnalgeo/1/650/400</link>
+<thumbnail>http://3.bp.blogspot.com/-bD6Rip3YOlg/UrPdAJxzU_I/AAAAAAAAArw/gXUmXTPpkpE/s1600/logoNAT12.png</thumbnail>
+</item>
+
+<item>
+<title>ESPN</title>
+<link>rtmp://5.63.151.44/live playpath=asdfchhivas?id=199564 conn=S:OK swfUrl=http://www.mips.tv/content/scripts/eplayer.swf live=true timeout=15 pageUrl=http://www.mips.tv/embedplayer/asdfchhivas/1/620/400</link>
+<thumbnail>http://1.bp.blogspot.com/-xn37mpKlEfw/URbZcdjjtEI/AAAAAAAAC_o/Mp-krNvUNkM/s1600/logoespn.jpg</thumbnail>
+</item>
+
+</channel>

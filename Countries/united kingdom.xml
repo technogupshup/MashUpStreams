@@ -37,6 +37,7 @@ $doregex[streamer] swfUrl=http://www.eucast.tv/player5.9.swf live=true timeout=1
 <title>Sky Sports 3</title>
 <link>
 $doregex[streamer] swfUrl=http://www.eucast.tv/player5.9.swf live=true timeout=15 pageUrl=http://www.eucast.tv/
+<regex>
 <name>streamer</name>
 <expres>file: "([^"]*)</expres>
 <page>http://www.eucast.tv/embed.php?live=ss3x&vw=620&vh=490</page>

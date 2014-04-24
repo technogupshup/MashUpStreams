@@ -258,3 +258,7 @@ http://www.iconspedia.com/icon/
 <name>Uruguayan TV Channels</name>
 <link>https://raw.github.com/mash2k3/MashUpStreams/master/Countries/urugray.xml</link>
 <thumbnail>https://raw.github.com/mash2k3/MashUpStreams/master/Countries/flags/uruguay.png</thumbnail>
+
+<name>Peruvian TV Channels</name>
+<link>https://raw.github.com/mash2k3/MashUpStreams/master/Countries/peru.xml</link>
+<thumbnail>https://raw.github.com/mash2k3/MashUpStreams/master/Countries/flags/peru.png</thumbnail>

@@ -118,13 +118,7 @@
 </item>
 
 <item>
-<title>Star Plus Link 1</title> 
-<link>rtmpe://94.242.228.22:443/ app=liveedge/ playpath=starpls2590 live=true timeout=60 pageurl=http://zingo.tv</link>
-<thumbnail>http://static2.wikia.nocookie.net/__cb20100619101411/logopedia/images/f/fc/StarPlus_2010.png</thumbnail>
-</item>
-
-<item>
-<title>Star Plus Link 2</title> 
+<title>Star Plus</title> 
 <link>rtmp://159.253.143.20/stream playpath=starsplus?id=121036 conn=S:OK swfUrl=http://www.liveflash.tv/resources/scripts/eplayer.swf live=true timeout=60 pageUrl=http://www.liveflash.tv/embedplayer/starsplus/1/600/400</link>
 <thumbnail>http://static2.wikia.nocookie.net/__cb20100619101411/logopedia/images/f/fc/StarPlus_2010.png</thumbnail>
 </item>
@@ -384,13 +378,13 @@
 
 <item>
 <title>Zee Cinema</title>
-<link>http://213.254.202.140/flv/4e2c5fd04592d/testat123?0.930493411142379</link>
+<link>http://89.149.156.137/flv/4e0e6f4dcc2d3/testat123?0.4251826866529882</link>
 <thumbnail>http://images.wikia.com/logopedia/images/4/48/Zee_Cinema_2011.png</thumbnail>
 </item>
 
 <item>
 <title>Star Movies</title>
-<link>http://213.254.202.142/flv/530d359352bec/testat123?0.878051916602999</link>
+<link>http://213.254.202.149/flv/533c1c3a18956/testat123?0.8162667416036129</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ss/star_movies_tw_hd.png</thumbnail>
 </item>
 

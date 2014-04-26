@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<channel>
+<name>Serbian TV Channels</name>
+<thumbnail></thumbnail>
+
+<item>
+<title>Alpha 1 HD</title>
+<link>rtmp://85.25.119.116/AlphaLow/ playpath=low.stream_720p swfUrl=http://www.longtailvideo.com//jwplayer/jwplayer.flash.swf pageUrl=http://mali-ekrani.blogspot.com/2014/03/alpha-one-hd.html</link>
+<thumbnail>http://www.profreetv.com/logoa/a1hdsr.jpg</thumbnail>
+</item>
+
+<item>
+<title>DM Sat</title>
+<link>http://4.31.30.142:9227/</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/dd/dm_sat_rs.png</thumbnail>
+</item>
+
+<item>
+<title>Niška TV</title>
+<link>rtmp://92.60.231.48:1935/live/ playpath=livestream swfUrl=http://www.longtailvideo.com//jwplayer/jwplayer.flash.swf pageUrl=http://mali-ekrani.blogspot.com/2013/12/niska-tv.html</link>
+<thumbnail>http://www.oriontelekom.rs/upload/images/logotipi/niska-tv.png</thumbnail>
+</item>
+
+<item>
+<title>Prva</title>
+<link>http://4.31.30.142:9218/</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/pp/prva_rs.png</thumbnail>
+</item>
+
+<item>
+<title>TV Puls</title>
+<link>rtmp://84.22.33.24:1935/ingest/ playpath=tvpuls swfUrl=http://www.longtailvideo.com//jwplayer/jwplayer.flash.swf pageUrl=http://mali-ekrani.blogspot.com/2013/09/mina-milenkovic-ne-ulazim-na-farmu.html</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/tt/tv_puls_rs.png</thumbnail>
+</item>
+
+<item>
+<title>Studio B</title>
+<link>mms://195.252.114.172/studiob</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/studio_b.png</thumbnail>
+</item>
+
+<item>
+<title>Svet Plus</title>
+<link>http://80.241.222.69:80/svetplustv?MSWMExt=.asf</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/svet_plus.png</thumbnail>
+</item>
+
+<item>
+<title>Zlatni Bik</title>
+<link>http://199.115.117.206:8000/zlatnibik</link>
+<thumbnail> </thumbnail>
+</item>
+
+<item>
+<title>Grand TV HD</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=Upq6UclrRhI</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/gg/grand_tv_rs.png</thumbnail>
+</item>
+
+<item>
+<title>TV Belle Amie</title>
+<link>rtmp://92.60.234.98/live/ playpath=myStream swfUrl=http://www.longtailvideo.com//jwplayer/jwplayer.flash.swf pageUrl=http://mali-ekrani.blogspot.com/2014/01/tv-belle-amie.html</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/rr/rtv_belle_amie.png</thumbnail>
+</item>
+
+</channel>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<channel>
+<name>Macedonian TV Channels</name>
+<thumbnail></thumbnail>
+
+<item>
+<title>K 15 Music</title>
+<link>rtmp://27.50.94.92:1935/transrate_sd/ playpath=k15channel.stream_source swfUrl=http://www.longtailvideo.com//jwplayer/jwplayer.flash.swf pageUrl=http://mali-ekrani.blogspot.com/2013/06/jim-carrey-odbio-da-promovira-film-kick.html</link>
+<thumbnail>http://www.tv-logo.com/pt-data/uploads/images/logo/k_15_music.jpg</thumbnail>
+</item>
+
+</channel>

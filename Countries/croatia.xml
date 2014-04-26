@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<channel>
+<name>Croatian TV Channels</name>
+<thumbnail></thumbnail>
+
+<item>
+<title>HRT 1</title>
+<link>http://109.122.121.21:80/live/hrt_1.stream/playlist.m3u8?hash=$doregex[hash]
+<regex>
+<name>hash</name>
+<expres>hash=([^"]*)</expres>
+<page>http://mali-ekrani.blogspot.com/2013/07/hrt-1_9.html</page>
+<referer> </referer>
+</regex>
+</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/hh/hrt1.png</thumbnail>
+</item>
+
+
+<item>
+<title>HRT 2</title>
+<link>http://109.122.121.21:80/live/hrt_2.stream/playlist.m3u8?hash=$doregex[hash]
+<regex>
+<name>hash</name>
+<expres>hash=([^"]*)</expres>
+<page>http://mali-ekrani.blogspot.com/2013/07/hrt-1_9.html</page>
+<referer> </referer>
+</regex>
+</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/hh/hrt2.png</thumbnail>
+</item>
+
+<item>
+<title>HRT 4</title>
+<link>http://3963.live.streamtheworld.com/HRT4</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/hh/hrt4.png</thumbnail>
+</item>
+
+</channel>

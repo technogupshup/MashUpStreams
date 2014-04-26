@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<channel>
+<name>Bulgarian TV Channels</name>
+<thumbnail></thumbnail>
+
+<item>
+<title>DSTV</title>
+<link>rtmp://46.249.95.140:1935/live playpath=livestream swfUrl=http://fpdownload.adobe.com/strobe/FlashMediaPlayback.swf/[[DYNAMIC]]/1 pageUrl=http://mali-ekrani.blogspot.com/2013/07/dstv-music.html</link>
+<thumbnail>http://bg-gledai.tv/wp-content/uploads/dstv.png</thumbnail>
+</item>
+
+<item>
+<title>Nova TV</title>
+<link>rtmp://206.190.129.12/live playpath=NoWaTv?id=186173 conn=S:OK swfUrl=http://www.mips.tv/content/scripts/eplayer.swf pageUrl=http://www.mips.tv/embedplayer/NoWaTv/1/500/380</link>
+<thumbnail>http://static1.novatv.bg/layout/novatv/img/logo_big.jpg</thumbnail>
+</item>
+
+<item>
+<title>Planeta TV</title>
+<link>rtsp://origin.biokoda.tv/live/mbit-planet?k=planettv-public</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/pp/planeta_tv.png</thumbnail>
+</item>
+
+<item>
+<title>BG Top Music</title>
+<link>http://5.35.240.130:30005/</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/bb/bg_top_music.png</thumbnail>
+</item>
+
+</channel>

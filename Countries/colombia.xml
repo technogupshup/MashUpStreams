@@ -18,6 +18,100 @@
 </item>
 
 <item>
+<title>Caracol 2</title>
+<link>rtmp://go.fasts.tv/ app=fasts playpath=caracol15 token=$doregex[token] swfUrl=http://www.fasts.tv/player/player_embed_fasts.swf live=true timeout=15 pageUrl=http://www.fasts.tv/
+<regex>
+<name>token</name>
+<expres>"token":"([^"]*)</expres>
+<page>http://www.fasts.tv/file.php</page>
+<referer>http://www.fasts.tv</referer>
+</regex>
+</link>
+<thumbnail>http://www.portalcolombia.co/wp-content/uploads/2010/01/caracol-tv.jpg</thumbnail>
+</item>
+
+<item>
+<title>RCN 2</title>
+<link>rtmp://go.fasts.tv/ app=fasts playpath=rcncol13 token=$doregex[token] swfUrl=http://www.fasts.tv/player/player_embed_fasts.swf live=true timeout=15 pageUrl=http://www.fasts.tv/
+<regex>
+<name>token</name>
+<expres>"token":"([^"]*)</expres>
+<page>http://www.fasts.tv/file.php</page>
+<referer>http://www.fasts.tv</referer>
+</regex>
+</link>
+<thumbnail>http://www.canalrcnmsn.com/sites/all/themes/canalrcn/images/ic_logorcn.png</thumbnail>
+</item>
+
+<item>
+<title>Canal 13</title>
+<link>rtmp://cdns840stu1010.multistream.net/canaltr3celive playpath=live-500 swfUrl=http://api.codistream.net/videoplayergenerator/embedVideoPlayerCodistream-v3.6.swf live=true timeout=15 pageUrl=http://www.canal13.com.co/</link>
+<thumbnail>http://www.canal13.com.co/images2014/logo.jpg</thumbnail>
+</item>
+
+<item>
+<title>Mi Gente</title>
+<link>rtmp://173.199.148.4:1935/live playpath=migentetv swfUrl=http://migente.fm/newsite/wp-content/themes/columns/reproductor/player.swf live=true timeout=15 pageUrl=http://migente.fm/newsite/senal-en-vivo/</link>
+<thumbnail>http://migente.fm/newsite/wp-content/uploads/2014/02/logo_cabezote.png</thumbnail>
+</item>
+
+<item>
+<title>Telepacifico</title>
+<link>rtmp://cdns840stu1021.multistream.net:80/telepacificolive playpath=live-300 swfUrl=http://api.codistream.net/videoplayergenerator/embedVideoPlayerCodistream-v3.6.swf live=true timeout=15 pageUrl=http://watch.squidtv.net/live/live_130_6.html</link>
+<thumbnail>http://elpueblo.com.co/wp-content/uploads/2013/02/telepacifico.jpg</thumbnail>
+</item>
+
+<item>
+<title>Telecaribe</title>
+<link>rtmp://cdns724ste1021.multistream.net:80/telecaribelive playpath=live-200 swfUrl=http://img71.xooimage.com/files/d/b/2/playercanales7-2f3e41a.swf live=true timeout=15 pageUrl=http://cdn.mirando.me/canal-telecaribe-en-vivo.php</link>
+<thumbnail>http://www.telecaribe.com.co/images/stories/logo%20telecaribe.jpg</thumbnail>
+</item>
+
+<item>
+<title>Canal 9</title>
+<link>rtmp://cdns840stu1010.multistream.net:80/rtvclive playpath=live-500 swfUrl=http://img71.xooimage.com/files/d/b/2/playercanales7-2f3e41a.swf live=true timeout=15 pageUrl=http://cdn.mirando.me/canal-9-institucional-en-vivo.php</link>
+<thumbnail>http://www.institucional.gov.co/templates/institucionalNew/images/ins/logo_institucional.png</thumbnail>
+</item>
+
+<item>
+<title>SeÒal Colombia</title>
+<link>rtmp://cdns840stu1010.multistream.net:80/rtvc2live playpath=live-500 swfUrl=http://cdn.mirando.me/swf/playercanales7-2f3e41a.swf live=true timeout=15 pageUrl=http://cdn.mirando.me/canal-senal-colombia-en-vivo.php</link>
+<thumbnail>http://www.senalcolombia.tv/templates/senalcolombia-energia3/images/sc/header3/logo_senalcol.png</thumbnail>
+</item>
+
+<item>
+<title>Caracol 4</title>
+<link>rtmp://cp101307.live.edgefcs.net/ app=live/ playpath=$doregex[url] swfUrl=http://www.longtailvideo.com/jwplayer/jwplayer.flash.swf live=true timeout=15 pageUrl=http://cdn.mirando.me/caracol4.php
+<regex>
+<name>url</name>
+<expres>live/([^"]*)</expres>
+<page>http://cdn.mirando.me/caracol4.php</page>
+<referer> </referer>
+</regex>
+</link>
+<thumbnail>http://www.portalcolombia.co/wp-content/uploads/2010/01/caracol-tv.jpg</thumbnail>
+</item>
+
+<item>
+<title>RCN</title>
+<link>rtmp://go.fasts.tv/ app=fasts playpath=r13042014 token=$doregex[token] swfUrl=http://www.fasts.tv/player/player_embed_fasts.swf live=true timeout=15 pageUrl=http://www.fasts.tv/
+<regex>
+<name>token</name>
+<expres>"token":"([^"]*)</expres>
+<page>http://www.fasts.tv/file.php</page>
+<referer>http://www.fasts.tv</referer>
+</regex>
+</link>
+<thumbnail>http://www.mediamoves.com/wp-content/uploads/2012/07/rcn.jpg</thumbnail>
+</item>
+
+<item>
+<title>NTN 24</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=WtUgKLQFu60</link>
+<thumbnail>http://www.ntn24.com/sites/all/themes/ntn24/images/logontn24.png</thumbnail>
+</item>
+
+<item>
 <title>Telesantander Canal 21</title>
 <link>rtmp://cdn.teveo.com.co:80/live playpath=AQAAAAIAAAAZAVI swfUrl=http://teveo.com.co/flash/AQAAAAIAAAAZAUA.swf?width=640&amp;height=480&amp;autostart=1 token=7F07GCXcNvKHOV4A live=true timeout=15 pageUrl=http://www.telesantander.com/index.php?option=com_content&amp;view=article&amp;id=400&amp;Itemid=105</link>
 <thumbnail>http://2.bp.blogspot.com/-Vy5KksYih24/T0rKox8MqTI/AAAAAAAAAVE/Now_IBaMCdM/s1600/telesantander.jpg</thumbnail>

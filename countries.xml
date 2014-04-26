@@ -266,3 +266,19 @@ http://www.iconspedia.com/icon/
 <name>Polish TV Channels</name>
 <link>https://raw.github.com/mash2k3/MashUpStreams/master/Countries/poland.xml</link>
 <thumbnail>https://raw.github.com/mash2k3/MashUpStreams/master/Countries/flags/Poland.png</thumbnail>
+
+<name>Serbian TV Channels</name>
+<link>https://raw.github.com/mash2k3/MashUpStreams/master/Countries/serbia.xml</link>
+<thumbnail>https://raw.github.com/mash2k3/MashUpStreams/master/Countries/flags/Serbia.png</thumbnail>
+
+<name>Bulgarian TV Channels</name>
+<link>https://raw.github.com/mash2k3/MashUpStreams/master/Countries/bulgaria.xml</link>
+<thumbnail>https://raw.github.com/mash2k3/MashUpStreams/master/Countries/flags/Bulgaria.png</thumbnail>
+
+<name>Macedonian TV Channels</name>
+<link>https://raw.github.com/mash2k3/MashUpStreams/master/Countries/mace.xml</link>
+<thumbnail>https://raw.github.com/mash2k3/MashUpStreams/master/Countries/flags/Macedonia.png</thumbnail>
+
+<name>Sudanese TV Channels</name>
+<link>https://raw.github.com/mash2k3/MashUpStreams/master/Countries/sudan.xml</link>
+<thumbnail>https://raw.github.com/mash2k3/MashUpStreams/master/Countries/flags/Sudan.png</thumbnail>

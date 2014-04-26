@@ -10,4 +10,65 @@
 <thumbnail>http://www.tv-logo.com/pt-data/uploads/images/logo/k_15_music.jpg</thumbnail>
 </item>
 
+
+<item>
+<title>HUTEL</title>
+<link>http://fms.zulu.mk:1935/zulu/shutel_1/playlist.m3u8</link>
+<thumbnail> </thumbnail>
+</item>
+
+<item>
+<title>MRT 1</title>
+<link>http://fms.zulu.mk:554/zulu/mtv1_1/playlist_b125000_w1132785237.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/mm/mrt_1_mk.png</thumbnail>
+</item>
+
+<item>
+<title>BTR</title>
+<link>http://fms.zulu.mk:554/zulu/btr_1/playlist_b125000_w1132785237.m3u8</link>
+<thumbnail>http://tvtvtv.ru/icons/logo_4233.png</thumbnail>
+</item>
+
+<item>
+<title>Alsat</title>
+<link>http://fms.zulu.mk:554/zulu/alsat_1/playlist_b125000_w1132785237.m3u8</link>
+<thumbnail>http://alsat-m.tv/alsat_logo.jpg</thumbnail>
+</item>
+
+<item>
+<title>Telma</title>
+<link>http://fms.zulu.mk:554/zulu/telma_1/playlist_b125000_w1132785237.m3u8</link>
+<thumbnail>http://www.tv14.net/images/tv_telma.jpg</thumbnail>
+</item>
+
+<item>
+<title>Sitel 3</title>
+<link>http://fms.zulu.mk:554/zulu/sitel3_1/playlist_b125000_w1132785237.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/sitel3.png</thumbnail>
+</item>
+
+<item>
+<title>Sitel</title>
+<link>http://fms.zulu.mk:554/zulu/sitel_1/playlist_b125000_w1132785237.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/sitel.png</thumbnail>
+</item>
+
+<item>
+<title>Kanal 5 +</title>
+<link>http://fms.zulu.mk:554/zulu/kanal5plus_1/playlist_b125000_w1132785237.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/kk/kanal5_plus_mk.png</thumbnail>
+</item>
+
+<item>
+<title>Kanal 5</title>
+<link>http://fms.zulu.mk:554/zulu/kanal5_1/playlist_b125000_w1132785237.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/kk/kanal5_mk.png</thumbnail>
+</item>
+
+<item>
+<title>Kanal 5 (Link 2)</title>
+<link>http://live.kanal5.com.mk:80/kanal5</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/kk/kanal5_mk.png</thumbnail>
+</item>
+
 </channel>

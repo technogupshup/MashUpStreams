@@ -11,7 +11,7 @@
 
 <item>
 <title>America Television</title>
-<link>rtmp://173.193.205.94/live playpath=carlos1201?id=66399 conn=S:OK swfUrl=http://www.ucaster.eu/static/scripts/eplayer.swf live=true timeout=15 pageUrl=http://www.ucaster.eu/embedded/carlos1201/1/620/400</link>
+<link>rtmp://50.115.122.156/stream playpath=zeyu1america?id=121146 conn=S:OK swfUrl=http://www.liveflash.tv/resources/scripts/eplayer.swf live=true timeout=15 pageUrl=http://www.liveflash.tv/embedplayer/zeyu1america/1/620/382</link>
 <thumbnail>http://1.bp.blogspot.com/-s0trtn50v28/URbZZkIqGYI/AAAAAAAAC-8/jERp8mmTRck/s1600/logoameric.jpg</thumbnail>
 </item>
 

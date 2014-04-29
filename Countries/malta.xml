@@ -30,12 +30,6 @@ x <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 </item>
 
 <item>
-<title>Net TV</title>
-<link>rtmp://stream.vanilla.net.mt/live playpath=net3 swfUrl=http://live.nettv.com.mt/js/jwplayer/player.swf live=true timeout=15 pageUrl=http://live.nettv.com.mt/</link>
-<thumbnail>http://4.bp.blogspot.com/-VajjlS1Fbp0/ToC6mN6duaI/AAAAAAAAAXE/SCPZEWdDefQ/s1600/NET+Logo.png</thumbnail>
-</item>
-
-<item>
 <title>One TV</title>
 <link>rtmp://178.32.140.240/skyline3 playpath=$doregex[path] swfUrl=http://cdn.skylinewebcams.com/player/skylinewebcams.swf pageUrl=http://www.skylinewebcams.com live=1 timeout=10
 <regex>

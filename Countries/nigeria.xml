@@ -7,20 +7,26 @@
 
 <item>
 <title>Loveworld</title>
-<link>http://78.129.146.199/Loveworld</link>
+<link>http://uni3rtmp.tulix.tv:1935/loveworld/myStream.sdp/playlist.m3u8</link>
 <thumbnail>http://www.tv14.net/wp-content/uploads/2010/10/LoveWorld-TV.jpg</thumbnail>
 </item>
 
 <item>
 <title>Emmanuel TV</title>
-<link>http://emmanueltv-f.akamaihd.net/emmanueltv_hdlive_250@81880?apid=266500&v=2.11.2&fp=WIN%2011,7,700,202&r=QHHQB&g=RWIWSYPNDTLK</link>
+<link>http://emmanueltv-f.akamaihd.net/emmanueltv_hdlive_250@81880?apid=266500&amp;v=2.11.2&amp;fp=WIN%2011,7,700,202&amp;r=QHHQB&amp;g=RWIWSYPNDTLK</link>
 <thumbnail>http://nowwatchtvlive.com/wp-content/uploads/2011/07/Emmanuel-TV.jpeg</thumbnail>
 </item>
 
-
 <item>
 <title>NTA</title>
-<link>http://api.new.livestream.com/broadcasts/36000962.m3u8?dw=100</link>
+<link>$doregex[url]
+<regex>
+<name>url</name>
+<expres>rtsp_url":"([^"]*)</expres>
+<page>http://new.livestream.com/accounts/3500926/events/2001431</page>
+<referer> </referer>
+</regex>
+</link>
 <thumbnail>http://www.nigeriamasterweb.com/7mbebe/ntaLogo.jpg</thumbnail>
 </item>
 
@@ -28,6 +34,25 @@
 <title>TVC News</title>
 <link>rtmp://uni2rtmp.tulix.tv:1935/tvcnews playpath=myStream.sdp swfUrl=http://unistream2.tulix.tv/mediaplayer/player.swf live=true timeout=15 pageUrl=http://www.tvcnews.tv/?q=live-tv</link>
 <thumbnail>http://www.diesl.com/wp-content/uploads/2013/05/tvc-news-logo-680x365.jpeg</thumbnail>
+</item>
+
+<item>
+<title>Hip TV</title>
+<link>$doregex[h]
+<regex>
+<name>h</name>
+<expres>fv1='([^;]*)</expres>
+<page>http://hiphopworldmagazine.com/hiptv/</page>
+<referer> </referer>
+</regex>
+</link>
+<thumbnail>http://hiphopworldmagazine.com/hiptv/wp-content/uploads/2013/11/hiptv-logo-dstv-gotv.png</thumbnail>
+</item>
+
+<item>
+<title>Koga</title>
+<link>rtmp://156.obj.netromedia.net/ app=KogaTV playpath=KogaTV swfUrl=http://player.netromedia.com/flowplayer.commercial-3.2.18.swf live=true timeout=15 pageUrl=http://player.netromedia.com/?ID=f9bb50ae-fcd8-4e00-8804-c738605a9b60&iframe=true&autoPlay=true</link>
+<thumbnail>http://1.bp.blogspot.com/-EioaocBAJr0/UuFaS9KWK6I/AAAAAAAAArE/tpLjL6-Q_Eo/s320/AIT_Live.jpg</thumbnail>
 </item>
 
 </channel>

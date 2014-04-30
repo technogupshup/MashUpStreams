@@ -6,7 +6,7 @@
 
 <item>
 <title>Nsport</title>
-<link>rtmpe://94.242.228.24:443/ app=liveedge/ playpath=17025 pageUrl=http://zingo.tv/</link>
+<link>rtmp://195.154.180.99:80/live playpath=file:bysu273l swfUrl=http://www.byetv.org/jwplayer/jwplayer.flash.swf live=true timeout=15 pageUrl=http://www.byetv.org/embed.php?a=2317&id=&width=630&height=360&autostart=true&strech=</link>
 <thumbnail>http://upload.wikimedia.org/wikipedia/en/0/00/NSport_logo.jpg</thumbnail>
 </item>
 

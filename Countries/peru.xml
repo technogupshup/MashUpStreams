@@ -5,13 +5,13 @@
 <thumbnail></thumbnail>
 <item>
 <title>Frecuencia Latina</title>
-<link>rtmp://flatina1livefs.fplive.net/ app=flatina1live-live playpath=stream1 swfUrl=http://source.netandino.com/theme/player.swf live=true timeout=15 pageUrl=http://www.tele-on.com/2014/04/frecuencia.html</link>
+<link>rtmp://173.193.205.105/live playpath=okijuhyggff?id=66925 conn=S:OK swfUrl=http://www.ucaster.eu/static/scripts/eplayer.swf live=true timeout=15 pageUrl=http://www.ucaster.eu/embedded/okijuhyggff/1/620/400</link>
 <thumbnail>http://4.bp.blogspot.com/-mPa9KA6faKc/URbZdvLw_6I/AAAAAAAADAA/jQNKzUdvHag/s1600/logofrecu.jpg</thumbnail>
 </item>
 
 <item>
 <title>America Television</title>
-<link>rtmp://50.115.122.156/stream playpath=zeyu1america?id=121146 conn=S:OK swfUrl=http://www.liveflash.tv/resources/scripts/eplayer.swf live=true timeout=15 pageUrl=http://www.liveflash.tv/embedplayer/zeyu1america/1/620/382</link>
+<link>rtmp://46.28.50.116/live playpath=sonaly41?id=66818 conn=S:OK swfUrl=http://www.ucaster.eu/static/scripts/eplayer.swf live=true timeout=15 pageUrl=http://www.ucaster.eu/embedded/sonaly41/1/620/400</link>
 <thumbnail>http://1.bp.blogspot.com/-s0trtn50v28/URbZZkIqGYI/AAAAAAAAC-8/jERp8mmTRck/s1600/logoameric.jpg</thumbnail>
 </item>
 

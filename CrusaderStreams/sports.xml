@@ -7,7 +7,7 @@
 
 
 <info>
-<message>[COLOR=FFFF0000]Announcement(s): Fixed Al Kass[/COLOR]</message>
+<message>[COLOR=FFFF0000]Announcement(s): Fixed Source 4 All[/COLOR]</message>
 <thumbnail>http://upload.wikimedia.org/wikipedia/commons/3/32/The_flag_of_Syrian_Arab_Republic_Damascus%2C_Syria.jpg</thumbnail>
 </info>
 
@@ -94,6 +94,20 @@ $doregex[url] playpath=$doregex[file] token=#yw%tt#w@kku swfUrl=$doregex[swf] li
 </item>
 
 <item>
+<title>Bein 9 (Link 2) [COLOR=FFFF0000]Updated Daily[/COLOR]  [COLOR=FF00FF00]Source 4[/COLOR]</title>
+<link>
+$doregex[url] pageUrl=http://www.zingo.tv/
+<regex>
+<name>url</name>
+<expres>file: "([^"]*)</expres>
+<page>http://zingo.tv/watch.php?id=2854&amp;width=100%&amp;height=100%</page>
+<referer>http://showsport-tv.com/update/bein9.html</referer>
+</regex>
+</link>
+<thumbnail>http://nowwatchtvlive.com/wp-content/uploads/2014/01/beinsport_9hd.jpg</thumbnail>
+</link>
+
+<item>
 <title>Bein 10  [COLOR=FFFF0000]Updated Daily[/COLOR]  [COLOR=FF00FF00]Source 1[/COLOR]</title>
 <link>
 $doregex[url] playpath=$doregex[file] token=#yw%tt#w@kku swfUrl=$doregex[swf] live=true timeout=15 pageUrl=http://www.hdcast.org/
@@ -118,6 +132,20 @@ $doregex[url] playpath=$doregex[file] token=#yw%tt#w@kku swfUrl=$doregex[swf] li
 </link>
 <thumbnail>http://nowwatchtvlive.com/wp-content/uploads/2014/01/bein-sport-10HD.png</thumbnail>
 </item>
+
+<item>
+<title>Bein 10 (Link 2) [COLOR=FFFF0000]Updated Daily[/COLOR]  [COLOR=FF00FF00]Source 4[/COLOR]</title>
+<link>
+$doregex[url] pageUrl=http://www.zingo.tv/
+<regex>
+<name>url</name>
+<expres>file: "([^"]*)</expres>
+<page>http://zingo.tv/watch.php?id=2855&amp;width=100%&amp;height=100%</page>
+<referer>http://showsport-tv.com/update/bein10.html</referer>
+</regex>
+</link>
+<thumbnail>http://nowwatchtvlive.com/wp-content/uploads/2014/01/bein-sport-10HD.png</thumbnail>
+</link>
 
 <item>
 <title>Bein 13  [COLOR=FFFF0000]Updated Daily[/COLOR]  [COLOR=FF00FF00]Source 1[/COLOR]</title>
@@ -235,6 +263,20 @@ $doregex[streamer] swfUrl=http://www.eucast.tv/player5.9.swf live=true timeout=1
 </link>
 <thumbnail>http://i.imgur.com/yuzQdoY.jpg</thumbnail>
 </item>
+
+<item>
+<title>Bein 11 (Link 3) [COLOR=FFFF0000]Updated Daily[/COLOR]  [COLOR=FF00FF00]Source 4[/COLOR]</title>
+<link>
+$doregex[url] pageUrl=http://www.zingo.tv/
+<regex>
+<name>url</name>
+<expres>file: "([^"]*)</expres>
+<page>http://zingo.tv/watch.php?id=2972&amp;width=100%&amp;height=100%</page>
+<referer>http://showsport-tv.com/update/bein11.html</referer>
+</regex>
+</link>
+<thumbnail>http://nowwatchtvlive.com/wp-content/uploads/2014/01/bein-sport-10HD.png</thumbnail>
+</link>
 
 <item>
 <title>Bein 7  [COLOR=FFFF0000]Updated Daily[/COLOR]  [COLOR=FF00FF00]Source 1[/COLOR]</title>
@@ -374,18 +416,12 @@ $doregex[url] playpath=$doregex[file] token=#yw%tt#w@kku swfUrl=$doregex[swf] li
 <item>
 <title>Bein 3 (Link 2) [COLOR=FFFF0000]Updated Daily[/COLOR]  [COLOR=FF00FF00]Source 4[/COLOR]</title>
 <link>
-$doregex[url] app=liveedge/ playpath=$doregex[file] live=true timeout=15 pageUrl=http://zingo.tv/watch.php?id=1627&width=600&height=450
+$doregex[url] pageUrl=http://www.zingo.tv/
 <regex>
 <name>url</name>
-<expres>streamer: "([^"]*)</expres>
-<page>http://zingo.tv/watch.php?id=1627&width=600&height=450</page>
-<referer>http://hdembed.com/bein-sports3.php</referer>
-</regex>
-<regex>
-<name>file</name>
 <expres>file: "([^"]*)</expres>
-<page>http://zingo.tv/watch.php?id=1627&width=600&height=450</page>
-<referer>http://hdembed.com/bein-sports3.php</referer>
+<page>http://zingo.tv/watch.php?id=2845&amp;width=100%&amp;height=100%</page>
+<referer>http://showsport-tv.com/update/bein3.html</referer>
 </regex>
 </link>
 <thumbnail>http://i.imgur.com/LaMq1FJ.jpg</thumbnail>
@@ -445,18 +481,12 @@ $doregex[url] playpath=$doregex[file] token=#yw%tt#w@kku swfUrl=$doregex[swf] li
 <item>
 <title>Bein 2 (Link 3) [COLOR=FFFF0000]Updated Daily[/COLOR]  [COLOR=FF00FF00]Source 4[/COLOR]</title>
 <link>
-$doregex[url] app=liveedge/ playpath=$doregex[file] live=true timeout=15 pageUrl=http://zingo.tv/watch.php?id=1626&width=600&height=450
+$doregex[url] pageUrl=http://www.zingo.tv/
 <regex>
 <name>url</name>
-<expres>streamer: "([^"]*)</expres>
-<page>http://zingo.tv/watch.php?id=1626&width=600&height=450</page>
-<referer>http://hdembed.com/bein-sports2.php</referer>
-</regex>
-<regex>
-<name>file</name>
 <expres>file: "([^"]*)</expres>
-<page>http://zingo.tv/watch.php?id=1626&width=600&height=450</page>
-<referer>http://hdembed.com/bein-sports2.php</referer>
+<page>http://zingo.tv/watch.php?id=2844&amp;width=100%&amp;height=100%</page>
+<referer>http://showsport-tv.com/update/bein2.html</referer>
 </regex>
 </link>
 <thumbnail>http://i.imgur.com/r3A1LIO.jpg</thumbnail>
@@ -510,18 +540,12 @@ $doregex[url] playpath=$doregex[file] token=#yw%tt#w@kku swfUrl=$doregex[swf] li
 <item>
 <title>Bein 4 (Link 2) [COLOR=FFFF0000]Updated Daily[/COLOR]  [COLOR=FF00FF00]Source 4[/COLOR]</title>
 <link>
-$doregex[url] app=liveedge/ playpath=$doregex[file] live=true timeout=15 pageUrl=http://zingo.tv/watch.php?id=1628&width=600&height=450
+$doregex[url] pageUrl=http://www.zingo.tv/
 <regex>
 <name>url</name>
-<expres>streamer: "([^"]*)</expres>
-<page>http://zingo.tv/watch.php?id=1628&width=600&height=450</page>
-<referer>http://hdembed.com/bein-sports4.php</referer>
-</regex>
-<regex>
-<name>file</name>
 <expres>file: "([^"]*)</expres>
-<page>http://zingo.tv/watch.php?id=1628&width=600&height=450</page>
-<referer>http://hdembed.com/bein-sports4.php</referer>
+<page>http://zingo.tv/watch.php?id=2947&amp;width=100%&amp;height=100%</page>
+<referer>http://showsport-tv.com/update/bein1.html</referer>
 </regex>
 </link>
 <thumbnail>http://i.imgur.com/MCi8WTD.jpg</thumbnail>
@@ -653,18 +677,12 @@ $doregex[url] playpath=$doregex[file] token=#yw%tt#w@kku swfUrl=$doregex[swf] li
 <item>
 <title>Bein 1 (Link 3) [COLOR=FFFF0000]Updated Daily[/COLOR]  [COLOR=FF00FF00]Source 4[/COLOR]</title>
 <link>
-$doregex[url] app=liveedge/ playpath=$doregex[file] live=true timeout=15 pageUrl=http://zingo.tv/watch.php?id=1625&width=600&height=450
+$doregex[url] pageUrl=http://www.zingo.tv/
 <regex>
 <name>url</name>
-<expres>streamer: "([^"]*)</expres>
-<page>http://zingo.tv/watch.php?id=1625&width=600&height=450</page>
-<referer>http://hdembed.com/bein-sports1.php</referer>
-</regex>
-<regex>
-<name>file</name>
 <expres>file: "([^"]*)</expres>
-<page>http://zingo.tv/watch.php?id=1625&width=600&height=450</page>
-<referer>http://hdembed.com/bein-sports1.php</referer>
+<page>http://zingo.tv/watch.php?id=2947&amp;width=100%&amp;height=100%</page>
+<referer>http://showsport-tv.com/update/bein1.html</referer>
 </regex>
 </link>
 <thumbnail>http://i.imgur.com/r3A1LIO.jpg</thumbnail>

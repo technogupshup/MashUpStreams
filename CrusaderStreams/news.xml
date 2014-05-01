@@ -6,13 +6,13 @@
 ##############################################################################################################################
 
 <info>
-<message>[COLOR=FFFF0000]Announcement(s):  [/COLOR]</message>
+<message>[COLOR=FFFF0000]Announcement(s):  Updated Syria TV[/COLOR]</message>
 <thumbnail>http://upload.wikimedia.org/wikipedia/commons/3/32/The_flag_of_Syrian_Arab_Republic_Damascus%2C_Syria.jpg</thumbnail>
 </info>
 
 <item>
 <title>Syria TV</title>
-<link>http://live.rtv.gov.sy/live/sat/sat_HQ.m3u8</link>
+<link>http://82.137.248.16:1935/Sat/livestream3/playlist.m3u8</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/syria_satellite_channel.jpg</thumbnail>
 </item>
 

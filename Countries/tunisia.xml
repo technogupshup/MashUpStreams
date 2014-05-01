@@ -6,25 +6,25 @@
 
 <item>
 <title>Telvza TV</title>
-<link>rtmp://193.95.68.133:8888/thd/ playpath=telvza swfUrl=http://streaminghd.tn/video/player.swf?random=225788337 pageUrl=http://streaminghd.tn/index.php/telvza-tv.html live=true timeout=15</link>
+<link>rtmp://41.231.53.11:8888/thd/ playpath=telvza swfUrl=http://streaminghd.tn/video/player.swf?random=94365998 pageUrl=http://telvza-tv.com/fr/2014/02/live-streaming-telvzatv/ live=true timeout=15</link>
 <thumbnail>http://www.madwatch.net/wp-content/uploads/2013/12/LOGO-telvza1.jpg</thumbnail>
 </item>
 
 <item>
 <title>Al Hiwar Tv</title>
-<link>rtmp://193.95.68.133:8888/thd playpath=hiwar swfUrl=http://streaminghd.tn/video/player.swf?random=101361166 pageUrl=http://streaminghd.tn/index.php/el-hiwar-ettounsi.html live=true timeout=15</link>
+<link>rtmp://185.2.136.148/livepkgr/ playpath=livestream swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.alhiwar.tv/website/android.php live=true timeout=15</link>
 <thumbnail>http://www.tunisvista.com/medias/el-hiwar-ettounsi-b.jpg</thumbnail>
 </item>
 
 <item>
 <title>Nessma TV</title>
-<link>rtmp://193.95.68.133:8888/thd/ playpath=nessma swfUrl=http://streaminghd.tn/video/player.swf?random=635055804 pageUrl=http://streaminghd.tn/index.php/nessma-tv.htmllive=true timeout=15</link>
+<link> rtmp://41.231.53.11:8888/thd/ playpath=nessma swfUrl=http://streaminghd.tn/video/player.swf?random=613514270 pageUrl=http://www.tunisvista.com/medias/nessma-tv.html live=true timeout=15</link>
 <thumbnail>http://alhamra.nessma.tv/nessma_al_hamra.jpg</thumbnail>
 </item>
 
 <item>
 <title>Al Watania 1</title>
-<link>http://streamer.fss.tiscali.com/satchannel1/tvtunisi.stream/playlist.m3u8</link>
+<link>mms://vipmms.yacast.net/nationale1</link>
 <thumbnail>http://referenceur-tv.com/wp-content/uploads/2009/07/tunisia-tv1-television-tunisienne-gratuite-en-direct-streaming.png</thumbnail>
 </item>
 

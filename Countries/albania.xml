@@ -4,24 +4,10 @@
 <name>Albania TV Channels</name>
 <thumbnail></thumbnail>
 
-
-<item>
-<title>Vizion Plus (Link 3)</title>
-<link>rtmp://live.vizionplus.tv:1935/live playpath=livestream2 swfUrl=http://releases.flowplayer.org/swf/flowplayer-3.2.7.swf pageUrl=http://live.vizionplus.tv/IE/ timeout=15</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/vv/vizion_plus.jpg</thumbnail>
-</item>
-
-
 <item>
 <title>RTK 1</title>
 <link>rtmp://wowza.rtkit.com/live/livestream</link>
 <thumbnail>http://3.bp.blogspot.com/-oVbjrLEy9zw/T2yc4w_lkyI/AAAAAAAAAhs/QCTiijWL5Ks/s320/Rtklivestream.jpg</thumbnail>
-</item>
-
-<item>
-<title>RTV Jug</title>
-<link>rtmp://84.20.77.50/live//livestream2</link>
-<thumbnail>http://www.tvkosova.net/media/thumbs/4e8d89421ed033b386eb149593764898-1.png</thumbnail>
 </item>
 
 <item>
@@ -50,8 +36,20 @@
 
 <item>
 <title>Koha TV</title>
-<link>rtmp://37.235.56.30/live/koha/livestream</link>
+<link>rtmp://live.tvkoha.tv/live/koha app=live/koha swfUrl=http://live.tvkoha.tv/playerplus.swf pageUrl=http://www.tvkoha.tv/live/tv playpath=livestream swfVfy=true live=true timeout=15</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/kk/koha_televizion.png</thumbnail>
+</item>
+
+<item>
+<title>Top Channel  [COLOR=FFFF0000]Try 3 Times To Get Picture Working[/COLOR]</title>
+<link>http://149.255.39.122/aasd/8708/index.m3u8</link>
+<thumbnail>http://www.shqiplive.info/images/tv/top_channel.jpg</thumbnail>
+</item>
+
+<item>
+<title>Khan  [COLOR=FFFF0000]Try 3 Times To Get Picture Working[/COLOR]</title>
+<link>http://149.255.39.122:80/aasd/8704/index.m3u8</link>
+<thumbnail>http://www.shqiplive.info/images/tv/klan-tv.jpg</thumbnail>
 </item>
 
 <item>

@@ -7,7 +7,7 @@
 
 
 <info>
-<message>[COLOR=FFFF0000]Announcement(s): Added Channels[/COLOR]</message>
+<message>[COLOR=FFFF0000]Announcement(s): Updated MTV, Aljadeed, NBM [/COLOR]</message>
 <thumbnail>http://upload.wikimedia.org/wikipedia/commons/3/32/The_flag_of_Syrian_Arab_Republic_Damascus%2C_Syria.jpg</thumbnail>
 </info>
 
@@ -131,12 +131,12 @@
 
 <item>
 <title>Aljadeed (Link 2)</title>
-<link>rtmp://tdsiptv.ddns.me/live playpath=ch99?code=$doregex[url] swfUrl=http://www.livetv.tn/flowplayer-3.2.7.swf pageUrl=http://www.livetv.tn live=true timeout=15 flashVer=WIN12.0.0.77
+<link>$doregex[url]
 <regex>
 <name>url</name>
-<expres>code=([^']*)</expres>
-<page>http://www.livetv.tn/index.php</page>
-<referer> </referer>
+<expres>(.*)</expres>
+<page>http://achams.com/HDboxTV/ajax.php?stream=live&amp;type=reg&amp;ppoint=AlJadeed_Med&amp;</page>
+<referer>http://achams.com/HDboxTV/index.php</referer>
 </regex>
 </link>
 <thumbnail>http://1.bp.blogspot.com/-W1Ry_s_c5-k/UAw9jeMFGoI/AAAAAAAANlY/SJ_JbZV8W5E/s400/aljadeed%2Btv.jpeg</thumbnail>
@@ -144,12 +144,12 @@
 
 <item>
 <title>NBN</title>
-<link>rtmp://tdsiptv.ddns.me/live playpath=ch146?code=$doregex[url] swfUrl=http://www.livetv.tn/flowplayer-3.2.7.swf pageUrl=http://www.livetv.tn live=true timeout=15 flashVer=WIN12.0.0.77
+<link>$doregex[url]
 <regex>
 <name>url</name>
-<expres>code=([^']*)</expres>
-<page>http://www.livetv.tn/index.php</page>
-<referer> </referer>
+<expres>(.*)</expres>
+<page>http://achams.com/HDboxTV/ajax.php?stream=live&amp;type=reg&amp;ppoint=NBNLebanon_Med&amp;</page>
+<referer>http://achams.com/HDboxTV/index.php</referer>
 </regex>
 </link>
 <thumbnail>http://upload.wikimedia.org/wikipedia/en/1/14/Nbn_lebanon.png</thumbnail>
@@ -183,12 +183,12 @@
 
 <item>
 <title>MTV (Link 2)</title>
-<link>rtmp://tdsiptv.ddns.me/live playpath=ch145?code=$doregex[url] swfUrl=http://www.livetv.tn/flowplayer-3.2.7.swf pageUrl=http://www.livetv.tn live=true timeout=15 flashVer=WIN12.0.0.77
+<link>$doregex[url]
 <regex>
 <name>url</name>
-<expres>code=([^']*)</expres>
-<page>http://www.livetv.tn/index.php</page>
-<referer> </referer>
+<expres>(.*)</expres>
+<page>http://achams.com/HDboxTV/ajax.php?stream=live&amp;type=reg&amp;ppoint=MTVLebanon_Med&amp;</page>
+<referer>http://achams.com/HDboxTV/index.php</referer>
 </regex>
 </link>
 <thumbnail>http://4.bp.blogspot.com/-v7Q1icQUJD0/Tm5vrpPY1gI/AAAAAAAAAGs/640s_zySbsQ/s200/MTV+1.png</thumbnail>
@@ -964,31 +964,31 @@
 
 <item>
 <title>Melody Drama</title>
-<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=e20-fHnZQOI</link>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=bXIUyQoLug8</link>
 <thumbnail>http://4.bp.blogspot.com/_ayWC2KUhMqw/TJ04otUC4mI/AAAAAAAACds/mCsD_c_kqfU/s1600/melody%2Bdrama%2Blogo%255B1%255D.JPG</thumbnail>
 </item>
 
 <item>
 <title>Melody Hits</title>
-<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=youtube_video_id</link>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=FBBLhRgrw0o</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/mm/melody_hits.png</thumbnail>
 </item>
 
 <item>
 <title>Melody Classic</title>
-<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=youtube_video_id</link>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=JpKcJl7W8mA</link>
 <thumbnail>http://www.tvfrekans.com/wp-content/uploads/2012/11/melody-tv-logo-resmi.jpg</thumbnail>
 </item>
 
 <item>
 <title>Melody Arabia</title>
-<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=youtube_video_id</link>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=VyRxnmfshHc</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/mm/melody_arabia.png</thumbnail>
 </item>
 
 <item>
 <title>Melody Aflam</title>
-<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=youtube_video_id</link>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=hao_p9Dge0g</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/mm/melody_arabia.png</thumbnail>
 </item>
 

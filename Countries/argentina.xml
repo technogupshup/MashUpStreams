@@ -18,7 +18,7 @@
 
 <item>
 <title>Canal 13 HD</title>
-<link>http://prepublish.fibertel.qaotic.net/epa/ngrp:CMD-10003_all/media_u7wkfue3l_b496000.m3u8</link>
+<link>rtmp://stream.eltrecetv.com.ar/ app=live13/13tv playpath=13tv1 swfUrl=http://static.eltrecetv.com.ar/sites/all/libraries/jwplayer/player-licensed.swf live=true timeout=15 pageUrl=http://www.eltrecetv.com.ar/vivo</link>
 <thumbnail>http://www.impulsonegocios.com/resources/produccion/contenidos/medium/pais/eltrecehd150511.jpg</thumbnail>
 </item>
 

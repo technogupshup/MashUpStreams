@@ -113,15 +113,7 @@
 
 <item>
 <title>Star Plus</title> 
-<link>
-$doregex[url] pageUrl=http://www.castok.com/
-<regex>
-<name>url</name>
-<expres>file: "([^"]*)</expres>
-<page>http://www.castok.com/embed.php?v=plus1&amp;vw=600&amp;vh=450&amp;typeplayer=0&amp;domain=pogotv.eu</page>
-<referer>http://pogotv.eu/star-plusindia.php?width=600&amp;height=450</referer>
-</regex>
-</link>
+<link>rtmpe://5.135.128.157:1935/uca/ playpath=plus1 swfUrl=http://www.castok.com/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://www.castok.com/embed.php?v=plus1&vw=600&vh=450&typeplayer=0&domain=pogotv.eu</link>
 <thumbnail>http://static2.wikia.nocookie.net/__cb20100619101411/logopedia/images/f/fc/StarPlus_2010.png</thumbnail>
 </item>
 

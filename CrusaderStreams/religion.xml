@@ -6,9 +6,15 @@
 ##############################################################################################################################
 
 <info>
-<message>[COLOR=FFFF0000]Announcement(s): [/COLOR]</message>
+<message>[COLOR=FFFF0000]Announcement(s): Added Channel[/COLOR]</message>
 <thumbnail>http://upload.wikimedia.org/wikipedia/commons/3/32/The_flag_of_Syrian_Arab_Republic_Damascus%2C_Syria.jpg</thumbnail>
 </info>
+
+<item>
+<title>MEsat</title>
+<link>rtmp://stream.s17.cpanelservices.com/ app=coptictvlive playpath=livestream swfUrl=http://copticpope.tv/flowplayer-3.2.7.swf live=true timeout=15 pageUrl=http://mesatcopticchannel.blogspot.com/</link>
+<thumbnail>http://1.bp.blogspot.com/-j2Fe0r5_iRs/T4QCqXGZwrI/AAAAAAAAAJU/ODMWlJzE-Gs/s1600/mesat.jpg</thumbnail>
+</item>
 
 <item>
 <title>LLBN Arabic</title>

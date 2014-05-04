@@ -584,19 +584,6 @@
 </item>
 
 <item>
-<title>Aljadeed</title>
-<link>rtmp://tdsiptv.ddns.me/live playpath=ch99?code=$doregex[url] swfUrl=http://www.livetv.tn/flowplayer-3.2.7.swf pageUrl=http://www.livetv.tn live=true timeout=15 flashVer=WIN12.0.0.77
-<regex>
-<name>url</name>
-<expres>code=([^']*)</expres>
-<page>http://www.livetv.tn/index.php</page>
-<referer> </referer>
-</regex>
-</link>
-<thumbnail>http://www.livetv.tn/images/icons/99.gif</thumbnail>
-</item>
-
-<item>
 <title>Al Hayat</title>
 <link>rtmp://tdsiptv.ddns.me/live playpath=ch96?code=$doregex[url] swfUrl=http://www.livetv.tn/flowplayer-3.2.7.swf pageUrl=http://www.livetv.tn live=true timeout=15 flashVer=WIN12.0.0.77
 <regex>
@@ -608,19 +595,6 @@
 </link>
 <thumbnail>http://www.livetv.tn/images/icons/96.gif</thumbnail>
 </item>
-
-<item>
-<title>MTV (Link 2)</title>
-<link>rtmp://tdsiptv.ddns.me/live playpath=ch145?code=$doregex[url] flashver=WIN%2011,9,900,117 swfUrl=http://www.livetv.tn/flowplayer-3.2.7.swf pageUrl=http://www.livetv.tn/ live=true timeout=15
-<regex>
-<name>url</name>
-<expres>code=([^']*)</expres>
-<page>http://www.livetv.tn/</page>
-<referer> </referer>
-</regex>
-</link>
-<thumbnail>http://4.bp.blogspot.com/-v7Q1icQUJD0/Tm5vrpPY1gI/AAAAAAAAAGs/640s_zySbsQ/s200/MTV+1.png</thumbnail>
-</item>	
 
 <item>
 <title>MBC MAX</title>

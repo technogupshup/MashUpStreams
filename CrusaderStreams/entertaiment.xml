@@ -735,12 +735,12 @@
 <link>rtmp://$doregex[url] app=live/$doregex[key] playpath=367.high.stream swfUrl=http://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf pageUrl=http://www.filmon.com live=true timeout=15
 <regex>
 <name>url</name>
-<expres>rtmp:....([^\\]*)</expres>
+<expres>"low".*rtmp:....([^\\]*)</expres>
 <page>http://www.filmon.com/tv/channel/export?channel_id=367</page>
 </regex>
 <regex>
 <name>key</name>
-<expres>rtmp[^?]*(\?id=[^"]*)</expres>
+<expres>"low".*rtmp[^?]*(\?id=[^"]*)</expres>
 <page>http://www.filmon.com/tv/channel/export?channel_id=367</page>
 </regex>
 </link>
@@ -836,7 +836,7 @@
 <regex>
 <name>file</name>
 <expres>'file': '([^']*)</expres>
-<page>http://yoolive.com/mbc_1.php</page>
+<page>http://yoolive.com/1-mbc_1.php</page>
 <referer>http://yoolive.com/</referer>
 </regex>
 </link>

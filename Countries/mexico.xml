@@ -11,6 +11,12 @@
 </item>
 
 <item>
+<title>Televisa</title>
+<link>rtmp://109.123.126.66/live playpath=star742a?id=59009 conn=S:OK swfUrl=http://www.ucaster.eu/static/scripts/eplayer.swf live=true timeout=15 pageUrl=http://www.ucaster.eu/embedded/star742a/1/600/400</link>
+<thumbnail>http://nowwatchtvlive.com/wp-content/uploads/2013/02/Watch-Live-Online-Televisa-en-Vivo-Logo.jpg</thumbnail>
+</item>
+
+<item>
 <title>Canal 6</title>
 <link>rtmp://200.52.193.57:1935/ app=live/unique playpath=live_2650 swfUrl=http://200.52.193.59/canal6/videoplayermegared.swf?live=true&amp;src=rtmp://200.52.193.57/live/live_2650.flv&amp;autoplay=true live=true timeout=15 pageUrl=http://www.tv14.net/canal-6-mexico/</link>
 <thumbnail>http://www.tv14.net/wp-content/uploads/2010/10/Canal-6-Mexico.jpg</thumbnail>

@@ -6,9 +6,21 @@
 ##############################################################################################################################
 
 <info>
-<message>[COLOR=FFFF0000]Announcement(s): Added Channel[/COLOR]</message>
+<message>[COLOR=FFFF0000]Announcement(s): Added Channels[/COLOR]</message>
 <thumbnail>http://upload.wikimedia.org/wikipedia/commons/3/32/The_flag_of_Syrian_Arab_Republic_Damascus%2C_Syria.jpg</thumbnail>
 </info>
+
+<item>
+<title>Al Horreya</title>
+<link>rtmp://fms.pwmcdn.com:1935/ app=alhorreya playpath=alhorreya2 swfUrl=http://alhorreya.tv/liveplayer/player.swf live=true timeout=15 pageUrl=http://alhorreya.tv/en/watchus/livestream</link>
+<thumbnail>http://www.tbn.org/announcements/images/image/Horreya%20Logo.png</thumbnail>
+</item>
+
+<item>
+<title>Logos</title>
+<link>http://68.235.37.110/logoschannel.com/hls.m3u8</link>
+<thumbnail>http://tv-live.tv/wp-content/uploads/2013/08/Logos-Channel-live.jpg</thumbnail>
+</item>
 
 <item>
 <title>MEsat</title>

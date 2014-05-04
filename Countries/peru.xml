@@ -10,6 +10,12 @@
 </item>
 
 <item>
+<title>Panamericana</title>
+<link>plugin://plugin.video.dailymotion_com/?url=x18w5up&amp;mode=playLiveVideo</link>
+<thumbnail>http://www.panamericana.pe/imagenes/cabecera/panamericana-2013.png</thumbnail>
+</item> 
+
+<item>
 <title>America Television</title>
 <link>rtmp://46.28.50.116/live playpath=sonaly41?id=66818 conn=S:OK swfUrl=http://www.ucaster.eu/static/scripts/eplayer.swf live=true timeout=15 pageUrl=http://www.ucaster.eu/embedded/sonaly41/1/620/400</link>
 <thumbnail>http://1.bp.blogspot.com/-s0trtn50v28/URbZZkIqGYI/AAAAAAAAC-8/jERp8mmTRck/s1600/logoameric.jpg</thumbnail>

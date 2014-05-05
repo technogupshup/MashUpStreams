@@ -6,7 +6,7 @@
 ##############################################################################################################################
 
 <info>
-<message>[COLOR=FFFF0000]Announcement(s): New Channels[/COLOR]</message>
+<message>[COLOR=FFFF0000]Announcement(s): Fixed Baraem[/COLOR]</message>
 <thumbnail>http://upload.wikimedia.org/wikipedia/commons/3/32/The_flag_of_Syrian_Arab_Republic_Damascus%2C_Syria.jpg</thumbnail>
 </info>
 
@@ -18,7 +18,7 @@
 
 <item>
 <title>Baraem TV</title>
-<link>http://78.100.44.238/live-baraem/baraem/playlist.m3u8</link>
+<link>rtmp://AgendaStreamer2.qna.org.qa:1935/ app=brm/ playpath=brm swfUrl=http://p.jwpcdn.com/6/6/jwplayer.flash.swf live=true timeout=15 pageUrl=http://www.odyovi.com/qatar/doha/free-online-arabic-tv/watch-live/baraem-tv</link>
 <thumbnail>https://pbs.twimg.com/profile_images/378800000537961365/8beaee85fea01719288806e9b1c66fb9.png</thumbnail>
 </item>
 

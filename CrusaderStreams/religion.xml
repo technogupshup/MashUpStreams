@@ -11,9 +11,21 @@
 </info>
 
 <item>
+<title>Miracle</title>
+<link>rtmp://flash0.80205-live0.dna.qbrick.com:80/ app=80205-live0 playpath=troens2 swfUrl=http://professional.player.qbrick.com/pro/player/p3/modules/mediaplayer.swf?v=D705CC2F live=true timeout=15 pageUrl=http://miraclechannel.com/live</link>
+<thumbnail>https://fbcdn-profile-a.akamaihd.net/hprofile-ak-ash3/t1/s160x160/528339_10151441683169144_748318562_a.jpg</thumbnail>
+</item>
+
+<item>
 <title>Al Horreya</title>
 <link>rtmp://fms.pwmcdn.com:1935/ app=alhorreya playpath=alhorreya2 swfUrl=http://alhorreya.tv/liveplayer/player.swf live=true timeout=15 pageUrl=http://alhorreya.tv/en/watchus/livestream</link>
 <thumbnail>http://www.tbn.org/announcements/images/image/Horreya%20Logo.png</thumbnail>
+</item>
+
+<item>
+<title>CYC</title>
+<link>rtmp://cycnow.az-streamingserver.com:3333/live playpath=cyc2 swfUrl=http://cycnow.com/players/swf/1.6.32StrobeMediaPlayback.swf live=true timeout=15 pageUrl=http://cycnow.com/site/live-streaming</link>
+<thumbnail>http://cycnow.com/site/images/system/logo.png</thumbnail>
 </item>
 
 <item>

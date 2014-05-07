@@ -6,25 +6,17 @@
 
 <item>
 <title>HRT 1</title>
-<link>http://109.122.121.21:80/live/hrt_1.stream/playlist.m3u8?hash=$doregex[hash]
-<regex>
-<name>hash</name>
-<expres>hash=([^"]*)</expres>
-<page>http://mali-ekrani.blogspot.com/2013/07/hrt-1_9.html</page>
-<referer> </referer>
-</regex>
-</link>
+<link>http://3963.live.streamtheworld.com/HTV1</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/hh/hrt1.png</thumbnail>
 </item>
 
-
 <item>
 <title>HRT 2</title>
-<link>http://109.122.121.21:80/live/hrt_2.stream/playlist.m3u8?hash=$doregex[hash]
+<link>http://109.122.121.21/live/hrt_2.stream/playlist.m3u8?hash=$doregex[hash]
 <regex>
 <name>hash</name>
 <expres>hash=([^"]*)</expres>
-<page>http://mali-ekrani.blogspot.com/2013/07/hrt-1_9.html</page>
+<page>http://mali-ekrani.blogspot.com/2013/08/hrt-2.html</page>
 <referer> </referer>
 </regex>
 </link>

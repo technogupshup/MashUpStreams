@@ -6,7 +6,7 @@
 ##############################################################################################################################
 
 <info>
-<message>[COLOR=FFFF0000]Announcement(s): Fixed Baraem[/COLOR]</message>
+<message>[COLOR=FFFF0000]Announcement(s): Fixed Other Channels[/COLOR]</message>
 <thumbnail>http://upload.wikimedia.org/wikipedia/commons/3/32/The_flag_of_Syrian_Arab_Republic_Damascus%2C_Syria.jpg</thumbnail>
 </info>
 
@@ -24,39 +24,18 @@
 
 <item>
 <title>Ajyal</title>
-<link>rtmp://tdsiptv.ddns.me/live playpath=ch82?code=$doregex[url] swfUrl=http://www.livetv.tn/flowplayer-3.2.7.swf pageUrl=http://www.livetv.tn live=true flashVer=WIN12.0.0.77 timeout=15
-<regex>
-<name>url</name>
-<expres>code=([^']*)</expres>
-<page>http://www.livetv.tn/index.php</page>
-<referer> </referer>
-</regex>
-</link>
+<link>rtmp://tdsiptv.ddns.me/live playpath=ch82?code=83fb96c95242dfdf2aada1b9419e7176 swfUrl=http://www.livetv.tn/flowplayer-3.2.7.swf pageUrl=http://www.livetv.tn live=true  timeout=15</link>
 <thumbnail>http://www.livetv.tn/images/icons/82.gif</thumbnail>
 </item>
 
 <item>
 <title>Spacetoon</title>
-<link>rtmp://tdsiptv.ddns.me/live playpath=ch49?code=$doregex[url] swfUrl=http://www.livetv.tn/flowplayer-3.2.7.swf pageUrl=http://www.livetv.tn live=true flashVer=WIN12.0.0.77 timeout=15
-<regex>
-<name>url</name>
-<expres>code=([^']*)</expres>
-<page>http://www.livetv.tn/index.php</page>
-<referer> </referer>
-</regex>
-</link>
+<link>rtmp://tdsiptv.ddns.me/live playpath=ch49?code=83fb96c95242dfdf2aada1b9419e7176 swfUrl=http://www.livetv.tn/flowplayer-3.2.7.swf pageUrl=http://www.livetv.tn live=true timeout=15</link>
 <thumbnail>http://www.livetv.tn/images/icons/49.gif</thumbnail>
 </item>
 
 <item>
 <title>Cartoon Network</title>
-<link>rtmp://tdsiptv.ddns.me/live playpath=ch65?code=$doregex[url] swfUrl=http://www.livetv.tn/flowplayer-3.2.7.swf pageUrl=http://www.livetv.tn live=true timeout=15 flashVer=WIN12.0.0.77
-<regex>
-<name>url</name>
-<expres>code=([^']*)</expres>
-<page>http://www.livetv.tn/index.php</page>
-<referer> </referer>
-</regex>
-</link>
+<link>rtmp://tdsiptv.ddns.me/live playpath=ch65?code=83fb96c95242dfdf2aada1b9419e7176 swfUrl=http://www.livetv.tn/flowplayer-3.2.7.swf pageUrl=http://www.livetv.tn live=true timeout=15</link>
 <thumbnail>http://www.livetv.tn/images/icons/65.gif</thumbnail>
 </item>

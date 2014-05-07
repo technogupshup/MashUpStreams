@@ -6,7 +6,7 @@
 ##############################################################################################################################
 
 <info>
-<message>[COLOR=FFFF0000]Announcement(s): New Channels[/COLOR]</message>
+<message>[COLOR=FFFF0000]Announcement(s): Updated Alan[/COLOR]</message>
 <thumbnail>http://upload.wikimedia.org/wikipedia/commons/3/32/The_flag_of_Syrian_Arab_Republic_Damascus%2C_Syria.jpg</thumbnail>
 </info>
 
@@ -18,14 +18,7 @@
 
 <item>
 <title>Alan</title>
-<link>rtmp://tdsiptv.ddns.me/live playpath=ch94?code=$doregex[url] swfUrl=http://www.livetv.tn/flowplayer-3.2.7.swf pageUrl=http://www.livetv.tn live=true timeout=15 flashVer=WIN12.0.0.77
-<regex>
-<name>url</name>
-<expres>code=([^']*)</expres>
-<page>http://www.livetv.tn/index.php</page>
-<referer> </referer>
-</regex>
-</link>
+<link>rtmp://tdsiptv.ddns.me/live playpath=ch94?code=83fb96c95242dfdf2aada1b9419e7176 swfUrl=http://www.livetv.tn/flowplayer-3.2.7.swf pageUrl=http://www.livetv.tn live=true timeout=15</link>
 <thumbnail>http://www.livetv.tn/images/icons/94.gif</thumbnail>
 </item>	
 
@@ -39,12 +32,6 @@
 <title>Al Manar (Link 2)</title>
 <link>rtmp://38.96.148.200/live/ playpath=livestream swfUrl=http://cinema.rotana.net/it-works/jwplayer.flash.swf live=true timeout=15 pageUrl=http://www.arabichannels.com/manar.html</link>
 <thumbnail>http://blog.camera.org/archives/al%20Manar%20logo.jpg</thumbnail>
-</item>
-
-<item>
-<title>Tunisia TV</title>
-<link>http://streamer.fss.tiscali.com/satchannel1/tvtunisi.stream/playlist.m3u8</link>
-<thumbnail>http://referenceur-tv.com/wp-content/uploads/2009/07/tunisia-tv1-television-tunisienne-gratuite-en-direct-streaming.png</thumbnail>
 </item>
 
 <item>

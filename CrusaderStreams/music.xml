@@ -18,91 +18,42 @@
 
 <item>
 <title>Aghanina</title>
-<link>rtmp://tdsiptv.ddns.me/live playpath=ch81?code=$doregex[url] swfUrl=http://www.livetv.tn/flowplayer-3.2.7.swf pageUrl=http://www.livetv.tn live=true flashVer=WIN12.0.0.77 timeout=15
-<regex>
-<name>url</name>
-<expres>code=([^']*)</expres>
-<page>http://www.livetv.tn/index.php</page>
-<referer> </referer>
-</regex>
-</link>
+<link>rtmp://tdsiptv.ddns.me/live playpath=ch81?code=83fb96c95242dfdf2aada1b9419e7176 swfUrl=http://www.livetv.tn/flowplayer-3.2.7.swf pageUrl=http://www.livetv.tn live=true  timeout=15</link>
 <thumbnail>http://www.livetv.tn/images/icons/81.gif</thumbnail>
 </item>
 
 <item>
 <title>Arabica Music</title>
-<link>rtmp://tdsiptv.ddns.me/live playpath=ch61?code=$doregex[url] swfUrl=http://www.livetv.tn/flowplayer-3.2.7.swf pageUrl=http://www.livetv.tn live=true timeout=15 flashVer=WIN12.0.0.77
-<regex>
-<name>url</name>
-<expres>code=([^']*)</expres>
-<page>http://www.livetv.tn/index.php</page>
-<referer> </referer>
-</regex>
-</link>
+<link>rtmp://tdsiptv.ddns.me/live playpath=ch61?code=83fb96c95242dfdf2aada1b9419e7176 swfUrl=http://www.livetv.tn/flowplayer-3.2.7.swf pageUrl=http://www.livetv.tn live=true timeout=15</link>
 <thumbnail>http://www.livetv.tn/images/icons/61.gif</thumbnail>
 </item>
 
 <item>
 <title>Wanasa</title>
-<link>rtmp://tdsiptv.ddns.me/live playpath=ch257?code=$doregex[url] swfUrl=http://www.livetv.tn/flowplayer-3.2.7.swf pageUrl=http://www.livetv.tn live=true timeout=15 flashVer=WIN12.0.0.77
-<regex>
-<name>url</name>
-<expres>code=([^']*)</expres>
-<page>http://www.livetv.tn/index.php</page>
-<referer> </referer>
-</regex>
-</link>
+<link>rtmp://tdsiptv.ddns.me/live playpath=ch257?code=83fb96c95242dfdf2aada1b9419e7176 swfUrl=http://www.livetv.tn/flowplayer-3.2.7.swf pageUrl=http://www.livetv.tn live=true timeout=15</link>
 <thumbnail>http://www.livetv.tn/images/icons/257.gif</thumbnail>
 </item>
 
 <item>
 <title>Mazika Zoom</title>
-<link>rtmp://tdsiptv.ddns.me/live playpath=ch129?code=$doregex[url] swfUrl=http://www.livetv.tn/flowplayer-3.2.7.swf pageUrl=http://www.livetv.tn live=true timeout=15 flashVer=WIN12.0.0.77
-<regex>
-<name>url</name>
-<expres>code=([^']*)</expres>
-<page>http://www.livetv.tn/index.php</page>
-<referer> </referer>
-</regex>
-</link>
+<link>rtmp://tdsiptv.ddns.me/live playpath=ch129?code=83fb96c95242dfdf2aada1b9419e7176 swfUrl=http://www.livetv.tn/flowplayer-3.2.7.swf pageUrl=http://www.livetv.tn live=true timeout=15</link>
 <thumbnail>https://fbcdn-profile-a.akamaihd.net/hprofile-ak-prn2/t1.0-1/c7.0.160.160/p160x160/1896770_660445577334386_1138922290_n.jpg</thumbnail>
 </item>
 
 <item>
 <title>Mazika</title>
-<link>rtmp://tdsiptv.ddns.me/live playpath=ch29?code=$doregex[url] swfUrl=http://www.livetv.tn/flowplayer-3.2.7.swf pageUrl=http://www.livetv.tn live=true timeout=15 flashVer=WIN12.0.0.77
-<regex>
-<name>url</name>
-<expres>code=([^']*)</expres>
-<page>http://www.livetv.tn/index.php</page>
-<referer> </referer>
-</regex>
-</link>
+<link>rtmp://tdsiptv.ddns.me/live playpath=ch29?code=83fb96c95242dfdf2aada1b9419e7176 swfUrl=http://www.livetv.tn/flowplayer-3.2.7.swf pageUrl=http://www.livetv.tn live=true timeout=15</link>
 <thumbnail>http://www.livetv.tn/images/icons/29.gif</thumbnail>
 </item>
 
 <item>
 <title>Ghinwa</title>
-<link>rtmp://tdsiptv.ddns.me/live playpath=ch121?code=$doregex[url] swfUrl=http://www.livetv.tn/flowplayer-3.2.7.swf pageUrl=http://www.livetv.tn live=true timeout=15 flashVer=WIN12.0.0.77
-<regex>
-<name>url</name>
-<expres>code=([^']*)</expres>
-<page>http://www.livetv.tn/index.php</page>
-<referer> </referer>
-</regex>
-</link>
+<link>rtmp://tdsiptv.ddns.me/live playpath=ch121?code=83fb96c95242dfdf2aada1b9419e7176 swfUrl=http://www.livetv.tn/flowplayer-3.2.7.swf pageUrl=http://www.livetv.tn live=true timeout=15</link>
 <thumbnail>http://www.livetv.tn/images/icons/121.gif</thumbnail>
 </item>
 
 <item>
 <title>Haneen</title>
-<link>rtmp://tdsiptv.ddns.me/live playpath=ch83?code=$doregex[url] swfUrl=http://www.livetv.tn/flowplayer-3.2.7.swf pageUrl=http://www.livetv.tn live=true timeout=15 flashVer=WIN12.0.0.77
-<regex>
-<name>url</name>
-<expres>code=([^']*)</expres>
-<page>http://www.livetv.tn/index.php</page>
-<referer> </referer>
-</regex>
-</link>
+<link>rtmp://tdsiptv.ddns.me/live playpath=ch83?code=83fb96c95242dfdf2aada1b9419e7176 swfUrl=http://www.livetv.tn/flowplayer-3.2.7.swf pageUrl=http://www.livetv.tn live=true timeout=15</link>
 <thumbnail> </thumbnail>
 </item>

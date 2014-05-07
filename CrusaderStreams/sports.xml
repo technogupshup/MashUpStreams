@@ -7,7 +7,7 @@
 
 
 <info>
-<message>[COLOR=FFFF0000]Announcement(s): Fixed Source 1 All[/COLOR]</message>
+<message>[COLOR=FFFF0000]Announcement(s): Updated Alriayadia Sport, 2 New Bein Sport Source Added 6,7 [/COLOR]</message>
 <thumbnail>http://upload.wikimedia.org/wikipedia/commons/3/32/The_flag_of_Syrian_Arab_Republic_Damascus%2C_Syria.jpg</thumbnail>
 </info>
 
@@ -18,14 +18,7 @@
 
 <item>
 <title>Alriayadia Sport</title>
-<link>rtmp://tdsiptv.ddns.me/live playpath=ch276?code=$doregex[url] swfUrl=http://www.livetv.tn/flowplayer-3.2.7.swf pageUrl=http://www.livetv.tn live=true timeout=15 flashVer=WIN12.0.0.77
-<regex>
-<name>url</name>
-<expres>code=([^']*)</expres>
-<page>http://www.livetv.tn/index.php</page>
-<referer> </referer>
-</regex>
-</link>
+<link>rtmp://tdsiptv.ddns.me/live playpath=ch276?code=83fb96c95242dfdf2aada1b9419e7176 swfUrl=http://www.livetv.tn/flowplayer-3.2.7.swf pageUrl=http://www.livetv.tn live=true timeout=15</link>
 <thumbnail>http://www.livetv.tn/images/icons/276.gif</thumbnail>
 </item>
 
@@ -94,19 +87,30 @@ $doregex[url] playpath=$doregex[file] swfUrl=$doregex[swf] pageUrl=http://www.hd
 </item>
 
 <item>
-<title>Bein 9 (Link 2) [COLOR=FFFF0000]Updated Daily[/COLOR]  [COLOR=FF00FF00]Source 4[/COLOR]</title>
+<title>Bein Sport 9 (Link 2) [COLOR=FFFF0000]Updated Daily[/COLOR]  [COLOR=FF00FF00]Source 6[/COLOR]</title>
+<link>rtmp://tdsiptv.ddns.me/live playpath=ch503?code=83fb96c95242dfdf2aada1b9419e7176  swfUrl=http://www.livetv.tn/flowplayer-3.2.7.swf pageUrl=http://www.livetv.tn/  flashVer=WIN12.0.0.77 timeout=10 swfVfy=1 live=true</link>
+<thumbnail>http://3.bp.blogspot.com/-Twj2mpy5vHI/UveU5FVTJxI/AAAAAAAAAYo/TmPhKdLHCTA/s1600/mzl.vrgftcau.png</thumbnail>
+</item>
+
+<item>
+<title>Bein 9 (Link 3) [COLOR=FFFF0000]Updated Daily[/COLOR]  [COLOR=FF00FF00]Source 7[/COLOR]</title>
 <link>
-$doregex[url] pageUrl=http://www.zingo.tv/
+$doregex[streamer] playpath=$doregex[file] swfUrl=http://static.castalba.tv/player5.9.swf pageUrl=http://castalba.tv/ live=true timeout=15
 <regex>
-<name>url</name>
-<expres>file: "([^"]*)</expres>
-<page>http://zingo.tv/watch.php?id=2854&amp;width=100%&amp;height=100%</page>
-<referer>http://showsport-tv.com/update/bein9.html</referer>
+<name>streamer</name>
+<expres>'streamer': '([^']*)</expres>
+<page>http://castalba.tv/embed.php?cid=22224&amp;wh=640&amp;ht=480&amp;r=live9.net</page>
+<referer>http://live9.net/liveninebein9</referer>
+</regex>
+<regex>
+<name>file</name>
+<expres>'file': '([^']*)</expres>
+<page>http://castalba.tv/embed.php?cid=22224&amp;wh=640&amp;ht=480&amp;r=live9.net</page>
+<referer>http://live9.net/liveninebein9</referer>
 </regex>
 </link>
-<thumbnail>http://nowwatchtvlive.com/wp-content/uploads/2014/01/beinsport_9hd.jpg</thumbnail>
-</link>
-<link>
+<thumbnail>http://3.bp.blogspot.com/-Twj2mpy5vHI/UveU5FVTJxI/AAAAAAAAAYo/TmPhKdLHCTA/s1600/mzl.vrgftcau.png</thumbnail>
+</item>
 
 <item>
 <title>Bein 10  [COLOR=FFFF0000]Updated Daily[/COLOR]  [COLOR=FF00FF00]Source 1[/COLOR]</title>
@@ -135,18 +139,30 @@ $doregex[url] playpath=$doregex[file] swfUrl=$doregex[swf] pageUrl=http://www.hd
 </item>
 
 <item>
-<title>Bein 10 (Link 2) [COLOR=FFFF0000]Updated Daily[/COLOR]  [COLOR=FF00FF00]Source 4[/COLOR]</title>
+<title>Bein Sport 10 (Link 2) [COLOR=FFFF0000]Updated Daily[/COLOR]  [COLOR=FF00FF00]Source 6[/COLOR]</title>
+<link>rtmp://tdsiptv.ddns.me/live playpath=ch504?code=83fb96c95242dfdf2aada1b9419e7176  swfUrl=http://www.livetv.tn/flowplayer-3.2.7.swf pageUrl=http://www.livetv.tn/  flashVer=WIN12.0.0.77 timeout=10 swfVfy=1 live=true</link>
+<thumbnail>http://3.bp.blogspot.com/-Twj2mpy5vHI/UveU5FVTJxI/AAAAAAAAAYo/TmPhKdLHCTA/s1600/mzl.vrgftcau.png</thumbnail>
+</item>
+
+<item>
+<title>Bein 10 (Link 3) [COLOR=FFFF0000]Updated Daily[/COLOR]  [COLOR=FF00FF00]Source 7[/COLOR]</title>
 <link>
-$doregex[url] pageUrl=http://www.zingo.tv/
+$doregex[streamer] playpath=$doregex[file] swfUrl=http://static.castalba.tv/player5.9.swf pageUrl=http://castalba.tv/ live=true timeout=15
 <regex>
-<name>url</name>
-<expres>file: "([^"]*)</expres>
-<page>http://zingo.tv/watch.php?id=2855&amp;width=100%&amp;height=100%</page>
-<referer>http://showsport-tv.com/update/bein10.html</referer>
+<name>streamer</name>
+<expres>'streamer': '([^']*)</expres>
+<page>http://castalba.tv/embed.php?cid=22225&amp;wh=640&amp;ht=480&amp;r=live9.net</page>
+<referer>http://live9.net/liveninebein10</referer>
+</regex>
+<regex>
+<name>file</name>
+<expres>'file': '([^']*)</expres>
+<page>http://castalba.tv/embed.php?cid=22225&amp;wh=640&amp;ht=480&amp;r=live9.net</page>
+<referer>http://live9.net/liveninebein10</referer>
 </regex>
 </link>
-<thumbnail>http://nowwatchtvlive.com/wp-content/uploads/2014/01/bein-sport-10HD.png</thumbnail>
-</link>
+<thumbnail>http://3.bp.blogspot.com/-Twj2mpy5vHI/UveU5FVTJxI/AAAAAAAAAYo/TmPhKdLHCTA/s1600/mzl.vrgftcau.png</thumbnail>
+</item>
 
 <item>
 <title>Bein 13  [COLOR=FFFF0000]Updated Daily[/COLOR]  [COLOR=FF00FF00]Source 1[/COLOR]</title>
@@ -169,6 +185,26 @@ $doregex[url] playpath=$doregex[file] swfUrl=$doregex[swf] pageUrl=http://www.hd
 <expres>'skin': ...'(.*)'</expres>
 <page>http://www.hdcast.org/embedlive2.php?u=BST13&amp;vw=640&amp;vh=460&amp;domain=hdfoots.com</page>
 <referer>http://hdfoots.com/watch/beinsports-13-live-stream.php</referer>
+</regex>
+</link>
+<thumbnail>http://nowwatchtvlive.com/wp-content/uploads/2014/01/bein-sport-13HD.png</thumbnail>
+</item>
+
+<item>
+<title>Bein 13 (Link 2) [COLOR=FFFF0000]Updated Daily[/COLOR]  [COLOR=FF00FF00]Source 7[/COLOR]</title>
+<link>
+$doregex[streamer] playpath=$doregex[file] swfUrl=http://static.castalba.tv/player5.9.swf pageUrl=http://castalba.tv/ live=true timeout=15
+<regex>
+<name>streamer</name>
+<expres>'streamer': '([^']*)</expres>
+<page>http://castalba.tv/embed.php?cid=22228&amp;wh=640&amp;ht=480&amp;r=live9.net</page>
+<referer>http://live9.net/liveninebein13</referer>
+</regex>
+<regex>
+<name>file</name>
+<expres>'file': '([^']*)</expres>
+<page>http://castalba.tv/embed.php?cid=22228&amp;wh=640&amp;ht=480&amp;r=live9.net</page>
+<referer>http://live9.net/liveninebein13</referer>
 </regex>
 </link>
 <thumbnail>http://nowwatchtvlive.com/wp-content/uploads/2014/01/bein-sport-13HD.png</thumbnail>
@@ -201,6 +237,26 @@ $doregex[url] playpath=$doregex[file] swfUrl=$doregex[swf] pageUrl=http://www.hd
 </item>
 
 <item>
+<title>Bein 14 (Link 2) [COLOR=FFFF0000]Updated Daily[/COLOR]  [COLOR=FF00FF00]Source 7[/COLOR]</title>
+<link>
+$doregex[streamer] playpath=$doregex[file] swfUrl=http://static.castalba.tv/player5.9.swf pageUrl=http://castalba.tv/ live=true timeout=15
+<regex>
+<name>streamer</name>
+<expres>'streamer': '([^']*)</expres>
+<page>http://castalba.tv/embed.php?cid=22229&amp;wh=640&amp;ht=480&amp;r=live9.net</page>
+<referer>http://live9.net/liveninebein14</referer>
+</regex>
+<regex>
+<name>file</name>
+<expres>'file': '([^']*)</expres>
+<page>http://castalba.tv/embed.php?cid=22229&amp;wh=640&amp;ht=480&amp;r=live9.net</page>
+<referer>http://live9.net/liveninebein14</referer>
+</regex>
+</link>
+<thumbnail>http://cdn.livesoccertv.com/images/channels/thumbnails/bein-sports-arabia-14-hd.gif</thumbnail>
+</item>
+
+<item>
 <title>Bein 15  [COLOR=FFFF0000]Updated Daily[/COLOR]  [COLOR=FF00FF00]Source 1[/COLOR]</title>
 <link>
 $doregex[url] playpath=$doregex[file] swfUrl=$doregex[swf] pageUrl=http://www.hdcast.org/ token=Fo5_n0w?U.rA6l3-70w47ch swfVfy=true live=true timeout=15
@@ -227,8 +283,29 @@ $doregex[url] playpath=$doregex[file] swfUrl=$doregex[swf] pageUrl=http://www.hd
 </item>
 
 <item>
+<title>Bein 15 (Link 2) [COLOR=FFFF0000]Updated Daily[/COLOR]  [COLOR=FF00FF00]Source 7[/COLOR]</title>
+<link>
+$doregex[streamer] playpath=$doregex[file] swfUrl=http://static.castalba.tv/player5.9.swf pageUrl=http://castalba.tv/ live=true timeout=15
+<regex>
+<name>streamer</name>
+<expres>'streamer': '([^']*)</expres>
+<page>http://castalba.tv/embed.php?cid=22230&amp;wh=640&amp;ht=480&amp;r=live9.net</page>
+<referer>http://live9.net/liveninebein15</referer>
+</regex>
+<regex>
+<name>file</name>
+<expres>'file': '([^']*)</expres>
+<page>http://castalba.tv/embed.php?cid=22230&amp;wh=640&amp;ht=480&amp;r=live9.net</page>
+<referer>http://live9.net/liveninebein15</referer>
+</regex>
+</link>
+<thumbnail>http://nowwatchtvlive.com/wp-content/uploads/2014/01/bein-sport-15HD.jpg</thumbnail>
+</item>
+
+<item>
 <title>Bein 11 [COLOR=FFFF0000]Updated Daily[/COLOR]  [COLOR=FF00FF00]Source 1[/COLOR]</title>
-<link>$doregex[url] playpath=$doregex[file] token=#yw%tt#w@kku swfUrl=$doregex[swf] live=true timeout=15 pageUrl=http://www.hdcast.org/
+<link>
+$doregex[url] playpath=$doregex[file] swfUrl=$doregex[swf] pageUrl=http://www.hdcast.org/ token=Fo5_n0w?U.rA6l3-70w47ch swfVfy=true live=true timeout=15
 <regex>
 <name>url</name>
 <expres>'streamer':           '(.*)'</expres>
@@ -277,7 +354,33 @@ $doregex[url] pageUrl=http://www.zingo.tv/
 </regex>
 </link>
 <thumbnail>http://nowwatchtvlive.com/wp-content/uploads/2014/01/bein-sport-10HD.png</thumbnail>
+</item>
+
+<item>
+<title>Bein Sport 11 (Link 4) [COLOR=FFFF0000]Updated Daily[/COLOR]  [COLOR=FF00FF00]Source 6[/COLOR]</title>
+<link>rtmp://tdsiptv.ddns.me/live playpath=ch505?code=83fb96c95242dfdf2aada1b9419e7176  swfUrl=http://www.livetv.tn/flowplayer-3.2.7.swf pageUrl=http://www.livetv.tn/  flashVer=WIN12.0.0.77 timeout=10 swfVfy=1 live=true</link>
+<thumbnail>http://3.bp.blogspot.com/-Twj2mpy5vHI/UveU5FVTJxI/AAAAAAAAAYo/TmPhKdLHCTA/s1600/mzl.vrgftcau.png</thumbnail>
+</item>
+
+<item>
+<title>Bein 11 (Link 5) [COLOR=FFFF0000]Updated Daily[/COLOR]  [COLOR=FF00FF00]Source 7[/COLOR]</title>
+<link>
+$doregex[streamer] playpath=$doregex[file] swfUrl=http://static.castalba.tv/player5.9.swf pageUrl=http://castalba.tv/ live=true timeout=15
+<regex>
+<name>streamer</name>
+<expres>'streamer': '([^']*)</expres>
+<page>http://castalba.tv/embed.php?cid=22226&amp;wh=640&amp;ht=480&amp;r=live9.net</page>
+<referer>http://live9.net/liveninebein11</referer>
+</regex>
+<regex>
+<name>file</name>
+<expres>'file': '([^']*)</expres>
+<page>http://castalba.tv/embed.php?cid=22226&amp;wh=640&amp;ht=480&amp;r=live9.net</page>
+<referer>http://live9.net/liveninebein11</referer>
+</regex>
 </link>
+<thumbnail>http://3.bp.blogspot.com/-Twj2mpy5vHI/UveU5FVTJxI/AAAAAAAAAYo/TmPhKdLHCTA/s1600/mzl.vrgftcau.png</thumbnail>
+</item>
 
 <item>
 <title>Bein 7  [COLOR=FFFF0000]Updated Daily[/COLOR]  [COLOR=FF00FF00]Source 1[/COLOR]</title>
@@ -309,6 +412,38 @@ $doregex[url] playpath=$doregex[file] swfUrl=$doregex[swf] pageUrl=http://www.hd
 <title>Bein 7 (Link 2) [COLOR=FFFF0000]Updated Daily[/COLOR]  [COLOR=FF00FF00]Source 3[/COLOR]</title>
 <link>rtmpe://strm.ukcast.tv/redirect playpath=bein7desi swfUrl=http://ukcast.tv/player/player.swf pageUrl=http://www.ukcast.tv live=true swfVfy=true timeout=15</link>
 <thumbnail>http://i.imgur.com/cHNlLaQ.jpg</thumbnail>
+</item>
+
+<item>
+<title>Bein Sport 7 (Link 3) [COLOR=FFFF0000]Updated Daily[/COLOR]  [COLOR=FF00FF00]Source 6[/COLOR]</title>
+<link>rtmp://tdsiptv.ddns.me/live playpath=ch18?code=83fb96c95242dfdf2aada1b9419e7176  swfUrl=http://www.livetv.tn/flowplayer-3.2.7.swf pageUrl=http://www.livetv.tn/  flashVer=WIN12.0.0.77 timeout=10 swfVfy=1 live=true</link>
+<thumbnail>http://3.bp.blogspot.com/-Twj2mpy5vHI/UveU5FVTJxI/AAAAAAAAAYo/TmPhKdLHCTA/s1600/mzl.vrgftcau.png</thumbnail>
+</item>
+
+<item>
+<title>Bein Sport 7 (Link 4) [COLOR=FFFF0000]Updated Daily[/COLOR]  [COLOR=FF00FF00]Source 6[/COLOR]</title>
+<link>rtmp://tdsiptv.ddns.me/live playpath=ch501?code=83fb96c95242dfdf2aada1b9419e7176  swfUrl=http://www.livetv.tn/flowplayer-3.2.7.swf pageUrl=http://www.livetv.tn/  flashVer=WIN12.0.0.77 timeout=10 swfVfy=1 live=true</link>
+<thumbnail>http://3.bp.blogspot.com/-Twj2mpy5vHI/UveU5FVTJxI/AAAAAAAAAYo/TmPhKdLHCTA/s1600/mzl.vrgftcau.png</thumbnail>
+</item>
+
+<item>
+<title>Bein 7 (Link 5) [COLOR=FFFF0000]Updated Daily[/COLOR]  [COLOR=FF00FF00]Source 7[/COLOR]</title>
+<link>
+$doregex[streamer] playpath=$doregex[file] swfUrl=http://static.castalba.tv/player5.9.swf pageUrl=http://castalba.tv/ live=true timeout=15
+<regex>
+<name>streamer</name>
+<expres>'streamer': '([^']*)</expres>
+<page>http://castalba.tv/embed.php?cid=22222&amp;wh=640&amp;ht=480&amp;r=live9.net</page>
+<referer>http://live9.net/liveninebein7</referer>
+</regex>
+<regex>
+<name>file</name>
+<expres>'file': '([^']*)</expres>
+<page>http://castalba.tv/embed.php?cid=22222&amp;wh=640&amp;ht=480&amp;r=live9.net</page>
+<referer>http://live9.net/liveninebein7</referer>
+</regex>
+</link>
+<thumbnail>http://3.bp.blogspot.com/-Twj2mpy5vHI/UveU5FVTJxI/AAAAAAAAAYo/TmPhKdLHCTA/s1600/mzl.vrgftcau.png</thumbnail>
 </item>
 
 <item>
@@ -345,7 +480,8 @@ $doregex[url] playpath=$doregex[file] swfUrl=$doregex[swf] pageUrl=http://www.hd
 
 <item>
 <title>Bein 5 (Link 3) [COLOR=FFFF0000]Updated Daily[/COLOR]  [COLOR=FF00FF00]Source 2[/COLOR]</title>
-<link>$doregex[streamer] swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.eucast.tv/
+<link>
+$doregex[streamer] swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.eucast.tv/
 <regex>
 <name>streamer</name>
 <expres>file: "([^"]*)</expres>
@@ -354,6 +490,32 @@ $doregex[url] playpath=$doregex[file] swfUrl=$doregex[swf] pageUrl=http://www.hd
 </regex>
 </link>
 <thumbnail>http://i.imgur.com/eKtzUc4.jpg</thumbnail>
+</item>
+
+<item>
+<title>Bein Sport 5 (Link 4) [COLOR=FFFF0000]Updated Daily[/COLOR]  [COLOR=FF00FF00]Source 6[/COLOR]</title>
+<link>rtmp://tdsiptv.ddns.me/live playpath=ch16?code=83fb96c95242dfdf2aada1b9419e7176  swfUrl=http://www.livetv.tn/flowplayer-3.2.7.swf pageUrl=http://www.livetv.tn/  flashVer=WIN12.0.0.77 timeout=10 swfVfy=1 live=true</link>
+<thumbnail>http://3.bp.blogspot.com/-Twj2mpy5vHI/UveU5FVTJxI/AAAAAAAAAYo/TmPhKdLHCTA/s1600/mzl.vrgftcau.png</thumbnail>
+</item>
+
+<item>
+<title>Bein 5 (Link 5) [COLOR=FFFF0000]Updated Daily[/COLOR]  [COLOR=FF00FF00]Source 7[/COLOR]</title>
+<link>
+$doregex[streamer] playpath=$doregex[file] swfUrl=http://static.castalba.tv/player5.9.swf pageUrl=http://castalba.tv/ live=true timeout=15
+<regex>
+<name>streamer</name>
+<expres>'streamer': '([^']*)</expres>
+<page>http://castalba.tv/embed.php?cid=22183&amp;wh=640&amp;ht=480&amp;r=live9.net</page>
+<referer>http://live9.net/liveninebein5</referer>
+</regex>
+<regex>
+<name>file</name>
+<expres>'file': '([^']*)</expres>
+<page>http://castalba.tv/embed.php?cid=22183&amp;wh=640&amp;ht=480&amp;r=live9.net</page>
+<referer>http://live9.net/liveninebein5</referer>
+</regex>
+</link>
+<thumbnail>http://3.bp.blogspot.com/-Twj2mpy5vHI/UveU5FVTJxI/AAAAAAAAAYo/TmPhKdLHCTA/s1600/mzl.vrgftcau.png</thumbnail>
 </item>
 
 <item>
@@ -389,6 +551,38 @@ $doregex[url] playpath=$doregex[file] swfUrl=$doregex[swf] pageUrl=http://www.hd
 </item>
 
 <item>
+<title>Bein Sport 6 (Link 3) [COLOR=FFFF0000]Updated Daily[/COLOR]  [COLOR=FF00FF00]Source 6[/COLOR]</title>
+<link>rtmp://tdsiptv.ddns.me/live playpath=ch17?code=83fb96c95242dfdf2aada1b9419e7176  swfUrl=http://www.livetv.tn/flowplayer-3.2.7.swf pageUrl=http://www.livetv.tn/  flashVer=WIN12.0.0.77 timeout=10 swfVfy=1 live=true</link>
+<thumbnail>http://3.bp.blogspot.com/-Twj2mpy5vHI/UveU5FVTJxI/AAAAAAAAAYo/TmPhKdLHCTA/s1600/mzl.vrgftcau.png</thumbnail>
+</item>
+
+<item>
+<title>Bein Sport 6 (Link 4) [COLOR=FFFF0000]Updated Daily[/COLOR]  [COLOR=FF00FF00]Source 6[/COLOR]</title>
+<link>rtmp://tdsiptv.ddns.me/live playpath=ch500?code=83fb96c95242dfdf2aada1b9419e7176  swfUrl=http://www.livetv.tn/flowplayer-3.2.7.swf pageUrl=http://www.livetv.tn/  flashVer=WIN12.0.0.77 timeout=10 swfVfy=1 live=true</link>
+<thumbnail>http://3.bp.blogspot.com/-Twj2mpy5vHI/UveU5FVTJxI/AAAAAAAAAYo/TmPhKdLHCTA/s1600/mzl.vrgftcau.png</thumbnail>
+</item>
+
+<item>
+<title>Bein 6 (Link 5) [COLOR=FFFF0000]Updated Daily[/COLOR]  [COLOR=FF00FF00]Source 7[/COLOR]</title>
+<link>
+$doregex[streamer] playpath=$doregex[file] swfUrl=http://static.castalba.tv/player5.9.swf pageUrl=http://castalba.tv/ live=true timeout=15
+<regex>
+<name>streamer</name>
+<expres>'streamer': '([^']*)</expres>
+<page>http://castalba.tv/embed.php?cid=22184&amp;wh=640&amp;ht=480&amp;r=live9.net</page>
+<referer>http://live9.net/liveninebein6</referer>
+</regex>
+<regex>
+<name>file</name>
+<expres>'file': '([^']*)</expres>
+<page>http://castalba.tv/embed.php?cid=22184&amp;wh=640&amp;ht=480&amp;r=live9.net</page>
+<referer>http://live9.net/liveninebein6</referer>
+</regex>
+</link>
+<thumbnail>http://3.bp.blogspot.com/-Twj2mpy5vHI/UveU5FVTJxI/AAAAAAAAAYo/TmPhKdLHCTA/s1600/mzl.vrgftcau.png</thumbnail>
+</item>
+
+<item>
 <title>Bein 3  [COLOR=FFFF0000]Updated Daily[/COLOR]  [COLOR=FF00FF00]Source 1[/COLOR]</title>
 <link>
 $doregex[url] playpath=$doregex[file] swfUrl=$doregex[swf] pageUrl=http://www.hdcast.org/ token=Fo5_n0w?U.rA6l3-70w47ch swfVfy=true live=true timeout=15
@@ -417,12 +611,12 @@ $doregex[url] playpath=$doregex[file] swfUrl=$doregex[swf] pageUrl=http://www.hd
 <item>
 <title>Bein 3 (Link 2) [COLOR=FFFF0000]Updated Daily[/COLOR]  [COLOR=FF00FF00]Source 4[/COLOR]</title>
 <link>
-$doregex[url] pageUrl=http://www.zingo.tv/
+$doregex[file] swfUrl=http://www.castok.com/jwplayer/jwplayer.flash.swf live=true timeout=15 pageUrl=http://www.castok.com/
 <regex>
-<name>url</name>
+<name>file</name>
 <expres>file: "([^"]*)</expres>
-<page>http://zingo.tv/watch.php?id=2845&amp;width=100%&amp;height=100%</page>
-<referer>http://showsport-tv.com/update/bein3.html</referer>
+<page>http://www.castok.com/embed.php?v=drama03&vw=600&vh=450&typeplayer=0&domain=hdembed.com</page>
+<referer>http://hdembed.com/bein-sports3.php</referer>
 </regex>
 </link>
 <thumbnail>http://i.imgur.com/LaMq1FJ.jpg</thumbnail>
@@ -436,7 +630,8 @@ $doregex[url] pageUrl=http://www.zingo.tv/
 
 <item>
 <title>Bein 3 (Link 4) [COLOR=FFFF0000]Updated Daily[/COLOR]  [COLOR=FF00FF00]Source 2[/COLOR]</title>
-<link>$doregex[streamer] swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.eucast.tv/
+<link>
+$doregex[streamer] swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.eucast.tv/
 <regex>
 <name>streamer</name>
 <expres>file: "([^"]*)</expres>
@@ -445,6 +640,32 @@ $doregex[url] pageUrl=http://www.zingo.tv/
 </regex>
 </link>
 <thumbnail>http://i.imgur.com/LaMq1FJ.jpg</thumbnail>
+</item>
+
+<item>
+<title>Bein Sport 3 (Link 5) [COLOR=FFFF0000]Updated Daily[/COLOR]  [COLOR=FF00FF00]Source 6[/COLOR]</title>
+<link>rtmp://tdsiptv.ddns.me/live playpath=ch14?code=83fb96c95242dfdf2aada1b9419e7176  swfUrl=http://www.livetv.tn/flowplayer-3.2.7.swf pageUrl=http://www.livetv.tn/  flashVer=WIN12.0.0.77 timeout=10 swfVfy=1 live=true</link>
+<thumbnail>http://3.bp.blogspot.com/-Twj2mpy5vHI/UveU5FVTJxI/AAAAAAAAAYo/TmPhKdLHCTA/s1600/mzl.vrgftcau.png</thumbnail>
+</item>
+
+<item>
+<title>Bein 3 (Link 6) [COLOR=FFFF0000]Updated Daily[/COLOR]  [COLOR=FF00FF00]Source 7[/COLOR]</title>
+<link>
+$doregex[streamer] playpath=$doregex[file] swfUrl=http://static.castalba.tv/player5.9.swf pageUrl=http://castalba.tv/ live=true timeout=15
+<regex>
+<name>streamer</name>
+<expres>'streamer': '([^']*)</expres>
+<page>http://castalba.tv/embed.php?cid=22181&amp;wh=640&amp;ht=480&amp;r=live9.net</page>
+<referer>http://live9.net/liveninebein3</referer>
+</regex>
+<regex>
+<name>file</name>
+<expres>'file': '([^']*)</expres>
+<page>http://castalba.tv/embed.php?cid=22181&amp;wh=640&amp;ht=480&amp;r=live9.net</page>
+<referer>http://live9.net/liveninebein3</referer>
+</regex>
+</link>
+<thumbnail>http://3.bp.blogspot.com/-Twj2mpy5vHI/UveU5FVTJxI/AAAAAAAAAYo/TmPhKdLHCTA/s1600/mzl.vrgftcau.png</thumbnail>
 </item>
 
 <item>
@@ -482,12 +703,12 @@ $doregex[url] playpath=$doregex[file] swfUrl=$doregex[swf] pageUrl=http://www.hd
 <item>
 <title>Bein 2 (Link 3) [COLOR=FFFF0000]Updated Daily[/COLOR]  [COLOR=FF00FF00]Source 4[/COLOR]</title>
 <link>
-$doregex[url] pageUrl=http://www.zingo.tv/
+$doregex[file] swfUrl=http://www.castok.com/jwplayer/jwplayer.flash.swf live=true timeout=15 pageUrl=http://www.castok.com/
 <regex>
-<name>url</name>
+<name>file</name>
 <expres>file: "([^"]*)</expres>
-<page>http://zingo.tv/watch.php?id=2844&amp;width=100%&amp;height=100%</page>
-<referer>http://showsport-tv.com/update/bein2.html</referer>
+<page>http://www.castok.com/embed.php?v=drama02&vw=600&vh=450&typeplayer=0&domain=hdembed.com</page>
+<referer>http://hdembed.com/bein-sports2.php</referer>
 </regex>
 </link>
 <thumbnail>http://i.imgur.com/r3A1LIO.jpg</thumbnail>
@@ -501,7 +722,8 @@ $doregex[url] pageUrl=http://www.zingo.tv/
 
 <item>
 <title>Bein 2 (Link 5) [COLOR=FFFF0000]Updated Daily[/COLOR]  [COLOR=FF00FF00]Source 2[/COLOR]</title>
-<link>$doregex[streamer] swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.eucast.tv/
+<link>
+$doregex[streamer] swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.eucast.tv/
 <regex>
 <name>streamer</name>
 <expres>file: "([^"]*)</expres>
@@ -510,6 +732,32 @@ $doregex[url] pageUrl=http://www.zingo.tv/
 </regex>
 </link>
 <thumbnail>http://i.imgur.com/r3A1LIO.jpg</thumbnail>
+</item>
+
+<item>
+<title>Bein Sport 2 (Link 6) [COLOR=FFFF0000]Updated Daily[/COLOR] [COLOR=FF00FF00]Source 6[/COLOR]</title>
+<link>rtmp://tdsiptv.ddns.me/live playpath=ch13?code=83fb96c95242dfdf2aada1b9419e7176  swfUrl=http://www.livetv.tn/flowplayer-3.2.7.swf pageUrl=http://www.livetv.tn/  flashVer=WIN12.0.0.77 timeout=10 swfVfy=1 live=true</link>
+<thumbnail>http://3.bp.blogspot.com/-Twj2mpy5vHI/UveU5FVTJxI/AAAAAAAAAYo/TmPhKdLHCTA/s1600/mzl.vrgftcau.png</thumbnail>
+</item>
+
+<item>
+<title>Bein 2 (Link 7) [COLOR=FFFF0000]Updated Daily[/COLOR]  [COLOR=FF00FF00]Source 7[/COLOR]</title>
+<link>
+$doregex[streamer] playpath=$doregex[file] swfUrl=http://static.castalba.tv/player5.9.swf pageUrl=http://castalba.tv/ live=true timeout=15
+<regex>
+<name>streamer</name>
+<expres>'streamer': '([^']*)</expres>
+<page>http://castalba.tv/embed.php?cid=22180&amp;wh=640&amp;ht=480&amp;r=live9.net</page>
+<referer>http://live9.net/liveninebein2</referer>
+</regex>
+<regex>
+<name>file</name>
+<expres>'file': '([^']*)</expres>
+<page>http://castalba.tv/embed.php?cid=22180&amp;wh=640&amp;ht=480&amp;r=live9.net</page>
+<referer>http://live9.net/liveninebein2</referer>
+</regex>
+</link>
+<thumbnail>http://3.bp.blogspot.com/-Twj2mpy5vHI/UveU5FVTJxI/AAAAAAAAAYo/TmPhKdLHCTA/s1600/mzl.vrgftcau.png</thumbnail>
 </item>
 
 <item>
@@ -541,16 +789,16 @@ $doregex[url] playpath=$doregex[file] swfUrl=$doregex[swf] pageUrl=http://www.hd
 <item>
 <title>Bein 4 (Link 2) [COLOR=FFFF0000]Updated Daily[/COLOR]  [COLOR=FF00FF00]Source 4[/COLOR]</title>
 <link>
-$doregex[url] pageUrl=http://www.zingo.tv/
+$doregex[file] swfUrl=http://www.castok.com/jwplayer/jwplayer.flash.swf live=true timeout=15 pageUrl=http://www.castok.com/
 <regex>
-<name>url</name>
+<name>file</name>
 <expres>file: "([^"]*)</expres>
-<page>http://zingo.tv/watch.php?id=2947&amp;width=100%&amp;height=100%</page>
-<referer>http://showsport-tv.com/update/bein1.html</referer>
+<page>http://www.castok.com/embed.php?v=drama04&vw=600&vh=450&typeplayer=0&domain=hdembed.com</page>
+<referer>http://hdembed.com/bein-sports4.php</referer>
 </regex>
 </link>
 <thumbnail>http://i.imgur.com/MCi8WTD.jpg</thumbnail>
-</link>
+</item>
 
 <item>
 <title>Bein 4 (Link 3) [COLOR=FFFF0000]Updated Daily[/COLOR]  [COLOR=FF00FF00]Source 2[/COLOR]</title>
@@ -564,13 +812,39 @@ $doregex[streamer] swfUrl=http://www.eucast.tv/player5.9.swf live=true timeout=1
 </regex>
 </link>
 <thumbnail>http://i.imgur.com/MCi8WTD.jpg</thumbnail>
-</link>
+</item>
 
 <item>
 <title>Bein 4 (Link 4) [COLOR=FFFF0000]Updated Daily[/COLOR]  [COLOR=FF00FF00]Source 3[/COLOR]</title>
 <link>rtmpe://strm.ukcast.tv/redirect playpath=bein4desi swfUrl=http://ukcast.tv/player/player.swf pageUrl=http://www.ukcast.tv live=true swfVfy=true timeout=15</link>
 <thumbnail>http://i.imgur.com/MCi8WTD.jpg</thumbnail>
+</item>
+
+<item>
+<title>Bein Sport 4 (Link 5) [COLOR=FFFF0000]Updated Daily[/COLOR]  [COLOR=FF00FF00]Source 6[/COLOR]</title>
+<link>rtmp://tdsiptv.ddns.me/live playpath=ch15?code=83fb96c95242dfdf2aada1b9419e7176  swfUrl=http://www.livetv.tn/flowplayer-3.2.7.swf pageUrl=http://www.livetv.tn/  flashVer=WIN12.0.0.77 timeout=10 swfVfy=1 live=true</link>
+<thumbnail>http://3.bp.blogspot.com/-Twj2mpy5vHI/UveU5FVTJxI/AAAAAAAAAYo/TmPhKdLHCTA/s1600/mzl.vrgftcau.png</thumbnail>
+</item>
+
+<item>
+<title>Bein 4 (Link 6) [COLOR=FFFF0000]Updated Daily[/COLOR]  [COLOR=FF00FF00]Source 7[/COLOR]</title>
+<link>
+$doregex[streamer] playpath=$doregex[file] swfUrl=http://static.castalba.tv/player5.9.swf pageUrl=http://castalba.tv/ live=true timeout=15
+<regex>
+<name>streamer</name>
+<expres>'streamer': '([^']*)</expres>
+<page>http://castalba.tv/embed.php?cid=22182&amp;wh=640&amp;ht=480&amp;r=live9.net</page>
+<referer>http://live9.net/liveninebein4</referer>
+</regex>
+<regex>
+<name>file</name>
+<expres>'file': '([^']*)</expres>
+<page>http://castalba.tv/embed.php?cid=22182&amp;wh=640&amp;ht=480&amp;r=live9.net</page>
+<referer>http://live9.net/liveninebein4</referer>
+</regex>
 </link>
+<thumbnail>http://3.bp.blogspot.com/-Twj2mpy5vHI/UveU5FVTJxI/AAAAAAAAAYo/TmPhKdLHCTA/s1600/mzl.vrgftcau.png</thumbnail>
+</item>
 
 <item>
 <title>Bein 8  [COLOR=FFFF0000]Updated Daily[/COLOR]  [COLOR=FF00FF00]Source 1[/COLOR]</title>
@@ -606,7 +880,8 @@ $doregex[url] playpath=$doregex[file] swfUrl=$doregex[swf] pageUrl=http://www.hd
 
 <item>
 <title>Bein 8 (Link 3) [COLOR=FFFF0000]Updated Daily[/COLOR]  [COLOR=FF00FF00]Source 2[/COLOR]</title>
-<link>$doregex[streamer] swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.eucast.tv/
+<link>
+$doregex[streamer] swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.eucast.tv/
 <regex>
 <name>streamer</name>
 <expres>file: "([^"]*)</expres>
@@ -615,6 +890,38 @@ $doregex[url] playpath=$doregex[file] swfUrl=$doregex[swf] pageUrl=http://www.hd
 </regex>
 </link>
 <thumbnail>http://i.imgur.com/cEpkyFy.jpg</thumbnail>
+</item>
+
+<item>
+<title>Bein Sport 8 (Link 4) [COLOR=FFFF0000]Updated Daily[/COLOR]  [COLOR=FF00FF00]Source 6[/COLOR]</title>
+<link>rtmp://tdsiptv.ddns.me/live playpath=ch19?code=83fb96c95242dfdf2aada1b9419e7176  swfUrl=http://www.livetv.tn/flowplayer-3.2.7.swf pageUrl=http://www.livetv.tn/  flashVer=WIN12.0.0.77 timeout=10 swfVfy=1 live=true</link>
+<thumbnail>http://3.bp.blogspot.com/-Twj2mpy5vHI/UveU5FVTJxI/AAAAAAAAAYo/TmPhKdLHCTA/s1600/mzl.vrgftcau.png</thumbnail>
+</item>
+ 
+<item>
+<title>Bein Sport 8 (Link 5) [COLOR=FFFF0000]Updated Daily[/COLOR]  [COLOR=FF00FF00]Source 6[/COLOR]</title>
+<link>rtmp://tdsiptv.ddns.me/live playpath=ch502?code=83fb96c95242dfdf2aada1b9419e7176  swfUrl=http://www.livetv.tn/flowplayer-3.2.7.swf pageUrl=http://www.livetv.tn/  flashVer=WIN12.0.0.77 timeout=10 swfVfy=1 live=true</link>
+<thumbnail>http://3.bp.blogspot.com/-Twj2mpy5vHI/UveU5FVTJxI/AAAAAAAAAYo/TmPhKdLHCTA/s1600/mzl.vrgftcau.png</thumbnail>
+</item>
+
+<item>
+<title>Bein 8 (Link 6) [COLOR=FFFF0000]Updated Daily[/COLOR]  [COLOR=FF00FF00]Source 7[/COLOR]</title>
+<link>
+$doregex[streamer] playpath=$doregex[file] swfUrl=http://static.castalba.tv/player5.9.swf pageUrl=http://castalba.tv/ live=true timeout=15
+<regex>
+<name>streamer</name>
+<expres>'streamer': '([^']*)</expres>
+<page>http://castalba.tv/embed.php?cid=22223&amp;wh=640&amp;ht=480&amp;r=live9.net</page>
+<referer>http://live9.net/liveninebein8</referer>
+</regex>
+<regex>
+<name>file</name>
+<expres>'file': '([^']*)</expres>
+<page>http://castalba.tv/embed.php?cid=22223&amp;wh=640&amp;ht=480&amp;r=live9.net</page>
+<referer>http://live9.net/liveninebein8</referer>
+</regex>
+</link>
+<thumbnail>http://3.bp.blogspot.com/-Twj2mpy5vHI/UveU5FVTJxI/AAAAAAAAAYo/TmPhKdLHCTA/s1600/mzl.vrgftcau.png</thumbnail>
 </item>
 
 <item>
@@ -641,6 +948,32 @@ $doregex[url] playpath=$doregex[file] swfUrl=$doregex[swf] pageUrl=http://www.hd
 </regex>
 </link>
 <thumbnail>http://i.imgur.com/bT87VMx.jpg</thumbnail>
+</item>
+
+<item>
+<title>Bein Sport 12 (Link 2) [COLOR=FFFF0000]Updated Daily[/COLOR]  [COLOR=FF00FF00]Source 6[/COLOR]</title>
+<link>rtmp://tdsiptv.ddns.me/live playpath=ch506?code=83fb96c95242dfdf2aada1b9419e7176  swfUrl=http://www.livetv.tn/flowplayer-3.2.7.swf pageUrl=http://www.livetv.tn/  flashVer=WIN12.0.0.77 timeout=10 swfVfy=1 live=true</link>
+<thumbnail>http://3.bp.blogspot.com/-Twj2mpy5vHI/UveU5FVTJxI/AAAAAAAAAYo/TmPhKdLHCTA/s1600/mzl.vrgftcau.png</thumbnail>
+</item>   
+
+<item>
+<title>Bein 12 (Link 3) [COLOR=FFFF0000]Updated Daily[/COLOR]  [COLOR=FF00FF00]Source 7[/COLOR]</title>
+<link>
+$doregex[streamer] playpath=$doregex[file] swfUrl=http://static.castalba.tv/player5.9.swf pageUrl=http://castalba.tv/ live=true timeout=15
+<regex>
+<name>streamer</name>
+<expres>'streamer': '([^']*)</expres>
+<page>http://castalba.tv/embed.php?cid=22227&amp;wh=640&amp;ht=480&amp;r=live9.net</page>
+<referer>http://live9.net/liveninebein12</referer>
+</regex>
+<regex>
+<name>file</name>
+<expres>'file': '([^']*)</expres>
+<page>http://castalba.tv/embed.php?cid=22227&amp;wh=640&amp;ht=480&amp;r=live9.net</page>
+<referer>http://live9.net/liveninebein12</referer>
+</regex>
+</link>
+<thumbnail>http://3.bp.blogspot.com/-Twj2mpy5vHI/UveU5FVTJxI/AAAAAAAAAYo/TmPhKdLHCTA/s1600/mzl.vrgftcau.png</thumbnail>
 </item>
 
 <item>
@@ -678,12 +1011,12 @@ $doregex[url] playpath=$doregex[file] swfUrl=$doregex[swf] pageUrl=http://www.hd
 <item>
 <title>Bein 1 (Link 3) [COLOR=FFFF0000]Updated Daily[/COLOR]  [COLOR=FF00FF00]Source 4[/COLOR]</title>
 <link>
-$doregex[url] pageUrl=http://www.zingo.tv/
+$doregex[file] swfUrl=http://www.castok.com/jwplayer/jwplayer.flash.swf live=true timeout=15 pageUrl=http://www.castok.com/
 <regex>
-<name>url</name>
+<name>file</name>
 <expres>file: "([^"]*)</expres>
-<page>http://zingo.tv/watch.php?id=2947&amp;width=100%&amp;height=100%</page>
-<referer>http://showsport-tv.com/update/bein1.html</referer>
+<page>http://www.castok.com/embed.php?v=drama01&vw=600&vh=450&typeplayer=0&domain=hdembed.com</page>
+<referer>http://hdembed.com/bein-sports1.php</referer>
 </regex>
 </link>
 <thumbnail>http://i.imgur.com/r3A1LIO.jpg</thumbnail>
@@ -697,7 +1030,8 @@ $doregex[url] pageUrl=http://www.zingo.tv/
 
 <item>
 <title>Bein 1 (Link 5)[COLOR=FFFF0000]Updated Daily[/COLOR]  [COLOR=FF00FF00]Source 2[/COLOR]</title>
-<link>$doregex[streamer] swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.eucast.tv/
+<link>
+$doregex[streamer] swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.eucast.tv/
 <regex>
 <name>streamer</name>
 <expres>file: "([^"]*)</expres>
@@ -707,6 +1041,32 @@ $doregex[url] pageUrl=http://www.zingo.tv/
 </link>
 <thumbnail>http://i.imgur.com/r3A1LIO.jpg</thumbnail>
 </item> 
+
+<item>
+<title>Bein Sport 1 (Link 6) [COLOR=FFFF0000]Updated Daily[/COLOR] [COLOR=FF00FF00]Source 6[/COLOR]</title>
+<link>rtmp://tdsiptv.ddns.me/live playpath=ch12?code=83fb96c95242dfdf2aada1b9419e7176  swfUrl=http://www.livetv.tn/flowplayer-3.2.7.swf pageUrl=http://www.livetv.tn/  flashVer=WIN12.0.0.77 timeout=10 swfVfy=1 live=true</link>
+<thumbnail>http://3.bp.blogspot.com/-Twj2mpy5vHI/UveU5FVTJxI/AAAAAAAAAYo/TmPhKdLHCTA/s1600/mzl.vrgftcau.png</thumbnail>
+</item>
+
+<item>
+<title>Bein 1 (Link 7) [COLOR=FFFF0000]Updated Daily[/COLOR]  [COLOR=FF00FF00]Source 7[/COLOR]</title>
+<link>
+$doregex[streamer] playpath=$doregex[file] swfUrl=http://static.castalba.tv/player5.9.swf pageUrl=http://castalba.tv/ live=true timeout=15
+<regex>
+<name>streamer</name>
+<expres>'streamer': '([^']*)</expres>
+<page>http://castalba.tv/embed.php?cid=22179&amp;wh=640&amp;ht=480&amp;r=live9.net</page>
+<referer>http://live9.net/liveninebein1</referer>
+</regex>
+<regex>
+<name>file</name>
+<expres>'file': '([^']*)</expres>
+<page>http://castalba.tv/embed.php?cid=22179&amp;wh=640&amp;ht=480&amp;r=live9.net</page>
+<referer>http://live9.net/liveninebein1</referer>
+</regex>
+</link>
+<thumbnail>http://3.bp.blogspot.com/-Twj2mpy5vHI/UveU5FVTJxI/AAAAAAAAAYo/TmPhKdLHCTA/s1600/mzl.vrgftcau.png</thumbnail>
+</item>
 
 <item>
 <title>Bahrain Sports</title>

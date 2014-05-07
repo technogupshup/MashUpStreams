@@ -56,14 +56,14 @@
 
 <item>
 <title>KIKA (Link 2)</title>
-<link>http://31.204.128.190/live/kika/playlist.m3u8?wmsAuthSign=$doregex[url]
+<link>
+$doregex[url]
 <regex>
 <name>url</name>
-<expres>(.*)</expres>
-<page>http://www.yourtv.to/php/getToken.php</page>
-<referer>http://www.yourtv.to/online/live/fernsehen/stream/kika.html</referer>
+<expres>URL = "([^"]*)</expres>
+<page>http://de.iphone-tv.eu/stream/de/48</page>
+<referer>http://de.iphone-tv.eu/channels/de</referer>
 </regex>
-</item>
 </link>
 <thumbnail>http://file1.npage.de/009857/81/bilder/logo_kika.gif</thumbnail>
 </item>
@@ -100,12 +100,13 @@
 
 <item>
 <title>ZDF</title>
-<link>http://31.204.128.190/live/zdf/playlist.m3u8?wmsAuthSign=$doregex[url]
+<link>
+$doregex[url]
 <regex>
 <name>url</name>
-<expres>(.*)</expres>
-<page>http://www.yourtv.to/php/getToken.php</page>
-<referer>http://www.yourtv.to/online/live/fernsehen/stream/zdf.html</referer>
+<expres>URL = "([^"]*)</expres>
+<page>http://de.iphone-tv.eu/stream/de/19</page>
+<referer>http://de.iphone-tv.eu/channels/de</referer>
 </regex>
 </link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/zz/zdf_de_hd.jpg</thumbnail>
@@ -130,12 +131,14 @@
 </item>
 
 <item>
-<link>http://31.204.128.190/live/rtl/playlist.m3u8?wmsAuthSign=$doregex[url]
+<title>RTL (Link 2)</title>
+<link>
+http://stream.fernsehen.to/stream/stream.m3u8?c=rtl_$doregex[enc]
 <regex>
-<name>url</name>
-<expres>(.*)</expres>
-<page>http://www.yourtv.to/php/getToken.php</page>
-<referer>http://www.yourtv.to/online/live/fernsehen/stream/rtl.html</referer>
+<name>enc</name>
+<expres>enc = '([^']*)</expres>
+<page>http://fernsehen.to/</page>
+<referer> </referer>
 </regex>
 </link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/rr/rtl_at.jpg</thumbnail>
@@ -149,28 +152,28 @@
 
 <item>
 <title>Das Erste</title>
-<link>http://31.204.128.190/live/ard/playlist.m3u8?wmsAuthSign=$doregex[url]
+<link>$doregex[url]
+<thumbnail></thumbnail>
 <regex>
 <name>url</name>
-<expres>(.*)</expres>
-<page>http://www.yourtv.to/php/getToken.php</page>
-<referer>http://www.yourtv.to/online/live/fernsehen/stream/ard.html</referer>
+<expres>URL = "([^"]*)</expres>
+<page>http://de.iphone-tv.eu/stream/de/44</page>
+<referer>http://de.iphone-tv.eu/channels/de</referer>
 </regex>
-</item>
 </link>
 <thumbnail>http://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Das_Erste_HD_Logo.svg/725px-Das_Erste_HD_Logo.svg.png</thumbnail>
 </item>
 
 <item>
-<title>3 Sat</title>
-<link>http://31.204.128.190/live/3sat/playlist.m3u8?wmsAuthSign=$doregex[url]
+<title>3Sat</title>
+<link>
+$doregex[url]
 <regex>
 <name>url</name>
-<expres>(.*)</expres>
-<page>http://www.yourtv.to/php/getToken.php</page>
-<referer>http://www.yourtv.to/online/live/fernsehen/stream/3sat.html</referer>
+<expres>URL = "([^"]*)</expres>
+<page>http://de.iphone-tv.eu/stream/de/49</page>
+<referer>http://de.iphone-tv.eu/channels/de</referer>
 </regex>
-</item>
 </link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/num/3sat.png</thumbnail>
 </item>
@@ -191,56 +194,56 @@
 
 <item>
 <title>Disney Channel</title>
-<link>http://31.204.128.190/live/disneychannel/playlist.m3u8?wmsAuthSign=$doregex[url]
+<link>$doregex[url]
+<thumbnail></thumbnail>
 <regex>
 <name>url</name>
-<expres>(.*)</expres>
-<page>http://www.yourtv.to/php/getToken.php</page>
-<referer>http://www.yourtv.to/online/live/fernsehen/stream/disneychannel.html</referer>
+<expres>URL = "([^"]*)</expres>
+<page>http://de.iphone-tv.eu/stream/de/45</page>
+<referer>http://de.iphone-tv.eu/channels/de</referer>
 </regex>
-</item>
 </link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/dd/disney_junior_de.png</thumbnail>
 </item>
 
 <item>
 <title>Nick</title>
-<link>http://31.204.128.190/live/nickcc/playlist.m3u8?wmsAuthSign=$doregex[url]
+<link>$doregex[url]
+<thumbnail></thumbnail>
 <regex>
 <name>url</name>
-<expres>(.*)</expres>
-<page>http://www.yourtv.to/php/getToken.php</page>
-<referer>http://www.yourtv.to/online/live/fernsehen/stream/nickcc.html</referer>
+<expres>URL = "([^"]*)</expres>
+<page>http://de.iphone-tv.eu/stream/de/43</page>
+<referer>http://de.iphone-tv.eu/channels/de</referer>
 </regex>
-</item>
 </link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/nn/nickelodeon_us.png</thumbnail>
 </item>
 
 <item>
 <title>Dmax</title>
-<link>http://31.204.128.190/live/dmax/playlist.m3u8?wmsAuthSign=$doregex[url]
+<link>
+$doregex[url]
 <regex>
 <name>url</name>
-<expres>(.*)</expres>
-<page>http://www.yourtv.to/php/getToken.php</page>
-<referer>http://www.yourtv.to/online/live/fernsehen/stream/dmax.html</referer>
+<expres>URL = "([^"]*)</expres>
+<page>http://de.iphone-tv.eu/stream/de/62</page>
+<referer>http://de.iphone-tv.eu/channels/de</referer>
 </regex>
-</item>
 </link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/dd/dmax_de.png</thumbnail>
 </item>
 
 <item>
 <title>Eurosport</title>
-<link>http://31.204.128.190/live/eurosport/playlist.m3u8?wmsAuthSign=$doregex[url]
+<link>
+$doregex[url]
 <regex>
 <name>url</name>
-<expres>(.*)</expres>
-<page>http://www.yourtv.to/php/getToken.php</page>
-<referer>http://www.yourtv.to/online/live/fernsehen/stream/eurosport.html</referer>
+<expres>URL = "([^"]*)</expres>
+<page>http://de.iphone-tv.eu/stream/de/22</page>
+<referer>http://de.iphone-tv.eu/channels/de</referer>
 </regex>
-</item>
 </link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/ee/eurosport.png</thumbnail>
 </item>
@@ -261,26 +264,27 @@
 
 <item>
 <title>N24</title>
-<link>http://31.204.128.190/live/n24/playlist.m3u8?wmsAuthSign=$doregex[url]
+<link>
+$doregex[url]
 <regex>
 <name>url</name>
-<expres>(.*)</expres>
-<page>http://www.yourtv.to/php/getToken.php</page>
-<referer>http://www.yourtv.to/online/live/fernsehen/stream/n24.html</referer>
+<expres>URL = "([^"]*)</expres>
+<page>http://de.iphone-tv.eu/stream/de/71</page>
+<referer>http://de.iphone-tv.eu/channels/de</referer>
 </regex>
-</item>
 </link>
 <thumbnail>https://www.triple-it.nl/resources/files/images/n24.jpg</thumbnail>
 </item>
 
 <item>
 <title>Pro 7</title>
-<link>http://31.204.128.190/live/pro7/playlist.m3u8?wmsAuthSign=$doregex[url]
+<link>
+http://stream.fernsehen.to/stream/stream.m3u8?c=pro7_$doregex[enc]
 <regex>
-<name>url</name>
-<expres>(.*)</expres>
-<page>http://www.yourtv.to/php/getToken.php</page>
-<referer>http://www.yourtv.to/online/live/fernsehen/stream/pro7.html</referer>
+<name>enc</name>
+<expres>enc = '([^']*)</expres>
+<page>http://fernsehen.to/</page>
+<referer> </referer>
 </regex>
 </link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/pp/pro_sieben_ch.png</thumbnail>
@@ -302,14 +306,14 @@
 
 <item>
 <title>RTL 2</title>
-<link>http://213.163.74.10/live/rtl2/playlist.m3u8?wmsAuthSign=$doregex[url]
+<link>
+http://stream.fernsehen.to/stream/stream.m3u8?c=rtl2_$doregex[enc]
 <regex>
-<name>url</name>
-<expres>(.*)</expres>
-<page>http://www.yourtv.to/php/getToken.php</page>
-<referer>http://www.yourtv.to/online/live/fernsehen/stream/rtl2.html</referer>
+<name>enc</name>
+<expres>enc = '([^']*)</expres>
+<page>http://fernsehen.to/</page>
+<referer> </referer>
 </regex>
-</item>
 </link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/rr/rtl2_at.png</thumbnail>
 </item>
@@ -358,56 +362,56 @@
 
 <item>
 <title>Sixx</title>
-<link>http://31.204.128.190/live/sixx/playlist.m3u8?wmsAuthSign=$doregex[url]
+<link>
+http://stream.fernsehen.to/stream/stream.m3u8?c=sixx_$doregex[enc]
 <regex>
-<name>url</name>
-<expres>(.*)</expres>
-<page>http://www.yourtv.to/php/getToken.php</page>
-<referer>http://www.yourtv.to/online/live/fernsehen/stream/sixx.html</referer>
+<name>enc</name>
+<expres>enc = '([^']*)</expres>
+<page>http://fernsehen.to/</page>
+<referer> </referer>
 </regex>
-</item>
 </link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/sixx.png</thumbnail>
 </item>
 
 <item>
 <title>Sport 1</title>
-<link>http://31.204.128.190/live/sport1/playlist.m3u8?wmsAuthSign=$doregex[url]
+<link>
+$doregex[url]
 <regex>
 <name>url</name>
-<expres>(.*)</expres>
-<page>http://www.yourtv.to/php/getToken.php</page>
-<referer>http://www.yourtv.to/online/live/fernsehen/stream/sport1.html</referer>
+<expres>URL = "([^"]*)</expres>
+<page>http://de.iphone-tv.eu/stream/de/52</page>
+<referer>http://de.iphone-tv.eu/channels/de</referer>
 </regex>
-</item>
 </link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/sport1_de.png</thumbnail>
 </item>
 
 <item>
 <title>Viva</title>
-<link>http://31.204.128.190/live/viva/playlist.m3u8?wmsAuthSign=$doregex[url]
+<link>
+$doregex[url]
 <regex>
 <name>url</name>
-<expres>(.*)</expres>
-<page>http://www.yourtv.to/php/getToken.php</page>
-<referer>http://www.yourtv.to/online/live/fernsehen/stream/viva.html</referer>
+<expres>URL = "([^"]*)</expres>
+<page>http://de.iphone-tv.eu/stream/de/40</page>
+<referer>http://de.iphone-tv.eu/channels/de</referer>
 </regex>
-</item>
 </link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/vv/viva_de.png</thumbnail>
 </item>
 
 <item>
 <title>Tele 5</title>
-<link>http://31.204.128.190/live/tele5/playlist.m3u8?wmsAuthSign=$doregex[url]
+<link>
+$doregex[url]
 <regex>
 <name>url</name>
-<expres>(.*)</expres>
-<page>http://www.yourtv.to/php/getToken.php</page>
-<referer>http://www.yourtv.to/online/live/fernsehen/stream/tele5.html</referer>
+<expres>URL = "([^"]*)</expres>
+<page>http://de.iphone-tv.eu/stream/de/33</page>
+<referer>http://de.iphone-tv.eu/channels/de</referer>
 </regex>
-</item>
 </link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/tt/tele5_de.png</thumbnail>
 </item>
@@ -420,12 +424,13 @@
 
 <item>
 <title>SAT1</title>
-<link>http://213.163.74.10/live/sat1/playlist.m3u8?wmsAuthSign=$doregex[url]
+<link>
+http://stream.fernsehen.to/stream/stream.m3u8?c=sat1_$doregex[enc]
 <regex>
-<name>url</name>
-<expres>(.*)</expres>
-<page>http://www.yourtv.to/php/getToken.php</page>
-<referer>http://www.yourtv.to/online/live/fernsehen/stream/sat1.html</referer>
+<name>enc</name>
+<expres>enc = '([^']*)</expres>
+<page>http://fernsehen.to/</page>
+<referer> </referer>
 </regex>
 </link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/sat1.jpg</thumbnail>

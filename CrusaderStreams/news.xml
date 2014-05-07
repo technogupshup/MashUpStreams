@@ -24,7 +24,7 @@
 
 <item>
 <title>Press TV English</title>
-<link>rtmp://mtv.fms-01.visionip.tv/live playpath=mtv-ptv-live-25f-16x9-SDh?ref=www.presstv.ir&USER=MTV+-+PTV+Stream swfUrl=http://embeddedplayer.visionip.tv/data/swf/1f92659aabbee91b48fdc3022f92d553964/player.swf live=true timeout=15 pageUrl=http://www.presstv.ir/live.html</link>
+<link>rtmp://mtv.fms-01.visionip.tv/live playpath=mtv-ptv-live-25f-16x9-SDh?ref=www.presstv.ir&amp;USER=MTV+-+PTV+Stream swfUrl=http://embeddedplayer.visionip.tv/data/swf/1f92659aabbee91b48fdc3022f92d553964/player.swf live=true timeout=15 pageUrl=http://www.presstv.ir/live.html</link>
 <thumbnail>http://www.thebureauinvestigates.com/wp-content/uploads/2012/01/press_tv.png</thumbnail>
 </item>
 

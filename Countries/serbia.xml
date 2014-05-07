@@ -18,7 +18,15 @@
 
 <item>
 <title>Niška TV</title>
-<link>rtmp://92.60.231.48:1935/live/ playpath=livestream swfUrl=http://www.longtailvideo.com//jwplayer/jwplayer.flash.swf pageUrl=http://mali-ekrani.blogspot.com/2013/12/niska-tv.html</link>
+<link>
+$doregex[url] playpath=livestream swfUrl=http://ntv.rs/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=true timeout=15 pageUrl=http://ntv.rs/
+<regex>
+<name>url</name>
+<expres>"streamer":"([^"]*)</expres>
+<page>http://ntv.rs/live/</page>
+<referer> </referer>
+</regex>
+</link>
 <thumbnail>http://www.oriontelekom.rs/upload/images/logotipi/niska-tv.png</thumbnail>
 </item>
 
@@ -54,7 +62,7 @@
 
 <item>
 <title>Grand TV HD</title>
-<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=Upq6UclrRhI</link>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=V9EMZjSfvo8</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/gg/grand_tv_rs.png</thumbnail>
 </item>
 

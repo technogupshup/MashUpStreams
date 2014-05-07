@@ -67,20 +67,14 @@
 </item>
 
 <item>
-<title>Arena Sport 1 (Link 2)</title>
-<link>http://iphone-streaming.ustream.tv/ustreamVideo/13872359/streams/live/playlist.m3u8</link>
-<thumbnail>http://static.politika.co.rs/uploads/rubrike/240071/i/1/TV-Arena-Sport.jpg</thumbnail>
-</item>
-
-<item>
 <title>Sport Klub</title>
-<link>rtmp://89.248.168.219/live playpath=tash02?id=1939 conn=S:OK swfUrl=http://www.streamify.tv/resources/scripts/eplayer.swf live=true timeout=15 pageUrl=http://www.streamify.tv/embedplayer/tash02/1/610/470</link>
+<link>http://176.61.160.11:8180</link>
 <thumbnail>http://www.hteronet.ba/upload/novosti/sport_klub_13265.jpg</thumbnail>
 </item>
 
 <item>
 <title>Arena Sport 4</title>
-<link>rtmp://199.195.195.28/zenex playpath=tash1?id=3461 conn=S:OK swfUrl=http://www.zenex.tv/data/scripts/eplayer.swf live=true timeout=15 pageUrl=http://www.zenex.tv/embedplayer/tash1/1/610/470</link>
+<link>http://176.61.160.11:8183</link>
 <thumbnail>http://www.miskobobic.com/wp-content/uploads/2010/09/arena-sport-4.jpg</thumbnail>
 </item>
 

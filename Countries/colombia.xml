@@ -94,20 +94,13 @@
 
 <item>
 <title>RCN</title>
-<link>rtmp://go.fasts.tv/ app=fasts playpath=r13042014 token=$doregex[token] swfUrl=http://www.fasts.tv/player/player_embed_fasts.swf live=true timeout=15 pageUrl=http://www.fasts.tv/
-<regex>
-<name>token</name>
-<expres>"token":"([^"]*)</expres>
-<page>http://www.fasts.tv/file.php</page>
-<referer>http://www.fasts.tv</referer>
-</regex>
-</link>
+<link>rtmp://5.79.72.3/ app=vl/_definst_ playpath=r09052014 swfUrl=http://www.veemi.com/player/player-licensed.swf live=true timeout=15 pageUrl=http://www.veemi.com/embed.php?v=r09052014&vw=&vh=&domain=google.com</link>
 <thumbnail>http://www.mediamoves.com/wp-content/uploads/2012/07/rcn.jpg</thumbnail>
 </item>
 
 <item>
 <title>NTN 24</title>
-<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=WtUgKLQFu60</link>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=Bd43YNgZsY4</link>
 <thumbnail>http://www.ntn24.com/sites/all/themes/ntn24/images/logontn24.png</thumbnail>
 </item>
 

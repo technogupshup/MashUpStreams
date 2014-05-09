@@ -7,7 +7,7 @@
 
 
 <info>
-<message>[COLOR=FFFF0000]Announcement(s): Updated Alriayadia Sport, 2 New Bein Sport Source Added 6,7 [/COLOR]</message>
+<message>[COLOR=FFFF0000]Announcement(s): Updated Alriayadia Sport, 2 New Bein Sport Source Added 6,7, Fixed Source 1 [/COLOR]</message>
 <thumbnail>http://upload.wikimedia.org/wikipedia/commons/3/32/The_flag_of_Syrian_Arab_Republic_Damascus%2C_Syria.jpg</thumbnail>
 </info>
 
@@ -78,7 +78,7 @@ $doregex[url] playpath=$doregex[file] swfUrl=$doregex[swf] pageUrl=http://www.hd
 </regex>
 <regex>
 <name>swf</name>
-<expres>'skin': ...'(.*)'</expres>
+<expres>'skin':....'([^']*)</expres>
 <page>http://www.hdcast.org/embedlive2.php?u=BST9&amp;vw=640&amp;vh=460&amp;domain=hdfoots.com</page>
 <referer>http://hdfoots.com/watch/beinsports-9-live-stream.php</referer>
 </regex>
@@ -130,7 +130,7 @@ $doregex[url] playpath=$doregex[file] swfUrl=$doregex[swf] pageUrl=http://www.hd
 </regex>
 <regex>
 <name>swf</name>
-<expres>'skin': ...'(.*)'</expres>
+<expres>'skin':....'([^']*)</expres>
 <page>http://www.hdcast.org/embedlive2.php?u=BST10&amp;vw=640&amp;vh=460&amp;domain=hdfoots.com</page>
 <referer>http://hdfoots.com/watch/beinsports-10-live-stream.php</referer>
 </regex>
@@ -182,7 +182,7 @@ $doregex[url] playpath=$doregex[file] swfUrl=$doregex[swf] pageUrl=http://www.hd
 </regex>
 <regex>
 <name>swf</name>
-<expres>'skin': ...'(.*)'</expres>
+<expres>'skin':....'([^']*)</expres>
 <page>http://www.hdcast.org/embedlive2.php?u=BST13&amp;vw=640&amp;vh=460&amp;domain=hdfoots.com</page>
 <referer>http://hdfoots.com/watch/beinsports-13-live-stream.php</referer>
 </regex>
@@ -228,7 +228,7 @@ $doregex[url] playpath=$doregex[file] swfUrl=$doregex[swf] pageUrl=http://www.hd
 </regex>
 <regex>
 <name>swf</name>
-<expres>'skin': ...'(.*)'</expres>
+<expres>'skin':....'([^']*)</expres>
 <page>http://www.hdcast.org/embedlive2.php?u=BST14&amp;vw=640&amp;vh=460&amp;domain=hdfoots.com</page>
 <referer>http://hdfoots.com/watch/beinsports-14-live-stream.php</referer>
 </regex>
@@ -274,7 +274,7 @@ $doregex[url] playpath=$doregex[file] swfUrl=$doregex[swf] pageUrl=http://www.hd
 </regex>
 <regex>
 <name>swf</name>
-<expres>'skin': ...'(.*)'</expres>
+<expres>'skin':....'([^']*)</expres>
 <page>http://www.hdcast.org/embedlive2.php?u=BST15&amp;vw=640&amp;vh=460&amp;domain=hdfoots.com</page>
 <referer>http://hdfoots.com/watch/beinsports-15-live-stream.php</referer>
 </regex>
@@ -320,7 +320,7 @@ $doregex[url] playpath=$doregex[file] swfUrl=$doregex[swf] pageUrl=http://www.hd
 </regex>
 <regex>
 <name>swf</name>
-<expres>'skin': ...'(.*)'</expres>
+<expres>'skin':....'([^']*)</expres>
 <page>http://www.hdcast.org/embedlive2.php?u=BST11&amp;vw=640&amp;vh=460&amp;domain=hdfoots.com</page>
 <referer>http://hdfoots.com/watch/beinsports-11-live-stream.php</referer>
 </regex>
@@ -400,7 +400,7 @@ $doregex[url] playpath=$doregex[file] swfUrl=$doregex[swf] pageUrl=http://www.hd
 </regex>
 <regex>
 <name>swf</name>
-<expres>'skin': ...'(.*)'</expres>
+<expres>'skin':....'([^']*)</expres>
 <page>http://www.hdcast.org/embedlive2.php?u=BST7&amp;vw=640&amp;vh=460&amp;domain=hdfoots.com</page>
 <referer>http://hdfoots.com/watch/beinsports-7-live-stream.php</referer>
 </regex>
@@ -464,7 +464,7 @@ $doregex[url] playpath=$doregex[file] swfUrl=$doregex[swf] pageUrl=http://www.hd
 </regex>
 <regex>
 <name>swf</name>
-<expres>'skin': ...'(.*)'</expres>
+<expres>'skin':....'([^']*)</expres>
 <page>http://www.hdcast.org/embedlive2.php?u=BST5&amp;vw=640&amp;vh=460&amp;domain=hdfoots.com</page>
 <referer>http://hdfoots.com/watch/beinsports-5-live-stream.php</referer>
 </regex>
@@ -536,7 +536,7 @@ $doregex[url] playpath=$doregex[file] swfUrl=$doregex[swf] pageUrl=http://www.hd
 </regex>
 <regex>
 <name>swf</name>
-<expres>'skin': ...'(.*)'</expres>
+<expres>'skin':....'([^']*)</expres>
 <page>http://www.hdcast.org/embedlive2.php?u=BST6&amp;vw=640&amp;vh=460&amp;domain=hdfoots.com</page>
 <referer>http://hdfoots.com/watch/beinsports-6-live-stream.php</referer>
 </regex>
@@ -600,7 +600,7 @@ $doregex[url] playpath=$doregex[file] swfUrl=$doregex[swf] pageUrl=http://www.hd
 </regex>
 <regex>
 <name>swf</name>
-<expres>'skin': ...'(.*)'</expres>
+<expres>'skin':....'([^']*)</expres>
 <page>http://www.hdcast.org/embedlive3.php?u=BST3&amp;vw=640&amp;vh=460&amp;domain=hdfoots.com</page>
 <referer>http://hdfoots.com/watch/beinsports-3-live-stream.php</referer>
 </regex>
@@ -686,7 +686,7 @@ $doregex[url] playpath=$doregex[file] swfUrl=$doregex[swf] pageUrl=http://www.hd
 </regex>
 <regex>
 <name>swf</name>
-<expres>'skin': ...'(.*)'</expres>
+<expres>'skin':....'([^']*)</expres>
 <page>http://www.hdcast.org/embedlive2.php?u=BST2&amp;vw=640&amp;vh=460&amp;domain=hdfoots.com</page>
 <referer>http://hdfoots.com/watch/beinsports-2-live-stream.php</referer>
 </regex>
@@ -778,7 +778,7 @@ $doregex[url] playpath=$doregex[file] swfUrl=$doregex[swf] pageUrl=http://www.hd
 </regex>
 <regex>
 <name>swf</name>
-<expres>'skin': ...'(.*)'</expres>
+<expres>'skin':....'([^']*)</expres>
 <page>http://www.hdcast.org/embedlive2.php?u=BST4&amp;vw=640&amp;vh=460&amp;domain=hdfoots.com</page>
 <referer>http://hdfoots.com/watch/beinsports-4-live-stream.php</referer>
 </regex>
@@ -864,7 +864,7 @@ $doregex[url] playpath=$doregex[file] swfUrl=$doregex[swf] pageUrl=http://www.hd
 </regex>
 <regex>
 <name>swf</name>
-<expres>'skin': ...'(.*)'</expres>
+<expres>'skin':....'([^']*)</expres>
 <page>http://www.hdcast.org/embedlive2.php?u=BST8&amp;vw=640&amp;vh=460&amp;domain=hdfoots.com</page>
 <referer>http://hdfoots.com/watch/beinsports-8-live-stream.php</referer>
 </regex>
@@ -942,7 +942,7 @@ $doregex[url] playpath=$doregex[file] swfUrl=$doregex[swf] pageUrl=http://www.hd
 </regex>
 <regex>
 <name>swf</name>
-<expres>'skin': ...'(.*)'</expres>
+<expres>'skin':....'([^']*)</expres>
 <page>http://www.hdcast.org/embedlive2.php?u=BST12&amp;vw=640&amp;vh=460&amp;domain=hdfoots.com</page>
 <referer>http://hdfoots.com/watch/beinsports-12-live-stream.php</referer>
 </regex>
@@ -984,19 +984,19 @@ $doregex[url] playpath=$doregex[file] swfUrl=$doregex[swf] pageUrl=http://www.hd
 <name>url</name>
 <expres>'streamer':           '(.*)'</expres>
 <page>http://www.hdcast.org/embedlive2.php?u=BST1&amp;vw=640&amp;vh=460&amp;domain=hdfoots.com</page>
-<referer>http://hdfoots.com/watch/beinsports-1-live-stream.php</referer>
+<referer>http://hdfoots.com/</referer>
 </regex>
 <regex>
 <name>file</name>
 <expres>'file':               '(.*)'</expres>
 <page>http://www.hdcast.org/embedlive2.php?u=BST1&amp;vw=640&amp;vh=460&amp;domain=hdfoots.com</page>
-<referer>http://hdfoots.com/watch/beinsports-1-live-stream.php</referer>
+<referer>http://hdfoots.com/</referer>
 </regex>
 <regex>
 <name>swf</name>
-<expres>'skin': ...'(.*)'</expres>
+<expres>'skin':....'([^']*)</expres>
 <page>http://www.hdcast.org/embedlive2.php?u=BST1&amp;vw=640&amp;vh=460&amp;domain=hdfoots.com</page>
-<referer>http://hdfoots.com/watch/beinsports-1-live-stream.php</referer>
+<referer>http://hdfoots.com/</referer>
 </regex>
 </link>
 <thumbnail>http://i.imgur.com/r3A1LIO.jpg</thumbnail>

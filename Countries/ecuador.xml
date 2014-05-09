@@ -5,6 +5,24 @@
 <thumbnail></thumbnail>
 
 <item>
+<title>TC</title>
+<link>rtmp://174.127.72.140:1935/live/ playpath=10001_180p swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf live=true timeout=15 pageUrl=http://www.ecuazonatv.com/envivo/tvdeecuador/tc1.html</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/tt/tc_ec.png</thumbnail>
+</item>
+
+<item>
+<title>Univision Deportes</title>
+<link>rtmp://46.165.210.32/live playpath=gfdmikoklfasuj9?id=201682 conn=S:OK swfUrl=http://www.mips.tv/content/scripts/eplayer.swf live=true timeout=15 pageUrl=http://www.mips.tv/embedplayer/gfdmikoklfasuj9/1/600/440</link>
+<thumbnail>http://corporate.univision.com/wp-content/uploads/2012/01/UnivisionDeportes_Hero_780x439.jpg</thumbnail>
+</item>
+
+<item>
+<title>Caravana TV</title>
+<link>rtmp://www.audiohostingecuador.com:1935/ app=caravanaTV playpath=caravanaTV swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf live=true timeout=15 pageUrl=http://www.caravanatv.com/caravanatv.php</link>
+<thumbnail>http://www.caravanatv.com/images/cab_caravanatv.jpg</thumbnail>
+</item>
+
+<item>
 <title>Ecuavisa</title>
 <link>rtmp://173.193.233.148/live playpath=$doregex[file] swfUrl=http://static.castalba.tv/player5.9.swf pageUrl=http://castalba.tv/ live=true timeout=15
 <regex>

@@ -112,18 +112,6 @@
 </item>
 
 <item>
-<title>Star Plus [COLOR=FFFF0000]Working[/COLOR]</title> 
-<link>$doregex[file] swfUrl=http://www.castok.com/jwplayer/jwplayer.flash.swf live=true timeout=15 pageUrl=http://www.castok.com/</link>
-<thumbnail>http://static2.wikia.nocookie.net/__cb20100619101411/logopedia/images/f/fc/StarPlus_2010.png</thumbnail>
-<regex>
-<name>file</name>
-<expres>file: "([^"]*)</expres>
-<page>http://www.castok.com/embed.php?v=istar&amp;vw=600&amp;vh=450&amp;typeplayer=0&amp;domain=pogotv.eu</page>
-<referer>http://pogotv.eu/star-plusindia.php</referer>
-</regex>
-</item>
-
-<item>
 <title>Times Now</title>
 <link>http://ongoingevents-f.akamaihd.net/timesnow_1_1@174555?v=2.4.5&amp;fp=WIN%2012,0,0,44&amp;r=TNPIF&amp;g=OQTRLZTMCBKP</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/tt/times_now.png</thumbnail>

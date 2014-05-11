@@ -10,5 +10,65 @@
 <thumbnail>http://www.multitvworld.com/newworld/_images/adomtv_logo.png</thumbnail>
 </item>
 
+<item>
+<title>TV3</title>
+<link>rtmp://wms.myliveafricatv.com:1935/ app=rtmp_mlalive/182 playpath=mainstream swfUrl=http://www.myliveafricatv.com/public/flash/player/wms/viewerModules/player/PlayerModule.swf?version=2.11.9 live=true timeout=15 pageUrl=http://www.myliveafricatv.com/show/tv3</link>
+<thumbnail>http://www.myliveafricatv.com/public/files/shows/10/10001/182-540x304-000000.jpg</thumbnail>
+</item>
+
+<item>
+<title>Dominion1 TV</title>
+<link>rtmp://wms.myliveafricatv.com:1935/ app=rtmp_mlalive/321 playpath=mainstream swfUrl=http://www.myliveafricatv.com/public/flash/player/wms/viewerModules/player/PlayerModule.swf?version=2.11.9 live=true timeout=15 pageUrl=http://www.myliveafricatv.com/show/dominion1-tv</link>
+<thumbnail>http://www.myliveafricatv.com/public/files/shows/10/10001/321-540x304-000000.jpg</thumbnail>
+</item>
+
+<item>
+<title>Channel 5 TV</title>
+<link>rtmp://wms.myliveafricatv.com:1935/ app=rtmp_mlalive/320 playpath=mainstream swfUrl=http://www.myliveafricatv.com/public/flash/player/wms/viewerModules/player/PlayerModule.swf?version=2.11.9 live=true timeout=15 pageUrl=http://www.myliveafricatv.com/show/channel-5tv</link>
+<thumbnail>http://www.myliveafricatv.com/public/files/shows/10/10001/320-540x304-000000.jpg</thumbnail>
+</item>
+
+<item>
+<title>MULTI TV</title>
+<link>rtmp://wms.myliveafricatv.com:1935/ app=rtmp_mlalive/186 playpath=mainstream swfUrl=http://www.myliveafricatv.com/public/flash/player/wms/viewerModules/player/PlayerModule.swf?version=2.11.9 live=true timeout=15 pageUrl=http://www.myliveafricatv.com/show/multitv</link>
+<thumbnail>http://www.myliveafricatv.com/public/files/shows/10/10001/186-540x304-000000.jpg</thumbnail>
+</item>
+
+<item>
+<title>Amansan TV New York</title>
+<link>rtmp://wms.myliveafricatv.com:1935/ app=rtmp_mlalive/307 playpath=mainstream swfUrl=http://www.myliveafricatv.com/public/flash/player/wms/viewerModules/player/PlayerModule.swf?version=2.11.9 pageUrl=http://www.myliveafricatv.com/show/amansantvnewyork</link>
+<thumbnail>http://www.myliveafricatv.com/public/files/shows/10/10001/307-540x304-000000.jpg</thumbnail>
+</item>
+
+<item>
+<title>GTV</title>
+<link>rtmp://wms.myliveafricatv.com:1935/ app=rtmp_mlalive/184 playpath=mainstream swfUrl=http://www.myliveafricatv.com/public/flash/player/wms/viewerModules/player/PlayerModule.swf?version=2.11.9 live=true timeout=15 pageUrl=http://www.myliveafricatv.com/show/gtv</link>
+<thumbnail>http://www.myliveafricatv.com/public/files/shows/10/10001/184-540x304-000000.jpg</thumbnail>
+</item>
+
+<item>
+<title>TV Africa</title>
+<link>rtmp://wms.myliveafricatv.com:1935/ app=rtmp_mlalive/222 playpath=mainstream swfUrl=http://www.myliveafricatv.com/public/flash/player/wms/viewerModules/player/PlayerModule.swf?version=2.11.9 live=true timeout=15 pageUrl=http://www.myliveafricatv.com/show/tvafrica</link>
+<thumbnail>http://www.myliveafricatv.com/public/files/shows/10/10001/222-540x304-000000.jpg</thumbnail>
+</item>
+
+<item>
+<title>Cine Afrik</title>
+<link>rtmp://wms.myliveafricatv.com:1935/ app=rtmp_mlalive/317 playpath=mainstream swfUrl=http://www.myliveafricatv.com/public/flash/player/wms/viewerModules/player/PlayerModule.swf?version=2.11.9 live=true timeout=15  pageUrl=http://www.myliveafricatv.com/show/cine-afrik</link>
+<thumbnail>http://www.myliveafricatv.com/public/files/shows/10/10001/317-540x304-000000.jpg</thumbnail>
+</item>
+
+<item>
+<title>Joy News</title>
+<link>rtmp://wms.myliveafricatv.com:1935/ app=rtmp_mlalive/185 playpath=mainstream swfUrl=http://www.myliveafricatv.com/public/flash/player/wms/viewerModules/player/PlayerModule.swf?version=2.11.9 live=true timeout=15 pageUrl=http://www.myliveafricatv.com/show/joynews</link>
+<thumbnail>http://www.myliveafricatv.com/public/files/shows/10/10001/185-540x304-000000.jpg</thumbnail>
+</item>
+
+<item>
+<title>Sunlight Radio America</title>
+<link>rtmp://wms.myliveafricatv.com:1935/ app=rtmp_mlalive/311 playpath=mainstream swfUrl=http://www.myliveafricatv.com/public/flash/player/wms/viewerModules/player/PlayerModule.swf?version=2.11.9 live=true timeout=15 pageUrl=http://www.myliveafricatv.com/show/sunlightradioamerica</link>
+<thumbnail>http://www.myliveafricatv.com/public/files/shows/10/10001/311-540x304-000000.jpg</thumbnail>
+</item>
+
 
 </channel>

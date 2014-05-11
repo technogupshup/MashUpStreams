@@ -53,14 +53,8 @@
 </item>
 
 <item>
-<title>Telemundo</title>
-<link>$doregex[streamer] playpath=$doregex[file] swfUrl=http://static.castalba.tv/player5.9.swf pageUrl=http://castalba.tv/channel/20639 live=true timeout=15
-<regex>
-<name>streamer</name>
-<expres>'streamer': '([^']*)</expres>
-<page>http://castalba.tv/channel/20639</page>
-<referer> </referer>
-</regex>
+<title>Telemundo HD</title>
+<link>rtmp://173.193.216.86/live playpath=$doregex[file] swfUrl=http://static.castalba.tv/player5.9.swf pageUrl=http://castalba.tv/channel/20639 live=true timeout=15
 <regex>
 <name>file</name>
 <expres>'file': '([^']*)</expres>

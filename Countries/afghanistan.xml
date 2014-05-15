@@ -48,7 +48,7 @@
 
 <item>
 <title>Gem Dari [COLOR=FFFF0000]Working[/COLOR]</title>
-<link>http://38.117.88.77/gemtv?TICKET/path/to/media.file</link>
+<link>rtmp://iriptv.com/iriptvserver3 playpath=29.stream swfUrl=http://iriptv.com/player/player.swf pageUrl=http://iriptv.com/web/index.php</link>
 <thumbnail>http://www.gemdari.tv/images/logo_gemtv.png</thumbnail>
 </item>
 

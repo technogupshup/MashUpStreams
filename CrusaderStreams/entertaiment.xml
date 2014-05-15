@@ -144,12 +144,6 @@
 </item>
 	
 <item>
-<title>MBC 2 (Link 3)</title>
-<link>rtmp://tdsiptv.ddns.me/live playpath=ch31?code=32da3981363ad9fd86b833046354f287  swfUrl=http://www.livetv.tn/flowplayer-3.2.7.swf pageUrl=http://www.livetv.tn live=true timeout=15</link>
-<thumbnail>http://www.lyngsat-logo.com/hires/mm/mbc2_ae.png</thumbnail>
-</item>
-	
-<item>
 <title>MBC 3 (Link 3)</title>
 <link>rtmp://tdsiptv.ddns.me/live playpath=ch32?code=32da3981363ad9fd86b833046354f287  swfUrl=http://www.livetv.tn/flowplayer-3.2.7.swf pageUrl=http://www.livetv.tn live=true timeout=15</link>
 <thumbnail>http://www.watchtv.co/wp-content/themes/broadcast/thumb.php?src=http://www.watchtv.co/wp-content/uploads/2012/07/mbc3-channel-streaming1.jpg&w=581&h=252&zc=1&q=100</thumbnail>
@@ -564,14 +558,7 @@
 
 <item>
 <title>MBC 2 (Link 2)</title>
-<link>rtmp://192.95.32.7:1935/live/ playpath=$doregex[file] swfUrl=http://yoolive.com/player/player.swf pageUrl=http://yoolive.com/
-<regex>
-<name>file</name>
-<expres>'file': '([^']*)</expres>
-<page>http://yoolive.com/mbc_2.php</page>
-<referer>http://yoolive.com/</referer>
-</regex>
-</link>
+<link>rtmp://212.179.77.42/live playpath=livestream2?key=achams-com.flv_avc.mp4 swfUrl=http://achams.com/swf/playerdw.swf live=true timeout=15 pageUrl=http://achams.com/tv/mbc2.php</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/mm/mbc2_ae.png</thumbnail>
 </item>
 

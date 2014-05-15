@@ -6,7 +6,7 @@
 ##############################################################################################################################
 
 <info>
-<message>[COLOR=FFFF0000]Announcement(s): Updated Alan[/COLOR]</message>
+<message>[COLOR=FFFF0000]Announcement(s): Updated Qatar TV, Alan[/COLOR]</message>
 <thumbnail>http://upload.wikimedia.org/wikipedia/commons/3/32/The_flag_of_Syrian_Arab_Republic_Damascus%2C_Syria.jpg</thumbnail>
 </info>
 
@@ -18,7 +18,7 @@
 
 <item>
 <title>Alan</title>
-<link>rtmp://tdsiptv.ddns.me/live playpath=ch94?code=32da3981363ad9fd86b833046354f287  swfUrl=http://www.livetv.tn/flowplayer-3.2.7.swf pageUrl=http://www.livetv.tn live=true timeout=15</link>
+<link>http://alaan_hls-lh.akamaihd.net/i/alaan_ar@103399/master.m3u8</link>
 <thumbnail>http://www.livetv.tn/images/icons/94.gif</thumbnail>
 </item>	
 
@@ -108,7 +108,7 @@
 
 <item>
 <title>Qatar TV</title>
-<link>http://78.100.44.238/live-qtv/qtv/playlist.m3u8</link>
+<link>http://qtv-i.akamaihd.net/hls/live/213233/QTV/s_16s20.m3u8</link>
 <thumbnail>http://upload.wikimedia.org/wikipedia/commons/0/01/Qatar_TV_Logo.png</thumbnail>
 </item>
 

@@ -17,12 +17,6 @@
 </item>
 
 <item>
-<title>Tolo [COLOR=FFFF0000]Link 2[/COLOR]</title>
-<link>rtmp://208.43.81.145/zenex playpath=6tol5tv1?id=2030 conn=S:OK swfUrl=http://www.zenex.tv/data/scripts/eplayer.swf live=true timeout=60 pageUrl=http://www.zenex.tv/embedplayer/6tol5tv1/1/670/410</link>
-<thumbnail>http://upload.wikimedia.org/wikipedia/en/0/01/Tolo.jpg</thumbnail>
-</item>
-
-<item>
 <title>Tolo</title>
 <link>http://38.117.88.77/Tolo?TICKET/path/to/media.file</link>
 <thumbnail>http://upload.wikimedia.org/wikipedia/en/0/01/Tolo.jpg</thumbnail>
@@ -53,7 +47,7 @@
 </item>
 
 <item>
-<title>Gem Dari</title>
+<title>Gem Dari [COLOR=FFFF0000]Working[/COLOR]</title>
 <link>http://38.117.88.77/GemDari1?TICKET/path/to/media.file</link>
 <thumbnail>http://www.gemdari.tv/images/logo_gemtv.png</thumbnail>
 </item>

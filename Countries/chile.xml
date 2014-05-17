@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<channel>
+<name>Chile TV Channels</name>
+<thumbnail></thumbnail>
+
+<item>
+<title>San-Antonio2</title>
+<link>rtmp://video.crearchile.com/live playpath=mp4:canal2.mp4 swfUrl=http://crearchile.tv/reproductores/player.swf pageUrl=http://alltvonline.page.tl/Canal-2-San-Antonio.htm live=true timeout=15</link>
+<thumbnail>https://yt3.ggpht.com/-ex8Yc5ojDBg/AAAAAAAAAAI/AAAAAAAAAAA/f7rxieuOn7U/s900-c-k-no/photo.jpg</thumbnail>
+</item>
+
+<item>
+<title>CNN CHILE</title>
+<link>rtmp://200.83.3.28:80/CNN-CHILE/CNN-CHILE playpath=CNN-CHILE swfUrl=http://vtr.com/cnnf/flowplayer.rtmp-3.1.3.swf pageUrl=http://www.chilenext.com/2013/12/cnn-chile.html live=true timeout=15</link>
+<thumbnail>http://www.patagonianinternationalmarathon.com/assets/cnn-Chile.png</thumbnail>
+</item>
+
+<item>
+<title>La Red</title>
+<link>rtmp://wow1.dallas.digitalproserver.com/ app=redtv/redtvvivo playpath=mp4:livestream3 swfUrl=http://dps.vod.lax-latam.digitalproserver.com/jwplayer.flash.swf?v=69 live=true timeout=15 pageUrl=http://media.digitalproserver.com/v2/live/redtv/</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ll/la_red.png</thumbnail>
+</item>
+
+<item>
+<title>Canal 13</title>
+<link>rtmp://edge5.video.vaughnsoft.net:443/ app=live?30dabc4871922a1314192e925ab7961d playpath=live_chilenext token=30dabc4871922a1314192e925ab7961dtsg3 live=true timeout=15 swfUrl=http://vaughnlive.tv/800021294/swf/VaughnSoftPlayer.swf live=true timeout=15 pageUrl=http://vaughnlive.tv/embed/video/chilenext?viewers=true&watermark=left&autoplay=true</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/cc/canal13_cl.png</thumbnail>
+</item>
+
+</channel>

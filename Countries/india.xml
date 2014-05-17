@@ -11,6 +11,20 @@
 </item>
 
 <item>
+<title>Star Gold (Link 2)</title>
+<link>
+$doregex[url] pageUrl=http://www.zingo.tv/
+<regex>
+<name>url</name>
+<expres>file: "([^"]*)</expres>
+<page>http://zingo.tv/watch.php?id=3726&amp;width=600&amp;height=450</page>
+<referer>http://desistreams.tv/embed/star_gold.php</referer>
+</regex>
+</link>
+<thumbnail>http://images.wikia.com/logopedia/images/f/f0/Star_Gold_2011.png</thumbnail>
+</item>
+
+<item>
 <title>Star Maza</title>
 <link>http://mediacontent-lh.akamaihd.net/i/marathiabpnew_1@188093/master.m3u8</link>
 <thumbnail>https://lh3.ggpht.com/Hvq_hfNl2ufS8Kr_H3vTzGso2Ug1F-0t_GTr9wAfSwNrac6M5XLHL107MtV_w5XfT9o=w300</thumbnail>
@@ -23,8 +37,21 @@
 </item>
 
 <item>
+<title>Colors</title>
+<link>rtmpe://watch.playfooty.tv/live playpath=colors99 swfUrl=http://www.playfooty.tv/play/player/player.swf live=true timeout=15 pageUrl=http://www.playfooty.tv/</link>
+<thumbnail>http://img2.wikia.nocookie.net/__cb20111013225802/logopedia/images/3/33/Colors_TV.png</thumbnail>
+</item>
+
+<item>
+<title>9XM</title>
+<link>http://46.249.213.87/iPhone/broadcast/9xm-tablet.3gp/9xm-tablet.3gp-mr655k.m3u8?trackingid=3511520000&amp;os=desktop</link>
+<thumbnail>http://www.tv14.net/wp-content/uploads/2010/10/9X-Music.jpg</thumbnail>
+</item>
+
+<item>
 <title>Saam Tv Marathi</title>
-<link>rtmp://live.wmncdn.net/saamtv/ playpath=$doregex[video] swfUrl=http://player-emea-uk.webmobilive.com/player/liveplayer.swf live=true timeout=15 pageUrl=http://newsaamtv.mplt20.com/new13/
+<link>
+rtmp://live.wmncdn.net/saamtv/ playpath=$doregex[video] swfUrl=http://player-emea-uk.webmobilive.com/player/liveplayer.swf live=true timeout=15 pageUrl=http://newsaamtv.mplt20.com/new13/
 <regex>
 <name>video</name>
 <expres>video=([^&]*)</expres>

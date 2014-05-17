@@ -6,7 +6,7 @@
 ##############################################################################################################################
 
 <info>
-<message>[COLOR=FFFF0000]Announcement(s): Fixed Other Channels[/COLOR]</message>
+<message>[COLOR=FFFF0000]Announcement(s): Fixed Spacetoon[/COLOR]</message>
 <thumbnail>http://upload.wikimedia.org/wikipedia/commons/3/32/The_flag_of_Syrian_Arab_Republic_Damascus%2C_Syria.jpg</thumbnail>
 </info>
 
@@ -30,7 +30,7 @@
 
 <item>
 <title>Spacetoon</title>
-<link>rtmp://tdsiptv.ddns.me/live playpath=ch49?code=32da3981363ad9fd86b833046354f287  swfUrl=http://www.livetv.tn/flowplayer-3.2.7.swf pageUrl=http://www.livetv.tn live=true timeout=15</link>
+<link>rtmp://85.91.143.21/35985/ playpath=35985.stream swfUrl=http://www.watchfomny.net/jwplayer/jwplayer.flash.swf live=true timeout=15 pageUrl=http://www.watchfomny.net/Video/Arabic/03/spaces-toon/pop.php</link>
 <thumbnail>http://www.livetv.tn/images/icons/49.gif</thumbnail>
 </item>
 

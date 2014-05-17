@@ -7,7 +7,7 @@
 
 
 <info>
-<message>[COLOR=FFFF0000]Announcement(s): Updated Alriayadia Sport & Bein Sport Source 6 [/COLOR]</message>
+<message>[COLOR=FFFF0000]Announcement(s): Updated Alriayadia Sport & Bein Sport Source 6 Again[/COLOR]</message>
 <thumbnail>http://upload.wikimedia.org/wikipedia/commons/3/32/The_flag_of_Syrian_Arab_Republic_Damascus%2C_Syria.jpg</thumbnail>
 </info>
 
@@ -18,7 +18,7 @@
 
 <item>
 <title>Alriayadia Sport</title>
-<link>rtmp://tdsiptv.ddns.me/live playpath=ch276?code=32da3981363ad9fd86b833046354f287  swfUrl=http://www.livetv.tn/flowplayer-3.2.7.swf pageUrl=http://www.livetv.tn live=true timeout=15</link>
+<link>rtmp://tdsiptv.ddns.me/live playpath=ch276?code=83fb96c95242dfdf2aada1b9419e7176  swfUrl=http://www.livetv.tn/flowplayer-3.2.7.swf pageUrl=http://www.livetv.tn live=true timeout=15</link>
 <thumbnail>http://www.livetv.tn/images/icons/276.gif</thumbnail>
 </item>
 
@@ -88,7 +88,7 @@ $doregex[url] playpath=$doregex[file] swfUrl=$doregex[swf] pageUrl=http://www.hd
 
 <item>
 <title>Bein Sport 9 (Link 2) [COLOR=FFFF0000]Updated Daily[/COLOR]  [COLOR=FF00FF00]Source 6[/COLOR]</title>
-<link>rtmp://tdsiptv.ddns.me/live playpath=ch503?code=32da3981363ad9fd86b833046354f287   swfUrl=http://www.livetv.tn/flowplayer-3.2.7.swf pageUrl=http://www.livetv.tn/  flashVer=WIN12.0.0.77 timeout=10 swfVfy=1 live=true</link>
+<link>rtmp://tdsiptv.ddns.me/live playpath=ch503?code=83fb96c95242dfdf2aada1b9419e7176   swfUrl=http://www.livetv.tn/flowplayer-3.2.7.swf pageUrl=http://www.livetv.tn/  flashVer=WIN12.0.0.77 timeout=10 swfVfy=1 live=true</link>
 <thumbnail>http://3.bp.blogspot.com/-Twj2mpy5vHI/UveU5FVTJxI/AAAAAAAAAYo/TmPhKdLHCTA/s1600/mzl.vrgftcau.png</thumbnail>
 </item>
 
@@ -140,7 +140,7 @@ $doregex[url] playpath=$doregex[file] swfUrl=$doregex[swf] pageUrl=http://www.hd
 
 <item>
 <title>Bein Sport 10 (Link 2) [COLOR=FFFF0000]Updated Daily[/COLOR]  [COLOR=FF00FF00]Source 6[/COLOR]</title>
-<link>rtmp://tdsiptv.ddns.me/live playpath=ch504?code=32da3981363ad9fd86b833046354f287   swfUrl=http://www.livetv.tn/flowplayer-3.2.7.swf pageUrl=http://www.livetv.tn/  flashVer=WIN12.0.0.77 timeout=10 swfVfy=1 live=true</link>
+<link>rtmp://tdsiptv.ddns.me/live playpath=ch504?code=83fb96c95242dfdf2aada1b9419e7176   swfUrl=http://www.livetv.tn/flowplayer-3.2.7.swf pageUrl=http://www.livetv.tn/  flashVer=WIN12.0.0.77 timeout=10 swfVfy=1 live=true</link>
 <thumbnail>http://3.bp.blogspot.com/-Twj2mpy5vHI/UveU5FVTJxI/AAAAAAAAAYo/TmPhKdLHCTA/s1600/mzl.vrgftcau.png</thumbnail>
 </item>
 
@@ -358,7 +358,7 @@ $doregex[url] pageUrl=http://www.zingo.tv/
 
 <item>
 <title>Bein Sport 11 (Link 4) [COLOR=FFFF0000]Updated Daily[/COLOR]  [COLOR=FF00FF00]Source 6[/COLOR]</title>
-<link>rtmp://tdsiptv.ddns.me/live playpath=ch505?code=32da3981363ad9fd86b833046354f287   swfUrl=http://www.livetv.tn/flowplayer-3.2.7.swf pageUrl=http://www.livetv.tn/  flashVer=WIN12.0.0.77 timeout=10 swfVfy=1 live=true</link>
+<link>rtmp://tdsiptv.ddns.me/live playpath=ch505?code=83fb96c95242dfdf2aada1b9419e7176   swfUrl=http://www.livetv.tn/flowplayer-3.2.7.swf pageUrl=http://www.livetv.tn/  flashVer=WIN12.0.0.77 timeout=10 swfVfy=1 live=true</link>
 <thumbnail>http://3.bp.blogspot.com/-Twj2mpy5vHI/UveU5FVTJxI/AAAAAAAAAYo/TmPhKdLHCTA/s1600/mzl.vrgftcau.png</thumbnail>
 </item>
 
@@ -416,13 +416,13 @@ $doregex[url] playpath=$doregex[file] swfUrl=$doregex[swf] pageUrl=http://www.hd
 
 <item>
 <title>Bein Sport 7 (Link 3) [COLOR=FFFF0000]Updated Daily[/COLOR]  [COLOR=FF00FF00]Source 6[/COLOR]</title>
-<link>rtmp://tdsiptv.ddns.me/live playpath=ch18?code=32da3981363ad9fd86b833046354f287   swfUrl=http://www.livetv.tn/flowplayer-3.2.7.swf pageUrl=http://www.livetv.tn/  flashVer=WIN12.0.0.77 timeout=10 swfVfy=1 live=true</link>
+<link>rtmp://tdsiptv.ddns.me/live playpath=ch18?code=83fb96c95242dfdf2aada1b9419e7176   swfUrl=http://www.livetv.tn/flowplayer-3.2.7.swf pageUrl=http://www.livetv.tn/  flashVer=WIN12.0.0.77 timeout=10 swfVfy=1 live=true</link>
 <thumbnail>http://3.bp.blogspot.com/-Twj2mpy5vHI/UveU5FVTJxI/AAAAAAAAAYo/TmPhKdLHCTA/s1600/mzl.vrgftcau.png</thumbnail>
 </item>
 
 <item>
 <title>Bein Sport 7 (Link 4) [COLOR=FFFF0000]Updated Daily[/COLOR]  [COLOR=FF00FF00]Source 6[/COLOR]</title>
-<link>rtmp://tdsiptv.ddns.me/live playpath=ch501?code=32da3981363ad9fd86b833046354f287   swfUrl=http://www.livetv.tn/flowplayer-3.2.7.swf pageUrl=http://www.livetv.tn/  flashVer=WIN12.0.0.77 timeout=10 swfVfy=1 live=true</link>
+<link>rtmp://tdsiptv.ddns.me/live playpath=ch501?code=83fb96c95242dfdf2aada1b9419e7176   swfUrl=http://www.livetv.tn/flowplayer-3.2.7.swf pageUrl=http://www.livetv.tn/  flashVer=WIN12.0.0.77 timeout=10 swfVfy=1 live=true</link>
 <thumbnail>http://3.bp.blogspot.com/-Twj2mpy5vHI/UveU5FVTJxI/AAAAAAAAAYo/TmPhKdLHCTA/s1600/mzl.vrgftcau.png</thumbnail>
 </item>
 
@@ -494,7 +494,7 @@ $doregex[streamer] swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=htt
 
 <item>
 <title>Bein Sport 5 (Link 4) [COLOR=FFFF0000]Updated Daily[/COLOR]  [COLOR=FF00FF00]Source 6[/COLOR]</title>
-<link>rtmp://tdsiptv.ddns.me/live playpath=ch16?code=32da3981363ad9fd86b833046354f287   swfUrl=http://www.livetv.tn/flowplayer-3.2.7.swf pageUrl=http://www.livetv.tn/  flashVer=WIN12.0.0.77 timeout=10 swfVfy=1 live=true</link>
+<link>rtmp://tdsiptv.ddns.me/live playpath=ch16?code=83fb96c95242dfdf2aada1b9419e7176   swfUrl=http://www.livetv.tn/flowplayer-3.2.7.swf pageUrl=http://www.livetv.tn/  flashVer=WIN12.0.0.77 timeout=10 swfVfy=1 live=true</link>
 <thumbnail>http://3.bp.blogspot.com/-Twj2mpy5vHI/UveU5FVTJxI/AAAAAAAAAYo/TmPhKdLHCTA/s1600/mzl.vrgftcau.png</thumbnail>
 </item>
 
@@ -552,13 +552,13 @@ $doregex[url] playpath=$doregex[file] swfUrl=$doregex[swf] pageUrl=http://www.hd
 
 <item>
 <title>Bein Sport 6 (Link 3) [COLOR=FFFF0000]Updated Daily[/COLOR]  [COLOR=FF00FF00]Source 6[/COLOR]</title>
-<link>rtmp://tdsiptv.ddns.me/live playpath=ch17?code=32da3981363ad9fd86b833046354f287   swfUrl=http://www.livetv.tn/flowplayer-3.2.7.swf pageUrl=http://www.livetv.tn/  flashVer=WIN12.0.0.77 timeout=10 swfVfy=1 live=true</link>
+<link>rtmp://tdsiptv.ddns.me/live playpath=ch17?code=83fb96c95242dfdf2aada1b9419e7176   swfUrl=http://www.livetv.tn/flowplayer-3.2.7.swf pageUrl=http://www.livetv.tn/  flashVer=WIN12.0.0.77 timeout=10 swfVfy=1 live=true</link>
 <thumbnail>http://3.bp.blogspot.com/-Twj2mpy5vHI/UveU5FVTJxI/AAAAAAAAAYo/TmPhKdLHCTA/s1600/mzl.vrgftcau.png</thumbnail>
 </item>
 
 <item>
 <title>Bein Sport 6 (Link 4) [COLOR=FFFF0000]Updated Daily[/COLOR]  [COLOR=FF00FF00]Source 6[/COLOR]</title>
-<link>rtmp://tdsiptv.ddns.me/live playpath=ch500?code=32da3981363ad9fd86b833046354f287   swfUrl=http://www.livetv.tn/flowplayer-3.2.7.swf pageUrl=http://www.livetv.tn/  flashVer=WIN12.0.0.77 timeout=10 swfVfy=1 live=true</link>
+<link>rtmp://tdsiptv.ddns.me/live playpath=ch500?code=83fb96c95242dfdf2aada1b9419e7176   swfUrl=http://www.livetv.tn/flowplayer-3.2.7.swf pageUrl=http://www.livetv.tn/  flashVer=WIN12.0.0.77 timeout=10 swfVfy=1 live=true</link>
 <thumbnail>http://3.bp.blogspot.com/-Twj2mpy5vHI/UveU5FVTJxI/AAAAAAAAAYo/TmPhKdLHCTA/s1600/mzl.vrgftcau.png</thumbnail>
 </item>
 
@@ -644,7 +644,7 @@ $doregex[streamer] swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=htt
 
 <item>
 <title>Bein Sport 3 (Link 5) [COLOR=FFFF0000]Updated Daily[/COLOR]  [COLOR=FF00FF00]Source 6[/COLOR]</title>
-<link>rtmp://tdsiptv.ddns.me/live playpath=ch14?code=32da3981363ad9fd86b833046354f287   swfUrl=http://www.livetv.tn/flowplayer-3.2.7.swf pageUrl=http://www.livetv.tn/  flashVer=WIN12.0.0.77 timeout=10 swfVfy=1 live=true</link>
+<link>rtmp://tdsiptv.ddns.me/live playpath=ch14?code=83fb96c95242dfdf2aada1b9419e7176   swfUrl=http://www.livetv.tn/flowplayer-3.2.7.swf pageUrl=http://www.livetv.tn/  flashVer=WIN12.0.0.77 timeout=10 swfVfy=1 live=true</link>
 <thumbnail>http://3.bp.blogspot.com/-Twj2mpy5vHI/UveU5FVTJxI/AAAAAAAAAYo/TmPhKdLHCTA/s1600/mzl.vrgftcau.png</thumbnail>
 </item>
 
@@ -736,7 +736,7 @@ $doregex[streamer] swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=htt
 
 <item>
 <title>Bein Sport 2 (Link 6) [COLOR=FFFF0000]Updated Daily[/COLOR] [COLOR=FF00FF00]Source 6[/COLOR]</title>
-<link>rtmp://tdsiptv.ddns.me/live playpath=ch13?code=32da3981363ad9fd86b833046354f287   swfUrl=http://www.livetv.tn/flowplayer-3.2.7.swf pageUrl=http://www.livetv.tn/  flashVer=WIN12.0.0.77 timeout=10 swfVfy=1 live=true</link>
+<link>rtmp://tdsiptv.ddns.me/live playpath=ch13?code=83fb96c95242dfdf2aada1b9419e7176   swfUrl=http://www.livetv.tn/flowplayer-3.2.7.swf pageUrl=http://www.livetv.tn/  flashVer=WIN12.0.0.77 timeout=10 swfVfy=1 live=true</link>
 <thumbnail>http://3.bp.blogspot.com/-Twj2mpy5vHI/UveU5FVTJxI/AAAAAAAAAYo/TmPhKdLHCTA/s1600/mzl.vrgftcau.png</thumbnail>
 </item>
 
@@ -822,7 +822,7 @@ $doregex[streamer] swfUrl=http://www.eucast.tv/player5.9.swf live=true timeout=1
 
 <item>
 <title>Bein Sport 4 (Link 5) [COLOR=FFFF0000]Updated Daily[/COLOR]  [COLOR=FF00FF00]Source 6[/COLOR]</title>
-<link>rtmp://tdsiptv.ddns.me/live playpath=ch15?code=32da3981363ad9fd86b833046354f287   swfUrl=http://www.livetv.tn/flowplayer-3.2.7.swf pageUrl=http://www.livetv.tn/  flashVer=WIN12.0.0.77 timeout=10 swfVfy=1 live=true</link>
+<link>rtmp://tdsiptv.ddns.me/live playpath=ch15?code=83fb96c95242dfdf2aada1b9419e7176   swfUrl=http://www.livetv.tn/flowplayer-3.2.7.swf pageUrl=http://www.livetv.tn/  flashVer=WIN12.0.0.77 timeout=10 swfVfy=1 live=true</link>
 <thumbnail>http://3.bp.blogspot.com/-Twj2mpy5vHI/UveU5FVTJxI/AAAAAAAAAYo/TmPhKdLHCTA/s1600/mzl.vrgftcau.png</thumbnail>
 </item>
 
@@ -894,13 +894,13 @@ $doregex[streamer] swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=htt
 
 <item>
 <title>Bein Sport 8 (Link 4) [COLOR=FFFF0000]Updated Daily[/COLOR]  [COLOR=FF00FF00]Source 6[/COLOR]</title>
-<link>rtmp://tdsiptv.ddns.me/live playpath=ch19?code=32da3981363ad9fd86b833046354f287   swfUrl=http://www.livetv.tn/flowplayer-3.2.7.swf pageUrl=http://www.livetv.tn/  flashVer=WIN12.0.0.77 timeout=10 swfVfy=1 live=true</link>
+<link>rtmp://tdsiptv.ddns.me/live playpath=ch19?code=83fb96c95242dfdf2aada1b9419e7176   swfUrl=http://www.livetv.tn/flowplayer-3.2.7.swf pageUrl=http://www.livetv.tn/  flashVer=WIN12.0.0.77 timeout=10 swfVfy=1 live=true</link>
 <thumbnail>http://3.bp.blogspot.com/-Twj2mpy5vHI/UveU5FVTJxI/AAAAAAAAAYo/TmPhKdLHCTA/s1600/mzl.vrgftcau.png</thumbnail>
 </item>
  
 <item>
 <title>Bein Sport 8 (Link 5) [COLOR=FFFF0000]Updated Daily[/COLOR]  [COLOR=FF00FF00]Source 6[/COLOR]</title>
-<link>rtmp://tdsiptv.ddns.me/live playpath=ch502?code=32da3981363ad9fd86b833046354f287   swfUrl=http://www.livetv.tn/flowplayer-3.2.7.swf pageUrl=http://www.livetv.tn/  flashVer=WIN12.0.0.77 timeout=10 swfVfy=1 live=true</link>
+<link>rtmp://tdsiptv.ddns.me/live playpath=ch502?code=83fb96c95242dfdf2aada1b9419e7176   swfUrl=http://www.livetv.tn/flowplayer-3.2.7.swf pageUrl=http://www.livetv.tn/  flashVer=WIN12.0.0.77 timeout=10 swfVfy=1 live=true</link>
 <thumbnail>http://3.bp.blogspot.com/-Twj2mpy5vHI/UveU5FVTJxI/AAAAAAAAAYo/TmPhKdLHCTA/s1600/mzl.vrgftcau.png</thumbnail>
 </item>
 
@@ -952,7 +952,7 @@ $doregex[url] playpath=$doregex[file] swfUrl=$doregex[swf] pageUrl=http://www.hd
 
 <item>
 <title>Bein Sport 12 (Link 2) [COLOR=FFFF0000]Updated Daily[/COLOR]  [COLOR=FF00FF00]Source 6[/COLOR]</title>
-<link>rtmp://tdsiptv.ddns.me/live playpath=ch506?code=32da3981363ad9fd86b833046354f287   swfUrl=http://www.livetv.tn/flowplayer-3.2.7.swf pageUrl=http://www.livetv.tn/  flashVer=WIN12.0.0.77 timeout=10 swfVfy=1 live=true</link>
+<link>rtmp://tdsiptv.ddns.me/live playpath=ch506?code=83fb96c95242dfdf2aada1b9419e7176   swfUrl=http://www.livetv.tn/flowplayer-3.2.7.swf pageUrl=http://www.livetv.tn/  flashVer=WIN12.0.0.77 timeout=10 swfVfy=1 live=true</link>
 <thumbnail>http://3.bp.blogspot.com/-Twj2mpy5vHI/UveU5FVTJxI/AAAAAAAAAYo/TmPhKdLHCTA/s1600/mzl.vrgftcau.png</thumbnail>
 </item>   
 
@@ -1044,7 +1044,7 @@ $doregex[streamer] swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=htt
 
 <item>
 <title>Bein Sport 1 (Link 6) [COLOR=FFFF0000]Updated Daily[/COLOR] [COLOR=FF00FF00]Source 6[/COLOR]</title>
-<link>rtmp://tdsiptv.ddns.me/live playpath=ch12?code=32da3981363ad9fd86b833046354f287   swfUrl=http://www.livetv.tn/flowplayer-3.2.7.swf pageUrl=http://www.livetv.tn/  flashVer=WIN12.0.0.77 timeout=10 swfVfy=1 live=true</link>
+<link>rtmp://tdsiptv.ddns.me/live playpath=ch12?code=83fb96c95242dfdf2aada1b9419e7176   swfUrl=http://www.livetv.tn/flowplayer-3.2.7.swf pageUrl=http://www.livetv.tn/  flashVer=WIN12.0.0.77 timeout=10 swfVfy=1 live=true</link>
 <thumbnail>http://3.bp.blogspot.com/-Twj2mpy5vHI/UveU5FVTJxI/AAAAAAAAAYo/TmPhKdLHCTA/s1600/mzl.vrgftcau.png</thumbnail>
 </item>
 

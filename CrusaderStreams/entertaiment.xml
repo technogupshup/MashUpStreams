@@ -180,12 +180,6 @@
 </item>
 
 <item>
-<title>NBN (Link 2)</title>
-<link>rtmp://tdsiptv.ddns.me/live playpath=ch146?code=83fb96c95242dfdf2aada1b9419e7176  swfUrl=http://www.livetv.tn/flowplayer-3.2.7.swf pageUrl=http://www.livetv.tn live=true timeout=15</link>
-<thumbnail>http://www.livetv.tn/images/icons/146.gif</thumbnail>
-</item>
-
-<item>
 <title>Panorama Drama</title>
 <link>rtmp://tdsiptv.ddns.me/live playpath=ch117?code=83fb96c95242dfdf2aada1b9419e7176  swfUrl=http://www.livetv.tn/flowplayer-3.2.7.swf pageUrl=http://www.livetv.tn live=true timeout=15</link>
 <thumbnail>http://www.livetv.tn/images/icons/117.gif</thumbnail>
@@ -343,7 +337,7 @@
 
 <item>
 <title>CBC</title>
-<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=b8JTMfKz_84</link>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=u-tfkQUYR4A</link>
 <thumbnail>http://3.bp.blogspot.com/-bQhnaV_8KF4/T7ZPNiBq6zI/AAAAAAAADEY/p3VdxQEj1Ws/s1600/cbc.jpg</thumbnail>
 </item>
 
@@ -373,7 +367,7 @@
 
 <item>
 <title>CBC Extra</title>
-<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=KkSEkED3BYk</link>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=DTLtFo3BMN0</link>
 <thumbnail>http://www.livetv.tn/images/icons/255.gif</thumbnail>
 </item>
 
@@ -385,7 +379,7 @@
 
 <item>
 <title>CBC 2</title>
-<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=z4rUu-HJD9o</link>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=Rlvl3B8ECvo</link>
 <thumbnail>http://www.cbc-eg.com/images/twolive.png</thumbnail>
 </item>
 

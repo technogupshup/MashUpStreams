@@ -9,7 +9,13 @@
 <link>http://38.68.131.145/flv/4e0e6f4dcc2d3/testat123?0.4128280174918473</link>
 <thumbnail>http://images.wikia.com/logopedia/images/f/f0/Star_Gold_2011.png</thumbnail>
 </item>
-  
+
+<item>
+<title>Star Maza</title>
+<link>http://mediacontent-lh.akamaihd.net/i/marathiabpnew_1@188093/master.m3u8</link>
+<thumbnail>https://lh3.ggpht.com/Hvq_hfNl2ufS8Kr_H3vTzGso2Ug1F-0t_GTr9wAfSwNrac6M5XLHL107MtV_w5XfT9o=w300</thumbnail>
+</item>
+
 <item>
 <title>Manoranjan Tv</title>
 <link>rtmp://50.7.175.253:1939/base2 playPath=maha20.stream token=Vu4KaBzaxa pageUrl=http://desilivetv.net/manoranjan-tv/ swfUrl=http://desilivetv.net/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf</link>

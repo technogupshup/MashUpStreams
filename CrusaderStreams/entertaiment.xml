@@ -449,20 +449,14 @@
 </item>
 
 <item>
-<title>MBC 2 (Link 2)</title>
-<link>rtmp://212.179.77.42/live playpath=livestream2?key=achams-com.flv_avc.mp4 swfUrl=http://achams.com/swf/playerdw.swf live=true timeout=15 pageUrl=http://achams.com/tv/mbc2.php</link>
-<thumbnail>http://www.lyngsat-logo.com/hires/mm/mbc2_ae.png</thumbnail>
-</item>
-
-<item>
 <title>MBC 3</title>
-<link>rtmp://5.63.146.236/live playpath=azsq1299?id=149841 conn=S:OK swfUrl=http://mips.tv/content/scripts/eplayer.swf live=true timeout=15 pageUrl=http://mips.tv/embedplayer/azsq1299/1/600/380</link>
+<link>rtmp://173.193.46.104/live playpath=sfsgfdgfdgfdgg?id=201711 conn=S:OK swfUrl=http://www.mips.tv/content/scripts/eplayer.swf live=true timeout=15 pageUrl=http://www.mips.tv/embedplayer/sfsgfdgfdgfdgg/1/610/380</link>
 <thumbnail>http://www.watchtv.co/wp-content/themes/broadcast/thumb.php?src=http://www.watchtv.co/wp-content/uploads/2012/07/mbc3-channel-streaming1.jpg&w=581&h=252&zc=1&q=100</thumbnail>
 </item>
 
 <item>
 <title>MBC 4</title>
-<link>rtmp://95.211.148.203/live playpath=trhtgfjhgjhg?id=147478 conn=S:OK swfUrl=http://mips.tv/content/scripts/eplayer.swf live=true timeout=15 pageUrl=http://mips.tv/embedplayer/trhtgfjhgjhg/1/600/380</link>
+<link>rtmp://149.255.34.122/live playpath=sdhdfhhdffhdddhh?id=201717 conn=S:OK swfUrl=http://www.mips.tv/content/scripts/eplayer.swf live=true timeout=15 pageUrl=http://www.mips.tv/embedplayer/sdhdfhhdffhdddhh/1/600/380</link>
 <thumbnail>http://aflam4you.tv/uploads/thumbs/71-1.jpg</thumbnail>
 </item>
 

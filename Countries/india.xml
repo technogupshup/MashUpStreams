@@ -399,7 +399,7 @@ rtmp://live.wmncdn.net/saamtv/ playpath=$doregex[video] swfUrl=http://player-eme
 
 <item>
 <title>Zee Cinema</title>
-<link>http://154.57.145.147/flv/4e0e6f4dcc2d3/testat123?0.8885090509429574</link>
+<link>http://154.57.145.108/flv/4ecd19fe22f4a/testat123?0.22281781118363142</link>
 <thumbnail>http://images.wikia.com/logopedia/images/4/48/Zee_Cinema_2011.png</thumbnail>
 </item>
 

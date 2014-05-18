@@ -3,21 +3,22 @@
 <channel>
 <name>Peruvian TV Channels</name>
 <thumbnail></thumbnail>
+
 <item>
 <title>Frecuencia Latina</title>
-<link>rtmp://173.193.205.105/live playpath=okijuhyggff?id=66925 conn=S:OK swfUrl=http://www.ucaster.eu/static/scripts/eplayer.swf live=true timeout=15 pageUrl=http://www.ucaster.eu/embedded/okijuhyggff/1/620/400</link>
+<link>rtmp://flatina1livefs.fplive.net/ app=flatina1live-live playpath=stream1 swfUrl=http://source.netandino.com/theme/player.swf live=true timeout=15 pageUrl=http://www.tele-on.com/2014/04/frecuencia.html</link>
 <thumbnail>http://4.bp.blogspot.com/-mPa9KA6faKc/URbZdvLw_6I/AAAAAAAADAA/jQNKzUdvHag/s1600/logofrecu.jpg</thumbnail>
 </item>
 
 <item>
 <title>Panamericana</title>
-<link>http://stream-l3-4.vty.dmcdn.net/02/dm/1/x18w5up/live.isml/live.m3u8?rebase=on</link>
+<link>http://stream-ak.vty.dmcdn.net/02/dm/1/x18w5up/live.isml/live.m3u8?rebase=on</link>
 <thumbnail>http://www.panamericana.pe/imagenes/cabecera/panamericana-2013.png</thumbnail>
-</item> 
+</item>
 
 <item>
 <title>America Television</title>
-<link>rtmp://46.28.50.116/live playpath=sonaly41?id=66818 conn=S:OK swfUrl=http://www.ucaster.eu/static/scripts/eplayer.swf live=true timeout=15 pageUrl=http://www.ucaster.eu/embedded/sonaly41/1/620/400</link>
+<link>http://d2fza2d8aggsjf.cloudfront.net/liveedge/smil:americatvgo_PC.smil/media-utdtxhvaf_b500000_5423.ts</link>
 <thumbnail>http://1.bp.blogspot.com/-s0trtn50v28/URbZZkIqGYI/AAAAAAAAC-8/jERp8mmTRck/s1600/logoameric.jpg</thumbnail>
 </item>
 

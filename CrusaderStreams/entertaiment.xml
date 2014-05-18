@@ -55,7 +55,7 @@
 	
 <item>
 <title>Abu Dubai Drama</title>
-<link>rtmp://tdsiptv.ddns.me/live playpath=ch54?code=83fb96c95242dfdf2aada1b9419e7176  swfUrl=http://www.livetv.tn/flowplayer-3.2.7.swf pageUrl=http://www.livetv.tn live=true timeout=15</link>
+<link>http://85.91.143.23:1935/58891/58891.stream/playlist.m3u8</link>
 <thumbnail>http://www.livetv.tn/images/icons/54.gif</thumbnail>
 </item>
 	
@@ -97,7 +97,7 @@
 
 <item>
 <title>MTV (Link 2)</title>
-<link>rtmp://tdsiptv.ddns.me/live playpath=ch145?code=83fb96c95242dfdf2aada1b9419e7176  swfUrl=http://www.livetv.tn/flowplayer-3.2.7.swf pageUrl=http://www.livetv.tn/ live=true timeout=15</link>
+<link>http://85.91.143.20:1935/54682/54682.stream/playlist.m3u8</link>
 <thumbnail>http://4.bp.blogspot.com/-v7Q1icQUJD0/Tm5vrpPY1gI/AAAAAAAAAGs/640s_zySbsQ/s200/MTV+1.png</thumbnail>
 </item>
 	
@@ -109,26 +109,8 @@
 	
 <item>
 <title>MBC Drama</title>
-<link>rtmp://tdsiptv.ddns.me/live playpath=ch36?code=83fb96c95242dfdf2aada1b9419e7176  swfUrl=http://www.livetv.tn/flowplayer-3.2.7.swf pageUrl=http://www.livetv.tn live=true timeout=15</link>
+<link>rtmp://85.91.143.20/ app=96514/ playpath=96514.stream swfUrl=http://www.watchfomny.net/jwplayer/jwplayer.flash.swf pageUrl=http://www.watchfomny.net/Video/Arabic/MBC/pop.php timeout=15</link>
 <thumbnail>http://www.tv-arab.net/Logos/logo_tv_mm_mbc_drama_ae.jpg</thumbnail>
-</item>
-	
-<item>
-<title>MBC 3 (Link 3)</title>
-<link>rtmp://tdsiptv.ddns.me/live playpath=ch32?code=83fb96c95242dfdf2aada1b9419e7176  swfUrl=http://www.livetv.tn/flowplayer-3.2.7.swf pageUrl=http://www.livetv.tn live=true timeout=15</link>
-<thumbnail>http://www.watchtv.co/wp-content/themes/broadcast/thumb.php?src=http://www.watchtv.co/wp-content/uploads/2012/07/mbc3-channel-streaming1.jpg&w=581&h=252&zc=1&q=100</thumbnail>
-</item>
-	
-<item>
-<title>MBC 4 (Link 3)</title>
-<link>rtmp://tdsiptv.ddns.me/live playpath=ch33?code=83fb96c95242dfdf2aada1b9419e7176  swfUrl=http://www.livetv.tn/flowplayer-3.2.7.swf pageUrl=http://www.livetv.tn live=true timeout=15</link>
-<thumbnail>https://si0.twimg.com/profile_images/1133002857/mbc4.jpg</thumbnail>
-</item>
-	
-<item>
-<title>MBC Bollywood (Link 2)</title>
-<link>rtmp://tdsiptv.ddns.me/live playpath=ch35?code=83fb96c95242dfdf2aada1b9419e7176  swfUrl=http://www.livetv.tn/flowplayer-3.2.7.swf pageUrl=http://www.livetv.tn live=true timeout=15</link>
-<thumbnail>http://www.waleg.com/images/mbc-bollywood.jpg</thumbnail>
 </item>
 
 <item>
@@ -144,8 +126,8 @@
 </item>	
 
 <item>
-<title>Fatafeet</title>
-<link>rtmp://tdsiptv.ddns.me/live playpath=ch26?code=83fb96c95242dfdf2aada1b9419e7176  swfUrl=http://www.livetv.tn/flowplayer-3.2.7.swf pageUrl=http://www.livetv.tn live=true timeout=15</link>
+<title>Fatafeat</title>
+<link>http://live-f01.vustream.net/live/livestream3/negmtv.m3u8</link>
 <thumbnail>http://www.livetv.tn/images/icons/26.gif</thumbnail>
 </item>	
 
@@ -157,7 +139,7 @@
 
 <item>
 <title>Fox Movies</title>
-<link>rtmp://tdsiptv.ddns.me/live playpath=ch27?code=83fb96c95242dfdf2aada1b9419e7176  swfUrl=http://www.livetv.tn/flowplayer-3.2.7.swf pageUrl=http://www.livetv.tn live=true timeout=15</link>
+<link>rtmp://iptv.web-medias.net/live playpath=fox_movies swfUrl=http://www.web-medias.net/jwplayer.swf pageUrl=http://www.web-medias.net/fox-movies-en-direct-live-%d9%82%d9%86%d8%a7%d8%a9-%d9%81%d9%88%d9%83%d8%b3-%d9%85%d9%88%d9%81%d9%8a%d8%b2-%d9%85%d8%a8%d8%a7%d8%b4%d8%b1-video_bb9ad992b.html live=true timeout=15</link>
 <thumbnail>http://www.livetv.tn/images/icons/27.gif</thumbnail>
 </item>
 
@@ -174,8 +156,8 @@
 </item>
 
 <item>
-<title>Moga Comedy</title>
-<link>rtmp://tdsiptv.ddns.me/live playpath=ch67?code=83fb96c95242dfdf2aada1b9419e7176  swfUrl=http://www.livetv.tn/flowplayer-3.2.7.swf pageUrl=http://www.livetv.tn live=true timeout=15</link>
+<title>Moga Comedy  [COLOR=FFFF0000]Works On Gotham Only[/COLOR]</title>
+<link>plugin://plugin.video.jtv.archives/?mode=get_channel&amp;name=20satttt&amp;play=true</link>
 <thumbnail>http://www.livetv.tn/images/icons/67.gif</thumbnail>
 </item>
 
@@ -211,7 +193,7 @@
 
 <item>
 <title>Zee Aflam</title>
-<link>rtmp://tdsiptv.ddns.me/live playpath=ch74?code=83fb96c95242dfdf2aada1b9419e7176  swfUrl=http://www.livetv.tn/flowplayer-3.2.7.swf pageUrl=http://www.livetv.tn live=true  timeout=15</link>
+<link>rtmp://108.59.14.229/live playpath=xcvcwvvwwwcccvvv?id=201720 conn=S:OK swfUrl=http://www.mips.tv/content/scripts/eplayer.swf pageUrl=http://www.mips.tv/embedplayer/xcvcwvvwwwcccvvv/1/600/380 live=true timeout=15</link>
 <thumbnail>http://www.livetv.tn/images/icons/74.gif</thumbnail>
 </item>
 
@@ -271,13 +253,13 @@
 
 <item>
 <title>Al Hayat</title>
-<link>rtmp://tdsiptv.ddns.me/live playpath=ch96?code=83fb96c95242dfdf2aada1b9419e7176  swfUrl=http://www.livetv.tn/flowplayer-3.2.7.swf pageUrl=http://www.livetv.tn live=true timeout=15</link>
+<link>rtmp://206.190.140.20/live playpath=gto548?id=10373 conn=S:OK swfUrl=http://www.janjua.tv/resources/scripts/eplayer.swf pageUrl=http://www.janjua.tv/embedplayer/gto548/1/600/450 live=true timeout=15</link>
 <thumbnail>http://www.livetv.tn/images/icons/96.gif</thumbnail>
 </item>
 
 <item>
 <title>MBC MAX</title>
-<link>rtmp://tdsiptv.ddns.me/live playpath=ch38?code=83fb96c95242dfdf2aada1b9419e7176  swfUrl=http://www.livetv.tn/flowplayer-3.2.7.swf pageUrl=http://www.livetv.tn live=true timeout=15</link>
+<link>rtmp://iptv.web-medias.net/live playpath=mbc_max swfUrl=http://www.web-medias.net/jwplayer.swf live=true timeout=15 pageUrl=http://www.web-medias.net/mbc-max-en-direct-live-%D8%A7%D9%85-%D8%A8%D9%8A-%D8%B3%D9%8A-%D9%85%D8%A7%D9%83%D8%B3-%D9%85%D8%A8%D8%A7%D8%B4%D8%B1-video_0a915c1da.html</link>
 <thumbnail>http://alghaslan.net/wp-content/uploads/MBC-MAX-300x115.jpg</thumbnail>
 </item>
  	
@@ -385,7 +367,7 @@
 
 <item>
 <title>Baghdadiya</title>
-<link>rtmp://cp44832.live.edgefcs.net/live/ playpath=albag1_500@90981 swfUrl=http://www.albaghdadia.com/albag_players/flowplayer/_player/flowplayer.commercial-3.2.6.swf live=true timeout=15 pageUrl=http://albaghdadia.com/live</link>
+<link>http://albag1.groovygecko.edge01.streammatrix.tv/livealbag1/smil:albag1.smil/master.m3u8</link>
 <thumbnail>http://www.livetv.tn/images/icons/112.gif</thumbnail>
 </item>
 
@@ -457,6 +439,18 @@
 <item>
 <title>MBC 4</title>
 <link>rtmp://149.255.34.122/live playpath=sdhdfhhdffhdddhh?id=201717 conn=S:OK swfUrl=http://www.mips.tv/content/scripts/eplayer.swf live=true timeout=15 pageUrl=http://www.mips.tv/embedplayer/sdhdfhhdffhdddhh/1/600/380</link>
+<thumbnail>http://aflam4you.tv/uploads/thumbs/71-1.jpg</thumbnail>
+</item>
+
+<item>
+<title>MBC 3  (Link 2)</title>
+<link>rtmp://iptv.web-medias.net/live playpath=mbc_3 swfUrl=http://www.web-medias.net/jwplayer.swf live=true timeout=15 pageUrl=http://www.web-medias.net/mbc-3-en-direct-live-%d9%82%d9%86%d8%a7%d8%a9-%d8%a5%d9%85%d8%a8%d9%8a%d8%b3%d9%8a-3-%d9%85%d8%a8%d8%a7%d8%b4%d8%b1-video_43d5f93f1.html</link>
+<thumbnail>http://www.watchtv.co/wp-content/themes/broadcast/thumb.php?src=http://www.watchtv.co/wp-content/uploads/2012/07/mbc3-channel-streaming1.jpg&w=581&h=252&zc=1&q=100</thumbnail>
+</item>
+
+<item>
+<title>MBC 4  (Link 2)</title>
+<link>rtmp://iptv.web-medias.net/live playpath=mbc_4 swfUrl=http://www.web-medias.net/jwplayer.swf live=true timeout=15 pageUrl=http://www.web-medias.net/mbc-4-en-direct-live-%d8%a7%d9%85-%d8%a8%d9%8a-%d8%b3%d9%8a-4-%d9%85%d8%a8%d8%a7%d8%b4%d8%b1-video_afae7466f.html</link>
 <thumbnail>http://aflam4you.tv/uploads/thumbs/71-1.jpg</thumbnail>
 </item>
 

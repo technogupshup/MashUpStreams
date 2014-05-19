@@ -54,7 +54,7 @@
 
 <item>
 <title>Telemundo HD</title>
-<link>rtmp://173.193.216.86/live playpath=$doregex[file] swfUrl=http://static.castalba.tv/player5.9.swf pageUrl=http://castalba.tv/channel/20639 live=true timeout=15
+<link>rtmp://50.23.113.228/live playpath=$doregex[file] swfUrl=http://static.castalba.tv/player5.9.swf pageUrl=http://castalba.tv/channel/20639 live=true timeout=15
 <regex>
 <name>file</name>
 <expres>'file': '([^']*)</expres>
@@ -66,8 +66,15 @@
 </item>
 
 <item>
-<title>Univision</title>
-<link>rtmp://edge3.video.vaughnsoft.net:443/ app=live?undefined playpath=live_unimar6 swfUrl=http://vaughnlive.tv/800021294/swf/VaughnSoftPlayer.swf pageUrl=http://vaughnlive.tv/unimar6 token=30dabc4871922a1314192e925ab7961dtsg3 live=true timeout=15</link>
+<title>Univision HD</title>
+<link>rtmp://174.36.1.75/live playpath=$doregex[file] swfUrl=http://static.castalba.tv/player5.9.swf pageUrl=http://castalba.tv/channel/20639 live=true timeout=15
+<regex>
+<name>file</name>
+<expres>'file': '([^']*)</expres>
+<page>http://castalba.tv/channel/15648</page>
+<referer> </referer>
+</regex>
+</link>
 <thumbnail>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQW70cx-uJo3CBjJQ-K6d0vESjwL1R10Ql-0QTUNFveGoKJyhfr</thumbnail>
 </item>
 

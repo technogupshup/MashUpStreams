@@ -6,7 +6,7 @@
 
 <item>
 <title>Star Gold</title>
-<link>http://154.57.145.113/flv/4ecd19fe22f4a/testat123?0.08239528490230441</link>
+<link>http://154.57.145.146/flv/4dd469a36a357/testat123?0.6235848935320973</link>
 <thumbnail>http://images.wikia.com/logopedia/images/f/f0/Star_Gold_2011.png</thumbnail>
 </item>
 
@@ -376,7 +376,88 @@ rtmp://live.wmncdn.net/saamtv/ playpath=$doregex[video] swfUrl=http://player-eme
 <referer>http://zeenews.india.com/live/</referer>
 </regex>
 </link>
+<thumbnail>http://zns.india.com/zn5/images/logo2013.png</thumbnail>371
+372
+373
+374
+375
+376
+377
+378
+379
+380
+381
+382
+383
+384
+385
+386
+387
+388
+389
+390
+391
+392
+393
+394
+395
+396
+397
+398
+399
+400
+401
+402
+403
+404
+405
+406
+407
+408
+409
+410
+411
+412
+413
+<link>$doregex[url]
+<regex>
+<name>url</name>
+<expres>file: "([^"]*)</expres>
+<page>http://zeenews.dittotv.com/?header=no</page>
+<referer>http://zeenews.india.com/live/</referer>
+</regex>
+</link>
 <thumbnail>http://zns.india.com/zn5/images/logo2013.png</thumbnail>
+</item>
+<item>
+<title>ZEE SMILE</title>
+<link>rtmp://50.7.175.253:1939/base2 playpath=dd16.stream token=Vu4KaBzaxa swfUrl=http://desilivetv.net/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=true timeout=15 pageUrl=http://desilivetv.net/zee-smile/</link>
+<thumbnail>http://www.turbotv.in/wp-content/uploads/2012/11/Zee_Smile-logo.png</thumbnail>
+</item>
+<item>
+<title>Peace TV</title>
+<link>rtmp://peace.fms.visionip.tv/live/ playpath=b2b-peace_usa-live-25f-4x3-sdh_1 live=true timeout=15 swfUrl=http://www.peacetv.tv/templates/swf/player.swf pageUrl=http://www.peacetv.tv/</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/en/2/2f/Peace_TV_logo.png</thumbnail>
+</item>
+<item>
+<title>Lamhe</title>
+<link>http://46.249.213.93/iPhone/broadcast/zeecafe-tablet.3gp/zeecafe-tablet.3gp-mr648k.m3u8?trackingid=4441370000&os=desktop</link>
+<thumbnail>http://static.timefor.tv/imgs/epg/logos/lamhe_big.png</thumbnail>
+</item>
+<item>
+<title>Zee Cinema</title>
+<link>http://38.68.131.165/flv/4e0e6f4dcc2d3/testat123?0.7613220759667456</link>
+<thumbnail>http://images.wikia.com/logopedia/images/4/48/Zee_Cinema_2011.png</thumbnail>
+</item>
+<item>
+<title>Star Movies</title>
+<link>http://154.57.145.113/flv/5375bc439f7f3/testat123?0.7545788525603712</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/ss/star_movies_tw_hd.png</thumbnail>
+</item>
+</channel>
+Ali112
+Commit changes
+
 </item>
 
 <item>
@@ -405,7 +486,7 @@ rtmp://live.wmncdn.net/saamtv/ playpath=$doregex[video] swfUrl=http://player-eme
 
 <item>
 <title>Star Movies</title>
-<link>http://154.57.145.111/flv/52b9de465466a/testat123?0.31457717856392264</link>
+<link>http://154.57.145.113/flv/5375bc439f7f3/testat123?0.7545788525603712</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ss/star_movies_tw_hd.png</thumbnail>
 </item>
 

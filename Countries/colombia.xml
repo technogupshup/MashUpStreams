@@ -68,6 +68,24 @@
 </item>
 
 <item>
+<title>Telecafe</title>
+<link>http://xtelecafex.api.channel.livestream.com/3.0/playlist.m3u8</link>
+<thumbnail>http://imagenes.colombia.interlatin.com/canales/telecafe.gif</thumbnail>
+</item>
+
+<item>
+<title>Cable Noticias</title>
+<link>rtmp://50.23.172.98:1935/live playpath=cablenoticiastv swfUrl=http://fpdownload.adobe.com/strobe/FlashMediaPlayback.swf/[[DYNAMIC]]/1 live=true timeout=15 pageUrl=http://www.colombia.com/tv/i2480/cable-noticias</link>
+<thumbnail>http://imagenes.colombia.interlatin.com/canales/375ff762fdb54ccb8eeb10caef1e1598.gif</thumbnail>
+</item>
+
+<item>
+<title>Canal Cnc Quindío</title>
+<link>http://xcncarmeniax.api.channel.livestream.com/3.0/playlist.m3u8</link>
+<thumbnail>http://imagenes.colombia.interlatin.com/canales/e9c5d51a66a04558aeff13db4c5d3e80.gif</thumbnail>
+</item>
+
+<item>
 <title>Canal 9</title>
 <link>rtmp://cdns840stu1010.multistream.net:80/rtvclive playpath=live-500 swfUrl=http://img71.xooimage.com/files/d/b/2/playercanales7-2f3e41a.swf live=true timeout=15 pageUrl=http://cdn.mirando.me/canal-9-institucional-en-vivo.php</link>
 <thumbnail>http://www.institucional.gov.co/templates/institucionalNew/images/ins/logo_institucional.png</thumbnail>

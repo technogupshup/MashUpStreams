@@ -61,7 +61,7 @@
 	
 <item>
 <title>Al Hayat Cinema</title>
-<link>rtmp://tdsiptv.ddns.me/live playpath=ch97?code=83fb96c95242dfdf2aada1b9419e7176  swfUrl=http://www.livetv.tn/flowplayer-3.2.7.swf pageUrl=http://www.livetv.tn live=true timeout=15</link>
+<link>rtmp://iptv.web-medias.net/live playpath=alhayat_cinema swfUrl=http://www.web-medias.net/jwplayer.swf pageUrl=http://www.web-medias.net/al-hayat-cinema-en-direct-live-streaming-%d9%82%d9%86%d8%a7%d8%a9-%d8%a7%d9%84%d8%ad%d9%8a%d8%a7%d8%a9-%d8%b3%d9%8a%d9%86%d9%85%d8%a7-%d8%a7%d9%84%d9%85%d8%b5%d8%b1%d9%8a%d8%a9-video_bcbf336e4.html live=true timeout=15</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/aa/alhayat_cinema.png</thumbnail>
 </item>
 
@@ -75,6 +75,78 @@
 <title>Aljadeed (Link 2)</title>
 <link>rtmp://tdsiptv.ddns.me/live playpath=ch99?code=83fb96c95242dfdf2aada1b9419e7176  swfUrl=http://www.livetv.tn/flowplayer-3.2.7.swf pageUrl=http://www.livetv.tn/ live=true timeout=15</link>
 <thumbnail>http://1.bp.blogspot.com/-W1Ry_s_c5-k/UAw9jeMFGoI/AAAAAAAANlY/SJ_JbZV8W5E/s400/aljadeed%2Btv.jpeg</thumbnail>
+</item>
+
+<item>
+<title>OSN Yahala</title>
+<link>http://88.150.198.74/maroc65/maroc65/31.ch</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/oo/osn_ya_hala_hd.png</thumbnail>
+</item>
+
+<item>
+<title>OSN Yahala HD +2</title>
+<link>http://88.150.198.74/maroc65/maroc65/30.ch</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/oo/osn_ya_hala_hd_plus2.png</thumbnail>
+</item>
+
+<item>
+<title>OSN Shabab</title>
+<link>http://88.150.198.74/maroc65/maroc65/32.ch</link>
+<thumbnail>https://static.elcinema.com/images/channels/160px/1250.png</thumbnail>
+</item>
+
+<item>
+<title>OSN Movies Action HD</title>
+<link>http://88.150.198.74/maroc65/maroc65/25.ch</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/oo/osn_movies_action_hd.png</thumbnail>
+</item>
+
+<item>
+<title>Art Cinema</title>
+<link>http://88.150.198.74/maroc65/maroc65/33.ch</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/aa/art_cinema.png</thumbnail>
+</item>
+
+<item>
+<title>ART Hekayat</title>
+<link>http://88.150.198.74/maroc65/maroc65/34.ch</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/aa/art_hekayat.png</thumbnail>
+</item>
+
+<item>
+<title>ART Hekayat 2</title>
+<link>http://88.150.198.74/maroc65/maroc65/35.ch</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/aa/art_hekayat2.png</thumbnail>
+</item>
+
+<item>
+<title>OSN 2+</title>
+<link>http://88.150.198.74/maroc65/maroc65/26.ch</link>
+<thumbnail>http://www.osn.com/$Common/Image/Logo/Channel/Horizontal/85x36/OMX.png</thumbnail>
+</item>
+
+<item>
+<title>OSN Yahala Drama</title>
+<link>http://88.150.198.74/maroc65/maroc65/29.ch</link>
+<thumbnail>http://www.osn.com/$Common/Image/Logo/Channel/Horizontal/85x36/OCM.png</thumbnail>
+</item>
+
+<item>
+<title>OSN Comedy</title>
+<link>http://88.150.198.74/maroc65/maroc65/27.ch</link>
+<thumbnail>http://www.osn.com/$Common/Image/Logo/Channel/Horizontal/85x36/OCO.png</thumbnail>
+</item>
+
+<item>
+<title>OSN</title>
+<link>http://88.150.198.74/maroc65/maroc65/24.ch</link>
+<thumbnail>http://www.osn.com/$Common/Image/Logo/Channel/Horizontal/85x36/OM1.png</thumbnail>
+</item>
+
+<item>
+<title>OSN Movies Premiere</title>
+<link>http://88.150.198.74/maroc65/maroc65/28.ch</link>
+<thumbnail>http://www.osn.com/$Common/Image/Logo/Channel/Horizontal/85x36/OPX.png</thumbnail>
 </item>
 
 <item>
@@ -254,7 +326,7 @@
 <item>
 <title>Al Hayat</title>
 <link>rtmp://206.190.140.20/live playpath=gto548?id=10373 conn=S:OK swfUrl=http://www.janjua.tv/resources/scripts/eplayer.swf pageUrl=http://www.janjua.tv/embedplayer/gto548/1/600/450 live=true timeout=15</link>
-<thumbnail>http://www.livetv.tn/images/icons/96.gif</thumbnail>
+<thumbnail>http://bo7.net/images/2/_%D8%AA%D8%B1%D8%AF%D8%AF_%D9%82%D9%86%D8%A7%D8%A9_%D8%A7%D9%84%D8%AD%D9%8A%D8%A7%D8%A9_AL_.jpg</thumbnail>
 </item>
 
 <item>

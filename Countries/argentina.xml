@@ -12,7 +12,7 @@
 
 <item>
 <title>Telefe</title>
-<link>rtmp://159.253.143.20/zenex playpath=telefe1234?id=3085 conn=S:OK swfUrl=http://www.zenex.tv/data/scripts/eplayer.swf live=true timeout=15 pageUrl=http://www.zenex.tv/embedplayer/telefe1234/1/530/380</link>
+<link>rtmp://50.115.121.180/zenex playpath=notemuerasnuncazenex?id=71 conn=S:OK swfUrl=http://www.zenex.tv/data/scripts/eplayer.swf live=true timeout=15 pageUrl=http://www.zenex.tv/embedplayer/telefe1234/1/530/380</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/tt/telefe.png</thumbnail>
 </item>
 
@@ -54,13 +54,13 @@
 
 <item>
 <title>Fox Sports</title>
-<link>rtmp://173.192.170.84/live playpath=a3asdfsdfasdf?id=198150 conn=S:OK swfUrl=http://www.mips.tv/content/scripts/eplayer.swf live=true timeout=15 pageUrl=http://www.mips.tv/embedplayer/a3asdfsdfasdf/1/600/450</link>
+<link>rtmp://149.255.34.122/live playpath=asdffoxsdfpo?id=202294 conn=S:OK swfUrl=http://www.mips.tv/content/scripts/eplayer.swf live=true timeout=15 pageUrl=http://www.mips.tv/embedplayer/a3asdfsdfasdf/1/600/450</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/ff/fox_sports_lam_ar.png</thumbnail>
 </item>
 
 <item>
 <title>ESPN</title>
-<link>rtmp://206.190.129.12/live playpath=lizzy1223?id=197267 conn=S:OK swfUrl=http://www.mips.tv/content/scripts/eplayer.swf live=true timeout=15 pageUrl=http://www.mips.tv/embedplayer/lizzy1223/1/750/450</link>
+<link>rtmp://5.63.151.44/live playpath=esdadoi8889?id=202731 conn=S:OK swfUrl=http://www.mips.tv/content/scripts/eplayer.swf live=true timeout=15 pageUrl=http://www.mips.tv/embedplayer/lizzy1223/1/750/450</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/ee/espn_lam.png</thumbnail>
 </item>
 

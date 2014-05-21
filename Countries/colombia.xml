@@ -4,9 +4,8 @@
 <name>Colombian TV Channels</name>
 <thumbnail></thumbnail>
 
-<item>
 <title>Caracol TV</title>
-<link>rtmp://go.fasts.tv/ app=fasts playpath=c10042014 token=$doregex[token] swfUrl=http://www.fasts.tv/player/player_embed_fasts.swf live=true timeout=15 pageUrl=http://www.fasts.tv/
+<link>rtmp://go.fasts.tv/ app=fasts playpath=caracol15 token=$doregex[token] swfUrl=http://www.fasts.tv/player/player_embed_fasts.swf live=true timeout=15 pageUrl=http://www.fasts.tv/
 <regex>
 <name>token</name>
 <expres>"token":"([^"]*)</expres>

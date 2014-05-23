@@ -6,7 +6,7 @@
 
 <item>
 <title>Star Gold</title>
-<link>http://154.57.145.108/flv/4e0e6f4dcc2d3/testat123?0.83529352536425</link>
+<link>http://154.57.145.117/flv/4e0e6f4dcc2d3/testat123?0.5409318581223488</link>
 <thumbnail>http://images.wikia.com/logopedia/images/f/f0/Star_Gold_2011.png</thumbnail>
 </item>
 
@@ -429,35 +429,31 @@ rtmp://live.wmncdn.net/saamtv/ playpath=$doregex[video] swfUrl=http://player-eme
 </link>
 <thumbnail>http://zns.india.com/zn5/images/logo2013.png</thumbnail>
 </item>
+
 <item>
 <title>ZEE SMILE</title>
 <link>rtmp://50.7.175.253:1939/base2 playpath=dd16.stream token=Vu4KaBzaxa swfUrl=http://desilivetv.net/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=true timeout=15 pageUrl=http://desilivetv.net/zee-smile/</link>
 <thumbnail>http://www.turbotv.in/wp-content/uploads/2012/11/Zee_Smile-logo.png</thumbnail>
 </item>
+
 <item>
 <title>Peace TV</title>
 <link>rtmp://peace.fms.visionip.tv/live/ playpath=b2b-peace_usa-live-25f-4x3-sdh_1 live=true timeout=15 swfUrl=http://www.peacetv.tv/templates/swf/player.swf pageUrl=http://www.peacetv.tv/</link>
 <thumbnail>http://upload.wikimedia.org/wikipedia/en/2/2f/Peace_TV_logo.png</thumbnail>
 </item>
+
 <item>
 <title>Lamhe</title>
 <link>http://46.249.213.93/iPhone/broadcast/zeecafe-tablet.3gp/zeecafe-tablet.3gp-mr648k.m3u8?trackingid=4441370000&os=desktop</link>
 <thumbnail>http://static.timefor.tv/imgs/epg/logos/lamhe_big.png</thumbnail>
 </item>
-<item>
-<title>Zee Cinema</title>
-<link>http://38.68.131.165/flv/4e0e6f4dcc2d3/testat123?0.7613220759667456</link>
-<thumbnail>http://images.wikia.com/logopedia/images/4/48/Zee_Cinema_2011.png</thumbnail>
-</item>
+
 <item>
 <title>Star Movies</title>
-<link>http://154.57.145.113/flv/5375bc439f7f3/testat123?0.7545788525603712</link>
+<link>http://154.57.145.147/flv/4c8445626693b/testat123?0.18381133023649454</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ss/star_movies_tw_hd.png</thumbnail>
 </item>
 </channel>
-Ali112
-Commit changes
-
 </item>
 
 <item>
@@ -480,14 +476,8 @@ Commit changes
 
 <item>
 <title>Zee Cinema</title>
-<link>http://154.57.145.116/flv/4e2c5fd04592d/testat123?0.16334685496985912</link>
+<link>http://154.57.145.119/flv/4ecd19fe22f4a/testat123?0.07590272510424256</link>
 <thumbnail>http://images.wikia.com/logopedia/images/4/48/Zee_Cinema_2011.png</thumbnail>
-</item>
-
-<item>
-<title>Star Movies</title>
-<link>http://154.57.145.108/flv/52f96bcbe352d/testat123?0.937387770973146</link>
-<thumbnail>http://www.lyngsat-logo.com/hires/ss/star_movies_tw_hd.png</thumbnail>
 </item>
 
 </channel>

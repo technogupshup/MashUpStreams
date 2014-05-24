@@ -6,18 +6,13 @@
 
 <item>
 <title>پخش زنده شبکه تماشا</title>
-<link>rtmpe://s6.telewebion.com:1935/ app=live-secure?wmsAuthSign=$doregex[app] playpath=$doregex[src] swfurl=http://www.telewebion.com/jwplayer_pro/6/jwplayer.flash.swf pageurl=http://www.telewebion.com/
+<link>
+rtmpe://s6.telewebion.com:1935/live-secure?wmsAuthSign=$doregex[app] playpath=$doregex[src] swfurl=http://www.telewebion.com/jwplayer_pro/68/jwplayer.flash.swf pageurl=http://www.telewebion.com/
 <regex>
 <name>app</name>
 <expres>wmsAuthSign=([^"]*)</expres>
-<page>http://smilserver.s3.telewebion.com/livesmil/tamasha-500k.smil?&amp;secure_token=aXNfZnJlZT0xJnNlcnZlcl90aW1lPTQvMjAvMjAxNCA4OjA0OjAwIFBNJmhhc2hfdmFsdWU9d2xNbFQyQm1zNC9zcFRBRFhra0FuUT09JnZhbGlkbWludXRlcz0xMDA=&amp;dummpyext=.smil</page>
-<referer>http://www.telewebion.com/fa/live/tamasha/1000kb/%D9%BE%D8%AE%D8%B4-%D8%B2%D9%86%D8%AF%D9%87-%D8%B4%D8%A8%DA%A9%D9%87-%D8%AA%D9%85%D8%A7%D8%B4%D8%A7-Live-channel-tamasha</referer>
-</regex>
-<regex>
-<name>src</name>
-<expres>src="([^"]*)</expres>
-<page>http://smilserver.s3.telewebion.com/livesmil/tamasha-500k.smil?&amp;secure_token=aXNfZnJlZT0xJnNlcnZlcl90aW1lPTQvMjAvMjAxNCA4OjA0OjAwIFBNJmhhc2hfdmFsdWU9d2xNbFQyQm1zNC9zcFRBRFhra0FuUT09JnZhbGlkbWludXRlcz0xMDA=&amp;dummpyext=.smil</page>
-<referer>http://www.telewebion.com/fa/live/tamasha/1000kb/%D9%BE%D8%AE%D8%B4-%D8%B2%D9%86%D8%AF%D9%87-%D8%B4%D8%A8%DA%A9%D9%87-%D8%AA%D9%85%D8%A7%D8%B4%D8%A7-Live-channel-tamasha</referer>
+<page>http://www.telewebion.com/fa/live/tamasha/1000kb/%D9%BE%D8%AE%D8%B4-%D8%B2%D9%86%D8%AF%D9%87-%D8%B4%D8%A8%DA%A9%D9%87-%D8%AA%D9%85%D8%A7%D8%B4%D8%A7-Live-channel-tamasha</page>
+<referer>http://www.telewebion.com/</referer>
 </regex>
 </link>
 <thumbnail>http://www.telewebion.com/content_images/channel_images/thumbs/50_6512bd43d9caa6e02c990b0a82652dca.png</thumbnail>
@@ -25,17 +20,11 @@
 
 <item>
 <title>پخش زنده شبکه نمایش</title>
-<link>rtmpe://s6.telewebion.com:1935/ app=live-secure?wmsAuthSign=$doregex[app] playpath=$doregex[src] swfurl=http://www.telewebion.com/jwplayer_pro/6/jwplayer.flash.swf pageurl=http://www.telewebion.com/
+<link>
+rtmpe://s6.telewebion.com:1935/live-secure?wmsAuthSign=$doregex[app] playpath=$doregex[src] swfurl=http://www.telewebion.com/jwplayer_pro/68/jwplayer.flash.swf pageurl=http://www.telewebion.com/
 <regex>
 <name>app</name>
 <expres>wmsAuthSign=([^"]*)</expres>
-<page>http://smilserver.s3.telewebion.com/livesmil/namayesh-500k.smil?&amp;secure_token=aXNfZnJlZT0xJnNlcnZlcl90aW1lPTQvMjAvMjAxNCA4OjA2OjU3IFBNJmhhc2hfdmFsdWU9ZExzdUhnU09jUmk1d3hwTWVZZ3dydz09JnZhbGlkbWludXRlcz0xMDA=&amp;dummpyext=.smil</page>
-<referer>http://www.telewebion.com/fa/live/namayesh/1000kb/%D9%BE%D8%AE%D8%B4-%D8%B2%D9%86%D8%AF%D9%87-%D8%B4%D8%A8%DA%A9%D9%87-%D9%86%D9%85%D8%A7%DB%8C%D8%B4-Live-channel-namayesh</referer>
-</regex>
-<regex>
-<name>src</name>
-<expres>src="([^"]*)</expres>
-<page>http://smilserver.s3.telewebion.com/livesmil/namayesh-500k.smil?&amp;secure_token=aXNfZnJlZT0xJnNlcnZlcl90aW1lPTQvMjAvMjAxNCA4OjA2OjU3IFBNJmhhc2hfdmFsdWU9ZExzdUhnU09jUmk1d3hwTWVZZ3dydz09JnZhbGlkbWludXRlcz0xMDA=&amp;dummpyext=.smil</page>
 <referer>http://www.telewebion.com/fa/live/namayesh/1000kb/%D9%BE%D8%AE%D8%B4-%D8%B2%D9%86%D8%AF%D9%87-%D8%B4%D8%A8%DA%A9%D9%87-%D9%86%D9%85%D8%A7%DB%8C%D8%B4-Live-channel-namayesh</referer>
 </regex>
 </link>
@@ -45,16 +34,10 @@
 <item>
 <title>پخش زنده شبکه IFilm (Link 2)</title>
 <link>
-rtmpe://s6.telewebion.com:1935/ app=live-secure?wmsAuthSign=$doregex[app] playpath=$doregex[src] swfurl=http://www.telewebion.com/jwplayer_pro/6/jwplayer.flash.swf live=true timeout=15 pageurl=http://smilserver.telewebion.com/livesmil/ifilm-500k.smil?&amp;secure_token=aXNfZnJlZT0xJnNlcnZlcl90aW1lPTQvNS8yMDE0IDM6MDY6NTIgUE0maGFzaF92YWx1ZT0yd0RDYWZsTFNCRnZIMkhLNlR3K0ZBPT0mdmFsaWRtaW51dGVzPTEwMA==&amp;dummpyext=.smil
+rtmpe://s6.telewebion.com:1935/live-secure?wmsAuthSign=$doregex[app] playpath=$doregex[src] swfurl=http://www.telewebion.com/jwplayer_pro/68/jwplayer.flash.swf live=true timeout=15 pageurl=http://smilserver.telewebion.com/livesmil/ifilm-500k.smil?&amp;secure_token=aXNfZnJlZT0xJnNlcnZlcl90aW1lPTQvNS8yMDE0IDM6MDY6NTIgUE0maGFzaF92YWx1ZT0yd0RDYWZsTFNCRnZIMkhLNlR3K0ZBPT0mdmFsaWRtaW51dGVzPTEwMA==&amp;dummpyext=.smil
 <regex>
 <name>app</name>
 <expres>wmsAuthSign=([^"]*)</expres>
-<page>http://smilserver.s3.telewebion.com/livesmil/ifilm-500k.smil?&amp;secure_token=aXNfZnJlZT0xJnNlcnZlcl90aW1lPTQvMjAvMjAxNCA4OjA3OjI3IFBNJmhhc2hfdmFsdWU9WlI5MjY2VkVuRVVteUc2MENPOUJwQT09JnZhbGlkbWludXRlcz0xMDA=&amp;dummpyext=.smil</page>
-<referer>http://www.telewebion.com/fa/live/ifilm/1000kb/%D9%BE%D8%AE%D8%B4-%D8%B2%D9%86%D8%AF%D9%87-%D8%B4%D8%A8%DA%A9%D9%87-IFilm-Live</referer>
-</regex>
-<regex>
-<name>src</name>
-<expres>src="([^"]*)</expres>
 <page>http://smilserver.s3.telewebion.com/livesmil/ifilm-500k.smil?&amp;secure_token=aXNfZnJlZT0xJnNlcnZlcl90aW1lPTQvMjAvMjAxNCA4OjA3OjI3IFBNJmhhc2hfdmFsdWU9WlI5MjY2VkVuRVVteUc2MENPOUJwQT09JnZhbGlkbWludXRlcz0xMDA=&amp;dummpyext=.smil</page>
 <referer>http://www.telewebion.com/fa/live/ifilm/1000kb/%D9%BE%D8%AE%D8%B4-%D8%B2%D9%86%D8%AF%D9%87-%D8%B4%D8%A8%DA%A9%D9%87-IFilm-Live</referer>
 </regex>
@@ -64,16 +47,11 @@ rtmpe://s6.telewebion.com:1935/ app=live-secure?wmsAuthSign=$doregex[app] playpa
 
 <item>
 <title>پخش زنده IFilm English</title>
-<link>rtmpe://s6.telewebion.com:1935/ app=live-secure?wmsAuthSign=$doregex[app] playpath=$doregex[src] swfurl=http://www.telewebion.com/jwplayer_pro/6/jwplayer.flash.swf pageurl=http://www.telewebion.com/
+<link>
+rtmpe://s6.telewebion.com:1935/live-secure?wmsAuthSign=$doregex[app] playpath=$doregex[src] swfurl=http://www.telewebion.com/jwplayer_pro/68/jwplayer.flash.swf pageurl=http://www.telewebion.com/
 <regex>
 <name>app</name>
 <expres>wmsAuthSign=([^"]*)</expres>
-<page>http://smilserver.s3.telewebion.com/livesmil/ifilmEn-500k.smil?&amp;secure_token=aXNfZnJlZT0xJnNlcnZlcl90aW1lPTQvMjAvMjAxNCA3OjQ5OjI2IFBNJmhhc2hfdmFsdWU9NjVvZTA2ZjRBck01Q29BSUR6Qm1Ndz09JnZhbGlkbWludXRlcz0xMDA=&amp;dummpyext=.smil</page>
-<referer>http://www.telewebion.com/fa/live/ifilmEn/1000kb/%D9%BE%D8%AE%D8%B4-%D8%B2%D9%86%D8%AF%D9%87-IFilm-English-Live-channel-ifilm-english</referer>
-</regex>
-<regex>
-<name>src</name>
-<expres>src="([^"]*)</expres>
 <page>http://smilserver.s3.telewebion.com/livesmil/ifilmEn-500k.smil?&amp;secure_token=aXNfZnJlZT0xJnNlcnZlcl90aW1lPTQvMjAvMjAxNCA3OjQ5OjI2IFBNJmhhc2hfdmFsdWU9NjVvZTA2ZjRBck01Q29BSUR6Qm1Ndz09JnZhbGlkbWludXRlcz0xMDA=&amp;dummpyext=.smil</page>
 <referer>http://www.telewebion.com/fa/live/ifilmEn/1000kb/%D9%BE%D8%AE%D8%B4-%D8%B2%D9%86%D8%AF%D9%87-IFilm-English-Live-channel-ifilm-english</referer>
 </regex>
@@ -83,16 +61,11 @@ rtmpe://s6.telewebion.com:1935/ app=live-secure?wmsAuthSign=$doregex[app] playpa
 
 <item>
 <title>پخش زنده شبکه بازار</title>
-<link>rtmpe://s6.telewebion.com:1935/ app=live-secure?wmsAuthSign=$doregex[app] playpath=$doregex[src] swfurl=http://www.telewebion.com/jwplayer_pro/6/jwplayer.flash.swf pageurl=http://www.telewebion.com/
+<link>
+rtmpe://s6.telewebion.com:1935/live-secure?wmsAuthSign=$doregex[app] playpath=$doregex[src] swfurl=http://www.telewebion.com/jwplayer_pro/68/jwplayer.flash.swf pageurl=http://www.telewebion.com/
 <regex>
 <name>app</name>
 <expres>wmsAuthSign=([^"]*)</expres>
-<page>http://smilserver.s3.telewebion.com/livesmil/bazar-500k.smil?&amp;secure_token=aXNfZnJlZT0xJnNlcnZlcl90aW1lPTQvMjAvMjAxNCA4OjA5OjAwIFBNJmhhc2hfdmFsdWU9MFBXaUlxTUVWWGxmaTN6c3BBRGJnQT09JnZhbGlkbWludXRlcz0xMDA=&amp;dummpyext=.smil</page>
-<referer>http://www.telewebion.com/fa/live/bazar/1000kb/%D9%BE%D8%AE%D8%B4-%D8%B2%D9%86%D8%AF%D9%87-%D8%B4%D8%A8%DA%A9%D9%87-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-Live-channel-bazar</referer>
-</regex>
-<regex>
-<name>src</name>
-<expres>src="([^"]*)</expres>
 <page>http://smilserver.s3.telewebion.com/livesmil/bazar-500k.smil?&amp;secure_token=aXNfZnJlZT0xJnNlcnZlcl90aW1lPTQvMjAvMjAxNCA4OjA5OjAwIFBNJmhhc2hfdmFsdWU9MFBXaUlxTUVWWGxmaTN6c3BBRGJnQT09JnZhbGlkbWludXRlcz0xMDA=&amp;dummpyext=.smil</page>
 <referer>http://www.telewebion.com/fa/live/bazar/1000kb/%D9%BE%D8%AE%D8%B4-%D8%B2%D9%86%D8%AF%D9%87-%D8%B4%D8%A8%DA%A9%D9%87-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-Live-channel-bazar</referer>
 </regex>
@@ -102,16 +75,11 @@ rtmpe://s6.telewebion.com:1935/ app=live-secure?wmsAuthSign=$doregex[app] playpa
 
 <item>
 <title>پخش زنده شبکه شما</title>
-<link>rtmpe://s6.telewebion.com:1935/ app=live-secure?wmsAuthSign=$doregex[app] playpath=$doregex[src] swfurl=http://www.telewebion.com/jwplayer_pro/6/jwplayer.flash.swf pageurl=http://www.telewebion.com/
+<link>
+rtmpe://s6.telewebion.com:1935/live-secure?wmsAuthSign=$doregex[app] playpath=$doregex[src] swfurl=http://www.telewebion.com/jwplayer_pro/68/jwplayer.flash.swf pageurl=http://www.telewebion.com/
 <regex>
 <name>app</name>
 <expres>wmsAuthSign=([^"]*)</expres>
-<page>http://smilserver.s3.telewebion.com/livesmil/shoma-500k.smil?&amp;secure_token=aXNfZnJlZT0xJnNlcnZlcl90aW1lPTQvMjAvMjAxNCA4OjEwOjMzIFBNJmhhc2hfdmFsdWU9V0dSL1FES3IwYkdjc2g2KytReTZuQT09JnZhbGlkbWludXRlcz0xMDA=&amp;dummpyext=.smil</page>
-<referer>http://www.telewebion.com/fa/live/shoma/1000kb/%D9%BE%D8%AE%D8%B4-%D8%B2%D9%86%D8%AF%D9%87-%D8%B4%D8%A8%DA%A9%D9%87-%D8%B4%D9%85%D8%A7-Live-channel-shoma</referer>
-</regex>
-<regex>
-<name>src</name>
-<expres>src="([^"]*)</expres>
 <page>http://smilserver.s3.telewebion.com/livesmil/shoma-500k.smil?&amp;secure_token=aXNfZnJlZT0xJnNlcnZlcl90aW1lPTQvMjAvMjAxNCA4OjEwOjMzIFBNJmhhc2hfdmFsdWU9V0dSL1FES3IwYkdjc2g2KytReTZuQT09JnZhbGlkbWludXRlcz0xMDA=&amp;dummpyext=.smil</page>
 <referer>http://www.telewebion.com/fa/live/shoma/1000kb/%D9%BE%D8%AE%D8%B4-%D8%B2%D9%86%D8%AF%D9%87-%D8%B4%D8%A8%DA%A9%D9%87-%D8%B4%D9%85%D8%A7-Live-channel-shoma</referer>
 </regex>
@@ -121,16 +89,11 @@ rtmpe://s6.telewebion.com:1935/ app=live-secure?wmsAuthSign=$doregex[app] playpa
 
 <item>
 <title>پخش زنده شبکه جام جم 2</title>
-<link>rtmpe://s6.telewebion.com:1935/ app=live-secure?wmsAuthSign=$doregex[app] playpath=$doregex[src] swfurl=http://www.telewebion.com/jwplayer_pro/6/jwplayer.flash.swf pageurl=http://www.telewebion.com/
+<link>
+rtmpe://s6.telewebion.com:1935/live-secure?wmsAuthSign=$doregex[app] playpath=$doregex[src] swfurl=http://www.telewebion.com/jwplayer_pro/68/jwplayer.flash.swf pageurl=http://www.telewebion.com/
 <regex>
 <name>app</name>
 <expres>wmsAuthSign=([^"]*)</expres>
-<page>http://smilserver.s3.telewebion.com/livesmil/jj2-500k.smil?&amp;secure_token=aXNfZnJlZT0xJnNlcnZlcl90aW1lPTQvMjAvMjAxNCA4OjExOjI4IFBNJmhhc2hfdmFsdWU9YmVzTTFOeUw0WW94TnJnQUIycnVTdz09JnZhbGlkbWludXRlcz0xMDA=&amp;dummpyext=.smil</page>
-<referer>http://www.telewebion.com/fa/live/jjtv2/1000kb/%D9%BE%D8%AE%D8%B4-%D8%B2%D9%86%D8%AF%D9%87-%D8%B4%D8%A8%DA%A9%D9%87-%D8%AC%D8%A7%D9%85-%D8%AC%D9%85-2-Live</referer>
-</regex>
-<regex>
-<name>src</name>
-<expres>src="([^"]*)</expres>
 <page>http://smilserver.s3.telewebion.com/livesmil/jj2-500k.smil?&amp;secure_token=aXNfZnJlZT0xJnNlcnZlcl90aW1lPTQvMjAvMjAxNCA4OjExOjI4IFBNJmhhc2hfdmFsdWU9YmVzTTFOeUw0WW94TnJnQUIycnVTdz09JnZhbGlkbWludXRlcz0xMDA=&amp;dummpyext=.smil</page>
 <referer>http://www.telewebion.com/fa/live/jjtv2/1000kb/%D9%BE%D8%AE%D8%B4-%D8%B2%D9%86%D8%AF%D9%87-%D8%B4%D8%A8%DA%A9%D9%87-%D8%AC%D8%A7%D9%85-%D8%AC%D9%85-2-Live</referer>
 </regex>
@@ -140,16 +103,11 @@ rtmpe://s6.telewebion.com:1935/ app=live-secure?wmsAuthSign=$doregex[app] playpa
 
 <item>
 <title>پخش زنده شبکه سلامت</title>
-<link>rtmpe://s6.telewebion.com:1935/ app=live-secure?wmsAuthSign=$doregex[app] playpath=$doregex[src] swfurl=http://www.telewebion.com/jwplayer_pro/6/jwplayer.flash.swf pageurl=http://www.telewebion.com/
+<link>
+rtmpe://s6.telewebion.com:1935/live-secure?wmsAuthSign=$doregex[app] playpath=$doregex[src] swfurl=http://www.telewebion.com/jwplayer_pro/68/jwplayer.flash.swf pageurl=http://www.telewebion.com/
 <regex>
 <name>app</name>
 <expres>wmsAuthSign=([^"]*)</expres>
-<page>http://smilserver.s3.telewebion.com/livesmil/salamat-500k.smil?&amp;secure_token=aXNfZnJlZT0xJnNlcnZlcl90aW1lPTQvMjAvMjAxNCA4OjEyOjEwIFBNJmhhc2hfdmFsdWU9bWRNdGZwY1QxTkEyQ0lZUzVjWFBQQT09JnZhbGlkbWludXRlcz0xMDA=&amp;dummpyext=.smil</page>
-<referer>http://www.telewebion.com/fa/live/salamat/1000kb/%D9%BE%D8%AE%D8%B4-%D8%B2%D9%86%D8%AF%D9%87-%D8%B4%D8%A8%DA%A9%D9%87-%D8%B3%D9%84%D8%A7%D9%85%D8%AA-Live-channel-salamat</referer>
-</regex>
-<regex>
-<name>src</name>
-<expres>src="([^"]*)</expres>
 <page>http://smilserver.s3.telewebion.com/livesmil/salamat-500k.smil?&amp;secure_token=aXNfZnJlZT0xJnNlcnZlcl90aW1lPTQvMjAvMjAxNCA4OjEyOjEwIFBNJmhhc2hfdmFsdWU9bWRNdGZwY1QxTkEyQ0lZUzVjWFBQQT09JnZhbGlkbWludXRlcz0xMDA=&amp;dummpyext=.smil</page>
 <referer>http://www.telewebion.com/fa/live/salamat/1000kb/%D9%BE%D8%AE%D8%B4-%D8%B2%D9%86%D8%AF%D9%87-%D8%B4%D8%A8%DA%A9%D9%87-%D8%B3%D9%84%D8%A7%D9%85%D8%AA-Live-channel-salamat</referer>
 </regex>
@@ -159,16 +117,11 @@ rtmpe://s6.telewebion.com:1935/ app=live-secure?wmsAuthSign=$doregex[app] playpa
 
 <item>
 <title>پخش زنده شبکه مستند سیما</title>
-<link>rtmpe://s6.telewebion.com:1935/ app=live-secure?wmsAuthSign=$doregex[app] playpath=$doregex[src] swfurl=http://www.telewebion.com/jwplayer_pro/6/jwplayer.flash.swf pageurl=http://www.telewebion.com/
+<link>
+rtmpe://s6.telewebion.com:1935/live-secure?wmsAuthSign=$doregex[app] playpath=$doregex[src] swfurl=http://www.telewebion.com/jwplayer_pro/68/jwplayer.flash.swf pageurl=http://www.telewebion.com/
 <regex>
 <name>app</name>
 <expres>wmsAuthSign=([^"]*)</expres>
-<page>http://smilserver.s3.telewebion.com/livesmil/mostanad-500k.smil?&amp;secure_token=aXNfZnJlZT0xJnNlcnZlcl90aW1lPTQvMjAvMjAxNCA4OjEzOjE3IFBNJmhhc2hfdmFsdWU9aDhWWmNNMEVWMXJEUTJLV0U2a0k4QT09JnZhbGlkbWludXRlcz0xMDA=&amp;dummpyext=.smil</page>
-<referer>http://www.telewebion.com/fa/live/mostanad/1000kb/%D9%BE%D8%AE%D8%B4-%D8%B2%D9%86%D8%AF%D9%87-%D8%B4%D8%A8%DA%A9%D9%87-%D9%85%D8%B3%D8%AA%D9%86%D8%AF-%D8%B3%DB%8C%D9%85%D8%A7-Live-channel-mostanad</referer>
-</regex>
-<regex>
-<name>src</name>
-<expres>src="([^"]*)</expres>
 <page>http://smilserver.s3.telewebion.com/livesmil/mostanad-500k.smil?&amp;secure_token=aXNfZnJlZT0xJnNlcnZlcl90aW1lPTQvMjAvMjAxNCA4OjEzOjE3IFBNJmhhc2hfdmFsdWU9aDhWWmNNMEVWMXJEUTJLV0U2a0k4QT09JnZhbGlkbWludXRlcz0xMDA=&amp;dummpyext=.smil</page>
 <referer>http://www.telewebion.com/fa/live/mostanad/1000kb/%D9%BE%D8%AE%D8%B4-%D8%B2%D9%86%D8%AF%D9%87-%D8%B4%D8%A8%DA%A9%D9%87-%D9%85%D8%B3%D8%AA%D9%86%D8%AF-%D8%B3%DB%8C%D9%85%D8%A7-Live-channel-mostanad</referer>
 </regex>
@@ -178,16 +131,11 @@ rtmpe://s6.telewebion.com:1935/ app=live-secure?wmsAuthSign=$doregex[app] playpa
 
 <item>
 <title>پخش زنده شبکه ورزش</title>
-<link>rtmpe://s6.telewebion.com:1935/ app=live-secure?wmsAuthSign=$doregex[app] playpath=$doregex[src] swfurl=http://www.telewebion.com/jwplayer_pro/6/jwplayer.flash.swf pageurl=http://www.telewebion.com/
+<link>
+rtmpe://s6.telewebion.com:1935/live-secure?wmsAuthSign=$doregex[app] playpath=$doregex[src] swfurl=http://www.telewebion.com/jwplayer_pro/68/jwplayer.flash.swf pageurl=http://www.telewebion.com/
 <regex>
 <name>app</name>
 <expres>wmsAuthSign=([^"]*)</expres>
-<page>http://smilserver.s3.telewebion.com/livesmil/varzesh-500k.smil?&amp;secure_token=aXNfZnJlZT0xJnNlcnZlcl90aW1lPTQvMjAvMjAxNCA4OjE4OjQxIFBNJmhhc2hfdmFsdWU9RjB5SGdkNjRWSHZjczNrRzFLUm5JQT09JnZhbGlkbWludXRlcz0xMDA=&amp;dummpyext=.smil</page>
-<referer>http://www.telewebion.com/fa/live/varzesh/500kb/%D9%BE%D8%AE%D8%B4-%D8%B2%D9%86%D8%AF%D9%87-%D8%B4%D8%A8%DA%A9%D9%87-%D9%88%D8%B1%D8%B2%D8%B4-Live-channel-varzesh</referer>
-</regex>
-<regex>
-<name>src</name>
-<expres>src="([^"]*)</expres>
 <page>http://smilserver.s3.telewebion.com/livesmil/varzesh-500k.smil?&amp;secure_token=aXNfZnJlZT0xJnNlcnZlcl90aW1lPTQvMjAvMjAxNCA4OjE4OjQxIFBNJmhhc2hfdmFsdWU9RjB5SGdkNjRWSHZjczNrRzFLUm5JQT09JnZhbGlkbWludXRlcz0xMDA=&amp;dummpyext=.smil</page>
 <referer>http://www.telewebion.com/fa/live/varzesh/500kb/%D9%BE%D8%AE%D8%B4-%D8%B2%D9%86%D8%AF%D9%87-%D8%B4%D8%A8%DA%A9%D9%87-%D9%88%D8%B1%D8%B2%D8%B4-Live-channel-varzesh</referer>
 </regex>
@@ -197,16 +145,11 @@ rtmpe://s6.telewebion.com:1935/ app=live-secure?wmsAuthSign=$doregex[app] playpa
 
 <item>
 <title>پخش زنده شبکه جام جم 1</title>
-<link>rtmpe://s6.telewebion.com:1935/ app=live-secure?wmsAuthSign=$doregex[app] playpath=$doregex[src] swfurl=http://www.telewebion.com/jwplayer_pro/6/jwplayer.flash.swf pageurl=http://www.telewebion.com/
+<link>
+rtmpe://s6.telewebion.com:1935/live-secure?wmsAuthSign=$doregex[app] playpath=$doregex[src] swfurl=http://www.telewebion.com/jwplayer_pro/68/jwplayer.flash.swf pageurl=http://www.telewebion.com/
 <regex>
 <name>app</name>
 <expres>wmsAuthSign=([^"]*)</expres>
-<page>http://smilserver.s3.telewebion.com/livesmil/jj1-500k.smil?&amp;secure_token=aXNfZnJlZT0xJnNlcnZlcl90aW1lPTQvMjAvMjAxNCA4OjIwOjA0IFBNJmhhc2hfdmFsdWU9N1NjRERxOUFPYW92MXgveHJ3VkRiUT09JnZhbGlkbWludXRlcz0xMDA=&amp;dummpyext=.smil</page>
-<referer>http://www.telewebion.com/fa/live/jjtv1/1000kb/%D9%BE%D8%AE%D8%B4-%D8%B2%D9%86%D8%AF%D9%87-%D8%B4%D8%A8%DA%A9%D9%87-%D8%AC%D8%A7%D9%85-%D8%AC%D9%85-1-Live-channel-jam-e-jam-1</referer>
-</regex>
-<regex>
-<name>src</name>
-<expres>src="([^"]*)</expres>
 <page>http://smilserver.s3.telewebion.com/livesmil/jj1-500k.smil?&amp;secure_token=aXNfZnJlZT0xJnNlcnZlcl90aW1lPTQvMjAvMjAxNCA4OjIwOjA0IFBNJmhhc2hfdmFsdWU9N1NjRERxOUFPYW92MXgveHJ3VkRiUT09JnZhbGlkbWludXRlcz0xMDA=&amp;dummpyext=.smil</page>
 <referer>http://www.telewebion.com/fa/live/jjtv1/1000kb/%D9%BE%D8%AE%D8%B4-%D8%B2%D9%86%D8%AF%D9%87-%D8%B4%D8%A8%DA%A9%D9%87-%D8%AC%D8%A7%D9%85-%D8%AC%D9%85-1-Live-channel-jam-e-jam-1</referer>
 </regex>
@@ -216,16 +159,11 @@ rtmpe://s6.telewebion.com:1935/ app=live-secure?wmsAuthSign=$doregex[app] playpa
 
 <item>
 <title>پخش زنده شبکه استانی سمنان</title>
-<link>rtmpe://s6.telewebion.com:1935/ app=live-secure?wmsAuthSign=$doregex[app] playpath=$doregex[src] swfurl=http://www.telewebion.com/jwplayer_pro/6/jwplayer.flash.swf pageurl=http://www.telewebion.com/
+<link>
+rtmpe://s6.telewebion.com:1935/live-secure?wmsAuthSign=$doregex[app] playpath=$doregex[src] swfurl=http://www.telewebion.com/jwplayer_pro/68/jwplayer.flash.swf pageurl=http://www.telewebion.com/
 <regex>
 <name>app</name>
 <expres>wmsAuthSign=([^"]*)</expres>
-<page>http://smilserver.s3.telewebion.com/livesmil/semnan-300k.smil?&amp;secure_token=aXNfZnJlZT0xJnNlcnZlcl90aW1lPTQvMjAvMjAxNCA4OjQ0OjU0IFBNJmhhc2hfdmFsdWU9RHV5YjF2WktybEZWSjN5UEdVcW5Odz09JnZhbGlkbWludXRlcz0xMDA=&amp;dummpyext=.smil</page>
-<referer>http://www.telewebion.com/fa/live/semnan/1000kb/%D9%BE%D8%AE%D8%B4-%D8%B2%D9%86%D8%AF%D9%87-%D8%B4%D8%A8%DA%A9%D9%87-%D8%A7%D8%B3%D8%AA%D8%A7%D9%86%DB%8C-%D8%B3%D9%85%D9%86%D8%A7%D9%86-Live-channel-semnan</referer>
-</regex>
-<regex>
-<name>src</name>
-<expres>src="([^"]*)</expres>
 <page>http://smilserver.s3.telewebion.com/livesmil/semnan-300k.smil?&amp;secure_token=aXNfZnJlZT0xJnNlcnZlcl90aW1lPTQvMjAvMjAxNCA4OjQ0OjU0IFBNJmhhc2hfdmFsdWU9RHV5YjF2WktybEZWSjN5UEdVcW5Odz09JnZhbGlkbWludXRlcz0xMDA=&amp;dummpyext=.smil</page>
 <referer>http://www.telewebion.com/fa/live/semnan/1000kb/%D9%BE%D8%AE%D8%B4-%D8%B2%D9%86%D8%AF%D9%87-%D8%B4%D8%A8%DA%A9%D9%87-%D8%A7%D8%B3%D8%AA%D8%A7%D9%86%DB%8C-%D8%B3%D9%85%D9%86%D8%A7%D9%86-Live-channel-semnan</referer>
 </regex>
@@ -235,16 +173,11 @@ rtmpe://s6.telewebion.com:1935/ app=live-secure?wmsAuthSign=$doregex[app] playpa
 
 <item>
 <title>پخش زنده شبکه استانی باران</title>
-<link>rtmpe://s6.telewebion.com:1935/ app=live-secure?wmsAuthSign=$doregex[app] playpath=$doregex[src] swfurl=http://www.telewebion.com/jwplayer_pro/6/jwplayer.flash.swf pageurl=http://www.telewebion.com/
+<link>
+rtmpe://s6.telewebion.com:1935/live-secure?wmsAuthSign=$doregex[app] playpath=$doregex[src] swfurl=http://www.telewebion.com/jwplayer_pro/68/jwplayer.flash.swf pageurl=http://www.telewebion.com/
 <regex>
 <name>app</name>
 <expres>wmsAuthSign=([^"]*)</expres>
-<page>http://smilserver.s3.telewebion.com/livesmil/baran-500k.smil?&amp;secure_token=aXNfZnJlZT0xJnNlcnZlcl90aW1lPTQvMjAvMjAxNCA4OjQ1OjQ0IFBNJmhhc2hfdmFsdWU9ZlNZcFB4MWIxTFIwMzZrdWR5enNFUT09JnZhbGlkbWludXRlcz0xMDA=&amp;dummpyext=.smil</page>
-<referer>http://www.telewebion.com/fa/live/baran/1000kb/%D9%BE%D8%AE%D8%B4-%D8%B2%D9%86%D8%AF%D9%87-%D8%B4%D8%A8%DA%A9%D9%87-%D8%A7%D8%B3%D8%AA%D8%A7%D9%86%DB%8C-%D8%A8%D8%A7%D8%B1%D8%A7%D9%86-Live-Baran-Channel</referer>
-</regex>
-<regex>
-<name>src</name>
-<expres>src="([^"]*)</expres>
 <page>http://smilserver.s3.telewebion.com/livesmil/baran-500k.smil?&amp;secure_token=aXNfZnJlZT0xJnNlcnZlcl90aW1lPTQvMjAvMjAxNCA4OjQ1OjQ0IFBNJmhhc2hfdmFsdWU9ZlNZcFB4MWIxTFIwMzZrdWR5enNFUT09JnZhbGlkbWludXRlcz0xMDA=&amp;dummpyext=.smil</page>
 <referer>http://www.telewebion.com/fa/live/baran/1000kb/%D9%BE%D8%AE%D8%B4-%D8%B2%D9%86%D8%AF%D9%87-%D8%B4%D8%A8%DA%A9%D9%87-%D8%A7%D8%B3%D8%AA%D8%A7%D9%86%DB%8C-%D8%A8%D8%A7%D8%B1%D8%A7%D9%86-Live-Baran-Channel</referer>
 </regex>
@@ -254,16 +187,11 @@ rtmpe://s6.telewebion.com:1935/ app=live-secure?wmsAuthSign=$doregex[app] playpa
 
 <item>
 <title>پخش زنده شبکه استانی خوزستان</title>
-<link>rtmpe://s6.telewebion.com:1935/ app=live-secure?wmsAuthSign=$doregex[app] playpath=$doregex[src] swfurl=http://www.telewebion.com/jwplayer_pro/6/jwplayer.flash.swf pageurl=http://www.telewebion.com/
+<link>
+rtmpe://s6.telewebion.com:1935/live-secure?wmsAuthSign=$doregex[app] playpath=$doregex[src] swfurl=http://www.telewebion.com/jwplayer_pro/68/jwplayer.flash.swf pageurl=http://www.telewebion.com/
 <regex>
 <name>app</name>
 <expres>wmsAuthSign=([^"]*)</expres>
-<page>http://smilserver.s3.telewebion.com/livesmil/khoozestan-500k.smil?&amp;secure_token=aXNfZnJlZT0xJnNlcnZlcl90aW1lPTQvMjAvMjAxNCA4OjQ2OjIxIFBNJmhhc2hfdmFsdWU9dTZKb0hrZE5qQUlQWlZOVmdVQmJrdz09JnZhbGlkbWludXRlcz0xMDA=&amp;dummpyext=.smil</page>
-<referer>http://www.telewebion.com/fa/live/channel9/1000kb/%D9%BE%D8%AE%D8%B4-%D8%B2%D9%86%D8%AF%D9%87-%D8%B4%D8%A8%DA%A9%D9%87-%D8%A7%D8%B3%D8%AA%D8%A7%D9%86%DB%8C-%D8%AE%D9%88%D8%B2%D8%B3%D8%AA%D8%A7%D9%86-Live-IRIB-Khoozestan</referer>
-</regex>
-<regex>
-<name>src</name>
-<expres>src="([^"]*)</expres>
 <page>http://smilserver.s3.telewebion.com/livesmil/khoozestan-500k.smil?&amp;secure_token=aXNfZnJlZT0xJnNlcnZlcl90aW1lPTQvMjAvMjAxNCA4OjQ2OjIxIFBNJmhhc2hfdmFsdWU9dTZKb0hrZE5qQUlQWlZOVmdVQmJrdz09JnZhbGlkbWludXRlcz0xMDA=&amp;dummpyext=.smil</page>
 <referer>http://www.telewebion.com/fa/live/channel9/1000kb/%D9%BE%D8%AE%D8%B4-%D8%B2%D9%86%D8%AF%D9%87-%D8%B4%D8%A8%DA%A9%D9%87-%D8%A7%D8%B3%D8%AA%D8%A7%D9%86%DB%8C-%D8%AE%D9%88%D8%B2%D8%B3%D8%AA%D8%A7%D9%86-Live-IRIB-Khoozestan</referer>
 </regex>
@@ -273,16 +201,11 @@ rtmpe://s6.telewebion.com:1935/ app=live-secure?wmsAuthSign=$doregex[app] playpa
 
 <item>
 <title>پخش زنده شبکه استانی فارس</title>
-<link>rtmpe://s6.telewebion.com:1935/ app=live-secure?wmsAuthSign=$doregex[app] playpath=$doregex[src] swfurl=http://www.telewebion.com/jwplayer_pro/6/jwplayer.flash.swf pageurl=http://www.telewebion.com/
+<link>
+rtmpe://s6.telewebion.com:1935/live-secure?wmsAuthSign=$doregex[app] playpath=$doregex[src] swfurl=http://www.telewebion.com/jwplayer_pro/68/jwplayer.flash.swf pageurl=http://www.telewebion.com/
 <regex>
 <name>app</name>
 <expres>wmsAuthSign=([^"]*)</expres>
-<page>http://smilserver.s3.telewebion.com/livesmil/fars-500k.smil?&amp;secure_token=aXNfZnJlZT0xJnNlcnZlcl90aW1lPTQvMjAvMjAxNCA4OjQ2OjU5IFBNJmhhc2hfdmFsdWU9Wmh2YnFBOGJGQkJpdzRQaDJUM2k1dz09JnZhbGlkbWludXRlcz0xMDA=&amp;dummpyext=.smil</page>
-<referer>http://www.telewebion.com/fa/live/fars/1000kb/%D9%BE%D8%AE%D8%B4-%D8%B2%D9%86%D8%AF%D9%87-%D8%B4%D8%A8%DA%A9%D9%87-%D8%A7%D8%B3%D8%AA%D8%A7%D9%86%DB%8C-%D9%81%D8%A7%D8%B1%D8%B3-Live-channel-fars</referer>
-</regex>
-<regex>
-<name>src</name>
-<expres>src="([^"]*)</expres>
 <page>http://smilserver.s3.telewebion.com/livesmil/fars-500k.smil?&amp;secure_token=aXNfZnJlZT0xJnNlcnZlcl90aW1lPTQvMjAvMjAxNCA4OjQ2OjU5IFBNJmhhc2hfdmFsdWU9Wmh2YnFBOGJGQkJpdzRQaDJUM2k1dz09JnZhbGlkbWludXRlcz0xMDA=&amp;dummpyext=.smil</page>
 <referer>http://www.telewebion.com/fa/live/fars/1000kb/%D9%BE%D8%AE%D8%B4-%D8%B2%D9%86%D8%AF%D9%87-%D8%B4%D8%A8%DA%A9%D9%87-%D8%A7%D8%B3%D8%AA%D8%A7%D9%86%DB%8C-%D9%81%D8%A7%D8%B1%D8%B3-Live-channel-fars</referer>
 </regex>
@@ -292,16 +215,11 @@ rtmpe://s6.telewebion.com:1935/ app=live-secure?wmsAuthSign=$doregex[app] playpa
 
 <item>
 <title>پخش زنده شبکه استانی سهند</title>
-<link>rtmpe://s6.telewebion.com:1935/ app=live-secure?wmsAuthSign=$doregex[app] playpath=$doregex[src] swfurl=http://www.telewebion.com/jwplayer_pro/6/jwplayer.flash.swf pageurl=http://www.telewebion.com/
+<link>
+rtmpe://s6.telewebion.com:1935/live-secure?wmsAuthSign=$doregex[app] playpath=$doregex[src] swfurl=http://www.telewebion.com/jwplayer_pro/68/jwplayer.flash.swf pageurl=http://www.telewebion.com/
 <regex>
 <name>app</name>
 <expres>wmsAuthSign=([^"]*)</expres>
-<page>http://smilserver.s3.telewebion.com/livesmil/sahand-500k.smil?&amp;secure_token=aXNfZnJlZT0xJnNlcnZlcl90aW1lPTQvMjAvMjAxNCA4OjQ4OjAwIFBNJmhhc2hfdmFsdWU9Z2puWUtORlBLZittY1NSNDlKcVV0Zz09JnZhbGlkbWludXRlcz0xMDA=&amp;dummpyext=.smil</page>
-<referer>http://www.telewebion.com/fa/live/sahand/1000kb/%D9%BE%D8%AE%D8%B4-%D8%B2%D9%86%D8%AF%D9%87-%D8%B4%D8%A8%DA%A9%D9%87-%D8%A7%D8%B3%D8%AA%D8%A7%D9%86%DB%8C-%D8%B3%D9%87%D9%86%D8%AF-Live-channel-sahand</referer>
-</regex>
-<regex>
-<name>src</name>
-<expres>src="([^"]*)</expres>
 <page>http://smilserver.s3.telewebion.com/livesmil/sahand-500k.smil?&amp;secure_token=aXNfZnJlZT0xJnNlcnZlcl90aW1lPTQvMjAvMjAxNCA4OjQ4OjAwIFBNJmhhc2hfdmFsdWU9Z2puWUtORlBLZittY1NSNDlKcVV0Zz09JnZhbGlkbWludXRlcz0xMDA=&amp;dummpyext=.smil</page>
 <referer>http://www.telewebion.com/fa/live/sahand/1000kb/%D9%BE%D8%AE%D8%B4-%D8%B2%D9%86%D8%AF%D9%87-%D8%B4%D8%A8%DA%A9%D9%87-%D8%A7%D8%B3%D8%AA%D8%A7%D9%86%DB%8C-%D8%B3%D9%87%D9%86%D8%AF-Live-channel-sahand</referer>
 </regex>
@@ -311,16 +229,11 @@ rtmpe://s6.telewebion.com:1935/ app=live-secure?wmsAuthSign=$doregex[app] playpa
 
 <item>
 <title>پخش زنده شبکه آموزش</title>
-<link>rtmpe://s6.telewebion.com:1935/ app=live-secure?wmsAuthSign=$doregex[app] playpath=$doregex[src] swfurl=http://www.telewebion.com/jwplayer_pro/6/jwplayer.flash.swf pageurl=http://www.telewebion.com/
+<link>
+rtmpe://s6.telewebion.com:1935/live-secure?wmsAuthSign=$doregex[app] playpath=$doregex[src] swfurl=http://www.telewebion.com/jwplayer_pro/68/jwplayer.flash.swf pageurl=http://www.telewebion.com/
 <regex>
 <name>app</name>
 <expres>wmsAuthSign=([^"]*)</expres>
-<page>http://smilserver.s3.telewebion.com/livesmil/amouzesh-500k.smil?&amp;secure_token=aXNfZnJlZT0xJnNlcnZlcl90aW1lPTQvMjAvMjAxNCA4OjQ4OjQwIFBNJmhhc2hfdmFsdWU9U1ZveDN2RzhLcnBUKzJkRVVkQkZxdz09JnZhbGlkbWludXRlcz0xMDA=&amp;dummpyext=.smil</page>
-<referer>http://www.telewebion.com/fa/live/amouzesh/1000kb/%D9%BE%D8%AE%D8%B4-%D8%B2%D9%86%D8%AF%D9%87-%D8%B4%D8%A8%DA%A9%D9%87-%D8%A2%D9%85%D9%88%D8%B2%D8%B4-Live-channel-amouzesh</referer>
-</regex>
-<regex>
-<name>src</name>
-<expres>src="([^"]*)</expres>
 <page>http://smilserver.s3.telewebion.com/livesmil/amouzesh-500k.smil?&amp;secure_token=aXNfZnJlZT0xJnNlcnZlcl90aW1lPTQvMjAvMjAxNCA4OjQ4OjQwIFBNJmhhc2hfdmFsdWU9U1ZveDN2RzhLcnBUKzJkRVVkQkZxdz09JnZhbGlkbWludXRlcz0xMDA=&amp;dummpyext=.smil</page>
 <referer>http://www.telewebion.com/fa/live/amouzesh/1000kb/%D9%BE%D8%AE%D8%B4-%D8%B2%D9%86%D8%AF%D9%87-%D8%B4%D8%A8%DA%A9%D9%87-%D8%A2%D9%85%D9%88%D8%B2%D8%B4-Live-channel-amouzesh</referer>
 </regex>
@@ -330,16 +243,11 @@ rtmpe://s6.telewebion.com:1935/ app=live-secure?wmsAuthSign=$doregex[app] playpa
 
 <item>
 <title>پخش زنده شبکه خبر</title>
-<link>rtmpe://s6.telewebion.com:1935/ app=live-secure?wmsAuthSign=$doregex[app] playpath=$doregex[src] swfurl=http://www.telewebion.com/jwplayer_pro/6/jwplayer.flash.swf pageurl=http://www.telewebion.com/
+<link>
+rtmpe://s6.telewebion.com:1935/live-secure?wmsAuthSign=$doregex[app] playpath=$doregex[src] swfurl=http://www.telewebion.com/jwplayer_pro/68/jwplayer.flash.swf pageurl=http://www.telewebion.com/
 <regex>
 <name>app</name>
 <expres>wmsAuthSign=([^"]*)</expres>
-<page>http://smilserver.s3.telewebion.com/livesmil/irinn-500k.smil?&amp;secure_token=aXNfZnJlZT0xJnNlcnZlcl90aW1lPTQvMjAvMjAxNCA4OjQ5OjE2IFBNJmhhc2hfdmFsdWU9TDIzNS9JaCtMYTNRQ3I5VDduL3JNQT09JnZhbGlkbWludXRlcz0xMDA=&amp;dummpyext=.smil</page>
-<referer>http://www.telewebion.com/fa/live/irinn/500kb/%D9%BE%D8%AE%D8%B4-%D8%B2%D9%86%D8%AF%D9%87-%D8%B4%D8%A8%DA%A9%D9%87-%D8%AE%D8%A8%D8%B1-Live-channel-irinn</referer>
-</regex>
-<regex>
-<name>src</name>
-<expres>src="([^"]*)</expres>
 <page>http://smilserver.s3.telewebion.com/livesmil/irinn-500k.smil?&amp;secure_token=aXNfZnJlZT0xJnNlcnZlcl90aW1lPTQvMjAvMjAxNCA4OjQ5OjE2IFBNJmhhc2hfdmFsdWU9TDIzNS9JaCtMYTNRQ3I5VDduL3JNQT09JnZhbGlkbWludXRlcz0xMDA=&amp;dummpyext=.smil</page>
 <referer>http://www.telewebion.com/fa/live/irinn/500kb/%D9%BE%D8%AE%D8%B4-%D8%B2%D9%86%D8%AF%D9%87-%D8%B4%D8%A8%DA%A9%D9%87-%D8%AE%D8%A8%D8%B1-Live-channel-irinn</referer>
 </regex>
@@ -349,16 +257,11 @@ rtmpe://s6.telewebion.com:1935/ app=live-secure?wmsAuthSign=$doregex[app] playpa
 
 <item>
 <title>پخش زنده شبکه تهران</title>
-<link>rtmpe://s6.telewebion.com:1935/ app=live-secure?wmsAuthSign=$doregex[app] playpath=$doregex[src] swfurl=http://www.telewebion.com/jwplayer_pro/6/jwplayer.flash.swf pageurl=http://www.telewebion.com/
+<link>
+rtmpe://s6.telewebion.com:1935/live-secure?wmsAuthSign=$doregex[app] playpath=$doregex[src] swfurl=http://www.telewebion.com/jwplayer_pro/68/jwplayer.flash.swf pageurl=http://www.telewebion.com/
 <regex>
 <name>app</name>
 <expres>wmsAuthSign=([^"]*)</expres>
-<page>http://smilserver.s3.telewebion.com/livesmil/tehran-500k.smil?&amp;secure_token=aXNfZnJlZT0xJnNlcnZlcl90aW1lPTQvMjAvMjAxNCA4OjUwOjA3IFBNJmhhc2hfdmFsdWU9MURuUE5wUFdFMUV2NythZG8xb05vZz09JnZhbGlkbWludXRlcz0xMDA=&amp;dummpyext=.smil</page>
-<referer>http://www.telewebion.com/fa/live/tehran/500kb/%D9%BE%D8%AE%D8%B4-%D8%B2%D9%86%D8%AF%D9%87-%D8%B4%D8%A8%DA%A9%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-Live-channel-tehran</referer>
-</regex>
-<regex>
-<name>src</name>
-<expres>src="([^"]*)</expres>
 <page>http://smilserver.s3.telewebion.com/livesmil/tehran-500k.smil?&amp;secure_token=aXNfZnJlZT0xJnNlcnZlcl90aW1lPTQvMjAvMjAxNCA4OjUwOjA3IFBNJmhhc2hfdmFsdWU9MURuUE5wUFdFMUV2NythZG8xb05vZz09JnZhbGlkbWludXRlcz0xMDA=&amp;dummpyext=.smil</page>
 <referer>http://www.telewebion.com/fa/live/tehran/500kb/%D9%BE%D8%AE%D8%B4-%D8%B2%D9%86%D8%AF%D9%87-%D8%B4%D8%A8%DA%A9%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-Live-channel-tehran</referer>
 </regex>
@@ -368,16 +271,11 @@ rtmpe://s6.telewebion.com:1935/ app=live-secure?wmsAuthSign=$doregex[app] playpa
 
 <item>
 <title>پخش زنده شبکه 4</title>
-<link>rtmpe://s6.telewebion.com:1935/ app=live-secure?wmsAuthSign=$doregex[app] playpath=$doregex[src] swfurl=http://www.telewebion.com/jwplayer_pro/6/jwplayer.flash.swf pageurl=http://www.telewebion.com/
+<link>
+rtmpe://s6.telewebion.com:1935/live-secure?wmsAuthSign=$doregex[app] playpath=$doregex[src] swfurl=http://www.telewebion.com/jwplayer_pro/68/jwplayer.flash.swf pageurl=http://www.telewebion.com/
 <regex>
 <name>app</name>
 <expres>wmsAuthSign=([^"]*)</expres>
-<page>http://smilserver.s3.telewebion.com/livesmil/tv4-500k.smil?&amp;secure_token=aXNfZnJlZT0xJnNlcnZlcl90aW1lPTQvMjAvMjAxNCA4OjUxOjMzIFBNJmhhc2hfdmFsdWU9dmtTbW16TFdGQkdCRnhDaTVYOUl6QT09JnZhbGlkbWludXRlcz0xMDA=&amp;dummpyext=.smil</page>
-<referer>http://www.telewebion.com/fa/live/tv4/500kb/%D9%BE%D8%AE%D8%B4-%D8%B2%D9%86%D8%AF%D9%87-%D8%B4%D8%A8%DA%A9%D9%87-4-Live-channel-4</referer>
-</regex>
-<regex>
-<name>src</name>
-<expres>src="([^"]*)</expres>
 <page>http://smilserver.s3.telewebion.com/livesmil/tv4-500k.smil?&amp;secure_token=aXNfZnJlZT0xJnNlcnZlcl90aW1lPTQvMjAvMjAxNCA4OjUxOjMzIFBNJmhhc2hfdmFsdWU9dmtTbW16TFdGQkdCRnhDaTVYOUl6QT09JnZhbGlkbWludXRlcz0xMDA=&amp;dummpyext=.smil</page>
 <referer>http://www.telewebion.com/fa/live/tv4/500kb/%D9%BE%D8%AE%D8%B4-%D8%B2%D9%86%D8%AF%D9%87-%D8%B4%D8%A8%DA%A9%D9%87-4-Live-channel-4</referer>
 </regex>
@@ -387,16 +285,11 @@ rtmpe://s6.telewebion.com:1935/ app=live-secure?wmsAuthSign=$doregex[app] playpa
 
 <item>
 <title>پخش زنده شبکه 3 (Link 2)</title>
-<link>rtmpe://s6.telewebion.com:1935/ app=live-secure?wmsAuthSign=$doregex[app] playpath=$doregex[src] swfurl=http://www.telewebion.com/jwplayer_pro/6/jwplayer.flash.swf pageurl=http://www.telewebion.com/
+<link>
+rtmpe://s6.telewebion.com:1935/live-secure?wmsAuthSign=$doregex[app] playpath=$doregex[src] swfurl=http://www.telewebion.com/jwplayer_pro/68/jwplayer.flash.swf pageurl=http://www.telewebion.com/
 <regex>
 <name>app</name>
 <expres>wmsAuthSign=([^"]*)</expres>
-<page>http://smilserver.s3.telewebion.com/livesmil/tv3-500k.smil?&amp;secure_token=aXNfZnJlZT0xJnNlcnZlcl90aW1lPTQvMjAvMjAxNCA4OjUyOjIyIFBNJmhhc2hfdmFsdWU9RmhsTTdxVWdtZysxeHo4YXlEWDBTdz09JnZhbGlkbWludXRlcz0xMDA=&amp;dummpyext=.smil</page>
-<referer>http://www.telewebion.com/fa/live/tv3/500kb/%D9%BE%D8%AE%D8%B4-%D8%B2%D9%86%D8%AF%D9%87-%D8%B4%D8%A8%DA%A9%D9%87-3-Live-channel-3</referer>
-</regex>
-<regex>
-<name>src</name>
-<expres>src="([^"]*)</expres>
 <page>http://smilserver.s3.telewebion.com/livesmil/tv3-500k.smil?&amp;secure_token=aXNfZnJlZT0xJnNlcnZlcl90aW1lPTQvMjAvMjAxNCA4OjUyOjIyIFBNJmhhc2hfdmFsdWU9RmhsTTdxVWdtZysxeHo4YXlEWDBTdz09JnZhbGlkbWludXRlcz0xMDA=&amp;dummpyext=.smil</page>
 <referer>http://www.telewebion.com/fa/live/tv3/500kb/%D9%BE%D8%AE%D8%B4-%D8%B2%D9%86%D8%AF%D9%87-%D8%B4%D8%A8%DA%A9%D9%87-3-Live-channel-3</referer>
 </regex>
@@ -406,16 +299,11 @@ rtmpe://s6.telewebion.com:1935/ app=live-secure?wmsAuthSign=$doregex[app] playpa
 
 <item>
 <title>پخش زنده شبکه 2</title>
-<link>rtmpe://s6.telewebion.com:1935/ app=live-secure?wmsAuthSign=$doregex[app] playpath=$doregex[src] swfurl=http://www.telewebion.com/jwplayer_pro/6/jwplayer.flash.swf pageurl=http://www.telewebion.com/
+<link>
+rtmpe://s6.telewebion.com:1935/live-secure?wmsAuthSign=$doregex[app] playpath=$doregex[src] swfurl=http://www.telewebion.com/jwplayer_pro/68/jwplayer.flash.swf pageurl=http://www.telewebion.com/
 <regex>
 <name>app</name>
 <expres>wmsAuthSign=([^"]*)</expres>
-<page>http://smilserver.s3.telewebion.com/livesmil/tv2-500k.smil?&amp;secure_token=aXNfZnJlZT0xJnNlcnZlcl90aW1lPTQvMjAvMjAxNCA4OjUzOjAzIFBNJmhhc2hfdmFsdWU9Z0NjQkluVGNPN1R4TVlHVHlBVW9NUT09JnZhbGlkbWludXRlcz0xMDA=&amp;dummpyext=.smil</page>
-<referer>http://www.telewebion.com/fa/live/tv2/500kb/%D9%BE%D8%AE%D8%B4-%D8%B2%D9%86%D8%AF%D9%87-%D8%B4%D8%A8%DA%A9%D9%87-2-Live-channel-2</referer>
-</regex>
-<regex>
-<name>src</name>
-<expres>src="([^"]*)</expres>
 <page>http://smilserver.s3.telewebion.com/livesmil/tv2-500k.smil?&amp;secure_token=aXNfZnJlZT0xJnNlcnZlcl90aW1lPTQvMjAvMjAxNCA4OjUzOjAzIFBNJmhhc2hfdmFsdWU9Z0NjQkluVGNPN1R4TVlHVHlBVW9NUT09JnZhbGlkbWludXRlcz0xMDA=&amp;dummpyext=.smil</page>
 <referer>http://www.telewebion.com/fa/live/tv2/500kb/%D9%BE%D8%AE%D8%B4-%D8%B2%D9%86%D8%AF%D9%87-%D8%B4%D8%A8%DA%A9%D9%87-2-Live-channel-2</referer>
 </regex>
@@ -425,16 +313,11 @@ rtmpe://s6.telewebion.com:1935/ app=live-secure?wmsAuthSign=$doregex[app] playpa
 
 <item>
 <title>پخش زنده شبکه 1</title>
-<link>rtmpe://s6.telewebion.com:1935/ app=live-secure?wmsAuthSign=$doregex[app] playpath=$doregex[src] swfurl=http://www.telewebion.com/jwplayer_pro/6/jwplayer.flash.swf pageurl=http://www.telewebion.com/
+<link>
+rtmpe://s6.telewebion.com:1935/live-secure?wmsAuthSign=$doregex[app] playpath=$doregex[src] swfurl=http://www.telewebion.com/jwplayer_pro/68/jwplayer.flash.swf pageurl=http://www.telewebion.com/
 <regex>
 <name>app</name>
 <expres>wmsAuthSign=([^"]*)</expres>
-<page>http://smilserver.s3.telewebion.com/livesmil/tv1-500k.smil?&amp;secure_token=aXNfZnJlZT0xJnNlcnZlcl90aW1lPTQvMjAvMjAxNCA4OjUzOjQxIFBNJmhhc2hfdmFsdWU9M1RtOGc0YmVBcHB1WWNla3EySnpZUT09JnZhbGlkbWludXRlcz0xMDA=&amp;dummpyext=.smil</page>
-<referer>http://www.telewebion.com/fa/live/tv1/500kb/%D9%BE%D8%AE%D8%B4-%D8%B2%D9%86%D8%AF%D9%87-%D8%B4%D8%A8%DA%A9%D9%87-1-Live-channel-1</referer>
-</regex>
-<regex>
-<name>src</name>
-<expres>src="([^"]*)</expres>
 <page>http://smilserver.s3.telewebion.com/livesmil/tv1-500k.smil?&amp;secure_token=aXNfZnJlZT0xJnNlcnZlcl90aW1lPTQvMjAvMjAxNCA4OjUzOjQxIFBNJmhhc2hfdmFsdWU9M1RtOGc0YmVBcHB1WWNla3EySnpZUT09JnZhbGlkbWludXRlcz0xMDA=&amp;dummpyext=.smil</page>
 <referer>http://www.telewebion.com/fa/live/tv1/500kb/%D9%BE%D8%AE%D8%B4-%D8%B2%D9%86%D8%AF%D9%87-%D8%B4%D8%A8%DA%A9%D9%87-1-Live-channel-1</referer>
 </regex>
@@ -444,16 +327,11 @@ rtmpe://s6.telewebion.com:1935/ app=live-secure?wmsAuthSign=$doregex[app] playpa
 
 <item>
 <title>پخش زنده شبکه استانی اصفهان</title>
-<link>rtmpe://s6.telewebion.com:1935/ app=live-secure?wmsAuthSign=$doregex[app] playpath=$doregex[src] swfurl=http://www.telewebion.com/jwplayer_pro/6/jwplayer.flash.swf pageurl=http://www.telewebion.com/
+<link>
+rtmpe://s6.telewebion.com:1935/live-secure?wmsAuthSign=$doregex[app] playpath=$doregex[src] swfurl=http://www.telewebion.com/jwplayer_pro/68/jwplayer.flash.swf pageurl=http://www.telewebion.com/
 <regex>
 <name>app</name>
 <expres>wmsAuthSign=([^"]*)</expres>
-<page>http://smilserver.s3.telewebion.com/livesmil/esfahan-500k.smil?&amp;secure_token=aXNfZnJlZT0xJnNlcnZlcl90aW1lPTQvMjAvMjAxNCA4OjU0OjI2IFBNJmhhc2hfdmFsdWU9ZEZjNWlxTWMweWJZay8yNzA2ZkMzdz09JnZhbGlkbWludXRlcz0xMDA=&amp;dummpyext=.smil</page>
-<referer>http://www.telewebion.com/fa/live/channel5/1000kb/%D9%BE%D8%AE%D8%B4-%D8%B2%D9%86%D8%AF%D9%87-%D8%B4%D8%A8%DA%A9%D9%87-%D8%A7%D8%B3%D8%AA%D8%A7%D9%86%DB%8C-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-Live-channel-esfahan</referer>
-</regex>
-<regex>
-<name>src</name>
-<expres>src="([^"]*)</expres>
 <page>http://smilserver.s3.telewebion.com/livesmil/esfahan-500k.smil?&amp;secure_token=aXNfZnJlZT0xJnNlcnZlcl90aW1lPTQvMjAvMjAxNCA4OjU0OjI2IFBNJmhhc2hfdmFsdWU9ZEZjNWlxTWMweWJZay8yNzA2ZkMzdz09JnZhbGlkbWludXRlcz0xMDA=&amp;dummpyext=.smil</page>
 <referer>http://www.telewebion.com/fa/live/channel5/1000kb/%D9%BE%D8%AE%D8%B4-%D8%B2%D9%86%D8%AF%D9%87-%D8%B4%D8%A8%DA%A9%D9%87-%D8%A7%D8%B3%D8%AA%D8%A7%D9%86%DB%8C-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-Live-channel-esfahan</referer>
 </regex>

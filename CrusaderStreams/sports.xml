@@ -7,7 +7,7 @@
 
 
 <info>
-<message>[COLOR=FFFF0000]Announcement(s): Updated Alriayadia Sport & Bein Sport Source 6 Again[/COLOR]</message>
+<message>[COLOR=FFFF0000]Announcement(s): Updated Source 3[/COLOR]</message>
 <thumbnail>http://upload.wikimedia.org/wikipedia/commons/3/32/The_flag_of_Syrian_Arab_Republic_Damascus%2C_Syria.jpg</thumbnail>
 </info>
 
@@ -331,7 +331,7 @@ $doregex[url] playpath=$doregex[file] swfUrl=$doregex[swf] pageUrl=http://www.hd
 <item>
 <title>Bein 11 (Link 2) [COLOR=FFFF0000]Updated Daily[/COLOR]  [COLOR=FF00FF00]Source 2[/COLOR]</title>
 <link>
-$doregex[streamer] swfUrl=http://www.eucast.tv/player5.9.swf live=true timeout=15 pageUrl=http://www.eucast.tv/embed.php?live=b11r&vw=620&vh=490
+$doregex[streamer] token=%bZve(nKa@#Z swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf live=true timeout=15 pageUrl=http://www.eucast.tv/embed.php?live=b11r&vw=620&vh=490
 <regex>
 <name>streamer</name>
 <expres>file: "([^"]*)</expres>
@@ -481,7 +481,7 @@ $doregex[url] playpath=$doregex[file] swfUrl=$doregex[swf] pageUrl=http://www.hd
 <item>
 <title>Bein 5 (Link 3) [COLOR=FFFF0000]Updated Daily[/COLOR]  [COLOR=FF00FF00]Source 2[/COLOR]</title>
 <link>
-$doregex[streamer] swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.eucast.tv/
+$doregex[streamer] token=%bZve(nKa@#Z swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.eucast.tv/
 <regex>
 <name>streamer</name>
 <expres>file: "([^"]*)</expres>
@@ -631,7 +631,7 @@ $doregex[file] swfUrl=http://www.castok.com/jwplayer/jwplayer.flash.swf live=tru
 <item>
 <title>Bein 3 (Link 4) [COLOR=FFFF0000]Updated Daily[/COLOR]  [COLOR=FF00FF00]Source 2[/COLOR]</title>
 <link>
-$doregex[streamer] swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.eucast.tv/
+$doregex[streamer] token=%bZve(nKa@#Z swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.eucast.tv/
 <regex>
 <name>streamer</name>
 <expres>file: "([^"]*)</expres>
@@ -723,7 +723,7 @@ $doregex[file] swfUrl=http://www.castok.com/jwplayer/jwplayer.flash.swf live=tru
 <item>
 <title>Bein 2 (Link 5) [COLOR=FFFF0000]Updated Daily[/COLOR]  [COLOR=FF00FF00]Source 2[/COLOR]</title>
 <link>
-$doregex[streamer] swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.eucast.tv/
+$doregex[streamer] token=%bZve(nKa@#Z swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.eucast.tv/
 <regex>
 <name>streamer</name>
 <expres>file: "([^"]*)</expres>
@@ -803,7 +803,7 @@ $doregex[file] swfUrl=http://www.castok.com/jwplayer/jwplayer.flash.swf live=tru
 <item>
 <title>Bein 4 (Link 3) [COLOR=FFFF0000]Updated Daily[/COLOR]  [COLOR=FF00FF00]Source 2[/COLOR]</title>
 <link>
-$doregex[streamer] swfUrl=http://www.eucast.tv/player5.9.swf live=true timeout=15 pageUrl=http://www.eucast.tv/embed.php?live=bb4&vw=620&vh=490
+$doregex[streamer] token=%bZve(nKa@#Z swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf live=true timeout=15 pageUrl=http://www.eucast.tv/embed.php?live=bb4&vw=620&vh=490
 <regex>
 <name>streamer</name>
 <expres>file: "([^"]*)</expres>
@@ -881,7 +881,7 @@ $doregex[url] playpath=$doregex[file] swfUrl=$doregex[swf] pageUrl=http://www.hd
 <item>
 <title>Bein 8 (Link 3) [COLOR=FFFF0000]Updated Daily[/COLOR]  [COLOR=FF00FF00]Source 2[/COLOR]</title>
 <link>
-$doregex[streamer] swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.eucast.tv/
+$doregex[streamer] token=%bZve(nKa@#Z swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.eucast.tv/
 <regex>
 <name>streamer</name>
 <expres>file: "([^"]*)</expres>
@@ -1031,7 +1031,7 @@ $doregex[file] swfUrl=http://www.castok.com/jwplayer/jwplayer.flash.swf live=tru
 <item>
 <title>Bein 1 (Link 5)[COLOR=FFFF0000]Updated Daily[/COLOR]  [COLOR=FF00FF00]Source 2[/COLOR]</title>
 <link>
-$doregex[streamer] swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.eucast.tv/
+$doregex[streamer] token=%bZve(nKa@#Z swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.eucast.tv/
 <regex>
 <name>streamer</name>
 <expres>file: "([^"]*)</expres>

@@ -6,7 +6,7 @@
 ##############################################################################################################################
 
 <info>
-<message>[COLOR=FFFF0000]Announcement(s): Updated Al Manar[/COLOR]</message>
+<message>[COLOR=FFFF0000]Announcement(s): Updated Qatar TV, Alan[/COLOR]</message>
 <thumbnail>http://upload.wikimedia.org/wikipedia/commons/3/32/The_flag_of_Syrian_Arab_Republic_Damascus%2C_Syria.jpg</thumbnail>
 </info>
 
@@ -24,8 +24,14 @@
 
 <item>
 <title>Al Manar</title>
-<link>rtmp://162.244.80.102/live playpath=livestream swfUrl=http://www.almanar.com.lb/style/player/4.2.90/mediaplayer.swf live=true timeout=15 pageUrl=http://www.almanar.com.lb/manarlive.php</link>
+<link>rtmp://72.55.164.21/live playpath=livestream swfUrl=http://www.almanar.com.lb/style/player/4.2.90/mediaplayer.swf live=true timeout=15 pageUrl=http://www.almanar.com.lb/manarlive.php</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/al_manar_tv.jpg</thumbnail>
+</item>
+
+<item>
+<title>Al Manar (Link 2)</title>
+<link>rtmp://38.96.148.200/live/ playpath=livestream swfUrl=http://cinema.rotana.net/it-works/jwplayer.flash.swf live=true timeout=15 pageUrl=http://www.arabichannels.com/manar.html</link>
+<thumbnail>http://blog.camera.org/archives/al%20Manar%20logo.jpg</thumbnail>
 </item>
 
 <item>

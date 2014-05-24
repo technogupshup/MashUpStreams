@@ -4,10 +4,11 @@
 <name>United Kingdom TV Channels</name>
 <thumbnail></thumbnail>
 
+
 <item>
 <title>Sky Sports 1</title>
 <link>
-$doregex[streamer] token=%bZve(nKa@#Z swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf live=true timeout=15 pageUrl=http://www.eucast.tv/
+$doregex[streamer] swfUrl=http://www.eucast.tv/player5.9.swf live=true timeout=15 pageUrl=http://www.eucast.tv/
 <regex>
 <name>streamer</name>
 <expres>file: "([^"]*)</expres>
@@ -21,7 +22,7 @@ $doregex[streamer] token=%bZve(nKa@#Z swfUrl=http://p.jwpcdn.com/6/8/jwplayer.fl
 <item>
 <title>Sky Sports 2</title>
 <link>
-$doregex[streamer] token=%bZve(nKa@#Z swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf live=true timeout=15 pageUrl=http://www.eucast.tv/
+$doregex[streamer] swfUrl=http://www.eucast.tv/player5.9.swf live=true timeout=15 pageUrl=http://www.eucast.tv/
 <regex>
 <name>streamer</name>
 <expres>file: "([^"]*)</expres>
@@ -35,7 +36,7 @@ $doregex[streamer] token=%bZve(nKa@#Z swfUrl=http://p.jwpcdn.com/6/8/jwplayer.fl
 <item>
 <title>Sky Sports 3</title>
 <link>
-$doregex[streamer] token=%bZve(nKa@#Z swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf live=true timeout=15 pageUrl=http://www.eucast.tv/
+$doregex[streamer] swfUrl=http://www.eucast.tv/player5.9.swf live=true timeout=15 pageUrl=http://www.eucast.tv/
 <regex>
 <name>streamer</name>
 <expres>file: "([^"]*)</expres>
@@ -49,7 +50,7 @@ $doregex[streamer] token=%bZve(nKa@#Z swfUrl=http://p.jwpcdn.com/6/8/jwplayer.fl
 <item>
 <title>Sky Sports F1</title>
 <link>
-$doregex[streamer] token=%bZve(nKa@#Z swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf live=true timeout=15 pageUrl=http://www.eucast.tv/
+$doregex[streamer] swfUrl=http://www.eucast.tv/player5.9.swf live=true timeout=15 pageUrl=http://www.eucast.tv/
 <regex>
 <name>streamer</name>
 <expres>file: "([^"]*)</expres>
@@ -63,7 +64,7 @@ $doregex[streamer] token=%bZve(nKa@#Z swfUrl=http://p.jwpcdn.com/6/8/jwplayer.fl
 <item>
 <title>Eurosport 2</title>
 <link>
-$doregex[streamer] token=%bZve(nKa@#Z swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf live=true timeout=15 pageUrl=http://www.eucast.tv/
+$doregex[streamer] swfUrl=http://www.eucast.tv/player5.9.swf live=true timeout=15 pageUrl=http://www.eucast.tv/
 <regex>
 <name>streamer</name>
 <expres>file: "([^"]*)</expres>
@@ -77,7 +78,7 @@ $doregex[streamer] token=%bZve(nKa@#Z swfUrl=http://p.jwpcdn.com/6/8/jwplayer.fl
 <item>
 <title>Eurosport 1</title>
 <link>
-$doregex[streamer] token=%bZve(nKa@#Z swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf live=true timeout=15 pageUrl=http://www.eucast.tv/
+$doregex[streamer] swfUrl=http://www.eucast.tv/player5.9.swf live=true timeout=15 pageUrl=http://www.eucast.tv/
 <regex>
 <name>streamer</name>
 <expres>file: "([^"]*)</expres>
@@ -91,7 +92,7 @@ $doregex[streamer] token=%bZve(nKa@#Z swfUrl=http://p.jwpcdn.com/6/8/jwplayer.fl
 <item>
 <title>Sky Sports 4</title>
 <link>
-$doregex[streamer] token=%bZve(nKa@#Z swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf live=true timeout=15 pageUrl=http://www.eucast.tv/
+$doregex[streamer] swfUrl=http://www.eucast.tv/player5.9.swf live=true timeout=15 pageUrl=http://www.eucast.tv/
 <regex>
 <name>streamer</name>
 <expres>file: "([^"]*)</expres>
@@ -105,7 +106,7 @@ $doregex[streamer] token=%bZve(nKa@#Z swfUrl=http://p.jwpcdn.com/6/8/jwplayer.fl
 <item>
 <title>Sky Sports News</title>
 <link>
-$doregex[streamer] token=%bZve(nKa@#Z swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf live=true timeout=15 pageUrl=http://www.eucast.tv/
+$doregex[streamer] swfUrl=http://www.eucast.tv/player5.9.swf live=true timeout=15 pageUrl=http://www.eucast.tv/
 <regex>
 <name>streamer</name>
 <expres>file: "([^"]*)</expres>

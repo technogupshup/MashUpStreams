@@ -7,7 +7,7 @@
 
 
 <info>
-<message>[COLOR=FFFF0000]Announcement(s): Updated Source 1[/COLOR]</message>
+<message>[COLOR=FFFF0000]Announcement(s): Updated Source 1, Alriayadia Sport[/COLOR]</message>
 <thumbnail>http://upload.wikimedia.org/wikipedia/commons/3/32/The_flag_of_Syrian_Arab_Republic_Damascus%2C_Syria.jpg</thumbnail>
 </info>
 
@@ -18,7 +18,7 @@
 
 <item>
 <title>Alriayadia Sport</title>
-<link>rtmp://tdsiptv.ddns.me/live playpath=ch276?code=83fb96c95242dfdf2aada1b9419e7176  swfUrl=http://www.livetv.tn/flowplayer-3.2.7.swf pageUrl=http://www.livetv.tn live=true timeout=15</link>
+<link>rtmp://206.190.153.70/live playpath=arryadia?id=12387 conn=S:OK swfUrl=http://www.janjua.tv/resources/scripts/eplayer.swf pageUrl=http://www.janjua.tv/embedplayer/arryadia/1/500/400live=true timeout=15</link>
 <thumbnail>http://www.livetv.tn/images/icons/276.gif</thumbnail>
 </item>
 

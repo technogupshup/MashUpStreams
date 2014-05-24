@@ -7,7 +7,7 @@
 
 
 <info>
-<message>[COLOR=FFFF0000]Announcement(s): Fixed A Lot Of Arabic Channels Again [/COLOR]</message>
+<message>[COLOR=FFFF0000]Announcement(s): Added Channels[/COLOR]</message>
 <thumbnail>http://upload.wikimedia.org/wikipedia/commons/3/32/The_flag_of_Syrian_Arab_Republic_Damascus%2C_Syria.jpg</thumbnail>
 </info>
 
@@ -48,8 +48,15 @@
 </item>
 
 <item>
-<title>Abu Dubai</title>
-<link>rtmp://tdsiptv.ddns.me/live playpath=ch80?code=83fb96c95242dfdf2aada1b9419e7176  swfUrl=http://www.livetv.tn/flowplayer-3.2.7.swf pageUrl=http://www.livetv.tn live=true timeout=15</link>
+<title>Abu Dubai  [COLOR=FFFF0000]Geo Blocked In Some Areas[/COLOR]</title>
+<link>$doregex[url]
+<regex>
+<name>url</name>
+<expres>file: "([^"]*)</expres>
+<page>http://www.giniko.com/watch.php?id=80</page>
+<referer> </referer>
+</regex>
+</link>
 <thumbnail>http://www.livetv.tn/images/icons/80.gif</thumbnail>
 </item>
 	
@@ -150,12 +157,6 @@
 </item>
 
 <item>
-<title>NBN</title>
-<link>rtmp://tdsiptv.ddns.me/live playpath=ch146?code=83fb96c95242dfdf2aada1b9419e7176  swfUrl=http://www.livetv.tn/flowplayer-3.2.7.swf pageUrl=http://www.livetv.tn/ live=true timeout=15</link>
-<thumbnail>http://upload.wikimedia.org/wikipedia/en/1/14/Nbn_lebanon.png</thumbnail>
-</item>
-
-<item>
 <title>Art Aflam</title>
 <link>rtmp://tdsiptv.ddns.me/live playpath=ch40?code=83fb96c95242dfdf2aada1b9419e7176  swfUrl=http://www.livetv.tn/flowplayer-3.2.7.swf pageUrl=http://www.livetv.tn live=true timeout=15</link>
 <thumbnail>http://images1.wikia.nocookie.net/__cb20100312152517/logopedia/images/thumb/6/69/ART_logo.png/150px-ART_logo.png</thumbnail>
@@ -174,12 +175,6 @@
 </item>
 	
 <item>
-<title>MBC Action (Link 2)</title>
-<link>rtmp://tdsiptv.ddns.me/live playpath=ch34?code=83fb96c95242dfdf2aada1b9419e7176  swfUrl=http://www.livetv.tn/flowplayer-3.2.7.swf pageUrl=http://www.livetv.tn live=true timeout=15</link>
-<thumbnail>http://upload.wikimedia.org/wikipedia/ar/3/37/MBC-Action.jpg</thumbnail>
-</item>
-	
-<item>
 <title>MBC Drama</title>
 <link>rtmp://85.91.143.20/ app=96514/ playpath=96514.stream swfUrl=http://www.watchfomny.net/jwplayer/jwplayer.flash.swf pageUrl=http://www.watchfomny.net/Video/Arabic/MBC/pop.php timeout=15</link>
 <thumbnail>http://www.tv-arab.net/Logos/logo_tv_mm_mbc_drama_ae.jpg</thumbnail>
@@ -187,12 +182,18 @@
 
 <item>
 <title>Al Sumaria</title>
-<link>rtmp://tdsiptv.ddns.me/live playpath=ch87?code=83fb96c95242dfdf2aada1b9419e7176  swfUrl=http://www.livetv.tn/flowplayer-3.2.7.swf pageUrl=http://www.livetv.tn live=true timeout=15</link>
+<link>http://livestreaming2.itworkscdn.net/sumarialive/smil:sumariamob.smil/playlist.m3u8</link>
 <thumbnail>http://www.livetv.tn/images/icons/87.gif</thumbnail>
 </item>	
 
 <item>
-<title>Al Thania</title>
+<title>Egypt 1</title>
+<link>rtmp://livestreaming4.onlinehorizons.net/ app=ERTUCH1 playpath=livestream swfUrl=http://onlinehorizons.net/livestreaming/ertu/player.swf pageUrl=http://onlinehorizons.net/livestreaming/ertu/indexch1.html timeout=15</link>
+<thumbnail>http://www.tv14.net/images/ERTU_TV_Satellite.JPG</thumbnail>
+</item>	
+
+<item>
+<title>Egypt 2</title>
 <link>rtmp://tdsiptv.ddns.me/live playpath=ch89?code=83fb96c95242dfdf2aada1b9419e7176  swfUrl=http://www.livetv.tn/flowplayer-3.2.7.swf pageUrl=http://www.livetv.tn live=true timeout=15</link>
 <thumbnail>http://www.livetv.tn/images/icons/89.gif</thumbnail>
 </item>	
@@ -277,7 +278,7 @@
 
 <item>
 <title>Panorama Drama 2</title>
-<link>rtmp://tdsiptv.ddns.me/live playpath=ch115?code=83fb96c95242dfdf2aada1b9419e7176  swfUrl=http://www.livetv.tn/flowplayer-3.2.7.swf pageUrl=http://www.livetv.tn live=true timeout=15</link>
+<link>http://38.99.146.42:7777/PanoramaDrama2.m3u8</link>
 <thumbnail>http://www.etfarag.com/ChannelsImages/Panorama%20Drama%202black.gif</thumbnail>
 </item>
 
@@ -349,7 +350,7 @@
 
 <item>
 <title>MBC Maser</title>
-<link>rtmp://tdsiptv.ddns.me/live playpath=ch37?code=83fb96c95242dfdf2aada1b9419e7176  swfUrl=http://www.livetv.tn/flowplayer-3.2.7.swf pageUrl=http://www.livetv.tn live=true timeout=15</link>
+<link>rtmp://109.123.123.68/live playpath=nnm54?id=10371 conn=S:OK swfUrl=http://www.janjua.tv/resources/scripts/eplayer.swf pageUrl=http://www.janjua.tv/embedplayer/nnm54/1/600/450 live=true timeout=15</link>
 <thumbnail>http://jazarah.net/ar/wp-content/uploads/2012/10/MBC-MASR-logo.jpg</thumbnail>
 </item>
 
@@ -447,6 +448,91 @@
 <title>NBN  [COLOR=FFFF0000]Geo Blocked In Some Areas[/COLOR]</title>
 <link>rtmp://lived.nbn.com.lb/nbn playpath=mpegts.stream live=true timeout=15 pageurl=http://www.nbn.com.lb/live/</link>
 <thumbnail>http://upload.wikimedia.org/wikipedia/en/1/14/Nbn_lebanon.png</thumbnail>
+</item>
+
+<item>
+<title>Rotana Cinema</title>
+<link>rtmp://$doregex[url] app=live/$doregex[key] playpath=2615.low.stream swfUrl=http://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf pageUrl=http://www.filmon.com live=true timeout=15
+<regex>
+<name>url</name>
+<expres>"low".*rtmp:....([^\\]*)</expres>
+<page>http://www.filmon.com/tv/channel/export?channel_id=2615</page>
+</regex>
+<regex>
+<name>key</name>
+<expres>"low".*rtmp[^?]*(\?id=[^"]*)</expres>
+<page>http://www.filmon.com/tv/channel/export?channel_id=2615</page>
+</regex>
+</link>
+<thumbnail>http://www.web-medias.net/uploads/thumbs/4d623b58a-1.jpg</thumbnail>
+</item>
+
+<item>
+<title>Rotana Aflam</title>
+<link>rtmp://$doregex[url] app=live/$doregex[key] playpath=2618.low.stream swfUrl=http://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf pageUrl=http://www.filmon.com live=true timeout=15
+<regex>
+<name>url</name>
+<expres>"low".*rtmp:....([^\\]*)</expres>
+<page>http://www.filmon.com/tv/channel/export?channel_id=2618</page>
+</regex>
+<regex>
+<name>key</name>
+<expres>"low".*rtmp[^?]*(\?id=[^"]*)</expres>
+<page>http://www.filmon.com/tv/channel/export?channel_id=2618</page>
+</regex>
+</link>
+<thumbnail>http://www.web-medias.net/uploads/thumbs/3c06e1980-1.jpg</thumbnail>
+</item>
+
+<item>
+<title>Rotana Masriya</title>
+<link>rtmp://$doregex[url] app=live/$doregex[key] playpath=2612.low.stream swfUrl=http://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf pageUrl=http://www.filmon.com live=true timeout=15
+<regex>
+<name>url</name>
+<expres>"low".*rtmp:....([^\\]*)</expres>
+<page>http://www.filmon.com/tv/channel/export?channel_id=2612</page>
+</regex>
+<regex>
+<name>key</name>
+<expres>"low".*rtmp[^?]*(\?id=[^"]*)</expres>
+<page>http://www.filmon.com/tv/channel/export?channel_id=2612</page>
+</regex>
+</link>
+<thumbnail>http://www.web-medias.net/uploads/thumbs/df2b3d314-1.jpg</thumbnail>
+</item>
+
+<item>
+<title>Rotana Clip</title>
+<link>rtmp://$doregex[url] app=live/$doregex[key] playpath=2603.low.stream swfUrl=http://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf pageUrl=http://www.filmon.com live=true timeout=15
+<regex>
+<name>url</name>
+<expres>"low".*rtmp:....([^\\]*)</expres>
+<page>http://www.filmon.com/tv/channel/export?channel_id=2603</page>
+</regex>
+<regex>
+<name>key</name>
+<expres>"low".*rtmp[^?]*(\?id=[^"]*)</expres>
+<page>http://www.filmon.com/tv/channel/export?channel_id=2603</page>
+</regex>
+</link>
+<thumbnail>http://www.web-medias.net/uploads/thumbs/47b902f57-1.jpg</thumbnail>
+</item>
+
+<item>
+<title>Rotana Khalijia</title>
+<link>rtmp://$doregex[url] app=live/$doregex[key] playpath=2606.low.stream swfUrl=http://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf pageUrl=http://www.filmon.com live=true timeout=15
+<regex>
+<name>url</name>
+<expres>"low".*rtmp:....([^\\]*)</expres>
+<page>http://www.filmon.com/tv/channel/export?channel_id=2606</page>
+</regex>
+<regex>
+<name>key</name>
+<expres>"low".*rtmp[^?]*(\?id=[^"]*)</expres>
+<page>http://www.filmon.com/tv/channel/export?channel_id=2606</page>
+</regex>
+</link>
+<thumbnail>http://www.web-medias.net/uploads/thumbs/221525aa7-1.jpg</thumbnail>
 </item>
 
 <item>
@@ -591,5 +677,3 @@
 <link>rtmp://46.165.210.32/live playpath=aflam4youddd?id=152675 conn=S:OK swfUrl=http://mips.tv/content/scripts/eplayer.swf live=true timeout=15 pageUrl=http://mips.tv/embedplayer/aflam4youddd/1/600/380</link>
 <thumbnail>http://www.waleg.com/images/mbc-bollywood.jpg</thumbnail>
 </item>
-
-

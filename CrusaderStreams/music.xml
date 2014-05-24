@@ -6,7 +6,7 @@
 ##############################################################################################################################
 
 <info>
-<message>[COLOR=FFFF0000]Announcement(s): Fixed Channels Again[/COLOR]</message>
+<message>[COLOR=FFFF0000]Announcement(s): Added Channel[/COLOR]</message>
 <thumbnail>http://upload.wikimedia.org/wikipedia/commons/3/32/The_flag_of_Syrian_Arab_Republic_Damascus%2C_Syria.jpg</thumbnail>
 </info>
 
@@ -56,4 +56,21 @@
 <title>Haneen</title>
 <link>rtmp://tdsiptv.ddns.me/live playpath=ch83?code=83fb96c95242dfdf2aada1b9419e7176  swfUrl=http://www.livetv.tn/flowplayer-3.2.7.swf pageUrl=http://www.livetv.tn live=true timeout=15</link>
 <thumbnail> </thumbnail>
+</item>
+
+<item>
+<title>Rotana Music</title>
+<link>rtmp://$doregex[url] app=live/$doregex[key] playpath=2600.low.stream swfUrl=http://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf pageUrl=http://www.filmon.com live=true timeout=15
+<regex>
+<name>url</name>
+<expres>"low".*rtmp:....([^\\]*)</expres>
+<page>http://www.filmon.com/tv/channel/export?channel_id=2600</page>
+</regex>
+<regex>
+<name>key</name>
+<expres>"low".*rtmp[^?]*(\?id=[^"]*)</expres>
+<page>http://www.filmon.com/tv/channel/export?channel_id=2600</page>
+</regex>
+</link>
+<thumbnail>http://images.my-tv.us/Portal/LibraryCustom/Photos/Channels/LogoBig/rotanamusic-103151.png</thumbnail>
 </item>

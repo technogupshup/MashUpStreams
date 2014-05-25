@@ -63,16 +63,16 @@
 <item>
 <title>Bein 9 [COLOR=FFFF0000]Updated Daily[/COLOR]  [COLOR=FF00FF00]Source 1[/COLOR]</title>
 <link>
-$doregex[url] playpath=$doregex[file] swfUrl=http://cdn.watchjsc.us/jwplayer.swf pageUrl=http://www.hdcast.org/ token=Fo5_n0w?U.rA6l3-70w47ch swfVfy=true live=true timeout=15
+rtmpe://$doregex[url]:$doregex[url]/redirect playpath=$doregex[file] swfUrl=http://cdn.watchjsc.us/jwplayer.swf pageUrl=http://www.hdcast.org/ token=Fo5_n0w?U.rA6l3-70w47ch swfVfy=true live=true timeout=15
 <regex>
 <name>url</name>
-<expres>'streamer':           '(.*)'</expres>
+<expres>([\.\d]+)</expres>
 <page>http://cdn.watchjsc.us/embed.php?u=bein9&amp;vw=640&amp;vh=460&amp;domain=hdfoots.com</page>
 <referer>http://hdfoots.com/watch/beinsports-9-live-stream.php</referer>
 </regex>
 <regex>
 <name>file</name>
-<expres>'file':               '(.*)'</expres>
+<expres>'file':               '([^']*)</expres>
 <page>http://cdn.watchjsc.us/embed.php?u=bein9&amp;vw=640&amp;vh=460&amp;domain=hdfoots.com</page>
 <referer>http://hdfoots.com/watch/beinsports-9-live-stream.php</referer>
 </regex>

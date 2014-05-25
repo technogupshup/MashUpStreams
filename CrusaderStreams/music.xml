@@ -6,7 +6,7 @@
 ##############################################################################################################################
 
 <info>
-<message>[COLOR=FFFF0000]Announcement(s): Added Channel[/COLOR]</message>
+<message>[COLOR=FFFF0000]Announcement(s): Added Channel, Updated Channels[/COLOR]</message>
 <thumbnail>http://upload.wikimedia.org/wikipedia/commons/3/32/The_flag_of_Syrian_Arab_Republic_Damascus%2C_Syria.jpg</thumbnail>
 </info>
 
@@ -17,8 +17,8 @@
 </item>
 
 <item>
-<title>Aghanina</title>
-<link>rtmp://tdsiptv.ddns.me/live playpath=ch81?code=83fb96c95242dfdf2aada1b9419e7176  swfUrl=http://www.livetv.tn/flowplayer-3.2.7.swf pageUrl=http://www.livetv.tn live=true  timeout=15</link>
+<title>Aghanina  [COLOR=FFFF0000]Gotham Compatible Only[/COLOR]</title>
+<link>plugin://plugin.video.jtv.archives/?mode=get_channel&amp;name=aghanina2014&amp;play=true</link>
 <thumbnail>http://www.livetv.tn/images/icons/81.gif</thumbnail>
 </item>
 
@@ -53,9 +53,9 @@
 </item>
 
 <item>
-<title>Haneen</title>
-<link>rtmp://tdsiptv.ddns.me/live playpath=ch83?code=83fb96c95242dfdf2aada1b9419e7176  swfUrl=http://www.livetv.tn/flowplayer-3.2.7.swf pageUrl=http://www.livetv.tn live=true timeout=15</link>
-<thumbnail> </thumbnail>
+<title>Haneen Music  [COLOR=FFFF0000]Gotham Compatible Only[/COLOR]</title>
+<link>plugin://plugin.video.jtv.archives/?mode=get_channel&amp;name=musichaneentv&amp;play=true</link>
+<thumbnail>http://www.livetv.tn/images/icons/83.gif</thumbnail>
 </item>
 
 <item>

@@ -290,7 +290,7 @@
 
 <item>
 <title>Palestine</title>
-<link>rtmp://tdsiptv.ddns.me/live playpath=ch100?code=83fb96c95242dfdf2aada1b9419e7176  swfUrl=http://www.livetv.tn/flowplayer-3.2.7.swf pageUrl=http://www.livetv.tn live=true timeout=15</link>
+<link>rtmp://vstream2.hadara.ps:1935/pbc playpath=pbc_1 swfUrl=http://www.arabztv.net/player.swf pageUrl=http://www.megalivestream.com/palestine-tv/ live=true timeout=15</link>
 <thumbnail>http://www.megalivestream.com/wp-content/uploads/2013/07/Palestine-TV-570x172_c.png</thumbnail>
 </item>
 

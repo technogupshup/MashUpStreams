@@ -18,8 +18,7 @@
 <expres>id0=([^']*)</expres>
 <page>http://www.teledunet.com/mobile/?con</page>
 <referer>http://www.teledunet.com/</referer>
-</regex>
-</link>
+</regex></link>
 <thumbnail></thumbnail>
 </item>
 

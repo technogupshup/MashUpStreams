@@ -12,7 +12,7 @@ rtmpe://s6.telewebion.com:1935/live-secure?wmsAuthSign=$doregex[app] playpath=ta
 <name>app</name>
 <expres>window.hls_links.push\(\[.*500[^=]*=([^&]*)</expres>
 <page>http://www.telewebion.com/fa/live/tamasha/1000kb/%D9%BE%D8%AE%D8%B4-%D8%B2%D9%86%D8%AF%D9%87-%D8%B4%D8%A8%DA%A9%D9%87-%D8%AA%D9%85%D8%A7%D8%B4%D8%A7-Live-channel-tamasha</page>
-<page>http://www.telewebion.com/</referer>
+<referer>http://www.telewebion.com/</referer>
 </regex>
 </link>
 <thumbnail>http://www.telewebion.com/content_images/channel_images/thumbs/50_6512bd43d9caa6e02c990b0a82652dca.png</thumbnail>
@@ -26,6 +26,7 @@ rtmpe://s6.telewebion.com:1935/live-secure?wmsAuthSign=$doregex[app] playpath=na
 <name>app</name>
 <expres>window.hls_links.push\(\[.*500[^=]*=([^&]*)</expres>
 <page>http://www.telewebion.com/fa/live/namayesh/1000kb/%D9%BE%D8%AE%D8%B4-%D8%B2%D9%86%D8%AF%D9%87-%D8%B4%D8%A8%DA%A9%D9%87-%D9%86%D9%85%D8%A7%DB%8C%D8%B4-Live-channel-namayesh</page>
+<referer>http://www.telewebion.com/</referer>
 </regex>
 </link>
 <thumbnail>http://www.telewebion.com/content_images/channel_images/thumbs/50_d3d9446802a44259755d38e6d163e820.jpg</thumbnail>
@@ -39,6 +40,7 @@ rtmpe://s6.telewebion.com:1935/live-secure?wmsAuthSign=$doregex[app] playpath=if
 <name>app</name>
 <expres>window.hls_links.push\(\[.*500[^=]*=([^&]*)</expres>
 <page>http://www.telewebion.com/fa/live/ifilm/1000kb/%D9%BE%D8%AE%D8%B4-%D8%B2%D9%86%D8%AF%D9%87-%D8%B4%D8%A8%DA%A9%D9%87-IFilm-Live</page>
+<referer>http://www.telewebion.com/</referer>
 </regex>
 </link>
 <thumbnail>http://www.telewebion.com/content_images/channel_images/thumbs/50_45c48cce2e2d7fbdea1afc51c7c6ad26.png</thumbnail>
@@ -52,6 +54,7 @@ rtmpe://s6.telewebion.com:1935/live-secure?wmsAuthSign=$doregex[app] playpath=if
 <name>app</name>
 <expres>window.hls_links.push\(\[.*500[^=]*=([^&]*)</expres>
 <page>http://www.telewebion.com/fa/live/ifilmEn/1000kb/%D9%BE%D8%AE%D8%B4-%D8%B2%D9%86%D8%AF%D9%87-IFilm-English-Live-channel-ifilm-english</page>
+<referer>http://www.telewebion.com/</referer>
 </regex>
 </link>
 <thumbnail>http://www.telewebion.com/content_images/channel_images/thumbs/50_6ea9ab1baa0efb9e19094440c317e21b.jpg</thumbnail>
@@ -65,6 +68,7 @@ rtmpe://s6.telewebion.com:1935/live-secure?wmsAuthSign=$doregex[app] playpath=ba
 <name>app</name>
 <expres>window.hls_links.push\(\[.*500[^=]*=([^&]*)</expres>
 <page>http://www.telewebion.com/fa/live/bazar/1000kb/%D9%BE%D8%AE%D8%B4-%D8%B2%D9%86%D8%AF%D9%87-%D8%B4%D8%A8%DA%A9%D9%87-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-Live-channel-bazar</page>
+<referer>http://www.telewebion.com/</referer>
 </regex>
 </link>
 <thumbnail>http://www.telewebion.com/content_images/channel_images/thumbs/50_8e296a067a37563370ded05f5a3bf3ec.jpg</thumbnail>
@@ -78,6 +82,7 @@ rtmpe://s6.telewebion.com:1935/live-secure?wmsAuthSign=$doregex[app] playpath=sh
 <name>app</name>
 <expres>window.hls_links.push\(\[.*500[^=]*=([^&]*)</expres>
 <page>http://www.telewebion.com/fa/live/shoma/1000kb/%D9%BE%D8%AE%D8%B4-%D8%B2%D9%86%D8%AF%D9%87-%D8%B4%D8%A8%DA%A9%D9%87-%D8%B4%D9%85%D8%A7-Live-channel-shoma</page>
+<referer>http://www.telewebion.com/</referer>
 </regex>
 </link>
 <thumbnail>http://www.telewebion.com/content_images/channel_images/thumbs/50_1ff1de774005f8da13f42943881c655f.jpg</thumbnail>
@@ -91,6 +96,7 @@ rtmpe://s6.telewebion.com:1935/live-secure?wmsAuthSign=$doregex[app] playpath=jj
 <name>app</name>
 <expres>window.hls_links.push\(\[.*500[^=]*=([^&]*)</expres>
 <page>http://www.telewebion.com/fa/live/jjtv2/1000kb/%D9%BE%D8%AE%D8%B4-%D8%B2%D9%86%D8%AF%D9%87-%D8%B4%D8%A8%DA%A9%D9%87-%D8%AC%D8%A7%D9%85-%D8%AC%D9%85-2-Live</page>
+<referer>http://www.telewebion.com/</referer>
 </regex>
 </link>
 <thumbnail>http://www.telewebion.com/content_images/channel_images/thumbs/50_b6d767d2f8ed5d21a44b0e5886680cb9.gif</thumbnail>
@@ -104,6 +110,7 @@ rtmpe://s6.telewebion.com:1935/live-secure?wmsAuthSign=$doregex[app] playpath=sa
 <name>app</name>
 <expres>window.hls_links.push\(\[.*500[^=]*=([^&]*)</expres>
 <page>http://www.telewebion.com/fa/live/salamat/1000kb/%D9%BE%D8%AE%D8%B4-%D8%B2%D9%86%D8%AF%D9%87-%D8%B4%D8%A8%DA%A9%D9%87-%D8%B3%D9%84%D8%A7%D9%85%D8%AA-Live-channel-salamat</page>
+<referer>http://www.telewebion.com/</referer>
 </regex>
 </link>
 <thumbnail>http://www.telewebion.com/content_images/channel_images/thumbs/50_3c59dc048e8850243be8079a5c74d079.jpg</thumbnail>
@@ -117,6 +124,7 @@ rtmpe://s6.telewebion.com:1935/live-secure?wmsAuthSign=$doregex[app] playpath=mo
 <name>app</name>
 <expres>window.hls_links.push\(\[.*500[^=]*=([^&]*)</expres>
 <page>http://www.telewebion.com/fa/live/mostanad/1000kb/%D9%BE%D8%AE%D8%B4-%D8%B2%D9%86%D8%AF%D9%87-%D8%B4%D8%A8%DA%A9%D9%87-%D9%85%D8%B3%D8%AA%D9%86%D8%AF-%D8%B3%DB%8C%D9%85%D8%A7-Live-channel-mostanad</page>
+<referer>http://www.telewebion.com/</referer>
 </regex>
 </link>
 <thumbnail>http://www.telewebion.com/content_images/channel_images/thumbs/50_1f0e3dad99908345f7439f8ffabdffc4.png</thumbnail>
@@ -130,6 +138,7 @@ rtmpe://s6.telewebion.com:1935/live-secure?wmsAuthSign=$doregex[app] playpath=va
 <name>app</name>
 <expres>window.hls_links.push\(\[.*500[^=]*=([^&]*)</expres>
 <page>http://www.telewebion.com/fa/live/varzesh/500kb/%D9%BE%D8%AE%D8%B4-%D8%B2%D9%86%D8%AF%D9%87-%D8%B4%D8%A8%DA%A9%D9%87-%D9%88%D8%B1%D8%B2%D8%B4-Live-channel-varzesh</page>
+<referer>http://www.telewebion.com/</referer>
 </regex>
 </link>
 <thumbnail>http://www.telewebion.com/content_images/channel_images/thumbs/50_c51ce410c124a10e0db5e4b97fc2af39.jpg</thumbnail>
@@ -143,6 +152,7 @@ rtmpe://s6.telewebion.com:1935/live-secure?wmsAuthSign=$doregex[app] playpath=jj
 <name>app</name>
 <expres>window.hls_links.push\(\[.*500[^=]*=([^&]*)</expres>
 <page>http://www.telewebion.com/fa/live/jjtv1/1000kb/%D9%BE%D8%AE%D8%B4-%D8%B2%D9%86%D8%AF%D9%87-%D8%B4%D8%A8%DA%A9%D9%87-%D8%AC%D8%A7%D9%85-%D8%AC%D9%85-1-Live-channel-jam-e-jam-1</page>
+<referer>http://www.telewebion.com/</referer>
 </regex>
 </link>
 <thumbnail>http://www.telewebion.com/content_images/channel_images/thumbs/50_c20ad4d76fe97759aa27a0c99bff6710.gif</thumbnail>
@@ -155,6 +165,7 @@ rtmpe://s6.telewebion.com:1935/live-secure?wmsAuthSign=$doregex[app] playpath=se
 <regex>
 <name>app</name>
 <expres>window.hls_links.push\(\[.*500[^=]*=([^&]*)</expres>
+<referer>http://www.telewebion.com/</referer>
 <page>http://www.telewebion.com/fa/live/semnan/1000kb/%D9%BE%D8%AE%D8%B4-%D8%B2%D9%86%D8%AF%D9%87-%D8%B4%D8%A8%DA%A9%D9%87-%D8%A7%D8%B3%D8%AA%D8%A7%D9%86%DB%8C-%D8%B3%D9%85%D9%86%D8%A7%D9%86-Live-channel-semnan</page>
 </regex>
 </link>
@@ -169,6 +180,7 @@ rtmpe://s6.telewebion.com:1935/live-secure?wmsAuthSign=$doregex[app] playpath=ba
 <name>app</name>
 <expres>window.hls_links.push\(\[.*500[^=]*=([^&]*)</expres>
 <page>http://www.telewebion.com/fa/live/baran/1000kb/%D9%BE%D8%AE%D8%B4-%D8%B2%D9%86%D8%AF%D9%87-%D8%B4%D8%A8%DA%A9%D9%87-%D8%A7%D8%B3%D8%AA%D8%A7%D9%86%DB%8C-%D8%A8%D8%A7%D8%B1%D8%A7%D9%86-Live-Baran-Channel</page>
+<referer>http://www.telewebion.com/</referer>
 </regex>
 </link>
 <thumbnail>http://www.telewebion.com/content_images/channel_images/thumbs/50_e369853df766fa44e1ed0ff613f563bd.png</thumbnail>
@@ -182,6 +194,7 @@ rtmpe://s6.telewebion.com:1935/live-secure?wmsAuthSign=$doregex[app] playpath=ch
 <name>app</name>
 <expres>window.hls_links.push\(\[.*500[^=]*=([^&]*)</expres>
 <page>http://www.telewebion.com/fa/live/channel9/1000kb/%D9%BE%D8%AE%D8%B4-%D8%B2%D9%86%D8%AF%D9%87-%D8%B4%D8%A8%DA%A9%D9%87-%D8%A7%D8%B3%D8%AA%D8%A7%D9%86%DB%8C-%D8%AE%D9%88%D8%B2%D8%B3%D8%AA%D8%A7%D9%86-Live-IRIB-Khoozestan</page>
+<referer>http://www.telewebion.com/</referer>
 </regex>
 </link>
 <thumbnail>http://www.telewebion.com/content_images/channel_images/thumbs/50_182be0c5cdcd5072bb1864cdee4d3d6e.jpg</thumbnail>
@@ -195,6 +208,7 @@ rtmpe://s6.telewebion.com:1935/live-secure?wmsAuthSign=$doregex[app] playpath=fa
 <name>app</name>
 <expres>window.hls_links.push\(\[.*500[^=]*=([^&]*)</expres>
 <page>http://www.telewebion.com/fa/live/fars/1000kb/%D9%BE%D8%AE%D8%B4-%D8%B2%D9%86%D8%AF%D9%87-%D8%B4%D8%A8%DA%A9%D9%87-%D8%A7%D8%B3%D8%AA%D8%A7%D9%86%DB%8C-%D9%81%D8%A7%D8%B1%D8%B3-Live-channel-fars</page>
+<referer>http://www.telewebion.com/</referer>
 </regex>
 </link>
 <thumbnail>http://www.telewebion.com/content_images/channel_images/thumbs/50_6364d3f0f495b6ab9dcf8d3b5c6e0b01.png</thumbnail>
@@ -208,6 +222,7 @@ rtmpe://s6.telewebion.com:1935/live-secure?wmsAuthSign=$doregex[app] playpath=sa
 <name>app</name>
 <expres>window.hls_links.push\(\[.*500[^=]*=([^&]*)</expres>
 <page>http://www.telewebion.com/fa/live/sahand/1000kb/%D9%BE%D8%AE%D8%B4-%D8%B2%D9%86%D8%AF%D9%87-%D8%B4%D8%A8%DA%A9%D9%87-%D8%A7%D8%B3%D8%AA%D8%A7%D9%86%DB%8C-%D8%B3%D9%87%D9%86%D8%AF-Live-channel-sahand</page>
+<referer>http://www.telewebion.com/</referer>
 </regex>
 </link>
 <thumbnail>http://www.telewebion.com/content_images/channel_images/thumbs/50_c16a5320fa475530d9583c34fd356ef5.jpg</thumbnail>
@@ -221,6 +236,7 @@ rtmpe://s6.telewebion.com:1935/live-secure?wmsAuthSign=$doregex[app] playpath=am
 <name>app</name>
 <expres>window.hls_links.push\(\[.*500[^=]*=([^&]*)</expres>
 <page>http://www.telewebion.com/fa/live/amouzesh/1000kb/%D9%BE%D8%AE%D8%B4-%D8%B2%D9%86%D8%AF%D9%87-%D8%B4%D8%A8%DA%A9%D9%87-%D8%A2%D9%85%D9%88%D8%B2%D8%B4-Live-channel-amouzesh</page>
+<referer>http://www.telewebion.com/</referer>
 </regex>
 </link>
 <thumbnail>http://www.telewebion.com/content_images/channel_images/thumbs/50_8f14e45fceea167a5a36dedd4bea2543.jpg</thumbnail>
@@ -234,6 +250,7 @@ rtmpe://s6.telewebion.com:1935/live-secure?wmsAuthSign=$doregex[app] playpath=ir
 <name>app</name>
 <expres>window.hls_links.push\(\[.*500[^=]*=([^&]*)</expres>
 <page>http://www.telewebion.com/fa/live/irinn/500kb/%D9%BE%D8%AE%D8%B4-%D8%B2%D9%86%D8%AF%D9%87-%D8%B4%D8%A8%DA%A9%D9%87-%D8%AE%D8%A8%D8%B1-Live-channel-irinn</page>
+<referer>http://www.telewebion.com/</referer>
 </regex>
 </link>
 <thumbnail>http://www.telewebion.com/content_images/channel_images/thumbs/50_1679091c5a880faf6fb5e6087eb1b2dc.jpg</thumbnail>
@@ -247,6 +264,7 @@ rtmpe://s6.telewebion.com:1935/live-secure?wmsAuthSign=$doregex[app] playpath=te
 <name>app</name>
 <expres>window.hls_links.push\(\[.*500[^=]*=([^&]*)</expres>
 <page>http://www.telewebion.com/fa/live/tehran/500kb/%D9%BE%D8%AE%D8%B4-%D8%B2%D9%86%D8%AF%D9%87-%D8%B4%D8%A8%DA%A9%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-Live-channel-tehran</page>
+<referer>http://www.telewebion.com/</referer>
 </regex>
 </link>
 <thumbnail>http://www.telewebion.com/content_images/channel_images/thumbs/50_e4da3b7fbbce2345d7772b0674a318d5.jpg</thumbnail>
@@ -260,6 +278,7 @@ rtmpe://s6.telewebion.com:1935/live-secure?wmsAuthSign=$doregex[app] playpath=tv
 <name>app</name>
 <expres>window.hls_links.push\(\[.*500[^=]*=([^&]*)</expres>
 <page>http://www.telewebion.com/fa/live/tv4/500kb/%D9%BE%D8%AE%D8%B4-%D8%B2%D9%86%D8%AF%D9%87-%D8%B4%D8%A8%DA%A9%D9%87-4-Live-channel-4</page>
+<referer>http://www.telewebion.com/</referer>
 </regex>
 </link>
 <thumbnail>http://www.telewebion.com/content_images/channel_images/thumbs/50_a87ff679a2f3e71d9181a67b7542122c.jpg</thumbnail>
@@ -273,6 +292,7 @@ rtmpe://s6.telewebion.com:1935/live-secure?wmsAuthSign=$doregex[app] playpath=tv
 <name>app</name>
 <expres>window.hls_links.push\(\[.*500[^=]*=([^&]*)</expres>
 <page>http://www.telewebion.com/fa/live/tv3/500kb/%D9%BE%D8%AE%D8%B4-%D8%B2%D9%86%D8%AF%D9%87-%D8%B4%D8%A8%DA%A9%D9%87-3-Live-channel-3</page>
+<referer>http://www.telewebion.com/</referer>
 </regex>
 </link>
 <thumbnail>http://www.telewebion.com/content_images/channel_images/thumbs/50_eccbc87e4b5ce2fe28308fd9f2a7baf3.jpg</thumbnail>
@@ -286,6 +306,7 @@ rtmpe://s6.telewebion.com:1935/live-secure?wmsAuthSign=$doregex[app] playpath=tv
 <name>app</name>
 <expres>window.hls_links.push\(\[.*500[^=]*=([^&]*)</expres>
 <page>http://www.telewebion.com/fa/live/tv2/500kb/%D9%BE%D8%AE%D8%B4-%D8%B2%D9%86%D8%AF%D9%87-%D8%B4%D8%A8%DA%A9%D9%87-2-Live-channel-2</page>
+<referer>http://www.telewebion.com/</referer>
 </regex>
 </link>
 <thumbnail>http://www.telewebion.com/content_images/channel_images/thumbs/50_c81e728d9d4c2f636f067f89cc14862c.jpg</thumbnail>
@@ -299,6 +320,7 @@ rtmpe://s6.telewebion.com:1935/live-secure?wmsAuthSign=$doregex[app] playpath=tv
 <name>app</name>
 <expres>window.hls_links.push\(\[.*500[^=]*=([^&]*)</expres>
 <page>http://www.telewebion.com/fa/live/tv1/500kb/%D9%BE%D8%AE%D8%B4-%D8%B2%D9%86%D8%AF%D9%87-%D8%B4%D8%A8%DA%A9%D9%87-1-Live-channel-1</page>
+<referer>http://www.telewebion.com/</referer>
 </regex>
 </link>
 <thumbnail>http://www.telewebion.com/content_images/channel_images/thumbs/50_c4ca4238a0b923820dcc509a6f75849b.jpg</thumbnail>
@@ -312,6 +334,7 @@ rtmpe://s6.telewebion.com:1935/live-secure?wmsAuthSign=$doregex[app] playpath=es
 <name>app</name>
 <expres>window.hls_links.push\(\[.*500[^=]*=([^&]*)</expres>
 <page>http://www.telewebion.com/fa/live/channel5/1000kb/%D9%BE%D8%AE%D8%B4-%D8%B2%D9%86%D8%AF%D9%87-%D8%B4%D8%A8%DA%A9%D9%87-%D8%A7%D8%B3%D8%AA%D8%A7%D9%86%DB%8C-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-Live-channel-esfahan</page>
+<referer>http://www.telewebion.com/</referer>
 </regex>
 </link>
 <thumbnail>http://www.telewebion.com/content_images/channel_images/thumbs/50_34173cb38f07f89ddbebc2ac9128303f.jpg</thumbnail>

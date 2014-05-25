@@ -12,14 +12,15 @@
 
 <item>
 <title>action</title>
-<link>rtmp://178.33.241.201:1935/teledunet playpath=mbc_action swfUrl=http://www.teledunet.com/mobile/player.swf?id0=$doregex[id]&amp;channel=mbc_action live=true timeout=15 flashVer=WIN12,0,0,77 pageUrl=http://www.teledunet.com/mobile/?con</link>
-<thumbnail></thumbnail>
+<link>rtmp://178.33.241.201:1935/teledunet playpath=mbc_action swfUrl=http://www.teledunet.com/mobile/player.swf?id0=$doregex[id]&amp;channel=mbc_action live=true timeout=15 flashVer=WIN12,0,0,77 pageUrl=http://www.teledunet.com/mobile/?con
 <regex>
 <name>id</name>
 <expres>id0=([^']*)</expres>
 <page>http://www.teledunet.com/mobile/?con</page>
 <referer>http://www.teledunet.com/</referer>
 </regex>
+</link>
+<thumbnail></thumbnail>
 </item>
 
 <item>

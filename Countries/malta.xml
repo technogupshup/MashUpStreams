@@ -12,20 +12,13 @@ x <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 <item>
 <title>TVM</title>
-<link>http://tvm.23video.com/stream/8733521/291209fd73739a0d5956/playlist.m3u8</link>
+<link>https://live.23video.com/live/amlst:qh5l45rebmm9f3g1d086j9stia:8733521-291209fd73739a0d5956.mp4/chunklist_b928000.m3u8</link>
 <thumbnail>http://www.tvm.com.mt/wp-content/themes/pbs/images/logo-tvm.png</thumbnail>
 </item>
 
 <item>
 <title>TVM 2</title>
-<link>$doregex[url]
-<regex>
-<name>url</name>
-<expres>"hls_stream": "([^"]*)</expres>
-<page>http://tvm.23video.com/api/concatenate?callback=visualplatformconcat_0&amp;format=json&amp;playersettings_0=%2Fapi%2Fplayer%2Fsettings%3Fplayer_id%3D0%26parameters%3Dlive%25255fid%253D8733527%2526source%253Dembed%2526autoPlay%253D1&amp;livelist_1=%2Fapi%2Flive%2Flist%3Flive_id%3D8733527%26source%3Dembed%26autoPlay%3D1%26upcoming_p%3D1%26ordering%3Dstreaming%26player_id%3D0&amp;photolist_2=%2Fapi%2Fphoto%2Flist%3Fsize%3D10%26include_actions_p%3D1%26live_id%3D8733527%26source%3Dembed%26autoPlay%3D1%26upcoming_p%3D1%26ordering%3Dstreaming%26player_id%3D0</page>
-<referer>http://tvm.23video.com/v.ihtml/player.html?live%5fid=8733527&amp;source=embed&amp;autoPlay=1</referer>
-</regex>
-</link>
+<link>https://live.23video.com/live/amlst:8814eg87tsb6fae1ldfc3sakbp:8733527-aeb4143013c13f2ad7cf.mp4/chunklist_b928000.m3u8</link>
 <thumbnail>http://www.tvm.com.mt/wp-content/themes/pbs/images/img-live-tvm2.jpg</thumbnail>
 </item>
 

@@ -11,6 +11,13 @@
 </info>
 
 <item>
+<title>*TEST</title>
+<link>http://purplestream.streamguys.com/thanthitv/smil:thanthitv.smil/manifest.f4m</link>
+<thumbnail>http://i82.servimg.com/u/f82/17/28/12/40/egypti10.png</thumbnail>
+</item>
+
+
+<item>
 <title>Al Masria</title>
 <link>rtmp://livestreaming4.onlinehorizons.net/ app=ERTUEgy playpath=livestream swfUrl=http://onlinehorizons.net/livestreaming/ertu/player.swf live=true timeout=15 pageUrl=http://onlinehorizons.net/livestreaming/ertu/index.html</link>
 <thumbnail>http://i82.servimg.com/u/f82/17/28/12/40/egypti10.png</thumbnail>

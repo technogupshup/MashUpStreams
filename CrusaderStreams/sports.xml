@@ -101,6 +101,12 @@ $doregex[streamer] playpath=$doregex[file] swfUrl=http://static.castalba.tv/play
 </item>
 
 <item>
+<title>test</title>
+<link>http://purplestream.streamguys.com/thanthitv/smil:thanthitv.smil/manifest.f4m<link>
+<thumbnail> </thumbnail>
+</item>
+
+<item>
 <title>Bein 10  [COLOR=FFFF0000]Updated Daily[/COLOR]  [COLOR=FF00FF00]Source 1[/COLOR]</title>
 <link>
 $doregex[url] playpath=$doregex[file] swfUrl=http://cdn.watchjsc.us/jwplayer.swf pageUrl=http://www.hdcast.org/ token=Fo5_n0w?U.rA6l3-70w47ch swfVfy=true live=true timeout=15

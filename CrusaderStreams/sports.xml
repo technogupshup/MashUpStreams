@@ -102,7 +102,7 @@ $doregex[streamer] playpath=$doregex[file] swfUrl=http://static.castalba.tv/play
 
 <item>
 <title>test</title>
-<link>http://purplestream.streamguys.com/thanthitv/smil:thanthitv.smil/manifest.f4m<link>
+<link>http://purplestream.streamguys.com/thanthitv/smil:thanthitv.smil/manifest.f4m</link>
 <thumbnail> </thumbnail>
 </item>
 

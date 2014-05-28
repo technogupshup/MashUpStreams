@@ -18,7 +18,7 @@
 
 <item>
 <title>Tolo</title>
-<link>http://38.117.88.77/Tolo?TICKET/path/to/media.file</link>
+<link>rtmp://146.185.18.42/zenex playpath=6tol5tv1?id=112 conn=S:OK swfUrl=http://www.zenex.tv/data/scripts/eplayer.swf pageUrl=http://www.zenex.tv/embedplayer/6tol5tv1/1/670/410</link>
 <thumbnail>http://upload.wikimedia.org/wikipedia/en/0/01/Tolo.jpg</thumbnail>
 </item>
 
@@ -41,19 +41,13 @@
 </item>
 
 <item>
-<title>Ariana International TV</title>
-<link>rtsp://50.97.117.4/AFG-AINT-PACIFIC</link>
-<thumbnail>http://www.afghancart.com/Tshortcut/7.jpg</thumbnail>
-</item>
-
-<item>
 <title>Gem Dari</title>
 <link>rtmp://iriptv.com/iriptvserver3 playpath=29.stream swfUrl=http://iriptv.com/player/player.swf pageUrl=http://iriptv.com/web/index.php</link>
 <thumbnail>http://www.gemdari.tv/images/logo_gemtv.png</thumbnail>
 </item>
 
 <item>
-<title>Noor</title>
+<title>Noor [COLOR=FFFF0000]Noor TV has moved to ATN News[/COLOR]</title>
 <link>http://38.117.88.77/Noor?TICKET/path/to/media.file</link>
 <thumbnail>http://www.afghansongs.com/wp-content/uploads/2012/05/noortv_logo.jpg</thumbnail>
 </item>

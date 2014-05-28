@@ -96,12 +96,6 @@
 </item>
 
 <item>
-<title>OTV Lebanon</title>
-<link>rtmp://livestreaming4.itworkscdn.com/otv playpath=otvlive swfUrl=http://www.otv.com.lb/otvent/jwplayer.flash.swf live=true timeout=15 pageUrl=http://www.otv.com.lb/otvent/live.php</link>
-<thumbnail>http://www.fanoos.com/ia/otv_orange_television.jpg</thumbnail>
-</item>
-
-<item>
 <title>Qatar TV</title>
 <link>http://qtv-i.akamaihd.net/hls/live/213233/QTV/s_16s20.m3u8</link>
 <thumbnail>http://upload.wikimedia.org/wikipedia/commons/0/01/Qatar_TV_Logo.png</thumbnail>

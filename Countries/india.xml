@@ -6,7 +6,7 @@
 
 <item>
 <title>Star Gold</title>
-<link>http://154.57.145.109/flv/4e0e6f4dcc2d3/testat123?0.46408090833574533</link>
+<link>http://154.57.145.116/flv/4e2c5fd04592d/testat123?0.32803061651065946</link>
 <thumbnail>http://images.wikia.com/logopedia/images/f/f0/Star_Gold_2011.png</thumbnail>
 </item>
 
@@ -450,7 +450,7 @@ rtmp://live.wmncdn.net/saamtv/ playpath=$doregex[video] swfUrl=http://player-eme
 
 <item>
 <title>Star Movies</title>
-<link>http://154.57.145.109/flv/52f96bcbe352d/testat123?0.8957246309146285</link>
+<link>http://154.57.145.119/flv/52d8af0b180fe/testat123?0.9139038850553334</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ss/star_movies_tw_hd.png</thumbnail>
 </item>
 </channel>

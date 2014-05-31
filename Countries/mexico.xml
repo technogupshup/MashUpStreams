@@ -60,13 +60,11 @@ $doregex[streamer] playpath=$doregex[file] swfUrl=http://static.castalba.tv/play
 <name>streamer</name>
 <expres>'streamer': '([^']*)</expres>
 <page>http://castalba.tv/channel/20639</page>
-<referer> </referer>
 </regex>
 <regex>
 <name>file</name>
 <expres>'file': '([^']*)</expres>
 <page>http://castalba.tv/channel/20639</page>
-<referer> </referer>
 </regex>
 </link>
 <thumbnail>http://influentialaccess.files.wordpress.com/2012/03/telemundo.jpg</thumbnail>
@@ -86,7 +84,6 @@ $doregex[streamer] playpath=$doregex[file] swfUrl=http://static.castalba.tv/play
 <name>file</name>
 <expres>'file': '([^']*)</expres>
 <page>http://castalba.tv/channel/15648</page>
-<referer> </referer>
 </regex>
 </link>
 <thumbnail>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQW70cx-uJo3CBjJQ-K6d0vESjwL1R10Ql-0QTUNFveGoKJyhfr</thumbnail>

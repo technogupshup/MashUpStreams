@@ -30,15 +30,7 @@
 
 <item>
 <title>ORF 2 (Link 2)</title>
-<link>http://31.204.128.190/live/orf2/playlist.m3u8?wmsAuthSign=$doregex[url]
-<regex>
-<name>url</name>
-<expres>(.*)</expres>
-<page>http://www.yourtv.to/php/getToken.php</page>
-<referer>http://www.yourtv.to/online/live/fernsehen/stream/orf2.html</referer>
-</regex>
-</item>
-</link>
+<link>rtmp://194.71.95.108:1935/live/ playpath=orf2.stream swfUrl=http://stream.live-stream.tv/player.php live=1 pageUrl=http://www.live-stream.tv/</link>
 <thumbnail>http://megatv.to/wp-content/uploads/2013/11/orf2-225x158.png</thumbnail>
 </item>
 
@@ -132,15 +124,7 @@ $doregex[url]
 
 <item>
 <title>RTL (Link 2)</title>
-<link>
-http://stream.fernsehen.to/stream/stream.m3u8?c=rtl_$doregex[enc]
-<regex>
-<name>enc</name>
-<expres>enc = '([^']*)</expres>
-<page>http://fernsehen.to/</page>
-<referer> </referer>
-</regex>
-</link>
+<link>rtmp://194.71.95.108:1935/live/ playpath=rtl.stream swfUrl=http://stream.live-stream.tv/player.php live=1 pageUrl=http://www.live-stream.tv/</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/rr/rtl_at.jpg</thumbnail>
 </item>
 
@@ -153,7 +137,6 @@ http://stream.fernsehen.to/stream/stream.m3u8?c=rtl_$doregex[enc]
 <item>
 <title>Das Erste</title>
 <link>$doregex[url]
-<thumbnail></thumbnail>
 <regex>
 <name>url</name>
 <expres>URL = "([^"]*)</expres>
@@ -180,22 +163,13 @@ $doregex[url]
 
 <item>
 <title>ATV</title>
-<link>http://31.204.128.190/live/atv/playlist.m3u8?wmsAuthSign=$doregex[url]
-<regex>
-<name>url</name>
-<expres>(.*)</expres>
-<page>http://www.yourtv.to/php/getToken.php</page>
-<referer>http://www.yourtv.to/online/live/fernsehen/stream/atv.html</referer>
-</regex>
-</item>
-</link>
+<link>rtmp://194.71.95.108:1935/live/ playpath=atv.stream swfUrl=http://stream.live-stream.tv/player.php live=1 pageUrl=http://www.live-stream.tv/</link>
 <thumbnail>http://www.tv14.net/wp-content/uploads/2010/10/ATV1.jpeg</thumbnail>
 </item>
 
 <item>
 <title>Disney Channel</title>
 <link>$doregex[url]
-<thumbnail></thumbnail>
 <regex>
 <name>url</name>
 <expres>URL = "([^"]*)</expres>
@@ -209,7 +183,6 @@ $doregex[url]
 <item>
 <title>Nick</title>
 <link>$doregex[url]
-<thumbnail></thumbnail>
 <regex>
 <name>url</name>
 <expres>URL = "([^"]*)</expres>
@@ -250,15 +223,7 @@ $doregex[url]
 
 <item>
 <title>Kabel 1</title>
-<link>http://213.163.74.10/live/kabel1/playlist.m3u8?wmsAuthSign=$doregex[url]
-<regex>
-<name>url</name>
-<expres>(.*)</expres>
-<page>http://www.yourtv.to/php/getToken.php</page>
-<referer>http://www.yourtv.to/online/live/fernsehen/stream/kabel1.html</referer>
-</regex>
-</item>
-</link>
+<link>rtmp://194.71.95.108:1935/live/ playpath=kabel1.stream swfUrl=http://stream.live-stream.tv/player.php live=1 pageUrl=http://www.live-stream.tv/</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/kk/kabel_eins.png</thumbnail>
 </item>
 
@@ -277,100 +242,38 @@ $doregex[url]
 </item>
 
 <item>
-<title>Pro 7</title>
-<link>
-http://stream.fernsehen.to/stream/stream.m3u8?c=pro7_$doregex[enc]
-<regex>
-<name>enc</name>
-<expres>enc = '([^']*)</expres>
-<page>http://fernsehen.to/</page>
-<referer> </referer>
-</regex>
-</link>
+<title>Pro7</title>
+<link>rtmp://194.71.95.108:1935/live/ playpath=pro7.stream swfUrl=http://stream.live-stream.tv/player.php live=true timeout=15 pageUrl=http://www.live-stream.tv/online/fernsehen/pro7.html#tab2-tab</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/pp/pro_sieben_ch.png</thumbnail>
 </item>
 
 <item>
-<title>Pro 7 Maxx</title>
-<link>http://31.204.128.190/pro7maxx/ard/playlist.m3u8?wmsAuthSign=$doregex[url]
-<regex>
-<name>url</name>
-<expres>(.*)</expres>
-<page>http://www.yourtv.to/php/getToken.php</page>
-<referer>http://www.yourtv.to/online/live/fernsehen/stream/pro7maxx.html</referer>
-</regex>
-</item>
-</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/pp/pro_sieben_maxx_de.png</thumbnail>
-</item>
-
-<item>
 <title>RTL 2</title>
-<link>
-http://stream.fernsehen.to/stream/stream.m3u8?c=rtl2_$doregex[enc]
-<regex>
-<name>enc</name>
-<expres>enc = '([^']*)</expres>
-<page>http://fernsehen.to/</page>
-<referer> </referer>
-</regex>
-</link>
+<link>rtmp://194.71.95.108:1935/live/ playpath=rtl2.stream swfUrl=http://stream.live-stream.tv/player.php live=1 pageUrl=http://www.live-stream.tv/</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/rr/rtl2_at.png</thumbnail>
 </item>
 
 <item>
 <title>RTL Nitro</title>
-<link>http://31.204.128.190/live/rtlnitro/playlist.m3u8?wmsAuthSign=$doregex[url]
-<regex>
-<name>url</name>
-<expres>(.*)</expres>
-<page>http://www.yourtv.to/php/getToken.php</page>
-<referer>http://www.yourtv.to/online/live/fernsehen/stream/rtlnitro.html</referer>
-</regex>
-</item>
-</link>
+<link>rtmp://194.71.95.108:1935/live/ playpath=rtlnitro.stream swfUrl=http://stream.live-stream.tv/player.php live=1 pageUrl=http://www.live-stream.tv/</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/rr/rtl_nitro_de.png</thumbnail>
 </item>
 
 <item>
 <title>Super RTL (Link 2)</title>
-<link>http://31.204.128.190/live/superrtl/playlist.m3u8?wmsAuthSign=$doregex[url]
-<regex>
-<name>url</name>
-<expres>(.*)</expres>
-<page>http://www.yourtv.to/php/getToken.php</page>
-<referer>http://www.yourtv.to/online/live/fernsehen/stream/superrtl.html</referer>
-</regex>
-</item>
-</link>
+<link>rtmp://194.71.95.108:1935/live/ playpath=superrtl.stream swfUrl=http://stream.live-stream.tv/player.php live=1 pageUrl=http://www.live-stream.tv/</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/super_rtl_at.png</thumbnail>
 </item>
 
 <item>
-<title>SRF 1</title>
-<link>http://31.204.128.190/live/sf1/playlist.m3u8?wmsAuthSign=$doregex[url]
-<regex>
-<name>url</name>
-<expres>(.*)</expres>
-<page>http://www.yourtv.to/php/getToken.php</page>
-<referer>http://www.yourtv.to/online/live/fernsehen/stream/sf1.html</referer>
-</regex>
-</item>
-</link>
+<title>SF 1</title>
+<link>rtmp://194.71.95.108:1935/live/ playpath=sf1.stream swfUrl=http://stream.live-stream.tv/player.php live=1 pageUrl=http://www.live-stream.tv/</link>
 <thumbnail>http://upload.wikimedia.org/wikipedia/en/2/27/SF_1_logo.png</thumbnail>
 </item>
 
 <item>
 <title>Sixx</title>
-<link>
-http://stream.fernsehen.to/stream/stream.m3u8?c=sixx_$doregex[enc]
-<regex>
-<name>enc</name>
-<expres>enc = '([^']*)</expres>
-<page>http://fernsehen.to/</page>
-<referer> </referer>
-</regex>
-</link>
+<link>rtmp://194.71.95.108:1935/live/ playpath=sixx.stream swfUrl=http://stream.live-stream.tv/player.php live=1 pageUrl=http://www.live-stream.tv/</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/sixx.png</thumbnail>
 </item>
 
@@ -424,28 +327,13 @@ $doregex[url]
 
 <item>
 <title>SAT1</title>
-<link>
-http://stream.fernsehen.to/stream/stream.m3u8?c=sat1_$doregex[enc]
-<regex>
-<name>enc</name>
-<expres>enc = '([^']*)</expres>
-<page>http://fernsehen.to/</page>
-<referer> </referer>
-</regex>
-</link>
+<link>rtmp://194.71.95.108:1935/live/ playpath=sat1.stream swfUrl=http://stream.live-stream.tv/player.php live=1 pageUrl=http://www.live-stream.tv/</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/sat1.jpg</thumbnail>
 </item>
 
 <item>
 <title>VOX</title>
-<link>http://213.163.74.10/live/vox/playlist.m3u8?wmsAuthSign=$doregex[url]
-<regex>
-<name>url</name>
-<expres>(.*)</expres>
-<page>http://www.yourtv.to/php/getToken.php</page>
-<referer>http://www.yourtv.to/online/live/fernsehen/stream/vox.html</referer>
-</regex>
-</link>
+<link>rtmp://194.71.95.108:1935/live/ playpath=vox.stream swfUrl=http://stream.live-stream.tv/player.php live=1 pageUrl=http://www.live-stream.tv/</link>
 <thumbnail>http://4.bp.blogspot.com/-2_2zXUYZJHs/UW02asERLiI/AAAAAAAAAJM/GkUg6mll8X8/s1600/Vox.jpg</thumbnail>
 </item>
 

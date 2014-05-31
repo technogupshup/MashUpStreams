@@ -31,7 +31,7 @@ rtmp://dittotv.live-s.cdn.bitgravity.com/ app=cdn-live/_definst_ playpath=$doreg
 <regex>
 <name>src</name>
 <expres>src="([^"]*)</expres>
-<page>http://dittotv.com/rtmp_adaptive/channels/zee-talkies.smil</page>
+<page>http://dittotv.com/rtmp_adaptive/channels/zee-marathi.smil</page>
 <referer>http://www.dittotv.com/channels/zee-marathi</referer>
 </regex>
 </link>
@@ -45,7 +45,7 @@ rtmp://dittotv.live-s.cdn.bitgravity.com/ app=cdn-live/_definst_ playpath=$doreg
 <regex>
 <name>src</name>
 <expres>src="([^"]*)</expres>
-<page>http://dittotv.com/rtmp_adaptive/channels/zee-talkies.smil</page>
+<page>http://dittotv.com/rtmp_adaptive/channels/zee-24-taas.smil</page>
 <referer>http://dittotv.com/channels/zee-24-taas</referer>
 </regex>
 </link>

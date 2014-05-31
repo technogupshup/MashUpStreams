@@ -6,8 +6,23 @@
 
 <item>
 <title>Nsport</title>
-<link>rtmp://195.154.180.99:80/live playpath=file:bysu273l swfUrl=http://www.byetv.org/jwplayer/jwplayer.flash.swf live=true timeout=15 pageUrl=http://www.byetv.org/embed.php?a=2317&id=&width=630&height=360&autostart=true&strech=</link>
+<link>
+$doregex[streamer] playpath=$doregex[file] swfUrl=http://static.castalba.tv/player5.9.swf live=true timeout=15 swfVfy=true pageUrl=http://castalba.tv/
+<regex>
+<name>streamer</name>
+<expres>'streamer': '([^']*)</expres>
+<page>http://castalba.tv/channel/22690</page>
+<referer> </referer>
+</regex>
+<regex>
+<name>file</name>
+<expres>'file': '([^']*)</expres>
+<page>http://castalba.tv/channel/22690</page>
+<referer> </referer>
+</regex>
+</link>
 <thumbnail>http://upload.wikimedia.org/wikipedia/en/0/00/NSport_logo.jpg</thumbnail>
 </item>
 
 </channel>
+

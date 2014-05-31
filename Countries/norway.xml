@@ -6,19 +6,19 @@
 
 <item>
 <title>NRK1</title>
-<link>http://195.250.60.41:9987/udp/239.100.202.29:3001</link>
+<link>http://nrk1us-f.akamaihd.net/z/nrk1us_0@102847/manifest.f4m</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/nn/nrk1.jpg</thumbnail>
 </item>
 
 <item>
 <title>NRK2</title>
-<link>http://195.250.60.41:9987/udp/239.100.202.30:3001</link>
+<link>http://nrk2us-f.akamaihd.net/z/nrk2us_0@107231/manifest.f4m</link>
 <thumbnail>http://www.tv14.net/wp-content/uploads/2010/10/NRK2.jpg</thumbnail>
 </item>
 
 <item>
 <title>NRK Super</title>
-<link>http://195.250.60.41:9987/udp/239.100.202.31:3001</link>
+<link>http://nrksuper-lh.akamaihd.net/z/nrksupertvus_0@108447/manifest.f4m</link>
 <thumbnail>http://www.speiding.no/innleggsbilder/grafikk/2009/Nyheter/April/nrksuper.png</thumbnail>
 </item>
 

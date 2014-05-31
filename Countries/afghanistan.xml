@@ -5,45 +5,33 @@
 <thumbnail></thumbnail>
 
 <item>
-<title>Tolo News HD [COLOR=FFFF0000]Channel Will Start On Second Attempt[/COLOR]</title>
+<title>Tolo News HD</title>
 <link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=3aGbAM-EgNg</link>
 <thumbnail>https://yt3.ggpht.com/-bn1yErkuAgU/AAAAAAAAAAI/AAAAAAAAAAA/M7TMGUrGVBk/s900-c-k-no/photo.jpg</thumbnail>
 </item>
 
 <item>
-<title>MBN</title>
-<link>rtmp://119.59.82.214:1935/live playpath=mp4:livestream.f4v swfUrl=http://mbn.af/swfs/StrobeMediaPlayback.swf live=true timeout=60 pageUrl=http://mbn.af/livetv.php</link>
-<thumbnail>http://mbn.af/images/logo/gif.gif</thumbnail>
-</item>
-
-<item>
 <title>Tolo</title>
-<link>http://38.117.88.77/Tolo?TICKET/path/to/media.file</link>
+<link>rtmp://146.185.18.42/zenex playpath=6tol5tv1?id=112 conn=S:OK swfUrl=http://www.zenex.tv/data/scripts/eplayer.swf pageUrl=http://www.zenex.tv/embedplayer/6tol5tv1/1/670/410</link>
 <thumbnail>http://upload.wikimedia.org/wikipedia/en/0/01/Tolo.jpg</thumbnail>
 </item>
 
 <item>
 <title>Payam E Afghan</title>
-<link>http://38.117.88.77/PayamEAfghan?TICKET/path/to/media.file</link>
+<link>http://38.117.88.76/PayamEAfghan?TICKET/path/to/media.file</link>
 <thumbnail>http://www.afghanfun.com/wp-content/uploads/2012/10/payam-afghan.png</thumbnail>
 </item>
 
 <item>
 <title>Ariana Afghanistan</title>
-<link>http://38.117.88.77/ArianaAfghan?TICKET/path/to/media.file</link>
+<link>http://38.117.88.76/ArianaAfghan?TICKET/path/to/media.file</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/aa/ariana_tv_network_international.png</thumbnail>
 </item>
 
 <item>
-<title>Ariana Europe</title>
-<link>http://38.117.88.77/ArianaTVParis?TICKET/path/to/media.file</link>
-<thumbnail>http://www.sekisat.com/data/sat_channel/images/996/logo</thumbnail>
-</item>
-
-<item>
-<title>Ariana International TV</title>
-<link>rtsp://50.97.117.4/AFG-AINT-PACIFIC</link>
-<thumbnail>http://www.afghancart.com/Tshortcut/7.jpg</thumbnail>
+<title>ATV News</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=XaN-9MJmqtw</link>
+<thumbnail>http://ariananews.af/wp-content/themes/newsworld-1.0.0/images/logo1.png</thumbnail>
 </item>
 
 <item>
@@ -53,14 +41,14 @@
 </item>
 
 <item>
-<title>Noor</title>
+<title>Noor [COLOR=FFFF0000]Noor TV has CLOSED and Has Moved to ATN News[/COLOR]</title>
 <link>http://38.117.88.77/Noor?TICKET/path/to/media.file</link>
 <thumbnail>http://www.afghansongs.com/wp-content/uploads/2012/05/noortv_logo.jpg</thumbnail>
 </item>
 
 <item>
 <title>RTA Milli</title>
-<link>http://38.117.88.77/RTA?TICKET/path/to/media.file</link>
+<link>http://38.117.88.76/RTA?TICKET/path/to/media.file</link>
 <thumbnail>http://livetv.liveafghantv.com/images/tv/tv_rta.jpg</thumbnail>
 </item>
 

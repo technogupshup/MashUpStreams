@@ -11,6 +11,48 @@
 </item>
 
 <item>
+<title>Zee Talkies</title>
+<link>
+rtmp://dittotv.live-s.cdn.bitgravity.com/ app=cdn-live/_definst_ playpath=$doregex[src] swfurl=http://dittotv.com/assets/flash/jwplayer.flash.swf live=true timeout=15 pageurl=http://dittotv.com/
+<regex>
+<name>src</name>
+<expres>src="([^"]*)</expres>
+<page>http://dittotv.com/rtmp_adaptive/channels/zee-talkies.smil</page>
+<referer>http://dittotv.com/channels/zee-talkies</referer>
+</regex>
+</link>
+<thumbnail>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRW-tkalKcWZqsMIB3Xg-_vIEpKxPH-K8X_WVKbtohciQgiVAXT</thumbnail>
+</item>
+
+<item>
+<title>Zee Marathi</title>
+<link>
+rtmp://dittotv.live-s.cdn.bitgravity.com/ app=cdn-live/_definst_ playpath=$doregex[src] swfurl=http://dittotv.com/assets/flash/jwplayer.flash.swf live=true timeout=15 pageurl=http://dittotv.com/
+<regex>
+<name>src</name>
+<expres>src="([^"]*)</expres>
+<page>http://dittotv.com/rtmp_adaptive/channels/zee-talkies.smil</page>
+<referer>http://www.dittotv.com/channels/zee-marathi</referer>
+</regex>
+</link>
+<thumbnail>http://www.televisionpost.com/wp-content/uploads/2014/05/zee-marathi-logo.png</thumbnail>
+</item>
+
+<item>
+<title>Zee 24 Taas</title>
+<link>
+rtmp://dittotv.live-s.cdn.bitgravity.com/ app=cdn-live/_definst_ playpath=$doregex[src] swfurl=http://dittotv.com/assets/flash/jwplayer.flash.swf live=true timeout=15 pageurl=http://dittotv.com/
+<regex>
+<name>src</name>
+<expres>src="([^"]*)</expres>
+<page>http://dittotv.com/rtmp_adaptive/channels/zee-talkies.smil</page>
+<referer>http://dittotv.com/channels/zee-24-taas</referer>
+</regex>
+</link>
+<thumbnail>https://yt3.ggpht.com/-2fti7jdUx94/AAAAAAAAAAI/AAAAAAAAAAA/umcW8FMfhvE/s900-c-k-no/photo.jpg</thumbnail>
+</item>
+
+<item>
 <title>Star Gold (Link 2)</title>
 <link>
 $doregex[url] pageUrl=http://www.zingo.tv/

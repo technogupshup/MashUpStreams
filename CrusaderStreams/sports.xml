@@ -61,7 +61,7 @@
 </item>
 
 <item>
-<title>Bein 9 [COLOR=FFFF0000]Updated Daily[/COLOR]  [COLOR=FF00FF00]Source 1[/COLOR]</title>
+<title>Bein 9 HD [COLOR=FFFF0000]Updated Daily[/COLOR]  [COLOR=FF00FF00]Source 1[/COLOR]</title>
 <link>
 $doregex[url] playpath=$doregex[file] swfUrl=http://cdn.watchjsc.us/jwplayer.swf pageUrl=http://www.hdcast.org/ token=Fo5_n0w?U.rA6l3-70w47ch swfVfy=true live=true timeout=15
 <regex>
@@ -101,7 +101,7 @@ $doregex[streamer] playpath=$doregex[file] swfUrl=http://static.castalba.tv/play
 </item>
 
 <item>
-<title>Bein 10  [COLOR=FFFF0000]Updated Daily[/COLOR]  [COLOR=FF00FF00]Source 1[/COLOR]</title>
+<title>Bein 10 HD [COLOR=FFFF0000]Updated Daily[/COLOR]  [COLOR=FF00FF00]Source 1[/COLOR]</title>
 <link>
 $doregex[url] playpath=$doregex[file] swfUrl=http://cdn.watchjsc.us/jwplayer.swf pageUrl=http://www.hdcast.org/ token=Fo5_n0w?U.rA6l3-70w47ch swfVfy=true live=true timeout=15
 <regex>
@@ -141,7 +141,7 @@ $doregex[streamer] playpath=$doregex[file] swfUrl=http://static.castalba.tv/play
 </item>
 
 <item>
-<title>Bein 13  [COLOR=FFFF0000]Updated Daily[/COLOR]  [COLOR=FF00FF00]Source 1[/COLOR]</title>
+<title>Bein 13 HD [COLOR=FFFF0000]Updated Daily[/COLOR]  [COLOR=FF00FF00]Source 1[/COLOR]</title>
 <link>
 $doregex[url] playpath=$doregex[file] swfUrl=http://cdn.watchjsc.us/jwplayer.swf pageUrl=http://www.hdcast.org/ token=Fo5_n0w?U.rA6l3-70w47ch swfVfy=true live=true timeout=15
 <regex>
@@ -181,7 +181,7 @@ $doregex[streamer] playpath=$doregex[file] swfUrl=http://static.castalba.tv/play
 </item>
 
 <item>
-<title>Bein 14  [COLOR=FFFF0000]Updated Daily[/COLOR]  [COLOR=FF00FF00]Source 1[/COLOR]</title>
+<title>Bein 14 HD [COLOR=FFFF0000]Updated Daily[/COLOR]  [COLOR=FF00FF00]Source 1[/COLOR]</title>
 <link>
 $doregex[url] playpath=$doregex[file] swfUrl=http://cdn.watchjsc.us/jwplayer.swf pageUrl=http://www.hdcast.org/ token=Fo5_n0w?U.rA6l3-70w47ch swfVfy=true live=true timeout=15
 <regex>
@@ -221,7 +221,7 @@ $doregex[streamer] playpath=$doregex[file] swfUrl=http://static.castalba.tv/play
 </item>
 
 <item>
-<title>Bein 15  [COLOR=FFFF0000]Updated Daily[/COLOR]  [COLOR=FF00FF00]Source 1[/COLOR]</title>
+<title>Bein 15 HD [COLOR=FFFF0000]Updated Daily[/COLOR]  [COLOR=FF00FF00]Source 1[/COLOR]</title>
 <link>
 $doregex[url] playpath=$doregex[file] swfUrl=http://cdn.watchjsc.us/jwplayer.swf pageUrl=http://www.hdcast.org/ token=Fo5_n0w?U.rA6l3-70w47ch swfVfy=true live=true timeout=15
 <regex>
@@ -261,7 +261,7 @@ $doregex[streamer] playpath=$doregex[file] swfUrl=http://static.castalba.tv/play
 </item>
 
 <item>
-<title>Bein 11 [COLOR=FFFF0000]Updated Daily[/COLOR]  [COLOR=FF00FF00]Source 1[/COLOR]</title>
+<title>Bein 11 HD [COLOR=FFFF0000]Updated Daily[/COLOR]  [COLOR=FF00FF00]Source 1[/COLOR]</title>
 <link>
 $doregex[url] playpath=$doregex[file] swfUrl=http://cdn.watchjsc.us/jwplayer.swf pageUrl=http://www.hdcast.org/ token=Fo5_n0w?U.rA6l3-70w47ch swfVfy=true live=true timeout=15
 <regex>
@@ -329,7 +329,7 @@ $doregex[streamer] playpath=$doregex[file] swfUrl=http://static.castalba.tv/play
 </item>
 
 <item>
-<title>Bein 7  [COLOR=FFFF0000]Updated Daily[/COLOR]  [COLOR=FF00FF00]Source 1[/COLOR]</title>
+<title>Bein 7 HD [COLOR=FFFF0000]Updated Daily[/COLOR]  [COLOR=FF00FF00]Source 1[/COLOR]</title>
 <link>
 $doregex[url] playpath=$doregex[file] swfUrl=http://cdn.watchjsc.us/jwplayer.swf pageUrl=http://www.hdcast.org/ token=Fo5_n0w?U.rA6l3-70w47ch swfVfy=true live=true timeout=15
 <regex>
@@ -375,7 +375,7 @@ $doregex[streamer] playpath=$doregex[file] swfUrl=http://static.castalba.tv/play
 </item>
 
 <item>
-<title>Bein 5  [COLOR=FFFF0000]Updated Daily[/COLOR]  [COLOR=FF00FF00]Source 1[/COLOR]</title>
+<title>Bein 5 HD [COLOR=FFFF0000]Updated Daily[/COLOR]  [COLOR=FF00FF00]Source 1[/COLOR]</title>
 <link>
 $doregex[url] playpath=$doregex[file] swfUrl=http://cdn.watchjsc.us/jwplayer.swf pageUrl=http://www.hdcast.org/ token=Fo5_n0w?U.rA6l3-70w47ch swfVfy=true live=true timeout=15
 <regex>
@@ -435,7 +435,7 @@ $doregex[streamer] playpath=$doregex[file] swfUrl=http://static.castalba.tv/play
 </item>
 
 <item>
-<title>Bein 6  [COLOR=FFFF0000]Updated Daily[/COLOR]  [COLOR=FF00FF00]Source 1[/COLOR]</title>
+<title>Bein 6 HD [COLOR=FFFF0000]Updated Daily[/COLOR]  [COLOR=FF00FF00]Source 1[/COLOR]</title>
 <link>
 $doregex[url] playpath=$doregex[file] swfUrl=http://cdn.watchjsc.us/jwplayer.swf pageUrl=http://www.hdcast.org/ token=Fo5_n0w?U.rA6l3-70w47ch swfVfy=true live=true timeout=15
 <regex>
@@ -481,7 +481,7 @@ $doregex[streamer] playpath=$doregex[file] swfUrl=http://static.castalba.tv/play
 </item>
 
 <item>
-<title>Bein 3  [COLOR=FFFF0000]Updated Daily[/COLOR]  [COLOR=FF00FF00]Source 1[/COLOR]</title>
+<title>Bein 3 HD [COLOR=FFFF0000]Updated Daily[/COLOR]  [COLOR=FF00FF00]Source 1[/COLOR]</title>
 <link>
 $doregex[url] playpath=$doregex[file] swfUrl=http://cdn.watchjsc.us/jwplayer.swf pageUrl=http://www.hdcast.org/ token=Fo5_n0w?U.rA6l3-70w47ch swfVfy=true live=true timeout=15
 <regex>
@@ -502,15 +502,7 @@ $doregex[url] playpath=$doregex[file] swfUrl=http://cdn.watchjsc.us/jwplayer.swf
 
 <item>
 <title>Bein 3 (Link 2) [COLOR=FFFF0000]Updated Daily[/COLOR]  [COLOR=FF00FF00]Source 4[/COLOR]</title>
-<link>
-$doregex[file] swfUrl=http://www.castok.com/jwplayer/jwplayer.flash.swf live=true timeout=15 pageUrl=http://www.castok.com/
-<regex>
-<name>file</name>
-<expres>file: "([^"]*)</expres>
-<page>http://www.castok.com/embed.php?v=drama03&vw=600&vh=450&typeplayer=0&domain=hdembed.com</page>
-<referer>http://hdembed.com/bein-sports3.php</referer>
-</regex>
-</link>
+<link>rtmpe://178.18.31.59/live playpath=bein3 swfUrl=http://www.footycast.tv/player/player.swf pageUrl=http://www.footycast.tv/ live=true swfVfy=true timeout=15</link>
 <thumbnail>http://i.imgur.com/LaMq1FJ.jpg</thumbnail>
 </item>
 
@@ -555,7 +547,7 @@ $doregex[streamer] playpath=$doregex[file] swfUrl=http://static.castalba.tv/play
 </item>
 
 <item>
-<title>Bein 2  [COLOR=FFFF0000]Updated Daily[/COLOR]  [COLOR=FF00FF00]Source 1[/COLOR]</title>
+<title>Bein 2 HD [COLOR=FFFF0000]Updated Daily[/COLOR]  [COLOR=FF00FF00]Source 1[/COLOR]</title>
 <link>
 $doregex[url] playpath=$doregex[file] swfUrl=http://cdn.watchjsc.us/jwplayer.swf pageUrl=http://www.hdcast.org/ token=Fo5_n0w?U.rA6l3-70w47ch swfVfy=true live=true timeout=15
 <regex>
@@ -582,15 +574,7 @@ $doregex[url] playpath=$doregex[file] swfUrl=http://cdn.watchjsc.us/jwplayer.swf
 
 <item>
 <title>Bein 2 (Link 3) [COLOR=FFFF0000]Updated Daily[/COLOR]  [COLOR=FF00FF00]Source 4[/COLOR]</title>
-<link>
-$doregex[file] swfUrl=http://www.castok.com/jwplayer/jwplayer.flash.swf live=true timeout=15 pageUrl=http://www.castok.com/
-<regex>
-<name>file</name>
-<expres>file: "([^"]*)</expres>
-<page>http://www.castok.com/embed.php?v=drama02&vw=600&vh=450&typeplayer=0&domain=hdembed.com</page>
-<referer>http://hdembed.com/bein-sports2.php</referer>
-</regex>
-</link>
+<link>rtmpe://178.18.31.59/live playpath=bein2 swfUrl=http://www.footycast.tv/player/player.swf pageUrl=http://www.footycast.tv/ live=true swfVfy=true timeout=15</link>
 <thumbnail>http://i.imgur.com/r3A1LIO.jpg</thumbnail>
 </item>
 
@@ -635,7 +619,7 @@ $doregex[streamer] playpath=$doregex[file] swfUrl=http://static.castalba.tv/play
 </item>
 
 <item>
-<title>Bein 4  [COLOR=FFFF0000]Updated Daily[/COLOR]  [COLOR=FF00FF00]Source 1[/COLOR]</title>
+<title>Bein 4 HD [COLOR=FFFF0000]Updated Daily[/COLOR]  [COLOR=FF00FF00]Source 1[/COLOR]</title>
 <link>
 $doregex[url] playpath=$doregex[file] swfUrl=http://cdn.watchjsc.us/jwplayer.swf pageUrl=http://www.hdcast.org/ token=Fo5_n0w?U.rA6l3-70w47ch swfVfy=true live=true timeout=15
 <regex>
@@ -656,15 +640,7 @@ $doregex[url] playpath=$doregex[file] swfUrl=http://cdn.watchjsc.us/jwplayer.swf
 
 <item>
 <title>Bein 4 (Link 2) [COLOR=FFFF0000]Updated Daily[/COLOR]  [COLOR=FF00FF00]Source 4[/COLOR]</title>
-<link>
-$doregex[file] swfUrl=http://www.castok.com/jwplayer/jwplayer.flash.swf live=true timeout=15 pageUrl=http://www.castok.com/
-<regex>
-<name>file</name>
-<expres>file: "([^"]*)</expres>
-<page>http://www.castok.com/embed.php?v=drama04&vw=600&vh=450&typeplayer=0&domain=hdembed.com</page>
-<referer>http://hdembed.com/bein-sports4.php</referer>
-</regex>
-</link>
+<link>rtmpe://178.18.31.59/live playpath=bein4 swfUrl=http://www.footycast.tv/player/player.swf pageUrl=http://www.footycast.tv/ live=true swfVfy=true timeout=15</link>
 <thumbnail>http://i.imgur.com/MCi8WTD.jpg</thumbnail>
 </item>
 
@@ -709,7 +685,7 @@ $doregex[streamer] playpath=$doregex[file] swfUrl=http://static.castalba.tv/play
 </item>
 
 <item>
-<title>Bein 8  [COLOR=FFFF0000]Updated Daily[/COLOR]  [COLOR=FF00FF00]Source 1[/COLOR]</title>
+<title>Bein 8 HD [COLOR=FFFF0000]Updated Daily[/COLOR]  [COLOR=FF00FF00]Source 1[/COLOR]</title>
 <link>
 $doregex[url] playpath=$doregex[file] swfUrl=http://cdn.watchjsc.us/jwplayer.swf pageUrl=http://www.hdcast.org/ token=Fo5_n0w?U.rA6l3-70w47ch swfVfy=true live=true timeout=15
 <regex>
@@ -736,15 +712,7 @@ $doregex[url] playpath=$doregex[file] swfUrl=http://cdn.watchjsc.us/jwplayer.swf
 
 <item>
 <title>Bein 8 (Link 3) [COLOR=FFFF0000]Updated Daily[/COLOR]  [COLOR=FF00FF00]Source 2[/COLOR]</title>
-<link>
-$doregex[streamer] token=%bZve(nKa@#Z swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.eucast.tv/
-<regex>
-<name>streamer</name>
-<expres>file: "([^"]*)</expres>
-<page>http://www.eucast.tv/embed.php?live=b8r&amp;vw=620&amp;vh=490</page>
-<referer>http://cricfree.tv/update/jsc8.php</referer>
-</regex>
-</link>
+<link>rtmpe://178.18.31.59/live playpath=bein8 swfUrl=http://www.footycast.tv/player/player.swf pageUrl=http://www.footycast.tv/ live=true swfVfy=true timeout=15</link>
 <thumbnail>http://i.imgur.com/cEpkyFy.jpg</thumbnail>
 </item>
 
@@ -769,7 +737,7 @@ $doregex[streamer] playpath=$doregex[file] swfUrl=http://static.castalba.tv/play
 </item>
 
 <item>
-<title>Bein 12 [COLOR=FFFF0000]Updated Daily[/COLOR]  [COLOR=FF00FF00]Source 1[/COLOR]</title>
+<title>Bein 12 HD [COLOR=FFFF0000]Updated Daily[/COLOR]  [COLOR=FF00FF00]Source 1[/COLOR]</title>
 <link>
 $doregex[url] playpath=$doregex[file] swfUrl=http://cdn.watchjsc.us/jwplayer.swf pageUrl=http://www.hdcast.org/ token=Fo5_n0w?U.rA6l3-70w47ch swfVfy=true live=true timeout=15
 <regex>
@@ -809,7 +777,7 @@ $doregex[streamer] playpath=$doregex[file] swfUrl=http://static.castalba.tv/play
 </item>
 
 <item>
-<title>Bein 1  [COLOR=FFFF0000]Updated Daily[/COLOR]  [COLOR=FF00FF00]Source 1[/COLOR]</title>
+<title>Bein 1 HD  [COLOR=FFFF0000]Updated Daily[/COLOR]  [COLOR=FF00FF00]Source 1[/COLOR]</title>
 <link>
 $doregex[url] playpath=$doregex[file] swfUrl=http://cdn.watchjsc.us/jwplayer.swf pageUrl=http://www.hdcast.org/ token=Fo5_n0w?U.rA6l3-70w47ch swfVfy=true live=true timeout=15
 <regex>
@@ -829,29 +797,21 @@ $doregex[url] playpath=$doregex[file] swfUrl=http://cdn.watchjsc.us/jwplayer.swf
 </item>
 
 <item>
-<title>Bein 1 (Link 2) [COLOR=FFFF0000]Updated Daily[/COLOR]  [COLOR=FF00FF00]Source 5[/COLOR]</title>
+<title>Bein 1 [COLOR=FFFF0000]Updated Daily[/COLOR]  [COLOR=FF00FF00]Source 5[/COLOR]</title>
 <link>http://202.75.23.37:8800/live/ch18/01.m3u8</link>
-<thumbnail>http://i.imgur.com/r3A1LIO.jpg</thumbnail>
+<thumbnail>http://bo7.net/images/2/_%D8%AA%D8%B1%D8%AF%D8%AF_%D9%82%D9%86%D8%A7%D8%A9_BEIN_SPORT_.png</thumbnail>
 </item>
 
 <item>
 <title>Bein 1 (Link 3) [COLOR=FFFF0000]Updated Daily[/COLOR]  [COLOR=FF00FF00]Source 4[/COLOR]</title>
-<link>
-$doregex[file] swfUrl=http://www.castok.com/jwplayer/jwplayer.flash.swf live=true timeout=15 pageUrl=http://www.castok.com/
-<regex>
-<name>file</name>
-<expres>file: "([^"]*)</expres>
-<page>http://www.castok.com/embed.php?v=drama01&vw=600&vh=450&typeplayer=0&domain=hdembed.com</page>
-<referer>http://hdembed.com/bein-sports1.php</referer>
-</regex>
-</link>
+<link>rtmpe://178.18.31.59/live playpath=bein1 swfUrl=http://www.footycast.tv/player/player.swf pageUrl=http://www.footycast.tv/ live=true swfVfy=true timeout=15</link>
 <thumbnail>http://i.imgur.com/r3A1LIO.jpg</thumbnail>
 </item>
 
 <item>
-<title>Bein 1 (Link 4) [COLOR=FFFF0000]Updated Daily[/COLOR]  [COLOR=FF00FF00]Source 3[/COLOR]</title>
+<title>Bein 1 (Link 2) [COLOR=FFFF0000]Updated Daily[/COLOR]  [COLOR=FF00FF00]Source 3[/COLOR]</title>
 <link>rtmpe://strm.ukcast.tv/redirect playpath=bein1desii swfUrl=http://ukcast.tv/player/player.swf pageUrl=http://www.ukcast.tv live=true swfVfy=true timeout=15</link>
-<thumbnail>http://i.imgur.com/r3A1LIO.jpg</thumbnail>
+<thumbnail>http://bo7.net/images/2/_%D8%AA%D8%B1%D8%AF%D8%AF_%D9%82%D9%86%D8%A7%D8%A9_BEIN_SPORT_.png</thumbnail>
 </item>
 
 <item>

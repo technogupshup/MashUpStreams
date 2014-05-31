@@ -54,7 +54,14 @@
 
 <item>
 <title>Telemundo HD</title>
-<link>rtmp://50.23.113.228/live playpath=$doregex[file] swfUrl=http://static.castalba.tv/player5.9.swf pageUrl=http://castalba.tv/channel/20639 live=true timeout=15
+<link>
+$doregex[streamer] playpath=$doregex[file] swfUrl=http://static.castalba.tv/player5.9.swf live=true timeout=15 swfVfy=true pageUrl=http://castalba.tv/
+<regex>
+<name>streamer</name>
+<expres>'streamer': '([^']*)</expres>
+<page>http://castalba.tv/channel/20639</page>
+<referer> </referer>
+</regex>
 <regex>
 <name>file</name>
 <expres>'file': '([^']*)</expres>
@@ -66,8 +73,15 @@
 </item>
 
 <item>
-<title>Univision HD</title>
-<link>rtmp://174.36.1.75/live playpath=$doregex[file] swfUrl=http://static.castalba.tv/player5.9.swf pageUrl=http://castalba.tv/channel/20639 live=true timeout=15
+<title>Univision</title>
+<link>
+$doregex[streamer] playpath=$doregex[file] swfUrl=http://static.castalba.tv/player5.9.swf live=true timeout=15 swfVfy=true pageUrl=http://castalba.tv/
+<regex>
+<name>streamer</name>
+<expres>'streamer': '([^']*)</expres>
+<page>http://castalba.tv/channel/15648</page>
+<referer> </referer>
+</regex>
 <regex>
 <name>file</name>
 <expres>'file': '([^']*)</expres>

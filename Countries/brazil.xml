@@ -37,8 +37,13 @@ f<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <item>
 <title>O Globo HD</title>
 <link>
-<sublink>rtmp://93.120.27.27:5587/ app=loadbalance playpath=bob9784 swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf live=true timeout=15 pageUrl=http://flexstream.net/embed2.php?file=bob9784&width=600&height=400</sublink>
-<sublink>rtmp://edge-55.livestreamcast.org/ app=?rtmp://live.livestreamcast.org/live/101010/ playpath=101010 swfUrl=http://livestreamcast.org/jwplayer/jwplayer.flash.swf live=true timeout=15 pageUrl=http://livestreamcast.org/embed.php?c=globosp33&vw=100%&vh=100%</sublink>
+$doregex[file] swfUrl=http://livestreamcast.org/jwplayer/jwplayer.flash.swf live=true timeout=15 pageUrl=http://livestreamcast.org/
+<regex>
+<name>file</name>
+<expres>file: '([^']*)</expres>
+<page>http://livestreamcast.org/embed_tri.php?c=tvgoooo&vw=100%&vh=100%</page>
+<referer>http://tvxat.org/globo-ao-vivo-tv-online-gratis</referer>
+</regex>
 </link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/rr/rede_globo.jpg</thumbnail>
 </item>

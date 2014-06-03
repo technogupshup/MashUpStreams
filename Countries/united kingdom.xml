@@ -7,12 +7,18 @@
 <item>
 <title>Sky Sports 1</title>
 <link>
-$doregex[streamer] token=%bZve(nKa@#Z swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf live=true timeout=15 pageUrl=http://www.eucast.tv/
+$doregex[streamer] playpath=$doregex[file] token=%ZZri(nKa@#Z swfUrl=http://www.eucast.tv/ePlayerr.swf live=true timeout=15 pageUrl=http://www.eucast.tv/
 <regex>
 <name>streamer</name>
-<expres>file: "([^"]*)</expres>
+<expres>'streamer','([^']*)</expres>
 <page>http://www.eucast.tv/embed.php?live=ss1x&vw=620&vh=490</page>
-<referer>http://cricfree.tv/update/skys1.php</referer>
+<referer>http://skysport.tv/update/skys1.php</referer>
+</regex>
+<regex>
+<name>file</name>
+<expres>'file','([^']*)</expres>
+<page>http://www.eucast.tv/embed.php?live=ss1&vw=620&vh=490</page>
+<referer>http://skysport.tv/update/skys1.php</referer>
 </regex>
 </link>
 <thumbnail>http://3.bp.blogspot.com/-b3q2g-UxZwI/UVWzFcsgA_I/AAAAAAAAFY8/nmBHsWYdLCM/s1600/sky_sports1.png</thumbnail>
@@ -21,12 +27,18 @@ $doregex[streamer] token=%bZve(nKa@#Z swfUrl=http://p.jwpcdn.com/6/8/jwplayer.fl
 <item>
 <title>Sky Sports 2</title>
 <link>
-$doregex[streamer] token=%bZve(nKa@#Z swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf live=true timeout=15 pageUrl=http://www.eucast.tv/
+$doregex[streamer] playpath=$doregex[file] token=%ZZri(nKa@#Z swfUrl=http://www.eucast.tv/ePlayerr.swf live=true timeout=15 pageUrl=http://www.eucast.tv/
 <regex>
 <name>streamer</name>
-<expres>file: "([^"]*)</expres>
+<expres>'streamer','([^']*)</expres>
 <page>http://www.eucast.tv/embed.php?live=ss2x&vw=620&vh=490</page>
-<referer>http://cricfree.tv/update/skys2.php</referer>
+<referer>http://skysport.tv/update/skys2.php</referer>
+</regex>
+<regex>
+<name>file</name>
+<expres>'file','([^']*)</expres>
+<page>http://www.eucast.tv/embed.php?live=ss2x&vw=620&vh=490</page>
+<referer>http://skysport.tv/update/skys2.php</referer>
 </regex>
 </link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ss/sky_uk_sports2.png</thumbnail>
@@ -35,12 +47,18 @@ $doregex[streamer] token=%bZve(nKa@#Z swfUrl=http://p.jwpcdn.com/6/8/jwplayer.fl
 <item>
 <title>Sky Sports 3</title>
 <link>
-$doregex[streamer] token=%bZve(nKa@#Z swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf live=true timeout=15 pageUrl=http://www.eucast.tv/
+$doregex[streamer] playpath=$doregex[file] token=%ZZri(nKa@#Z swfUrl=http://www.eucast.tv/ePlayerr.swf live=true timeout=15 pageUrl=http://www.eucast.tv/
 <regex>
 <name>streamer</name>
-<expres>file: "([^"]*)</expres>
+<expres>'streamer','([^']*)</expres>
 <page>http://www.eucast.tv/embed.php?live=ss3x&vw=620&vh=490</page>
-<referer>http://cricfree.tv/update/skys3.php</referer>
+<referer>http://skysport.tv/update/skys3.php</referer>
+</regex>
+<regex>
+<name>file</name>
+<expres>'file','([^']*)</expres>
+<page>http://www.eucast.tv/embed.php?live=ss3x&vw=620&vh=490</page>
+<referer>http://skysport.tv/update/skys3.php</referer>
 </regex>
 </link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/sky_uk_sports3.jpg</thumbnail>
@@ -49,12 +67,18 @@ $doregex[streamer] token=%bZve(nKa@#Z swfUrl=http://p.jwpcdn.com/6/8/jwplayer.fl
 <item>
 <title>Sky Sports F1</title>
 <link>
-$doregex[streamer] token=%bZve(nKa@#Z swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf live=true timeout=15 pageUrl=http://www.eucast.tv/
+$doregex[streamer] playpath=$doregex[file] token=%ZZri(nKa@#Z swfUrl=http://www.eucast.tv/ePlayerr.swf live=true timeout=15 pageUrl=http://www.eucast.tv/
 <regex>
 <name>streamer</name>
-<expres>file: "([^"]*)</expres>
+<expres>'streamer','([^']*)</expres>
 <page>http://www.eucast.tv/embed.php?live=ssf1x&vw=620&vh=490</page>
-<referer>http://cricfree.tv/update/skysf1.php</referer>
+<referer>http://skysport.tv/update/skysf1.php</referer>
+</regex>
+<regex>
+<name>file</name>
+<expres>'file','([^']*)</expres>
+<page>http://www.eucast.tv/embed.php?live=ssf1x&vw=620&vh=490</page>
+<referer>http://skysport.tv/update/skysf1.php</referer>
 </regex>
 </link>
 <thumbnail>http://www.tv-live.org.uk/wp/media/skysports/2012/023.jpg</thumbnail>
@@ -63,12 +87,18 @@ $doregex[streamer] token=%bZve(nKa@#Z swfUrl=http://p.jwpcdn.com/6/8/jwplayer.fl
 <item>
 <title>Eurosport 2</title>
 <link>
-$doregex[streamer] token=%bZve(nKa@#Z swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf live=true timeout=15 pageUrl=http://www.eucast.tv/
+$doregex[streamer] playpath=$doregex[file] token=%ZZri(nKa@#Z swfUrl=http://www.eucast.tv/ePlayerr.swf live=true timeout=15 pageUrl=http://www.eucast.tv/
 <regex>
 <name>streamer</name>
-<expres>file: "([^"]*)</expres>
+<expres>'streamer','([^']*)</expres>
 <page>http://www.eucast.tv/embed.php?live=euro2x&vw=620&vh=490</page>
-<referer>http://cricfree.tv/update/euro2.php</referer>
+<referer>http://skysport.tv/update/euro2.php</referer>
+</regex>
+<regex>
+<name>file</name>
+<expres>'file','([^']*)</expres>
+<page>http://www.eucast.tv/embed.php?live=euro2x&vw=620&vh=490</page>
+<referer>http://skysport.tv/update/euro2.php</referer>
 </regex>
 </link>
 <thumbnail>http://2.bp.blogspot.com/-I3h_uI0cILc/ULt8sd4tWxI/AAAAAAAAAg0/6F40MH-1Qmk/s1600/eurosport+2+chaine+live.jpg</thumbnail>
@@ -77,12 +107,18 @@ $doregex[streamer] token=%bZve(nKa@#Z swfUrl=http://p.jwpcdn.com/6/8/jwplayer.fl
 <item>
 <title>Eurosport 1</title>
 <link>
-$doregex[streamer] token=%bZve(nKa@#Z swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf live=true timeout=15 pageUrl=http://www.eucast.tv/
+$doregex[streamer] playpath=$doregex[file] token=%ZZri(nKa@#Z swfUrl=http://www.eucast.tv/ePlayerr.swf live=true timeout=15 pageUrl=http://www.eucast.tv/
 <regex>
 <name>streamer</name>
-<expres>file: "([^"]*)</expres>
+<expres>'streamer','([^']*)</expres>
 <page>http://www.eucast.tv/embed.php?live=euro1x&vw=620&vh=490</page>
-<referer>http://cricfree.tv/update/euro.php</referer>
+<referer>http://skysport.tv/update/euro.php</referer>
+</regex>
+<regex>
+<name>file</name>
+<expres>'file','([^']*)</expres>
+<page>http://www.eucast.tv/embed.php?live=euro1x&vw=620&vh=490</page>
+<referer>http://skysport.tv/update/euro.php</referer>
 </regex>
 </link>
 <thumbnail>http://3.bp.blogspot.com/-q691zK90t9Y/TlUbSSLiicI/AAAAAAAAAHY/zGGW_LfRuIU/s1600/EuroSport-izle.png</thumbnail>
@@ -91,12 +127,18 @@ $doregex[streamer] token=%bZve(nKa@#Z swfUrl=http://p.jwpcdn.com/6/8/jwplayer.fl
 <item>
 <title>Sky Sports 4</title>
 <link>
-$doregex[streamer] token=%bZve(nKa@#Z swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf live=true timeout=15 pageUrl=http://www.eucast.tv/
+$doregex[streamer] playpath=$doregex[file] token=%ZZri(nKa@#Z swfUrl=http://www.eucast.tv/ePlayerr.swf live=true timeout=15 pageUrl=http://www.eucast.tv/
 <regex>
 <name>streamer</name>
-<expres>file: "([^"]*)</expres>
+<expres>'streamer','([^']*)</expres>
 <page>http://www.eucast.tv/embed.php?live=ss4x&vw=620&vh=490</page>
-<referer>http://cricfree.tv/update/skys4.php</referer>
+<referer>http://skysport.tv/update/skys4.php</referer>
+</regex>
+<regex>
+<name>file</name>
+<expres>'file','([^']*)</expres>
+<page>http://www.eucast.tv/embed.php?live=ss4x&vw=620&vh=490</page>
+<referer>http://skysport.tv/update/skys4.php</referer>
 </regex>
 </link>
 <thumbnail>http://www.watchlivetvstreaming.com/wp-content/uploads/2012/02/Sky-Sport-4-TV-Watch-Online.png</thumbnail>
@@ -105,12 +147,18 @@ $doregex[streamer] token=%bZve(nKa@#Z swfUrl=http://p.jwpcdn.com/6/8/jwplayer.fl
 <item>
 <title>Sky Sports News</title>
 <link>
-$doregex[streamer] token=%bZve(nKa@#Z swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf live=true timeout=15 pageUrl=http://www.eucast.tv/
+$doregex[streamer] playpath=$doregex[file] token=%ZZri(nKa@#Z swfUrl=http://www.eucast.tv/ePlayerr.swf live=true timeout=15 pageUrl=http://www.eucast.tv/
 <regex>
 <name>streamer</name>
-<expres>file: "([^"]*)</expres>
+<expres>'streamer','([^']*)</expres>
 <page>http://www.eucast.tv/embed.php?live=ssnewsrx&vw=620&vh=490</page>
-<referer>http://cricfree.tv/update/news.php</referer>
+<referer>http://skysport.tv/update/news.php</referer>
+</regex>
+<regex>
+<name>file</name>
+<expres>'file','([^']*)</expres>
+<page>http://www.eucast.tv/embed.php?live=ssnewsrx&vw=620&vh=490</page>
+<referer>http://skysport.tv/update/news.php</referer>
 </regex>
 </link>
 <thumbnail>http://hub.tv-ark.org.uk/images/skytv/sky_images/skysportsnews/skysportsnews_open1_2003b.jpg</thumbnail>

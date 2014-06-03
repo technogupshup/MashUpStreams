@@ -11,6 +11,20 @@
 </item>
 
 <item>
+<title>B4U Music</title>
+<link>
+$doregex[file]
+<regex>
+<name>file</name>
+<expres>'file': '([^']*)</expres>
+<page>http://www.widih.in/watch-tv/2743/b4u-music-thai-server+live+tv+streaming</page>
+<referer> </referer>
+</regex>
+</link>
+<thumbnail>http://4.bp.blogspot.com/-f5hyhy6Cwyk/UU3r56AKX-I/AAAAAAAAAuU/jRqDukiKugc/s1600/B4U-Music.jpg</thumbnail>
+</item>
+
+<item>
 <title>Zee Talkies</title>
 <link>
 rtmp://dittotv.live-s.cdn.bitgravity.com/ app=cdn-live/_definst_ playpath=$doregex[src] swfurl=http://dittotv.com/assets/flash/jwplayer.flash.swf live=true timeout=15 pageurl=http://dittotv.com/

@@ -11,6 +11,12 @@
 </item>
 
 <item>
+<title>AMC</title>
+<link>http://38.117.88.154/AMC?TICKET/path/to/media.file&amp;ovpsv=2.3.1.0</link>
+<thumbnail>http://3.bp.blogspot.com/-kvdmUe4TvvY/UxRdhDbTXLI/AAAAAAAAATI/A_r5eFGCQR8/s1600/Amc+Afghan+music+Channel.jpg</thumbnail>
+</item>
+
+<item>
 <title>Tolo</title>
 <link>rtmp://146.185.18.42/zenex playpath=6tol5tv1?id=112 conn=S:OK swfUrl=http://www.zenex.tv/data/scripts/eplayer.swf pageUrl=http://www.zenex.tv/embedplayer/6tol5tv1/1/670/410</link>
 <thumbnail>http://upload.wikimedia.org/wikipedia/en/0/01/Tolo.jpg</thumbnail>

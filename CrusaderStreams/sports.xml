@@ -896,6 +896,7 @@ $doregex[url] playpath=$doregex[file] swfUrl=http://cdn.watchjsc.us/jwplayer.swf
 <link>rtmpe://strm.ukcast.tv/redirect playpath=bein1desii swfUrl=http://ukcast.tv/player/player.swf pageUrl=http://www.ukcast.tv live=true swfVfy=true timeout=15</link>
 <thumbnail>http://imediaty.com/wp-content/uploads/2013/12/bs-1-315x270.jpg</thumbnail>
 </item>
+rtmp://31.220.0.133:1935/live<playpath>b1rx <swfUrl>http://www.eucast.tv/ePlayerr.swf <pageUrl>http://www.eucast.tv/embed.php?live=b1rx&vw=620&vh=490
 
 <item>
 <title>Bein 1 (Link 4)[COLOR=FFFF0000]Updated Daily[/COLOR]  [COLOR=FF00FF00]Source 2[/COLOR]</title>
@@ -904,13 +905,13 @@ $doregex[streamer] playpath=$doregex[file] token=%ZZri(nKa@#Z swfUrl=http://www.
 <regex>
 <name>streamer</name>
 <expres>'streamer','([^']*)</expres>
-<page>http://www.eucast.tv/embed.php?live=b1r&amp;vw=620&amp;vh=490</page>
+<page>http://www.eucast.tv/embed.php?live=b1rx&amp;vw=620&amp;vh=490</page>
 <referer>http://skysport.tv/update/jsc1.php</referer>
 </regex>
 <regex>
 <name>file</name>
 <expres>file','([^']*)</expres>
-<page>http://www.eucast.tv/embed.php?live=b1r&amp;vw=620&amp;vh=490</page>
+<page>http://www.eucast.tv/embed.php?live=b1rx&amp;vw=620&amp;vh=490</page>
 <referer>http://skysport.tv/update/jsc1.php</referer>
 </regex>
 </link>

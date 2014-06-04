@@ -35,22 +35,20 @@ f<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 </item>
 
 <item>
+<title>Box Nation</title>
+<link>rtmpe://46.246.29.160:1935/redirect playpath=boxnation swfUrl=http://77231864591d8245d027-dbd663cdd4719bbeb13e13f9ee6e6f1f.r39.cf5.rackcdn.com/pl5.swf pageUrl=http://www.hdcast.org/ live=true timeout=15 token=Fo5_n0w?U.rA6l3-70w47ch</link>
+<thumbnail>http://media15.tv/img/client-boxnation1.jpg</thumbnail>
+</item>
+
+<item>
 <title>O Globo HD</title>
-<link>
-$doregex[file] swfUrl=http://livestreamcast.org/jwplayer/jwplayer.flash.swf live=true timeout=15 pageUrl=http://livestreamcast.org/
-<regex>
-<name>file</name>
-<expres>file: '([^']*)</expres>
-<page>http://livestreamcast.org/embed_tri.php?c=tvgoooo&vw=100%&vh=100%</page>
-<referer>http://tvxat.org/globo-ao-vivo-tv-online-gratis</referer>
-</regex>
-</link>
+<link>rtmp://178.162.199.161/liverepeat playpath=csp swfUrl=http://www.curtirtv.net/pla.swf live=true timeout=15 pageUrl=http://abcast.biz/assistirtv.php?file=csp&width=468&height=386</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/rr/rede_globo.jpg</thumbnail>
 </item>
 
 <item>
 <title>O Globo RJ</title>
-<link>rtmp://5.79.75.170:5587/loadbalance playpath=bob9784 swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf live=true timeout=15 pageUrl=http://flexstream.net/embed2.php?file=bob9784&width=600&height=400</link>
+<link>rtmp://178.162.199.161/liverepeat playpath=c swfUrl=http://www.curtirtv.net/playercanal.swf live=true timeout=15 pageUrl=http://abcast.biz/ary.php?file=c&width=468&height=387</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/rr/rede_globo.jpg</thumbnail>
 </item>
 

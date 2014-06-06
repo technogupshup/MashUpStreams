@@ -12,13 +12,13 @@ x <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 <item>
 <title>TVM</title>
-<link>https://live.23video.com/live/amlst:g4a0vdtn3ehd0qj7c9l4d0o655:8733521-291209fd73739a0d5956.mp4/manifest.f4m</link>
+<link>https://live.23video.com/live/amlst:i3fck04h8loth9spl82a0vjb6a:8733521-291209fd73739a0d5956.mp4/playlist.m3u8</link>
 <thumbnail>http://www.tvm.com.mt/wp-content/themes/pbs/images/logo-tvm.png</thumbnail>
 </item>
 
 <item>
 <title>TVM 2</title>
-<link>https://live.23video.com/live/amlst:kav8ulg26oh1q1i6ilij3vqutf:8733527-aeb4143013c13f2ad7cf.mp4/manifest.f4m</link>
+<link>https://live.23video.com/live/amlst:i3fck04h8loth9spl82a0vjb6a:8733521-291209fd73739a0d5956.mp4/chunklist_b928000.m3u8</link>
 <thumbnail>http://www.tvm.com.mt/wp-content/themes/pbs/images/img-live-tvm2.jpg</thumbnail>
 </item>
 

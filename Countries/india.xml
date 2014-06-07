@@ -513,6 +513,12 @@ rtmp://live.wmncdn.net/saamtv/ playpath=$doregex[video] swfUrl=http://player-eme
 </item>
 
 <item>
+<title>Mera TV</title>
+<link>http://cnbc_awaaz_hls-lh.akamaihd.net/i/cnbc_awaaz_hls_n_1@174872/index_1_av-p.m3u8?sd=10&play-only=primary&rebase=on</link>
+<thumbnail>http://2.bp.blogspot.com/-sLCWbuDmbSw/T3i7A_V9EfI/AAAAAAAAAGo/gP7kIARbMjw/s200/livecorrect.jpg</thumbnail>
+</item>
+
+<item>
 <title>ZEE SMILE</title>
 <link>rtmp://50.7.175.253:1939/base2 playpath=dd16.stream token=Vu4KaBzaxa swfUrl=http://desilivetv.net/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=true timeout=15 pageUrl=http://desilivetv.net/zee-smile/</link>
 <thumbnail>http://www.turbotv.in/wp-content/uploads/2012/11/Zee_Smile-logo.png</thumbnail>
